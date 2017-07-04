@@ -1,3 +1,21 @@
+# James Priest (h1)
+
+My log goes here
+
+## article (h2)
+
+### **Day 1** (h3)
+
+So It started out like any other day...
+
+### **Day 2** (h3)
+
+So It started out like any other day...
+
+### **Day 3** (h3)
+
+So It started out like any other day...
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/james-priest/james-priest.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
