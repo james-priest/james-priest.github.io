@@ -1,8 +1,12 @@
 # James Priest
 
+---
+
 ## Objective
 
 To find full-time and long-term employment at a large, dynamic company who's focus is cutting-edge technology and User Experience
+
+---
 
 ## Skills
 
@@ -22,14 +26,14 @@ To find full-time and long-term employment at a large, dynamic company who's foc
 | * Traditional Desktop Application Solutions | * LAMP Development |
 | * Integrated Video Solutions | * Usability, Information Architecture, Standards Design |
 
----
-
 | Languages | Web & Database | Environments / IDEs | Technologies     |
 | :-------- | :----------- | :---------      | :---
 | VB        | ASP.NET / HTML5 / CSS3     | VS 2017 / VS Code           | Front End Development
 | C#        | jQuery / Bootstrap / Web APIs  | GitHub | Database Design
 | JavaScript | Git Bash / Git CLI / TDD | Azure / VSTS    | Back End Development
 | TypeScript / ES6 | SQL / Stored Procs / Triggers  | VMs (Win/Linux) | DVCS / Git
+
+---
 
 ## Career History
 
@@ -57,17 +61,23 @@ _Technologies Used:_ **PHP/My SQL, Live Video Streaming, JavaScript APIs (Facebo
 * **J Walter Thompson** ([Shell Pationate Experts](https://www.adforum.com/agency/4333/creative-work/34468969/kurt-bush/shell "Interactive site & marketing campaign is no longer active")) – Responsible for developing an interactive Flash site to promote Shell’s Passionate Experts campaign. The project incorporated use of various ActionScript 3 libraries, streaming video, keyed green screen footage and programmatic Flash animation as well as customized H.264 video encodings.<br />
 _Technologies Used:_ **Flash, ActionScript, FMS streaming, AfterEffects, 3D Studio Max, Media Encoder, F4V H.264 encoding**
 
+---
+
 ## Online Profiles
 
 * Twitter: [https://twitter.com/james_priest1](https://twitter.com/james_priest1)
 * GitHub: [https://github.com/james-priest](https://github.com/james-priest)
 * LinkedIn: [https://www.linkedin.com/in/jamespriestdeveloper/](https://www.linkedin.com/in/jamespriestdeveloper/)
 
+---
+
 ## Certifications & Training
 
 * Degreed: [https://degreed.com/jamespriest](https://degreed.com/jamespriest)
 * Free Code Camp: [https://www.freecodecamp.com/james-priest](https://www.freecodecamp.com/james-priest)
 * 100 Days of Code Log - [https://james-priest.github.io/100-days-of-code-log/](https://james-priest.github.io/100-days-of-code-log/)
+
+---
 
 ## Sample Apps
 
