@@ -1,5 +1,10 @@
 # James Priest
 
+<p>
+    <a href="https://twitter.com/james_priest1" title="Twitter Profile"><i class="socicon-twitter"></i> Twitter</a> •
+    <a href="https://github.com/james-priest" title="GitHub Profile"><i class="socicon-github"></i> GitHub</a> •
+    <a href="https://www.linkedin.com/in/jamespriestdeveloper/" title="LinkedIn Profile"><i class="socicon-linkedin"></i> LinkedIn</a>
+</p>
 ---
 
 ## Objective
@@ -21,10 +26,10 @@ To find full-time and long-term employment at a large, dynamic company who's foc
 
 | Development Skills |   |
 | :--- | :--- |
-| * Complete .NET Web Application Development | * MS SQL & MySQL Database Design & Programming |
-| * Multi-tier Object Oriented Design | * Cross device & browser Responsive Design |
-| * Traditional Desktop Application Solutions | * LAMP Development |
-| * Integrated Video Solutions | * Usability, Information Architecture, Standards Design |
+| • Complete .NET Web Application Development | • MS SQL & MySQL Database Design & Programming |
+| • Multi-tier Object Oriented Design | • Cross device & browser Responsive Design |
+| • Traditional Desktop Application Solutions | • LAMP Development |
+| • Integrated Video Solutions | • Usability, Information Architecture, Standards Design |
 
 | Languages | Web & Database | Environments / IDEs | Technologies     |
 | :-------- | :----------- | :---------      | :---
@@ -32,6 +37,10 @@ To find full-time and long-term employment at a large, dynamic company who's foc
 | C#        | jQuery / Bootstrap / Web APIs  | GitHub | Database Design
 | JavaScript | Git Bash / Git CLI / TDD | Azure / VSTS    | Back End Development
 | TypeScript / ES6 | SQL / Stored Procs / Triggers  | VMs (Win/Linux) | DVCS / Git
+
+### Additional Skills
+
+Node, NPM, Nuget, DotNet, Jekyll, SASS, Emmet (Zen Coding), 
 
 ---
 
@@ -58,7 +67,7 @@ _Technologies Used:_ **Flex, ActionScript, PHP/MySQL, XML, HTML, CSS, Prototype,
 * **REZA Investment Group** ([rezacompanies.com](http://rezacompanies.com "Reza Companies homepage")) – Approached by REZA companies to build a custom SalesForce implementation and website frontend to automate the sales process of high-end real-estate listings. This involved extending SalesForce through custom programming and exchanging information through extensive use of web APIs.<br />
 _Technologies Used:_ **PHP/My SQL, Live Video Streaming, JavaScript APIs (Facebook, Twitter, Flickr). HTML, CSS, jQuery**
 
-* **J Walter Thompson** ([Shell Pationate Experts](https://www.adforum.com/agency/4333/creative-work/34468969/kurt-bush/shell "Interactive site & marketing campaign is no longer active")) – Responsible for developing an interactive Flash site to promote Shell’s Passionate Experts campaign. The project incorporated use of various ActionScript 3 libraries, streaming video, keyed green screen footage and programmatic Flash animation as well as customized H.264 video encodings.<br />
+* **J. Walter Thompson** ([Shell Pationate Experts](https://www.adforum.com/agency/4333/creative-work/34468969/kurt-bush/shell "Interactive site & marketing campaign is no longer active")) – Responsible for developing an interactive Flash site to promote Shell’s Passionate Experts campaign. The project incorporated use of various ActionScript 3 libraries, streaming video, keyed green screen footage and programmatic Flash animation as well as customized H.264 video encodings.<br />
 _Technologies Used:_ **Flash, ActionScript, FMS streaming, AfterEffects, 3D Studio Max, Media Encoder, F4V H.264 encoding**
 
 ---
@@ -83,9 +92,47 @@ _Technologies Used:_ **Flash, ActionScript, FMS streaming, AfterEffects, 3D Stud
 
 * JavaScript Array Methods: [http://javascript-array-methods.netlify.com/](http://javascript-array-methods.netlify.com/)
 
+---
+
+## My Story in a Timeline & Narrative
+
+<dl>
+  <dt>1994-1997 • DeVry University</dt>
+    <dd><i>- Bright-eyed and Bushy Tailed -</i></dd>
+    <dd>Schooled at DeVry University in technology, programming, and information systems. Graduated magna cum laude with a Bachelor of Computer Information Systems (BSc CIS) degree.</dd>
+  <dt>1997-1998 • Kirtland AFB</dt>
+    <dd><i>- Proving Myself / Doing Important Work -</i></dd>
+    <dd>Worked at Kirtland Air Force Base in Albuquerque, NM - Underwent FBI background check and was granted secret clearance to work on web-based collaboration applications dealing with guidance systems and other technologies relevant to our armed forces.</dd>
+  <dt>1998 - 2000 • ✨ Microsoft ✨</dt>
+    <dd><i>- The Promised Land -</i></dd>
+    <dd>Worked at Microsoft as a Release Program Manager writing web-based applications to manage the release, cataloging, scanning, QA, workflow and distribution of all corporate releases to microsoft.com's Download Center - <b>This was the most creative and engaging work experience of my life. The gold standard to which I measure all others and one I've committed myself to return to.</b></dd>
+  <dt>2000 - 2002 • Velodea</dt>
+    <dd><i>- A Suave & Sophisticated International Man of Mystery -</i></dd>
+    <dd>Worked at The Velodea Group - Became employee number seven of this dotcom startup. Here I experienced a new level of intensity for round-the-clock work at all hours and learned the definition of the term "sweat equity". I traveled frequently between the Los Angeles and Milan offices in Italy and served as the head of technology and lead developer for many corporate projects, both internal and external.
+  <dt>2002 - 2006 • devAware Technology Solutions</dt>
+    <dd><i>- Opportunities at Home -</i></dd>
+    <dd>Worked as an independent, freelance developer under my own company umbrella. This was liberating, stressful, and intensely time consuming. It made me realize I love coding, development, and technology - I don't love corporate operations, legalities, deficit finance, negotiating project costs or collections. I did learn to wear many hats though. I worked for Sony, Fox Studios and Xtreme Desktops during this time.</dd>
+  <dt>2006 - 2014 • Velodea v3</dt>
+    <dd><i>- Innocence Lost -</i></dd>
+    <dd>Returned to Velodea which had re-branded itself and was under new management. Here I flourished for a time focusing my efforts on helping lift the company out of a $200k deficit. The success of these endeavors seemed to assure the company's long-term future and had promised me an equity stake.</dd>
+    <!--
+    <dd>As visibiity into company receivables, accounting duties, and signatory authority was consolidated to one role by the CPA/Managing Director, the company began to misplace large sums of money which resulted in employees not getting paid.</dd>
+    <dd>This began a long period of  struggle and frustration during which I was witness to greed, dishonesty and corporate shenanigans on a scale unimaginable. The company eventually disolved due to management's <span style="text-decoration:line-through">embezzlement of payroll, theft of company funds, and personal use of corporate assets</span> misuse of corporate funds.</dd>
+    -->
+    <dd>A long period of hard work, sunk costs, unflagging loyalty and unending faith concluded with the unthinkable. The company was dissolved due to management's <span style="text-decoration:line-through">embezzlement of payroll, theft of company funds, personal use of corporate assets...</span> misappropriation of corporate funds. Well... At least I would be free.</dd>
+  <dt>2014 - 2016 • on sabbatical</dt>
+    <dd><i>- The Lost Years / Mission of Mercy -</i></dd>
+    <dd>Disillusioned, I took time off to re-group and re-evaluate my core values and motivations. During this time I was called upon to take care of a loved one who had just been diagnosed with an aggressive form of cancer. She was my girlfriend and her mother needed help. I took this time to fulfill a different role - I provided round-the-clock in-home hospice care until her passing. This was an experience which restored my faith in humanity and showed me the strength of the human spirit. I was honored to have been invited to be a part of this labor of love.  In the end, she was able to find meaning in her struggle and passed away peacefully surrounded by friends, family, and loved-ones just before her 38th birthday.</dd>
+  <dt>2016 - 2017</dt>
+    <dd><i>- The Prodigal Son Returns -</i></dd>
+    <dd>I re-engaged with the development community and have been coding, reading, learning, and absorbing with a passion and vengeance. I've jumped into the world of MOOCs, bootcamps, and classes by training 8-12 hours a day. I'm excited and driven by the evolutionary nature of the industry and happy to be one among many once again. I can't wait to jump back in and make my mark as part of my future employer's corporate vision!</dd>
+  <dt>2018 - </dt>
+    <dd><i>- The Unwritten Chapters -</i></dd>
+</dl>
+
 <!--
 /*
- * TODO: 
+ * TODO:
  * [] Resume link
  * [] Additional apps
 */
