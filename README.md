@@ -9,7 +9,7 @@
 
 ## Objective
 
-To find full-time and long-term employment at a large, dynamic company who's focus is cutting-edge technology and User Experience
+To find full-time, long-term employment at a large, dynamic company who's focus is cutting-edge technology and User Experience
 
 ---
 
@@ -40,7 +40,7 @@ To find full-time and long-term employment at a large, dynamic company who's foc
 
 ### Additional Skills
 
-Node, NPM, Nuget, DotNet, Jekyll, SASS, Emmet (Zen Coding), 
+Node, npm, NuGet, DotNet, Jekyll, SASS, Emmet (Zen Coding), 
 
 ---
 
@@ -94,42 +94,47 @@ _Technologies Used:_ **Flash, ActionScript, FMS streaming, AfterEffects, 3D Stud
 
 ---
 
-## My Story in a Timeline & Narrative
+## My Story
+
+Written as a timeline and narrative
 
 <dl>
   <dt>1994-1997 • DeVry University</dt>
-    <dd><i>- Bright-eyed and Bushy Tailed -</i></dd>
+    <dd style="text-align:center"><i>- Bright-eyed and Bushy Tailed -</i></dd>
     <dd>Schooled at DeVry University in technology, programming, and information systems. Graduated magna cum laude with a Bachelor of Computer Information Systems (BSc CIS) degree.</dd>
   <dt>1997-1998 • Kirtland AFB</dt>
-    <dd><i>- Proving Myself / Doing Important Work -</i></dd>
+    <dd style="text-align:center"><i>- Proving Myself -</i></dd>
     <dd>Worked at Kirtland Air Force Base in Albuquerque, NM - Underwent FBI background check and was granted secret clearance to work on web-based collaboration applications dealing with guidance systems and other technologies relevant to our armed forces.</dd>
   <dt>1998 - 2000 • ✨ Microsoft ✨</dt>
-    <dd><i>- The Promised Land -</i></dd>
+    <dd style="text-align:center"><i>- The Promised Land -</i></dd>
     <dd>Worked at Microsoft as a Release Program Manager writing web-based applications to manage the release, cataloging, scanning, QA, workflow and distribution of all corporate releases to microsoft.com's Download Center - <b>This was the most creative and engaging work experience of my life. The gold standard to which I measure all others and one I've committed myself to return to.</b></dd>
   <dt>2000 - 2002 • Velodea</dt>
-    <dd><i>- A Suave & Sophisticated International Man of Mystery -</i></dd>
-    <dd>Worked at The Velodea Group - Became employee number seven of this dotcom startup. Here I experienced a new level of intensity for round-the-clock work at all hours and learned the definition of the term "sweat equity". I traveled frequently between the Los Angeles and Milan offices in Italy and served as the head of technology and lead developer for many corporate projects, both internal and external.
+    <dd style="text-align:center"><i>- International Man of Mystery -</i></dd>
+    <dd>Left Microsoft to join The Velodea Group - Became employee number seven of this dotcom startup. Here I experienced a new level of intensity - round-the-clock work at all hours of the day or night. They called it "sweat equity". I traveled frequently between the Los Angeles and Milan offices in Italy and served as the head of technology and lead developer for many corporate projects, both internal and external.
   <dt>2002 - 2006 • devAware Technology Solutions</dt>
-    <dd><i>- Opportunities at Home -</i></dd>
-    <dd>Worked as an independent, freelance developer under my own company umbrella. This was liberating, stressful, and intensely time consuming. It made me realize I love coding, development, and technology - I don't love corporate operations, legalities, deficit finance, negotiating project costs or collections. I did learn to wear many hats though. I worked for Sony, Fox Studios and Xtreme Desktops during this time.</dd>
+    <dd style="text-align:center"><i>- Opportunities at Home -</i></dd>
+    <dd>Wanting to settle down locally, I transitioned to work as an independent, freelance developer under my own company umbrella. This was liberating, stressful, and intensely time consuming. It made me realize I love coding, development, and technology - I do not love corporate administration, legalities, deficit finance, negotiating project costs or collections. I did learn to wear many hats though. I had projects with Sony, Fox Studios and Xtreme Desktops during this time.</dd>
   <dt>2006 - 2014 • Velodea v3</dt>
-    <dd><i>- Innocence Lost -</i></dd>
+    <dd style="text-align:center"><i>- Innocence Lost -</i></dd>
     <dd>Returned to Velodea which had re-branded itself and was under new management. Here I flourished for a time focusing my efforts on helping lift the company out of a $200k deficit. The success of these endeavors seemed to assure the company's long-term future and had promised me an equity stake.</dd>
     <!--
     <dd>As visibiity into company receivables, accounting duties, and signatory authority was consolidated to one role by the CPA/Managing Director, the company began to misplace large sums of money which resulted in employees not getting paid.</dd>
     <dd>This began a long period of  struggle and frustration during which I was witness to greed, dishonesty and corporate shenanigans on a scale unimaginable. The company eventually disolved due to management's <span style="text-decoration:line-through">embezzlement of payroll, theft of company funds, and personal use of corporate assets</span> misuse of corporate funds.</dd>
     -->
-    <dd>A long period of hard work, sunk costs, unflagging loyalty and unending faith concluded with the unthinkable. The company was dissolved due to management's <span style="text-decoration:line-through">embezzlement of payroll, theft of company funds, personal use of corporate assets...</span> misappropriation of corporate funds. Well... At least I would be free.</dd>
-  <dt>2014 - 2016 • on sabbatical</dt>
-    <dd><i>- The Lost Years / Mission of Mercy -</i></dd>
-    <dd>Disillusioned, I took time off to re-group and re-evaluate my core values and motivations. During this time I was called upon to take care of a loved one who had just been diagnosed with an aggressive form of cancer. She was my girlfriend and her mother needed help. I took this time to fulfill a different role - I provided round-the-clock in-home hospice care until her passing. This was an experience which restored my faith in humanity and showed me the strength of the human spirit. I was honored to have been invited to be a part of this labor of love.  In the end, she was able to find meaning in her struggle and passed away peacefully surrounded by friends, family, and loved-ones just before her 38th birthday.</dd>
+    <dd>A long period of hard work, unflagging commitment, and faith in the future concluded with the unthinkable. The company was dissolved due to management's <span style="text-decoration:line-through">theft of company funds, embezzlement of payroll, wholesale deception of the employees and stockholders...</span> misuse of corporate funds. Well... At least I would be free.</dd>
+  <dt>2014 - 2016</dt>
+    <dd style="text-align:center"><i>- Being of Service -</i></dd>
+    <dd>Disillusioned, I took time off to re-group and re-evaluate my core values and motivations. At this time I was called upon to take care of a loved one who had been diagnosed with terminal cancer. I took this time to step into a different role - one of caregiver. I provided round-the-clock in-home hospice care until her passing.</dd>
+    <dd>This was an experience that showed me what it meant to have strength and dignity in the face of unsurmountable odds. I was honored to have been a part of this labor of love.  In the end, she was able to find meaning in her struggle and passed away peacefully surrounded by friends, family, and loved-ones. She was thirty seven years old.</dd>
   <dt>2016 - 2017</dt>
-    <dd><i>- The Prodigal Son Returns -</i></dd>
-    <dd>I re-engaged with the development community and have been coding, reading, learning, and absorbing with a passion and vengeance. I've jumped into the world of MOOCs, bootcamps, and classes by training 8-12 hours a day. I'm excited and driven by the evolutionary nature of the industry and happy to be one among many once again. I can't wait to jump back in and make my mark as part of my future employer's corporate vision!</dd>
+    <dd style="text-align:center"><i>- Full Circle -</i></dd>
+    <dd>I re-engaged with the development community and have been coding, reading, learning, and absorbing with a passion. I didn't want to take up the first job I found. I wanted to work with the latest cutting edge technologies - full-stack development, .NET Core & Azure cloud-based services.</dd>
+    <dd>So, I jumped into the world of MOOCs, bootcamps, and classes by training 8-12 hours a day. I'm still in the middle of this process and am excited to make the transition to full -time employment where I'll be one among many once again. </dd>
+  <!--
   <dt>2018 - </dt>
-    <dd><i>- The Unwritten Chapters -</i></dd>
+    <dd style="text-align:center"><i>- The Unwritten Chapters -</i></dd>
 </dl>
-
+-->
 <!--
 /*
  * TODO:
