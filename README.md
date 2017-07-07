@@ -9,7 +9,7 @@
 
 ## Objective
 
-To find full-time, long-term employment at a large, dynamic company who's focus is cutting-edge technology and User Experience
+To find long-term employment at a large, dynamic company who's focus is UX and cutting-edge technology.
 
 ---
 
@@ -116,7 +116,7 @@ Written as a timeline and narrative
     <dd>Wanting to settle down locally, I transitioned to work as an independent, freelance developer under my own company umbrella. This was liberating, stressful, and intensely time consuming. It made me realize I love coding, development, and technology - I do not love corporate administration, legalities, deficit finance, negotiating project costs or collections. I did learn to wear many hats though. I had projects with Sony, Fox Studios and Xtreme Desktops during this time.</dd>
   <dt>2006 - 2014 • Velodea (v3)</dt>
     <dd style="text-align:center"><i>- Innocence Lost -</i></dd>
-    <dd>Returned to Velodea which had re-branded itself and was under new management. Here I flourished for a time focusing my efforts on helping lift the company out of a $200k deficit. The success of these endeavors seemed to assure the company's long-term future and had promised me an equity stake.</dd>
+    <dd>Returned to Velodea which had re-branded itself and was under new management. Here I flourished for a time, focusing my efforts on helping lift the company out of a $200k deficit. The success of these endeavors seemed to assure the company's long-term future and had promised me an equity stake.</dd>
     <!--
     <dd>As visibiity into company receivables, accounting duties, and signatory authority was consolidated to one role by the CPA/Managing Director, the company began to misplace large sums of money which resulted in employees not getting paid.</dd>
     <dd>This began a long period of  struggle and frustration during which I was witness to greed, dishonesty and corporate shenanigans on a scale unimaginable. The company eventually disolved due to management's <span style="text-decoration:line-through">embezzlement of payroll, theft of company funds, and personal use of corporate assets</span> misuse of corporate funds.</dd>
@@ -125,7 +125,7 @@ Written as a timeline and narrative
   <dt>2014 - 2016 • <i>Three-year Hiatus</i></dt>
     <dd style="text-align:center"><i>- Being of Service -</i></dd>
     <dd>Disillusioned, I took time off to regroup and re-evaluate my core values. It was at this point I was called upon to take care of a loved one who had been diagnosed with terminal cancer. I stepped into a new role - one of caregiver. I provided round-the-clock, in-home hospice care until her passing.</dd>
-    <dd>This was an experience that showed me what it meant to have strength and dignity in the face of insurmountable odds. I was honored to have been a part of this labor of love.  In the end, she was able to find meaning in her struggle and passed away peacefully surrounded by friends, family, and loved-ones. She was thirty seven years old.</dd>
+    <dd>This was an experience that showed me what it meant to have strength and dignity in the face of insurmountable odds. I was honored to have been part of this labor of love.  In the end, she was able to find meaning in her struggle and passed away peacefully surrounded by friends, family, and loved-ones. She was thirty seven years old.</dd>
   <dt>2016 - 2017 • <i>Online Education & Certification</i></dt>
     <dd style="text-align:center"><i>- Full Circle -</i></dd>
     <dd>I re-engaged with the development community and have been coding, reading, learning, and absorbing with a passion. I didn't want to take up the first job I found. I wanted to work with the latest cutting edge technologies which meant retraining... I needed to know full-stack development, .NET Core & Azure cloud-based services.</dd>
