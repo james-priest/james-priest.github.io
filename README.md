@@ -33,7 +33,7 @@ To find long-term employment at a large, dynamic company who's focus is UX and c
 
 | Languages | Web & Database | Environments / IDEs | Technologies     |
 | :-------- | :----------- | :---------      | :---
-| VB        | ASP.NET / HTML5 / CSS3     | VS 2017 / VS Code           | Front End Development
+| VB        | ASP.NET Core / HTML5 / CSS3     | VS 2017 / VS Code           | Front End Development
 | C#        | jQuery / Bootstrap / Web APIs  | GitHub | Database Design
 | JavaScript | Git Bash / Git CLI / TDD | Azure / VSTS    | Back End Development
 | TypeScript / ES6 | SQL / Stored Procs / Triggers  | VMs (Win/Linux) | DVCS / Git
@@ -99,22 +99,22 @@ _Technologies Used:_ **Flash, ActionScript, FMS streaming, AfterEffects, 3D Stud
 Written as a timeline and narrative
 
 <dl>
-  <dt>1994-1997 • DeVry University</dt>
+  <dt>1994-1997 • DeVry University • Pomona, CA</dt>
     <dd style="text-align:center"><i>- Bright-eyed and Bushy Tailed -</i></dd>
     <dd>Schooled at DeVry University in technology, programming, and information systems. Graduated magna cum laude with a Bachelor of Computer Information Systems (BSc CIS) degree.</dd>
-  <dt>1997-1998 • Kirtland AFB</dt>
+  <dt>1997-1998 • Kirtland AFB • Albuquerque, NM</dt>
     <dd style="text-align:center"><i>- Proving Myself -</i></dd>
     <dd>Worked at Kirtland Air Force Base in Albuquerque, NM - Underwent FBI background check and was granted secret clearance to work on web-based collaboration applications dealing with guidance systems and other technologies relevant to our armed forces.</dd>
-  <dt>1998 - 2000 • ✨ Microsoft ✨</dt>
+  <dt>1998 - 2000 • ✨ Microsoft ✨ • Redmond, WA</dt>
     <dd style="text-align:center"><i>- The Promised Land -</i></dd>
     <dd>Worked at Microsoft as a Release Program Manager writing web-based applications to manage the release, cataloging, scanning, QA, workflow and distribution of all corporate releases to microsoft.com's Download Center - <b>This was the most creative and engaging work experience of my life. The gold standard to which I measure all others and one I've committed myself to return to.</b></dd>
-  <dt>2000 - 2002 • Velodea</dt>
+  <dt>2000 - 2002 • Velodea • Milan, Italy</dt>
     <dd style="text-align:center"><i>- International Man of Mystery -</i></dd>
     <dd>Left Microsoft to join The Velodea Group - Became employee number seven of this dotcom startup. Here I experienced a new level of intensity - round-the-clock work at all hours of the day or night. They called it "sweat equity". I traveled frequently between the Los Angeles and Milan offices in Italy and served as the head of technology and lead developer for many corporate projects, both internal and external.
-  <dt>2002 - 2006 • devAware Technology Solutions</dt>
+  <dt>2002 - 2006 • devAware Technology Solutions • Los Angeles, CA</dt>
     <dd style="text-align:center"><i>- Opportunities at Home -</i></dd>
     <dd>Wanting to settle down locally, I transitioned to work as an independent, freelance developer under my own company umbrella. This was liberating, stressful, and intensely time consuming. It made me realize I love coding, development, and technology - I do not love corporate administration, legalities, deficit finance, negotiating project costs or collections. I did learn to wear many hats though. I had projects with Sony, Fox Studios and Xtreme Desktops during this time.</dd>
-  <dt>2006 - 2014 • Velodea (v3)</dt>
+  <dt>2006 - 2014 • Velodea (v3) • Pasadena, CA</dt>
     <dd style="text-align:center"><i>- Innocence Lost -</i></dd>
     <dd>Returned to Velodea which had re-branded itself and was under new management. Here I flourished for a time, focusing my efforts on helping lift the company out of a $200k deficit. The success of these endeavors seemed to assure the company's long-term future and had promised me an equity stake.</dd>
     <!--
@@ -122,11 +122,11 @@ Written as a timeline and narrative
     <dd>This began a long period of  struggle and frustration during which I was witness to greed, dishonesty and corporate shenanigans on a scale unimaginable. The company eventually disolved due to management's <span style="text-decoration:line-through">embezzlement of payroll, theft of company funds, and personal use of corporate assets</span> misuse of corporate funds.</dd>
     -->
     <dd>A long period of hard work, unflagging commitment, and faith in the future concluded with the unthinkable. The company was dissolved due to management's <span style="text-decoration:line-through">theft of company funds, embezzlement of payroll, wholesale deception of the employees and stockholders...</span> misuse of corporate funds. Well... At least I would be free.</dd>
-  <dt>2014 - 2016 • <i>Three-year Hiatus</i></dt>
+  <dt>2014 - 2016 • <i>Three-year Hiatus</i> • Los Angeles, CA</dt>
     <dd style="text-align:center"><i>- Being of Service -</i></dd>
     <dd>Disillusioned, I took time off to regroup and re-evaluate my core values. It was at this point I was called upon to take care of a loved one who had been diagnosed with terminal cancer. I stepped into a new role - one of caregiver. I provided round-the-clock, in-home hospice care until her passing.</dd>
     <dd>This was an experience that showed me what it meant to have strength and dignity in the face of insurmountable odds. I was honored to have been part of this labor of love.  In the end, she was able to find meaning in her struggle and passed away peacefully surrounded by friends, family, and loved-ones. She was thirty seven years old.</dd>
-  <dt>2016 - 2017 • <i>Online Education & Certification</i></dt>
+  <dt>2016 - 2017 • <i>Online Education & Certification</i> • Los Angeles, CA</dt>
     <dd style="text-align:center"><i>- Full Circle -</i></dd>
     <dd>I re-engaged with the development community and have been coding, reading, learning, and absorbing with a passion. I didn't want to take up the first job I found. I wanted to work with the latest cutting edge technologies which meant retraining... I needed to know full-stack development, .NET Core & Azure cloud-based services.</dd>
     <dd>So, I jumped into the world of MOOCs, bootcamps, and classes by training 8-12 hours a day. I'm still in the middle of this process and am excited to make the transition to full-time employment where I'll be able to make my mark and be one among many once again.</dd>
