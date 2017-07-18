@@ -26,21 +26,21 @@ To find long-term employment at a large, dynamic company who's focus is UX and c
 
 | Development Skills |   |
 | :--- | :--- |
-| • Complete .NET Web Application Development | • MS SQL & MySQL Database Design & Programming |
-| • Multi-tier Object Oriented Design | • Cross device & browser Responsive Design |
+| • Complete .NET Web Application Development | • SQL Server & MySQL Database Design & Programming |
+| • Multi-tier Object Oriented Design | • Cross-device & Cross-browser Responsive Design |
 | • Traditional Desktop Application Solutions | • LAMP Development |
 | • Integrated Video Solutions | • Usability, Information Architecture, Standards Design |
 
-| Languages | Web & Database | Environments / IDEs | Technologies     |
+| Languages | Web & Database | Environments / IDEs | Stack Technologies     |
 | :-------- | :----------- | :---------      | :---
-| VB        | ASP.NET Core / HTML5 / CSS3     | VS 2017 / VS Code           | Front End Development
-| C#        | jQuery / Bootstrap / Web APIs  | GitHub | Database Design
-| JavaScript | Git Bash / Git CLI / TDD | Azure / VSTS    | Back End Development
-| TypeScript / ES6 | SQL / Stored Procs / Triggers  | VMs (Win/Linux) | DVCS / Git
+| C#        | .NET Framework / ASP.NET Core     | VS 2017 / VS Code           | Front End Development
+| JavaScript| jQuery / Bootstrap / Web APIs  | GitHub | Back End Development
+| HTML5 / CSS3  | Git Bash / Git CLI / TDD (QUnit) | VS Team Services    | Database Design
+| VB        | SQL / Stored Procs / Triggers  | VMs (Win/Ubuntu) | Azure Cloud Services
 
 ### Additional Skills
 
-Node, npm, NuGet, DotNet, Jekyll, SASS, Emmet (Zen Coding), 
+Node, npm, NuGet, DotNet, Jekyll, Sass, Emmet (Zen Coding)
 
 ---
 
@@ -50,7 +50,7 @@ Node, npm, NuGet, DotNet, Jekyll, SASS, Emmet (Zen Coding),
 | :--- | ---: |
 | Technology Director & Development Lead | Pasadena, California |
 
-Serving as technology lead and .NET expert for a digital marketing agency, I’ve had the opportunity to shape and develop hundreds of website solutions utilizing a wide variety of platforms, technologies and programming languages. Notable projects include:
+Serving as technology lead and .NET expert for a digital marketing agency, I’ve had the opportunity to shape and develop hundreds of website solution and marketing campaigns utilizing a wide variety of platforms, technologies and programming languages. Notable projects include:
 
 * **Beechcraft Corporation** ([beechcraft.com](http://www.beechcraft.com/special_missions/ "Special Missions page")) – As a direct extension of Beechcraft IT, duties included web application development, database design and content management. Responsible for building and maintaining entire Beechcraft corporate website as well as many applications to support the Sales and Marketing process.<br />
 _Technologies Used:_ **ASP.NET, VB.NET, C#, database design, SQL Server, stored procs, Bootstrap, HTML, CSS, jQuery**
@@ -71,6 +71,90 @@ _Technologies Used:_ **PHP/My SQL, Live Video Streaming, JavaScript APIs (Facebo
 _Technologies Used:_ **Flash, ActionScript, FMS streaming, AfterEffects, 3D Studio Max, Media Encoder, F4V H.264 encoding**
 
 ---
+
+| **devAware Technology Solutions** | July 2002 - March 2006 |
+| :--- | ---: |
+| Founder & Lead Developer | La Canada, California |
+
+devAware specialized in .NET & Windows DNA application development for the web and desktop. As founder and lead developer, my role was that of information architect, systems designer & application developer. Some notable projects include:
+
+* **Sony VIAO Kiosk** - Contracted to create a custom installation for all Sony VIAO display models at Best Buy, Circuit City, Good Guys and Fry’s Electronics stores. The system locked down the OS through registry and group policy modifications while still allowing customer interaction with the desktop and Sony apps. Usage statistics were logged, uploaded and accessed through secure login.<br />
+_Technologies Used:_ **ASP.NET, ADO.NET, VB.NET, Win32, VB COM objects, SQL Server, IIS, Windows registry customization**
+
+* **Xtreme Desktops Applications** - Engaged to develop an application framework for a series of Flash-based desktop experiences. Components consisted of .NET HTTP server applications to gather usage statistics for upload to a centralized analytics server. Responsible for custom built Analytics system and test environment utilizing IIS with ASP.NET and SQL Server. Lab consisted of Win 2000, ME, XP Home, XP Pro, Win 2000 server & 2003 server for complete unit and regression testing of each version of the desktop application. Over 50 branded applications were created and posted for distribution. Each desktop application was part of a marketing campaign to promote the following major motion picture & television series:
+
+  |  |  |  |
+  | :--- | :--- | :--- |
+  | • X-Men – The Last Stand | • The Fast and the Furious | • Fantastic 4 |
+  | • The Family Guy | • Alien: Director Cut | • National Treasure |
+  | • Alexander | • 24 _Season 1-3_ | • X2 – _X-Men United_
+  _Technologies Used:_ **VB.NET, ADO.NET, VB COM objects, InstallShield scripting, IIS, SQL Server, testing lab methodologies**
+
+---
+
+| **The Velodea Group / Bleu22 Studios** | July 2000 - July 2002 |
+| :--- | ---: |
+| Director of Corporate IT & Lead Developer | Milan, Italy / Los Angeles, California |
+
+As lead developer and director of The Velodea Group’s Velotek division, job responsibilities spanned an array of IT related areas including web application development, systems architecture and network infrastructure. Velotek’s primary role consists of developing web-based product offerings and creating technical solutions for clients.<br />
+_Technologies Used:_ **ASP, JavaScript, HTML, CSS, SQL, VB, COM, XML development; DevOps for Windows Server, Exchange Server & SQL Server platforms & networks**
+
+---
+
+| **Microsoft Corporation** | November 1998 – June 2000 |
+| :--- | ---: |
+| Release Program Manager | Redmond, Washington |
+
+As a key member of Microsoft’s Product Release team, responsibilities included application development, system design and project management for release of Microsoft product to the marketplace.  Projects driven and developed by myself included:
+
+* **Release To Web System (RTW)** - This suite of applications was the primary release mechanism for product delivery to Microsoft.com worldwide.  The system boasted an average of 1000 releases per month and tracked workflow, sign-off, QA, and virus scan. All released bits were vaulted to a centralized repository within the Software Release Labs.  The application was designed entirely from the ground up to fulfill Microsoft’s need to release product in less than 3 hours.
+
+* **PIRS University** - Product Information Release Services (PIRS) University was an online training center that provided company-wide services and computer-based training related to product release.  This site provided some of the following capabilities: automated content publication for non-technical business process owners, hierarchical management of heterogeneous data and online training registration for course offerings.  This site provided centralized management for what was previously a fragmented information base.
+
+* **Media Shipment Tracking System (ShipInfo)** - The ShipInfo system gathered and tracked all software media shipments made to Microsoft’s third-party manufacturers.  This allowed manufacturing facilities to plan production cycles as well as track the progress of any shipment.  The system consisted of multiple SQL Server databases in each of Microsoft’s regions of operation.  These databases received shipment information through a web-based front end from each of the release labs. The data was then warehoused three times daily to coincide with the close of business at Microsoft’s American, European and Asian operating centers.  The warehoused data was then made available through the corporate extranet to vendors and manufacturers.
+
+These systems were developed according to multi-tier design architecture standards and were built using **HTML, ASP, Visual Basic, JavaScript, VBScript, CSS, and SQL stored procedures**. Where possible, **MTS COM objects** were created for re-usability and programming practices followed a component-based object model.  Additional responsibilities as Release Program Manager ranged from systems analysis to solution implementation and included such things as **application prototyping, database implementation, user-interface design** and **technical, functional & user documentation**.
+
+---
+
+| **Phillips Research Laboratory** | September 1997 – October 1998 |
+| :--- | ---: |
+| Web Application Developer | Albuquerque, New Mexico |
+
+Hired as Lead Intranet Developer for the U.S. Air Force’s Phillips Research Lab at Kirtland Air Force Base.  Job functions involved design and implementation of all **web-based client/server applications** as well as **systems analysis, database programming and graphic design**. Technologies used included **ASP, SQL, Java** and **ActiveX development**. Also responsible for **NT, IIS, and SQL Server administration and configuration**.
+
+---
+
+| **Intel Corporation** | June 1997 – September 1997 |
+| :--- | ---: |
+| Web Application Developer | Rio Rancho, New Mexico |
+
+Contracted to design and develop a web-based reporting system responsible for generating statistical information for Intel University. Utilized **ASP, SQL, and custom developed ActiveX DLLs**. The system was implemented worldwide upon its completion.
+
+---
+
+| **Talbert Medical Management Corporation** | January 1997 – June 1997 |
+| :--- | ---: |
+| Systems Analyst / Programmer | Costa Mesa, California |
+
+As a member of the IS department, responsibilities included systems analysis and application development in the support of Talbert’s various management systems. Utilized **MS Access, VBA, Visio, and Word** to facilitate documentation.
+
+---
+
+| **Friendly Computer Networks** | May 1996 – January 1997 |
+| :--- | ---: |
+| Systems Designer / Network Administrator | Rancho Cucamonga, California |
+
+Designed, implemented, and maintained Microsoft and Novel networks for various business clients.  Responsibilities included hardware, software and network services.  Provided cost-effective solutions, installations and support of Microsoft products.
+
+---
+
+| **DeVry Institute of Technology** | July 1995 - May 1996 |
+| :--- | ---: |
+| Helpdesk, Network & Technical Support | Pomona, California |
+
+Founding member of DeVry’s Helpdesk facility.  Lead six-member team responsible for 300+ Novell workstations connected to 11 NetWare servers, 3 UNIX servers, and 2 NT servers.  Provided network administration, upgrade/repair and user support.
+
 
 ## Online Profiles
 
@@ -101,7 +185,7 @@ Written as a timeline and narrative
 <dl>
   <dt>1994-1997 • DeVry University • Pomona, CA</dt>
     <dd style="text-align:center"><i>- Bright-eyed and Bushy Tailed -</i></dd>
-    <dd>Schooled at DeVry University in technology, programming, and information systems. Graduated magna cum laude with a Bachelor of Computer Information Systems (BSc CIS) degree.</dd>
+    <dd>Schooled at DeVry University in technology, programming, and information systems. Graduated <i>cum laude</i> with a Bachelor of Computer Information Systems (BSc CIS) degree.</dd>
   <dt>1997-1998 • Kirtland AFB • Albuquerque, NM</dt>
     <dd style="text-align:center"><i>- Proving Myself -</i></dd>
     <dd>Worked at Kirtland Air Force Base in Albuquerque, NM - Underwent FBI background check and was granted secret clearance to work on web-based collaboration applications dealing with guidance systems and other technologies relevant to our armed forces.</dd>
@@ -121,15 +205,15 @@ Written as a timeline and narrative
     <dd>As visibiity into company receivables, accounting duties, and signatory authority was consolidated to one role by the CPA/Managing Director, the company began to misplace large sums of money which resulted in employees not getting paid.</dd>
     <dd>This began a long period of  struggle and frustration during which I was witness to greed, dishonesty and corporate shenanigans on a scale unimaginable. The company eventually disolved due to management's <span style="text-decoration:line-through">embezzlement of payroll, theft of company funds, and personal use of corporate assets</span> misuse of corporate funds.</dd>
     -->
-    <dd>A long period of hard work, unflagging commitment, and faith in the future concluded with the unthinkable. The company was dissolved due to management's <span style="text-decoration:line-through">theft of company funds, embezzlement of payroll, wholesale deception of the employees and stockholders...</span> misuse of corporate funds. Well... At least I would be free.</dd>
+    <dd>A long period of hard work, unflagging commitment, and faith in the company's future concluded with the unthinkable. The company was dissolved due to management's <span style="text-decoration:line-through">theft of company funds, embezzlement of payroll, wholesale deception of the employees and stockholders...</span> misuse of corporate funds. Well... At least I would be free to pursue work with a company whose values I shared.</dd>
   <dt>2014 - 2016 • <i>Three-year Hiatus</i> • Los Angeles, CA</dt>
     <dd style="text-align:center"><i>- Being of Service -</i></dd>
-    <dd>Disillusioned, I took time off to regroup and re-evaluate my core values. It was at this point I was called upon to take care of a loved one who had been diagnosed with terminal cancer. I stepped into a new role - one of caregiver. I provided round-the-clock, in-home hospice care until her passing.</dd>
-    <dd>This was an experience that showed me what it meant to have strength and dignity in the face of insurmountable odds. I was honored to have been part of this labor of love.  In the end, she was able to find meaning in her struggle and passed away peacefully surrounded by friends, family, and loved-ones. She was thirty seven years old.</dd>
-  <dt>2016 - 2017 • <i>Online Education & Certification</i> • Los Angeles, CA</dt>
+    <dd>Disillusioned, I took time off to regroup and re-evaluate my core values. It was at this point I was called upon to take care of a loved one who had been diagnosed with terminal cancer. I stepped into a new role - one of caregiver. I provided in-home hospice care until her passing.</dd>
+    <dd>This experience showed me what it meant to have strength and dignity in the face of the inevitable. I was honored to have been part of this labor of love.  In the end, she was able to find meaning in her struggle and passed away peacefully surrounded by friends, family, and loved-ones. She was thirty seven years old.</dd>
+  <dt>2016 - 2017 • <i>Education, Certification & Training, Oh My!</i> • Los Angeles, CA</dt>
     <dd style="text-align:center"><i>- Full Circle -</i></dd>
-    <dd>I re-engaged with the development community and have been coding, reading, learning, and absorbing with a passion. I didn't want to take up the first job I found. I wanted to work with the latest cutting edge technologies which meant retraining... I needed to know full-stack development, .NET Core & Azure cloud-based services.</dd>
-    <dd>So, I jumped into the world of MOOCs, bootcamps, and classes by training 8-12 hours a day. I'm still in the middle of this process and am excited to make the transition to full-time employment where I'll be able to make my mark and be one among many once again.</dd>
+    <dd>I re-engaged with the development community and have been coding, reading, learning, and absorbing with a passion. I didn't want to take up the first job I found. I wanted to work with current and up-and-coming technologies which meant retraining... I needed to know today's full-stack development, .NET Core & Azure cloud-based services.</dd>
+    <dd>So, I jumped into the world of MOOCs, bootcamps, and classes by training 8-12 hours a day, five to six days per week. I'm still in the middle of this process and am excited to make the transition to full-time employee where I'll be able to reengage with a team, contribute to the whole, and be one among many once again.</dd>
   <!--
   <dt>2018 - </dt>
     <dd style="text-align:center"><i>- The Unwritten Chapters -</i></dd>
