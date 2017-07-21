@@ -64,7 +64,7 @@ To find long-term employment at a large, dynamic company who's focus is UX and c
 
 | Additional Skills |
 | :-- |
-| Node.js, npm, NuGet, DotNet, Jekyll, Sass, Emmet (Zen Coding) |
+| Node.js, npm, NuGet, DotNet, Jekyll, Sass, Emmet (Zen Coding), Linting & Style Guides (JSLint, JSHint, ESLint, AirBnB) |
 
 **[⬆ table of contents](#table-of-contents "toc")**
 
