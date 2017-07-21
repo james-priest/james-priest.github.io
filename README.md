@@ -1,14 +1,4 @@
-# James Priest
-
-<p>
-    <a href="https://twitter.com/james_priest1" title="Twitter Profile"><i class="socicon-twitter"></i> Twitter</a> •
-    <a href="https://github.com/james-priest" title="GitHub Profile"><i class="socicon-github"></i> GitHub</a> •
-    <a href="https://www.linkedin.com/in/jamespriestdeveloper/" title="LinkedIn Profile"><i class="socicon-linkedin"></i> LinkedIn</a>
-</p>
-
----
-
-### Table of Contents
+## Table of Contents
 
 1. [Objective](#objective "toc")
 1. [Skills](#skills "toc")
@@ -28,6 +18,16 @@
 1. [Additional Links](#additional-links "toc")
 1. [Sample Apps](#sample-apps "toc")
 1. [My Story](#my-story "toc")
+
+---
+
+# James Priest
+
+<p>
+    <a href="https://twitter.com/james_priest1" title="Twitter Profile"><i class="socicon-twitter"></i> Twitter</a> •
+    <a href="https://github.com/james-priest" title="GitHub Profile"><i class="socicon-github"></i> GitHub</a> •
+    <a href="https://www.linkedin.com/in/jamespriestdeveloper/" title="LinkedIn Profile"><i class="socicon-linkedin"></i> LinkedIn</a>
+</p>
 
 ---
 
@@ -66,6 +66,8 @@ To find long-term employment at a large, dynamic company who's focus is UX and c
 | :-- |
 | Node.js, npm, NuGet, DotNet, Jekyll, Sass, Emmet (Zen Coding) |
 
+**[⬆ table of contents](#table-of-contents "toc")**
+
 ---
 
 ## Career History
@@ -96,7 +98,7 @@ _Technologies Used:_ **PHP/My SQL, Live Video Streaming, JavaScript APIs (Facebo
 * **J. Walter Thompson** ([Shell Pationate Experts](https://www.adforum.com/agency/4333/creative-work/34468969/kurt-bush/shell "Interactive site & marketing campaign is no longer active")) – Responsible for developing an interactive Flash site to promote Shell’s Passionate Experts campaign. The project incorporated use of various ActionScript 3 libraries, streaming video, keyed green screen footage and programmatic Flash animation as well as customized H.264 video encodings.<br />
 _Technologies Used:_ **Flash, ActionScript, FMS streaming, AfterEffects, 3D Studio Max, Media Encoder, F4V H.264 encoding**
 
-**[⬆ back to top](#table-of-contents "toc")**
+**[⬆ table of contents](#table-of-contents "toc")**
 
 ---
 
@@ -121,7 +123,7 @@ _Technologies Used:_ **ASP.NET, ADO.NET, VB.NET, Win32, VB COM objects, SQL Serv
 
   _Technologies Used:_ **VB.NET, ADO.NET, VB COM objects, InstallShield scripting, IIS, SQL Server, testing lab methodologies**
 
-**[⬆ back to top](#table-of-contents "toc")**
+**[⬆ table of contents](#table-of-contents "toc")**
 
 ---
 
@@ -135,7 +137,7 @@ As lead developer and director of The Velodea Group’s Velotek division, job re
 
 _Technologies Used:_ **ASP, JavaScript, HTML, CSS, SQL, VB, COM, XML development; DevOps for Windows Server, Exchange Server & SQL Server platforms & networks**
 
-**[⬆ back to top](#table-of-contents "toc")**
+**[⬆ table of contents](#table-of-contents "toc")**
 
 ---
 
@@ -155,7 +157,7 @@ As a key member of Microsoft’s Product Release team, responsibilities included
 
 Each system was developed according to multi-tier design architecture standards and were built using **HTML, ASP, Visual Basic, JavaScript, VBScript, CSS, and SQL stored procedures**. Where possible, **MTS COM objects** were created for re-usability and programming practices followed a component-based object model.  Additional responsibilities as Release Program Manager ranged from systems analysis to solution implementation and included such things as **application prototyping, database implementation, user-interface design** and **technical, functional & user documentation**.
 
-**[⬆ back to top](#table-of-contents "toc")**
+**[⬆ table of contents](#table-of-contents "toc")**
 
 ---
 
@@ -167,7 +169,7 @@ Each system was developed according to multi-tier design architecture standards 
 
 Hired as Lead Intranet Developer for the U.S. Air Force’s Phillips Research Lab at Kirtland Air Force Base.  Job functions involved design and implementation of all **web-based client/server applications** as well as **systems analysis, database programming and graphic design**. Technologies used included **ASP, SQL, Java** and **ActiveX development**. Also responsible for **NT, IIS, and SQL Server administration and configuration**.
 
-**[⬆ back to top](#table-of-contents "toc")**
+**[⬆ table of contents](#table-of-contents "toc")**
 
 ---
 
@@ -179,7 +181,7 @@ Hired as Lead Intranet Developer for the U.S. Air Force’s Phillips Research La
 
 Contracted to design and develop a web-based reporting system responsible for generating statistical information for Intel University. Utilized **ASP, SQL, and custom developed ActiveX DLLs**. The system was implemented worldwide upon its completion.
 
-**[⬆ back to top](#table-of-contents "toc")**
+**[⬆ table of contents](#table-of-contents "toc")**
 
 ---
 
@@ -191,7 +193,7 @@ Contracted to design and develop a web-based reporting system responsible for ge
 
 As a member of the IS department, responsibilities included systems analysis and application development in the support of Talbert’s various management systems. Utilized **MS Access, VBA, Visio, and Word** to facilitate documentation.
 
-**[⬆ back to top](#table-of-contents "toc")**
+**[⬆ table of contents](#table-of-contents "toc")**
 
 ---
 
@@ -203,7 +205,7 @@ As a member of the IS department, responsibilities included systems analysis and
 
 Designed, implemented, and maintained Microsoft and Novel networks for various business clients.  Responsibilities included hardware, software and network services.  Provided cost-effective solutions, installations and support of Microsoft products.
 
-**[⬆ back to top](#table-of-contents "toc")**
+**[⬆ table of contents](#table-of-contents "toc")**
 
 ---
 
@@ -215,7 +217,7 @@ Designed, implemented, and maintained Microsoft and Novel networks for various b
 
 Founding member of DeVry’s Helpdesk facility.  Lead six-member team responsible for 300+ Novell workstations connected to 11 NetWare servers, 3 UNIX servers, and 2 NT servers.  Provided network administration, upgrade/repair and user support.
 
-**[⬆ back to top](#table-of-contents "toc")**
+**[⬆ table of contents](#table-of-contents "toc")**
 
 ---
 
@@ -225,6 +227,8 @@ Bachelor of Science in Computer Information Systems<br />
 DeVry Institute of Technology Pomona, California<br />
 Graduation with Honors<br />
 GPA 3.52/4.00
+
+**[⬆ table of contents](#table-of-contents "toc")**
 
 ---
 
@@ -265,6 +269,8 @@ GPA 3.52/4.00
 | VB & Internet Advisor DevCon 98 | February 1998 | Advisor Publications |
 | Java 1.1 Programming Certification | December 1997 | The Waite Group |
 
+**[⬆ table of contents](#table-of-contents "toc")**
+
 ---
 
 ## Social Media
@@ -272,6 +278,8 @@ GPA 3.52/4.00
 * Twitter: [https://twitter.com/james_priest1](https://twitter.com/james_priest1)
 * GitHub: [https://github.com/james-priest](https://github.com/james-priest)
 * LinkedIn: [https://www.linkedin.com/in/jamespriestdeveloper/](https://www.linkedin.com/in/jamespriestdeveloper/)
+
+**[⬆ table of contents](#table-of-contents "toc")**
 
 ---
 
@@ -284,11 +292,15 @@ GPA 3.52/4.00
 * **100 Days of Code Log** - [https://james-priest.github.io/100-days-of-code-log/](https://james-priest.github.io/100-days-of-code-log/)<br />
     A daily & weekly log related to various programming endeavors. This catalogues tasks, challenges, and work samples related to web development.
 
+**[⬆ table of contents](#table-of-contents "toc")**
+
 ---
 
 ## Sample Apps
 
 * JavaScript Array Methods: [http://javascript-array-methods.netlify.com/](http://javascript-array-methods.netlify.com/)
+
+**[⬆ table of contents](#table-of-contents "toc")**
 
 ---
 
@@ -308,7 +320,7 @@ Written as a timeline and narrative
     <dd>Worked at Microsoft as a Release Program Manager writing web-based applications to manage the release, cataloging, scanning, QA, workflow and distribution of all corporate releases to microsoft.com's Download Center - <b>This was the most creative and engaging work experience of my life. The gold standard to which I measure all others and one I've committed myself to return to.</b></dd>
   <dt>2000 - 2002 • Velodea • Milan, Italy</dt>
     <dd style="text-align:left"><i>- International Man of Mystery -</i></dd>
-    <dd>Left Microsoft to join The Velodea Group - Became employee number seven of this dotcom startup. Here I experienced a new level of intensity and round-the-clock work that we justified as necessary "sweat equity". I traveled frequently between the Los Angeles and Milan offices and served as the head of technology and lead developer for many corporate projects, both internal and external.
+    <dd>Left Microsoft to join The Velodea Group - Became employee number seven of this dotcom startup. Here I experienced a new level of intensity and round-the-clock work that we justified as necessary "sweat equity". I traveled frequently between the Los Angeles and Milan offices and served as the head of technology and lead developer for many corporate projects, both internal and external.</dd>
   <dt>2002 - 2006 • devAware Technology Solutions • Los Angeles, CA</dt>
     <dd style="text-align:left"><i>- Opportunities at Home -</i></dd>
     <dd>Wanting to settle down locally, I transitioned to work as an independent freelance developer under my own company umbrella. This was liberating, stressful, and intensely time consuming. It made me realize I love coding, development, and technology - I do not love corporate administration, legalities, deficit finance, negotiating project costs or collections. I did learn to wear many hats though. I had projects with Sony, Fox Studios and Xtreme Desktops during this time.</dd>
@@ -329,11 +341,10 @@ Written as a timeline and narrative
     <dd style="text-align:left"><i>- Full Circle -</i></dd>
     <dd>I re-engaged with the development community and have been coding, reading, learning, and absorbing with a passion. I didn't want to just throw myself into the job market without first thoroughly mastering some of today's current and most in-demand web dev technologies. I had many paths to choose from but decided to settle on technologies I knew and loved. <strong>I focused my efforts on full-stack development, .NET Core & Azure cloud-based services.</strong></dd>
     <dd>So, I jumped into the world of MOOCs, bootcamps, and classes by training 8-12 hours a day, five to six days per week. I'm still in the middle of this process and am excited to make the transition to full-time employee where I'll be able to reengage with a team, contribute to the whole, and be one among many once again.</dd>
-  <!--
-  <dt>2018 - </dt>
-    <dd style="text-align:left"><i>- The Unwritten Chapters -</i></dd>
 </dl>
--->
+
+**[⬆ table of contents](#table-of-contents "toc")**
+
 <!--
 /*
  * TODO:
