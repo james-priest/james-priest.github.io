@@ -286,11 +286,11 @@ GPA 3.52/4.00
 ## Additional Links
 
 * **Degreed:** [https://degreed.com/jamespriest](https://degreed.com/jamespriest)<br/>
-    This site keeps a running list of all formal schooling, online courses and programming certifications I have completed.
+    A catalogued list of all formal schooling, online courses, and programming certifications I have completed.
 * **Free Code Camp:** [https://www.freecodecamp.com/james-priest](https://www.freecodecamp.com/james-priest)<br/>
-    Online programs focused on Front End, Back End and Data Visualization training and certification.
+    Online program focused on Front End, Back End and Data Visualization training and certification.
 * **100 Days of Code Log** - [https://james-priest.github.io/100-days-of-code-log/](https://james-priest.github.io/100-days-of-code-log/)<br />
-    A daily & weekly log related to various programming endeavors. This catalogues tasks, challenges, and work samples related to web development.
+    This is my code log of tasks, challenges, and work samples related to web development.
 
 **[⬆ table of contents](#table-of-contents "toc")**
 
