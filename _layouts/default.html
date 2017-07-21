@@ -71,6 +71,16 @@
         ga('send', 'pageview');
     </script>
     {% endif %}
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $("[title*='toc']").on("click", null, function(event) {
+                var position = $($(this).attr("href")).offset().top - 190;
+                $("html, body").animate({scrollTop: position}, 400);
+                event.preventDefault();
+            });
+            // $("[title*='toc']").css("color", "green");
+        });
+    </script>
 </body>
 
 </html>

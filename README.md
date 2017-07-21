@@ -7,22 +7,29 @@
 </p>
 
 ---
-<!--
-## Table of Contents
 
-1. [Objective](#objective)
-1. [Skills](#skills)
-1. [Career History](#career-history)
-    1. [Velodea](#career--velodea)
-    1. [devaware Technology Solutions](#career--devaware-technology-solutions)
-    1. [The Velodea Group](#career--the-velodea-group)
-    1. [Microsoft](#career--microsoft-corporation)
-    1. [Phillips Research Laboratory](#career--phillips-research-laboratory)
-    1. [Intel Corporation](#intel-corporation)
-    1. [Talbert Medical Management Corporation](#career--talbert-medical-management-corporation)
-    1. [Friendly Computer Networks](#career--friendly-computer-networks)
-    1. [DeVry Institue of Technology](#devry-institute)
--->
+### Table of Contents
+
+1. [Objective](#objective "toc")
+1. [Skills](#skills "toc")
+1. [Career History](#career-history "toc")
+    1. [Velodea](#career--velodea "toc")
+    1. [devaware Technology Solutions](#career--devaware-technology-solutions "toc")
+    1. [The Velodea Group](#career--the-velodea-group "toc")
+    1. [Microsoft](#career--microsoft-corporation "toc")
+    1. [Phillips Research Laboratory](#career--phillips-research-laboratory "toc")
+    1. [Intel Corporation](#career--intel-corporation "toc")
+    1. [Talbert Medical Management Corporation](#career--talbert-medical-management-corporation "toc")
+    1. [Friendly Computer Networks](#career--friendly-computer-networks "toc")
+    1. [DeVry Institute of Technology](#career--devry-institute "toc")
+1. [Education](#education "toc")
+1. [Certifications & Training](#certifications--training "toc")
+1. [Social Media](#social-media "toc")
+1. [Additional Links](#additional-links "toc")
+1. [Sample Apps](#sample-apps "toc")
+1. [My Story](#my-story "toc")
+
+---
 
 ## Objective
 
@@ -55,17 +62,17 @@ To find long-term employment at a large, dynamic company who's focus is UX and c
 | HTML5 / CSS3  | Git Bash / Git CLI / TDD (QUnit) | VS Team Services    | Database Design
 | VB        | SQL / Stored Procs / Triggers  | VMs (Win/Ubuntu) | Azure Cloud Services
 
-### Additional Skills
-
-Node, npm, NuGet, DotNet, Jekyll, Sass, Emmet (Zen Coding)
+| Additional Skills |
+| :-- |
+| Node.js, npm, NuGet, DotNet, Jekyll, Sass, Emmet (Zen Coding) |
 
 ---
 
 ## Career History
 
-<a name="career--velodea"></a><a name="Velodea"></a>
+<a name="career--velodea" id="career--velodea"></a>
 
-| **Velodea** | April 2006 - June 2014 |
+| Velodea | April 2006 - June 2014 |
 | :--- | ---: |
 | Technology Director & Development Lead | Pasadena, California |
 
@@ -89,11 +96,11 @@ _Technologies Used:_ **PHP/My SQL, Live Video Streaming, JavaScript APIs (Facebo
 * **J. Walter Thompson** ([Shell Pationate Experts](https://www.adforum.com/agency/4333/creative-work/34468969/kurt-bush/shell "Interactive site & marketing campaign is no longer active")) – Responsible for developing an interactive Flash site to promote Shell’s Passionate Experts campaign. The project incorporated use of various ActionScript 3 libraries, streaming video, keyed green screen footage and programmatic Flash animation as well as customized H.264 video encodings.<br />
 _Technologies Used:_ **Flash, ActionScript, FMS streaming, AfterEffects, 3D Studio Max, Media Encoder, F4V H.264 encoding**
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ back to top](#table-of-contents "toc")**
 
 ---
 
-<a name="career--devaware-technology-solutions"></a><a name="devAware Technology Solutions"></a>
+<a name="career--devaware-technology-solutions" id="career--devaware-technology-solutions"></a>
 
 | **devAware Technology Solutions** | July 2002 - March 2006 |
 | :--- | ---: |
@@ -114,11 +121,11 @@ _Technologies Used:_ **ASP.NET, ADO.NET, VB.NET, Win32, VB COM objects, SQL Serv
 
   _Technologies Used:_ **VB.NET, ADO.NET, VB COM objects, InstallShield scripting, IIS, SQL Server, testing lab methodologies**
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ back to top](#table-of-contents "toc")**
 
 ---
 
-<a name="career--the-velodea-group"></a><a name="The Velodea Group"></a>
+<a name="career--the-velodea-group" id="career--the-velodea-group"></a>
 
 | **The Velodea Group** | July 2000 - July 2002 |
 | :--- | ---: |
@@ -128,11 +135,11 @@ As lead developer and director of The Velodea Group’s Velotek division, job re
 
 _Technologies Used:_ **ASP, JavaScript, HTML, CSS, SQL, VB, COM, XML development; DevOps for Windows Server, Exchange Server & SQL Server platforms & networks**
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ back to top](#table-of-contents "toc")**
 
 ---
 
-<a name="career--microsoft-corporation"></a><a name="Microsoft Corporation"></a>
+<a name="career--microsoft-corporation" id="career--microsoft-corporation"></a>
 
 | **Microsoft Corporation** | November 1998 – June 2000 |
 | :--- | ---: |
@@ -148,11 +155,11 @@ As a key member of Microsoft’s Product Release team, responsibilities included
 
 Each system was developed according to multi-tier design architecture standards and were built using **HTML, ASP, Visual Basic, JavaScript, VBScript, CSS, and SQL stored procedures**. Where possible, **MTS COM objects** were created for re-usability and programming practices followed a component-based object model.  Additional responsibilities as Release Program Manager ranged from systems analysis to solution implementation and included such things as **application prototyping, database implementation, user-interface design** and **technical, functional & user documentation**.
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ back to top](#table-of-contents "toc")**
 
 ---
 
-<a name="career--phillips-research-laboratory"></a><a name="Phillips Research Laboratory"></a>
+<a name="career--phillips-research-laboratory" id="career--phillips-research-laboratory"></a>
 
 | **Phillips Research Laboratory** | September 1997 – October 1998 |
 | :--- | ---: |
@@ -160,11 +167,11 @@ Each system was developed according to multi-tier design architecture standards 
 
 Hired as Lead Intranet Developer for the U.S. Air Force’s Phillips Research Lab at Kirtland Air Force Base.  Job functions involved design and implementation of all **web-based client/server applications** as well as **systems analysis, database programming and graphic design**. Technologies used included **ASP, SQL, Java** and **ActiveX development**. Also responsible for **NT, IIS, and SQL Server administration and configuration**.
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ back to top](#table-of-contents "toc")**
 
 ---
 
-<a name="career--intel-corporation"></a><a name="Intel Corporation"></a>
+<a name="career--intel-corporation" id="career--intel-corporation"></a>
 
 | **Intel Corporation** | June 1997 – September 1997 |
 | :--- | ---: |
@@ -172,11 +179,11 @@ Hired as Lead Intranet Developer for the U.S. Air Force’s Phillips Research La
 
 Contracted to design and develop a web-based reporting system responsible for generating statistical information for Intel University. Utilized **ASP, SQL, and custom developed ActiveX DLLs**. The system was implemented worldwide upon its completion.
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ back to top](#table-of-contents "toc")**
 
 ---
 
-<a name="career--talbert-medical-management-corporation"></a><a name="Talbert Medical Management Corporation"></a>
+<a name="career--talbert-medical-management-corporation"></a>
 
 | **Talbert Medical Management Corporation** | January 1997 – June 1997 |
 | :--- | ---: |
@@ -184,11 +191,11 @@ Contracted to design and develop a web-based reporting system responsible for ge
 
 As a member of the IS department, responsibilities included systems analysis and application development in the support of Talbert’s various management systems. Utilized **MS Access, VBA, Visio, and Word** to facilitate documentation.
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ back to top](#table-of-contents "toc")**
 
 ---
 
-<a name="career--friendly-computer-networks"></a><a name="Friendly Computer Networks"></a>
+<a name="career--friendly-computer-networks" id="career--friendly-computer-networks"></a>
 
 | **Friendly Computer Networks** | May 1996 – January 1997 |
 | :--- | ---: |
@@ -196,11 +203,11 @@ As a member of the IS department, responsibilities included systems analysis and
 
 Designed, implemented, and maintained Microsoft and Novel networks for various business clients.  Responsibilities included hardware, software and network services.  Provided cost-effective solutions, installations and support of Microsoft products.
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ back to top](#table-of-contents "toc")**
 
 ---
 
-<a name="career--devry-institute"></a><a name="DeVry Institute of Technology"></a>
+<a name="career--devry-institute" id="career--devry-institute"></a>
 
 | **DeVry Institute of Technology** | July 1995 - May 1996 |
 | :--- | ---: |
@@ -208,7 +215,55 @@ Designed, implemented, and maintained Microsoft and Novel networks for various b
 
 Founding member of DeVry’s Helpdesk facility.  Lead six-member team responsible for 300+ Novell workstations connected to 11 NetWare servers, 3 UNIX servers, and 2 NT servers.  Provided network administration, upgrade/repair and user support.
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ back to top](#table-of-contents "toc")**
+
+---
+
+## Education
+
+Bachelor of Science in Computer Information Systems<br />
+DeVry Institute of Technology Pomona, California<br />
+Graduation with Honors<br />
+GPA 3.52/4.00
+
+---
+
+## Certifications &amp; Training
+
+| Course    | Completed   | Provider Credential  |
+| :---      | ---         | --:       |
+| JavaScript Fundamentals | June 2014 | Microsoft Virtual Academy |
+| Developing in HTML5, JavaScript, and CSS | February 2014 | Microsoft Virtual Academy |
+| Developing ASP.NET MVC 4 Web Application | February 2014 | Microsoft Virtual Academy |
+| Programming in C# Jump Start | January 2014 | Microsoft Virtual Academy |
+| C# Fundamentals | January 2014 | Microsoft Virtual Academy |
+| Database Fundamentals | January 2014 | Microsoft Virtual Academy |
+| Visual Studio 2010 Essential Training | January 2014 | Lynda.com |
+| C# Essential Training | January 2014 | Lynda.com |
+| Software Development Fundamentals | January 2014 | Microsoft Virtual Academy |
+| What's New In Windows 8.1 for IT Pro's | December 2013 | Microsoft Virtual Academy |
+| HTML5 & CSS3 Fundamentals | December 2013 | Microsoft Virtual Academy |
+| Flash CS4 Professional Essential Training | October 2009 | Lynda.com |
+| ActionScript 3 in Flash CS3 Essential Training | September 2008 | Lynda.com |
+| Flex 3 Essential Training | May 2008 | Lynda.com |
+| ActionScript 3 in Flex Builder Essential Training | January 2008 | Lynda.com |
+| Flex 2 Essential Training | November 2007 | Lynda.com |
+| CSS Website Design | July 2007 | Lynda.com |
+| HTML Essential Training | July 2007 | Lynda.com |
+| ASP.NET | July 2003 | App Dev Certification |
+| VB.NET | January 2003 | App Dev Certification |
+| E Commerce Apps through Advanced XML | April 2000 | Architag University |
+| Macromedia Flash 4.0 | March 2000 | Microsoft Corp. |
+| SQL Server 7.0 DB Implementation | January 2000 | Microsoft Corp. |
+| Visual Basic 5.0 Certification | December 1999 | The Waite Group |
+| Building 3-tier XML Architectures | August 1999 | The Waite Group |
+| VB Data Access | May 1999 | Microsoft Corp. |
+| VB Programming | April 1999 | Microsoft Corp. |
+| XML, An Overview | February 1999 | Architag University |
+| Advanced HTML Authoring | December 1998 | Microsoft Corp. |
+| Oracle Developer 2000 Reports 3.0 | May 1998 | Oracle Training |
+| VB & Internet Advisor DevCon 98 | February 1998 | Advisor Publications |
+| Java 1.1 Programming Certification | December 1997 | The Waite Group |
 
 ---
 
@@ -219,28 +274,14 @@ Founding member of DeVry’s Helpdesk facility.  Lead six-member team responsibl
 * LinkedIn: [https://www.linkedin.com/in/jamespriestdeveloper/](https://www.linkedin.com/in/jamespriestdeveloper/)
 
 ---
-<!--
-## Education
 
-Bachelor of Science in Computer Information Systems
-DeVry Institute of Technology Pomona, California
-Graduation with Honors
-GPA 3.52/4.00
+## Additional Links
 
-| Course    | Completed   | Provider  |
-| :---      | -:-         | --:       |
-| Java 1.1 Programming Certification | December 1997 | The Waite Group |
-
----
--->
-
-## Certifications & Training
-
-* Degreed: [https://degreed.com/jamespriest](https://degreed.com/jamespriest)<br/>
-    Here I have a running list of all formal schooling, online courses and programming certifications I have completed.
-* Free Code Camp: [https://www.freecodecamp.com/james-priest](https://www.freecodecamp.com/james-priest)<br/>
-    Online certification program focused on Front End, Back End and Data Visualization technologies.
-* 100 Days of Code Log - [https://james-priest.github.io/100-days-of-code-log/](https://james-priest.github.io/100-days-of-code-log/)<br />
+* **Degreed:** [https://degreed.com/jamespriest](https://degreed.com/jamespriest)<br/>
+    This site keeps a running list of all formal schooling, online courses and programming certifications I have completed.
+* **Free Code Camp:** [https://www.freecodecamp.com/james-priest](https://www.freecodecamp.com/james-priest)<br/>
+    Online programs focused on Front End, Back End and Data Visualization training and certification.
+* **100 Days of Code Log** - [https://james-priest.github.io/100-days-of-code-log/](https://james-priest.github.io/100-days-of-code-log/)<br />
     A daily & weekly log related to various programming endeavors. This catalogues tasks, challenges, and work samples related to web development.
 
 ---
@@ -267,7 +308,7 @@ Written as a timeline and narrative
     <dd>Worked at Microsoft as a Release Program Manager writing web-based applications to manage the release, cataloging, scanning, QA, workflow and distribution of all corporate releases to microsoft.com's Download Center - <b>This was the most creative and engaging work experience of my life. The gold standard to which I measure all others and one I've committed myself to return to.</b></dd>
   <dt>2000 - 2002 • Velodea • Milan, Italy</dt>
     <dd style="text-align:left"><i>- International Man of Mystery -</i></dd>
-    <dd>Left Microsoft to join The Velodea Group - Became employee number seven of this dotcom startup. Here I experienced a new level of intensity - round-the-clock work that we justified as necessary "sweat equity". I traveled frequently between the Los Angeles and Milan offices and served as the head of technology and lead developer for many corporate projects, both internal and external.
+    <dd>Left Microsoft to join The Velodea Group - Became employee number seven of this dotcom startup. Here I experienced a new level of intensity and round-the-clock work that we justified as necessary "sweat equity". I traveled frequently between the Los Angeles and Milan offices and served as the head of technology and lead developer for many corporate projects, both internal and external.
   <dt>2002 - 2006 • devAware Technology Solutions • Los Angeles, CA</dt>
     <dd style="text-align:left"><i>- Opportunities at Home -</i></dd>
     <dd>Wanting to settle down locally, I transitioned to work as an independent freelance developer under my own company umbrella. This was liberating, stressful, and intensely time consuming. It made me realize I love coding, development, and technology - I do not love corporate administration, legalities, deficit finance, negotiating project costs or collections. I did learn to wear many hats though. I had projects with Sony, Fox Studios and Xtreme Desktops during this time.</dd>
@@ -282,11 +323,11 @@ Written as a timeline and narrative
   <dt>2014 - 2016 • <i>Three-year Hiatus</i> • Los Angeles, CA</dt>
     <dd style="text-align:left"><i>- Being of Service -</i></dd>
     <dd>Needing a recharge, I took time off to re-evaluate what I wanted my focus and position to be in the the industry. <strong>I knew I wanted to work with a large company and that my passion for code meant I wanted to be part of a development team whose members are as excited about the work as I am. I had clarity.</strong></dd>
-    <dd>It was at this point I was called to move in a completely different direction. I was asked to care for a loved one who had been diagnosed with terminal cancer. As I stepped into a new role, one of caregiver, I provided in-home care until her passing.</dd>
+    <dd>It was at this point I was called to move in a completely different direction. I was asked to care for a loved one who had been diagnosed with terminal cancer. I stepped into the role of caregiver and provided in-home care until her passing.</dd>
     <dd><i>This experience showed me what it meant to have strength and dignity in the face of the inevitable. I was honored to have been part of this labor of love and in the end, was moved to see that she was able to find meaning in her struggle. She passed away peacefully surrounded by friends, family, and loved-ones. She was thirty seven years old.</i></dd>
   <dt>2016 - 2017 • <i>Education, Certification & Training, Oh My!</i> • Los Angeles, CA</dt>
     <dd style="text-align:left"><i>- Full Circle -</i></dd>
-    <dd>I re-engaged with the development community and have been coding, reading, learning, and absorbing with a passion. I didn't want to just throw myself into the job market without first thoroughly mastering some of today's current and most in-demand web dev technologies. I had many paths to choose from but decided to settle on technologies I kew and loved. <strong>I focused my efforts on full-stack development, .NET Core & Azure cloud-based services.</strong></dd>
+    <dd>I re-engaged with the development community and have been coding, reading, learning, and absorbing with a passion. I didn't want to just throw myself into the job market without first thoroughly mastering some of today's current and most in-demand web dev technologies. I had many paths to choose from but decided to settle on technologies I knew and loved. <strong>I focused my efforts on full-stack development, .NET Core & Azure cloud-based services.</strong></dd>
     <dd>So, I jumped into the world of MOOCs, bootcamps, and classes by training 8-12 hours a day, five to six days per week. I'm still in the middle of this process and am excited to make the transition to full-time employee where I'll be able to reengage with a team, contribute to the whole, and be one among many once again.</dd>
   <!--
   <dt>2018 - </dt>
