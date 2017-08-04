@@ -70,7 +70,7 @@ To find long-term employment at a large, dynamic company who's focus is UX and c
 | :-- |
 | Node.js, npm, NuGet, DotNet, Jekyll, Sass, Emmet (Zen Coding), Linting & Style Guides (JSLint, JSHint, ESLint, Flow, AirBnB) |
 
-**[⬆ table of contents](#table-of-contents "toc")**
+**[⬆ table of contents](#james-priest "toc")**
 
 ---
 
@@ -82,7 +82,7 @@ To find long-term employment at a large, dynamic company who's focus is UX and c
 | :--- | ---: |
 | Technology Director & Development Lead | Pasadena, California |
 
-Serving as technology lead and .NET expert for a digital marketing agency, I’ve had the opportunity to develop and contribute to hundreds of website solutions and digital marketing campaigns utilizing a wide variety of platforms, technologies and programming languages. Notable projects include:
+Serving as technology lead and .NET expert for a digital marketing agency, I’ve had the opportunity to work on hundreds of website solutions ranging from small digital marketing campaigns to large-scale web application systems utilizing a wide variety of platforms, technologies and languages. Notable projects include:
 
 * **Beechcraft Corporation** ([beechcraft.com](http://www.beechcraft.com/special_missions/ "Special Missions page")) – As a direct extension of Beechcraft IT, duties included web application development, database design and content management. Responsible for building and maintaining entire Beechcraft corporate website as well as many applications to support the Sales and Marketing process.<br />
 _Technologies Used:_ **ASP.NET, VB.NET, C#, database design, SQL Server, stored procs, Bootstrap, HTML, CSS, jQuery**
@@ -93,7 +93,7 @@ _Technologies Used:_ **Linux/Apache, PHP/MySQL, HTML, CSS, jQuery, stored proced
 * **Shell Eco-marathon Live Event** ([shell.com/eco-marathon](http://www.shell.com/energy-and-innovation/shell-ecomarathon/about.html "Eco-marathon about page")) – The project involved the creation of a social & streaming media website to serve as a hub for coverage of Shell’s multi-national Eco-marathon event. The site provided twitter feeds, event video, on-line polls, and contest standings. The event was streamed live through our CDN utilizing real-time encoding.<br />
 _Technologies Used:_ **PHP/My SQL, Live Video Streaming, JavaScript APIs (Facebook, Twitter, Flickr). HTML, CSS, jQuery**
 
-* **Favorite Top 10** ([favoritetop10.com](# "No longer maintained")) – This “proof-of-concept” Social Media application was built for use on Facebook as well as 70 other social media and blog sites. The widget was developed using Flex, PHP and MySQL.  XML over HTTP was used for the communication layer. The website also employs various JavaScript libraries for rich UI capability.<br />
+* **Favorite Top 10** (retired) – This “proof-of-concept” Social Media application was built for use on Facebook as well as 70 other social media and blog sites. The widget was developed using Flex, PHP and MySQL.  XML over HTTP was used for the communication layer. The website also employs various JavaScript libraries for rich UI capability.<br />
 _Technologies Used:_ **Flex, ActionScript, PHP/MySQL, XML, HTML, CSS, Prototype, Scriptaculous**
 
 * **REZA Investment Group** ([rezacompanies.com](http://rezacompanies.com "Reza Companies homepage")) – Approached by REZA companies to build a custom SalesForce implementation and website frontend to automate the sales process of high-end real-estate listings. This involved extending SalesForce through custom programming and exchanging information through extensive use of web APIs.<br />
@@ -102,7 +102,10 @@ _Technologies Used:_ **PHP/My SQL, Live Video Streaming, JavaScript APIs (Facebo
 * **J. Walter Thompson** ([Shell Pationate Experts](https://www.adforum.com/agency/4333/creative-work/34468969/kurt-bush/shell "Interactive site & marketing campaign is no longer active")) – Responsible for developing an interactive Flash site to promote Shell’s Passionate Experts campaign. The project incorporated use of various ActionScript 3 libraries, streaming video, keyed green screen footage and programmatic Flash animation as well as customized H.264 video encodings.<br />
 _Technologies Used:_ **Flash, ActionScript, FMS streaming, AfterEffects, 3D Studio Max, Media Encoder, F4V H.264 encoding**
 
-**[⬆ table of contents](#table-of-contents "toc")**
+* **ABC Studios Live Stream** - ABC Studios engaged Velodea to design and build a streaming media system that would allow executives and other stakeholders the ability to tap into camera feeds at each remote soundstage location to view filming of various shows in real-time. The system developed was a custom combination of hardware and software encoders that could transcode to both Windows Media and Flash Media video which could be accessed through a secured website.<br />
+_Technologies Used:_ **ASP.NET, C#, Flash, ActionScript, FMS & WMS streaming, Flash Live & Windows Media Encoders, F4V & WMV format encoding**
+
+**[⬆ table of contents](#james-priest "toc")**
 
 ---
 
@@ -117,7 +120,7 @@ devAware specialized in .NET & Windows DNA application development for the web a
 * **Sony VIAO Kiosk** - Contracted to create a custom installation for all Sony VIAO display models at Best Buy, Circuit City, Good Guys and Fry’s Electronics stores. The system locked down the OS through registry and group policy modifications while still allowing customer interaction with the desktop and Sony apps. Usage statistics were logged, uploaded and accessed through secure login.<br />
 _Technologies Used:_ **ASP.NET, ADO.NET, VB.NET, Win32, VB COM objects, SQL Server, IIS, Windows registry customization**
 
-* **Xtreme Desktops Applications** - Engaged to develop an application framework for a series of Flash-based desktop experiences. Components consisted of .NET HTTP server applications to gather usage statistics for upload to a centralized analytics server. Responsible for custom built Analytics system and test environment utilizing IIS with ASP.NET and SQL Server. Lab consisted of Win 2000, ME, XP Home, XP Pro, Win 2000 server & 2003 server for complete unit and regression testing of each version of the desktop application. Over 50 branded applications were created and posted for distribution. Each desktop application was part of a marketing campaign to promote the following major motion picture & television series:
+* **Xtreme Desktops Applications** - Engaged to develop an application framework for a series of Flash-based desktop experiences. Components consisted of **.NET HTTP server** applications to gather usage statistics for upload to a centralized analytics server. Responsible for custom built Analytics system and test environment utilizing **IIS** with **ASP.NET** and **SQL Server**. Lab consisted of **Win 2000, ME, XP Home, XP Pro, Win 2000 server & 2003 server** for complete unit and regression testing of each version of the desktop application. Over 50 branded applications were created and posted for distribution. Each desktop application was part of a marketing campaign to promote the following major motion picture & television series:
 
   |  |  |  |
   | :--- | :--- | :--- |
@@ -127,7 +130,7 @@ _Technologies Used:_ **ASP.NET, ADO.NET, VB.NET, Win32, VB COM objects, SQL Serv
 
   _Technologies Used:_ **VB.NET, ADO.NET, VB COM objects, InstallShield scripting, IIS, SQL Server, testing lab methodologies**
 
-**[⬆ table of contents](#table-of-contents "toc")**
+**[⬆ table of contents](#james-priest "toc")**
 
 ---
 
@@ -139,9 +142,22 @@ _Technologies Used:_ **ASP.NET, ADO.NET, VB.NET, Win32, VB COM objects, SQL Serv
 
 As lead developer and director of The Velodea Group’s Velotek division, job responsibilities spanned an array of IT related areas including web application development, systems architecture and network infrastructure. Velotek’s primary role consisted of developing web-based product offerings and creating technical solutions for clients.
 
-_Technologies Used:_ **ASP, JavaScript, HTML, CSS, SQL, VB, COM, XML development; DevOps for Windows Server, Exchange Server & SQL Server platforms & networks**
+<!--TODO: bullet point out  3 Velodea projects -->
+<!-- * **VeloTrack Web Analytics** -
+This project provided web metrics before Google Analytics existed. This was done by collecting traffic, browser & usage data through the inclusion of an invisible gif on each email and web page to be tracked. All reports were custom built and allowed advanced customization.
 
-**[⬆ table of contents](#table-of-contents "toc")**
+* **CodeSigning for Kareem** - 
+This project consisted of... -->
+
+* **VeloTrack (Site Management and Behavioral Analysis System)** – VeloTrack was a custom-built solution that integrated seamlessly with websites to offer behavioral tracking, email list management, registration, surveying, and demographic-based site usage reporting.  VeloTrack boasted the ability to capture millions of page views per day in a manner completely transparent to the end user.  The system was designed to be highly customizable as well as intuitive in order to allow non-technical clients the ability to generate reports as well as create surveys and construct email marketing campaigns.  All data was also available through HTTP as a Web API for integration into client applications.<br /> 
+**This was a modularized system developed over two years which consisted of equal parts Google Analytics, Constant Contact, Mail Chimp, WordPress & Salesforce before those systems came into being.**
+
+* **VeloTeam (Asset Management Extranet System)** – Velodea’s extranet system managed all documents and materials related to a project while facilitating communication and collaboration between project teams and clients.  Highly customizable document repositories organized and managed all project-based assets.  Additionally, the system managed user accounts, tracked incident resolutions and sent automated email notification to the team when new material was made available to the site.  Use of this system had reduced cost and dramatically increased productivity by shortening the development life cycle of Velodea’s projects.  Over 100 customized instances were rolled out for clients such as Sony, Miramax, Qualcomm, and Toshiba.
+**This was a system that provided the capabilites of Basecamp, DropBox, JIRA, and GitHub. It offered project management, document sharing, version control, bug tracking/issue resolution & client communications at a time when those services didn't exist out in the wild.**
+
+_Technologies Used:_ **ASP, JavaScript, HTML, CSS, SQL, VB, COM, XML; DevOps for Windows Server, Exchange Server & SQL Server platforms & Active Directory Networks.**
+
+**[⬆ table of contents](#james-priest "toc")**
 
 ---
 
@@ -161,7 +177,7 @@ As a key member of Microsoft’s Product Release team, responsibilities included
 
 Each system was developed according to multi-tier design architecture standards and were built using **HTML, ASP, Visual Basic, JavaScript, VBScript, CSS, and SQL stored procedures**. Where possible, **MTS COM objects** were created for re-usability and programming practices followed a component-based object model.  Additional responsibilities as Release Program Manager ranged from systems analysis to solution implementation and included such things as **application prototyping, database implementation, user-interface design** and **technical, functional & user documentation**.
 
-**[⬆ table of contents](#table-of-contents "toc")**
+**[⬆ table of contents](#james-priest "toc")**
 
 ---
 
@@ -173,7 +189,7 @@ Each system was developed according to multi-tier design architecture standards 
 
 Hired as Lead Intranet Developer for the U.S. Air Force’s Phillips Research Lab at Kirtland Air Force Base.  Job functions involved design and implementation of all **web-based client/server applications** as well as **systems analysis, database programming and graphic design**. Technologies used included **ASP, SQL, Java** and **ActiveX development**. Also responsible for **NT, IIS, and SQL Server administration and configuration**.
 
-**[⬆ table of contents](#table-of-contents "toc")**
+**[⬆ table of contents](#james-priest "toc")**
 
 ---
 
@@ -185,7 +201,7 @@ Hired as Lead Intranet Developer for the U.S. Air Force’s Phillips Research La
 
 Contracted to design and develop a web-based reporting system responsible for generating statistical information for Intel University. Utilized **ASP, SQL, and custom developed ActiveX DLLs**. The system was implemented worldwide upon its completion.
 
-**[⬆ table of contents](#table-of-contents "toc")**
+**[⬆ table of contents](#james-priest "toc")**
 
 ---
 
@@ -197,7 +213,7 @@ Contracted to design and develop a web-based reporting system responsible for ge
 
 As a member of the IS department, responsibilities included systems analysis and application development in the support of Talbert’s various management systems. Utilized **MS Access, VBA, Visio, and Word** to facilitate documentation.
 
-**[⬆ table of contents](#table-of-contents "toc")**
+**[⬆ table of contents](#james-priest "toc")**
 
 ---
 
@@ -209,7 +225,7 @@ As a member of the IS department, responsibilities included systems analysis and
 
 Designed, implemented, and maintained Microsoft and Novel networks for various business clients.  Responsibilities included hardware, software and network services.  Provided cost-effective solutions, installations and support of Microsoft products.
 
-**[⬆ table of contents](#table-of-contents "toc")**
+**[⬆ table of contents](#james-priest "toc")**
 
 ---
 
@@ -221,7 +237,7 @@ Designed, implemented, and maintained Microsoft and Novel networks for various b
 
 Founding member of DeVry’s Helpdesk facility.  Lead six-member team responsible for 300+ Novell workstations connected to 11 NetWare servers, 3 UNIX servers, and 2 NT servers.  Provided network administration, upgrade/repair and user support.
 
-**[⬆ table of contents](#table-of-contents "toc")**
+**[⬆ table of contents](#james-priest "toc")**
 
 ---
 
@@ -232,7 +248,7 @@ DeVry Institute of Technology Pomona, California<br />
 Graduation with Honors<br />
 GPA 3.52/4.00
 
-**[⬆ table of contents](#table-of-contents "toc")**
+**[⬆ table of contents](#james-priest "toc")**
 
 ---
 
@@ -273,7 +289,7 @@ GPA 3.52/4.00
 | VB & Internet Advisor DevCon 98 | February 1998 | Advisor Publications |
 | Java 1.1 Programming Certification | December 1997 | The Waite Group |
 
-**[⬆ table of contents](#table-of-contents "toc")**
+**[⬆ table of contents](#james-priest "toc")**
 
 ---
 
@@ -283,7 +299,7 @@ GPA 3.52/4.00
 * GitHub: [https://github.com/james-priest](https://github.com/james-priest)
 * LinkedIn: [https://www.linkedin.com/in/jamespriestdeveloper/](https://www.linkedin.com/in/jamespriestdeveloper/)
 
-**[⬆ table of contents](#table-of-contents "toc")**
+**[⬆ table of contents](#james-priest "toc")**
 
 ---
 
@@ -296,7 +312,7 @@ GPA 3.52/4.00
 * **100 Days of Code Log** - [https://james-priest.github.io/100-days-of-code-log/](https://james-priest.github.io/100-days-of-code-log/)<br />
     This is my code log of tasks, challenges, and work samples related to web development.
 
-**[⬆ table of contents](#table-of-contents "toc")**
+**[⬆ table of contents](#james-priest "toc")**
 
 ---
 
@@ -304,7 +320,7 @@ GPA 3.52/4.00
 
 * JavaScript Array Methods: [http://javascript-array-methods.netlify.com/](http://javascript-array-methods.netlify.com/)
 
-**[⬆ table of contents](#table-of-contents "toc")**
+**[⬆ table of contents](#james-priest "toc")**
 
 ---
 
@@ -347,12 +363,16 @@ Written as a timeline and narrative
     <dd>So, I jumped into the world of MOOCs, bootcamps, and classes by training 8-12 hours a day, five to six days per week. I'm still in the middle of this process and am excited to make the transition to full-time employee where I'll be able to reengage with a team, contribute to the whole, and be one among many once again.</dd>
 </dl>
 
-**[⬆ table of contents](#table-of-contents "toc")**
+**[⬆ table of contents](#james-priest "toc")**
 
 <!--
 /*
  * TODO:
  * [] Resume link
  * [] Additional apps
+ * [] My Timeline/My Strengths
+ * I create solution by solving problems. I can easily switch from detailed development to
+ * big picture and back again. I love a challenge and love learning technologies
+ *
 */
 -->
