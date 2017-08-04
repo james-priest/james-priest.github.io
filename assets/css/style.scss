@@ -2,6 +2,19 @@
 ---
 
 @import "{{ site.theme }}";
+nav {
+    top: 192px;
+}
 section {
     width: 690px;
+}
+.active {
+    position: relative;
+}
+.active::after {
+    content: "\f0a5";
+    font-family: FontAwesome;
+    right: -20px;
+    position: absolute;
+    top: 5px;
 }

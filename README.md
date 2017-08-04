@@ -1,3 +1,17 @@
+# James Priest
+
+<p>
+    <a href="https://twitter.com/james_priest1" title="Twitter Profile" target="_blank"><i class="fa fa-twitter-square fa-lg" aria-hidden="true"></i> Twitter</a> •
+    <a href="https://github.com/james-priest" title="GitHub Profile" target="_blank"><i class="fa fa-github fa-lg" aria-hidden="true"></i> GitHub</a> •
+    <a href="https://www.linkedin.com/in/jamespriestdeveloper/" title="LinkedIn Profile" target="_blank"><i class="fa fa-linkedin-square fa-lg" aria-hidden="true"></i> LinkedIn</a> •
+    <a href="https://codepen.io/james-priest" title="CodePen Profile" target="_blank"><i class="fa fa-codepen fa-lg" aria-hidden="true"></i> CodePen</a> •
+    <a href="https://www.freecodecamp.com/james-priest" title="freeCodeCamp Profile" target="_blank"><i class="fa fa-free-code-camp fa-lg" aria-hidden="true"></i> freeCodeCamp</a> •
+    <a href="#" title="Medium Profile" target="_blank"><i class="fa fa-medium fa-lg" aria-hidden="true"></i> Medium</a>
+    
+</p>
+
+---
+
 ## Table of Contents
 
 1. [Objective](#objective "toc")
@@ -18,16 +32,6 @@
 1. [Additional Links](#additional-links "toc")
 1. [Sample Apps](#sample-apps "toc")
 1. [My Story](#my-story "toc")
-
----
-
-# James Priest
-
-<p>
-    <a href="https://twitter.com/james_priest1" title="Twitter Profile"><i class="socicon-twitter"></i> Twitter</a> •
-    <a href="https://github.com/james-priest" title="GitHub Profile"><i class="socicon-github"></i> GitHub</a> •
-    <a href="https://www.linkedin.com/in/jamespriestdeveloper/" title="LinkedIn Profile"><i class="socicon-linkedin"></i> LinkedIn</a>
-</p>
 
 ---
 

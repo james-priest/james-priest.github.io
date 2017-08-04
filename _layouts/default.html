@@ -4,15 +4,34 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>{{ site.title | default: site.github.repository_name }} by {{ site.github.owner_name }}</title>
+    <title>{{ site.title | default: site.github.repository_name }}</title>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="https://use.fontawesome.com/b8e54d5fef.js"></script>
     <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
     <!--[if lt IE 9]>
       <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link rel="shortcut icon" href="{{ '/assets/images/icons/favicon.ico?v=1' | relative_url }}">
 
+    <link rel="apple-touch-icon" sizes="57x57" href="{{ '/assets/images/icons/apple-icon-57x57.png' | relative_url }}">
+    <link rel="apple-touch-icon" sizes="60x60" href="{{ '/assets/images/icons/apple-icon-60x60.png' | relative_url }}">
+    <link rel="apple-touch-icon" sizes="72x72" href="{{ '/assets/images/icons/apple-icon-72x72.png' | relative_url }}">
+    <link rel="apple-touch-icon" sizes="76x76" href="{{ '/assets/images/icons/apple-icon-76x76.png' | relative_url }}">
+    <link rel="apple-touch-icon" sizes="120x120" href="{{ '/assets/images/icons/apple-icon-120x120.png' | relative_url }}">
+    <link rel="apple-touch-icon" sizes="144x144" href="{{ '/assets/images/icons/apple-icon-144x144.png' | relative_url }}">
+    <link rel="apple-touch-icon" sizes="114x114" href="{{ '/assets/images/icons/apple-icon-114x114.png' | relative_url }}">
+    <link rel="apple-touch-icon" sizes="152x152" href="{{ '/assets/images/icons/apple-icon-152x152.png' | relative_url }}">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/images/icons/apple-icon-180x180.png' | relative_url }}">
+    <link rel="icon" type="image/png" sizes="192x192"  href="{{ '/assets/images/icons/android-icon-192x192.png' | relative_url }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/images/icons/favicon-32x32.png' | relative_url }}">
+    <link rel="icon" type="image/png" sizes="96x96" href="{{ '/assets/images/icons/favicon-96x96.png' | relative_url }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/images/icons/favicon-16x16.png' | relative_url }}">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
 </head>
 
 <body>
@@ -39,6 +58,7 @@
 
     <div class="wrapper">
         <nav>
+            <img src="/assets/images/icons/android-icon-96x96.png">
             <ul></ul>
         </nav>
         <section>
@@ -47,7 +67,9 @@
         </section>
         <footer>
             {% if site.github.is_project_page %}
+            <!--
             <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+            -->
             {% endif %}
             <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></small></p>
         </footer>
@@ -72,15 +94,50 @@
     </script>
     {% endif %}
     <script type="text/javascript">
+        
         $(document).ready(function() {
             $("[title*='toc']").on("click", null, function(event) {
                 var position = $($(this).attr("href")).offset().top - 190;
                 $("html, body").animate({scrollTop: position}, 400);
+                $("nav ul li.active").removeClass("active");
+                //$("nav ul li a" + $(this).attr("href")).parent().removeClass("active");
+                //alert("nav ul li a[href='" + $(this).attr("href") + "']");
+                if($(this).attr("href").startsWith("#career")) {
+                    $("nav ul li a[href='#career-history']").parent().addClass("active");
+                } else {
+                    $("nav ul li a[href='" + $(this).attr("href") + "']").parent().addClass("active");
+                }
+                
+                //window.location.hash = $(this).attr("href");
+                console.log($(this).attr("href"));
                 event.preventDefault();
             });
-            // $("[title*='toc']").css("color", "green");
-            var pos = $("#james-priest").offset().top - 190;
-            $("html, body").animate({scrollTop: pos}, 400);
+            // for testing
+            //$("[title*='toc']").css("color", "green");
+
+            //window.location.hash = "#my-story";
+            //window.location.hash = "#objective";
+            // if a hash exists then assign to this var
+            var hash = window.location.hash.substr(0);
+            
+            // $(window).on("hashchange",function(event){
+            //     // TODO: update here
+            //     //window.location.hash =  "abc";
+            //     var h = window.location.hash.substr(0);
+            //     console.log("h: " + h);
+            //     event.preventDefault();
+            // })
+
+            if(hash){
+                console.log("hash: " + hash);
+                var pos = $(hash).offset().top - 190;
+                $("html, body").animate({scrollTop: pos}, 400);
+                //window.location.hash = hash;
+                //event.preventDefault();
+            }
+
+            //var pos = $("#james-priest").offset().top - 190;
+            //$("html, body").animate({scrollTop: pos}, 400);
         });
     </script>
 </body>
