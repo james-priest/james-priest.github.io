@@ -6,8 +6,7 @@
     <a href="https://www.linkedin.com/in/jamespriestdeveloper/" title="LinkedIn Profile" target="_blank"><i class="fa fa-linkedin-square fa-lg" aria-hidden="true"></i> LinkedIn</a> •
     <a href="https://codepen.io/james-priest" title="CodePen Profile" target="_blank"><i class="fa fa-codepen fa-lg" aria-hidden="true"></i> CodePen</a> •
     <a href="https://www.freecodecamp.com/james-priest" title="freeCodeCamp Profile" target="_blank"><i class="fa fa-free-code-camp fa-lg" aria-hidden="true"></i> freeCodeCamp</a> •
-    <a href="#" title="Medium Profile" target="_blank"><i class="fa fa-medium fa-lg" aria-hidden="true"></i> Medium</a>
-    
+    <a href="#" title="Not yet, but soon.😊" target="_blank"><i class="fa fa-medium fa-lg" aria-hidden="true"></i> Medium</a>
 </p>
 
 ---
@@ -37,7 +36,7 @@
 
 ## Objective
 
-To find long-term employment at a large, dynamic company who's focus is UX and cutting-edge technology.
+To find long-term employment as developer at a large & dynamic company building the next generation of apps and services.
 
 ---
 
@@ -68,7 +67,7 @@ To find long-term employment at a large, dynamic company who's focus is UX and c
 
 | Additional Skills |
 | :-- |
-| Node.js, npm, NuGet, DotNet, Jekyll, Sass, Emmet (Zen Coding), Linting & Style Guides (JSLint, JSHint, ESLint, Flow, AirBnB) |
+| Nodejs, Npm, NuGet, DotNet, Jekyll, Scss, Emmet (Zen Coding), Linting (JSLint, JSHint, ESLint, Flow, StandardJS), JS Style Guides (StandardJS, Google, Idiomatic.js, AirBnB) |
 
 **[⬆ table of contents](#james-priest "toc")**
 
@@ -356,7 +355,7 @@ Written as a timeline and narrative
     <dd style="text-align:left"><i>- Being of Service -</i></dd>
     <dd>Needing a recharge, I took time off to re-evaluate what I wanted my focus and position to be in the the industry. <strong>I knew I wanted to work with a large company and that my passion for code meant I wanted to be part of a development team whose members are as excited about the work as I am. I had clarity.</strong></dd>
     <dd>It was at this point I was called to move in a completely different direction. I was asked to care for a loved one who had been diagnosed with terminal cancer. I stepped into the role of caregiver and provided in-home care until her passing.</dd>
-    <dd><i>This experience showed me what it meant to have strength and dignity in the face of the inevitable. I was honored to have been part of this labor of love and in the end, was moved to see that she was able to find meaning in her struggle. She passed away peacefully surrounded by friends, family, and loved-ones. She was thirty seven years old.</i></dd>
+    <dd><i>This experience showed me what it means to have strength and dignity in the face of the inevitable. I was honored to have been part of this labor of love and in the end, was moved to see that she was able to find meaning in her struggle. She passed away peacefully surrounded by friends, family, and loved-ones. She was thirty seven years old.</i></dd>
   <dt>2016 - 2017 • <i>Education, Certification & Training, Oh My!</i> • Los Angeles, CA</dt>
     <dd style="text-align:left"><i>- Full Circle -</i></dd>
     <dd>I re-engaged with the development community and have been coding, reading, learning, and absorbing with a passion. I didn't want to just throw myself into the job market without first thoroughly mastering some of today's current and most in-demand web dev technologies. I had many paths to choose from but decided to settle on technologies I knew and loved. <strong>I focused my efforts on full-stack development, .NET Core & Azure cloud-based services.</strong></dd>
