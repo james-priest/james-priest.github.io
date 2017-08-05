@@ -7,8 +7,8 @@ These are the steps to build the site locally for testing and fine-tuning before
 Open `Terminal` and navigate to git repo using the bash alias I created. Then, pull down the latest git changes from GitHub. Finally, start the jekyll script to run a server and regenerate the site when code or content changes.
 
 ``` bash
-cd-cv
-git pull
+cd-cv # alias to james-priest.github.io repo
+git pull origin master
 bundle exec jekyll server
 ```
 

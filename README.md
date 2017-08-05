@@ -59,12 +59,16 @@ To find long-term employment as developer at a large & dynamic company building 
 | Traditional Desktop Application Solutions | LAMP Development |
 | Integrated Video Solutions | Usability, Information Architecture, Standards Design |
 
-| Languages | Web & Database | Environments / IDEs | Stack Technologies     |
-| :-------- | :----------- | :---------      | :---
-| C#        | .NET Framework / ASP.NET Core     | VS 2017 / VS Code           | Front End Development
-| JavaScript| jQuery / Bootstrap / Web APIs  | GitHub | Back End Development
-| HTML5 / CSS3  | Git Bash / Git CLI / TDD (QUnit) | VS Team Services    | Database Design
-| VB        | SQL / Stored Procs / Triggers  | VMs (Win/Ubuntu) | Azure Cloud Services
+| Languages | Web & Database | IDEs & Code Environments |
+| :-------- | :----------- | :---------      |
+| C#        | .NET Framework / ASP.NET Core     | VS 2017 / VS Code           |
+| JavaScript| jQuery / Bootstrap / Web APIs  | GitHub |
+| HTML5 / CSS3  | Git Bash / Git CLI / TDD (QUnit) | VS Team Services    |
+| VB        | SQL / Stored Procs / Triggers  | VMs (Win/Ubuntu) |
+
+| Stack Technologies |
+| :-- |
+| Front End Development | Back End Development  | Database Design | Azure Cloud Services |
 
 | Additional Skills |
 | :-- |
