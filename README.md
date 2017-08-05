@@ -1,12 +1,13 @@
+<!-- markdownlint-disable MD022 MD032 MD033 -->
 # James Priest
 
 <p>
-    <a href="https://twitter.com/james_priest1" title="Twitter Profile" target="_blank"><i class="fa fa-twitter-square fa-lg" aria-hidden="true"></i> Twitter</a> •
-    <a href="https://github.com/james-priest" title="GitHub Profile" target="_blank"><i class="fa fa-github fa-lg" aria-hidden="true"></i> GitHub</a> •
-    <a href="https://www.linkedin.com/in/jamespriestdeveloper/" title="LinkedIn Profile" target="_blank"><i class="fa fa-linkedin-square fa-lg" aria-hidden="true"></i> LinkedIn</a> •
-    <a href="https://codepen.io/james-priest" title="CodePen Profile" target="_blank"><i class="fa fa-codepen fa-lg" aria-hidden="true"></i> CodePen</a> •
-    <a href="https://www.freecodecamp.com/james-priest" title="freeCodeCamp Profile" target="_blank"><i class="fa fa-free-code-camp fa-lg" aria-hidden="true"></i> freeCodeCamp</a> •
-    <a href="#" title="Not yet, but soon.😊" target="_blank"><i class="fa fa-medium fa-lg" aria-hidden="true"></i> Medium</a>
+    <span class="icons"><a href="https://twitter.com/james_priest1" title="Twitter Profile" target="_blank"><i class="fa fa-twitter-square fa-lg" aria-hidden="true"></i>&nbsp;Twitter</a></span> •
+    <span class="icons"><a href="https://github.com/james-priest" title="GitHub Profile" target="_blank"><i class="fa fa-github fa-lg" aria-hidden="true"></i>&nbsp;GitHub</a></span> •
+    <span class="icons"><a href="https://www.linkedin.com/in/jamespriestdeveloper/" title="LinkedIn Profile" target="_blank"><i class="fa fa-linkedin-square fa-lg" aria-hidden="true"></i>&nbsp;LinkedIn</a></span> •
+    <span class="icons"><a href="https://codepen.io/james-priest" title="CodePen Profile" target="_blank"><i class="fa fa-codepen fa-lg" aria-hidden="true"></i>&nbsp;CodePen</a></span> •
+    <span class="icons"><a href="https://www.freecodecamp.com/james-priest" title="freeCodeCamp Profile" target="_blank"><i class="fa fa-free-code-camp fa-lg" aria-hidden="true"></i>&nbsp;freeCodeCamp</a></span> •
+    <span class="icons"><a href="#" title="Not yet, but soon.😊" target="_blank"><i class="fa fa-medium fa-lg" aria-hidden="true"></i>&nbsp;Medium</a></span>
 </p>
 
 ---
@@ -53,10 +54,10 @@ To find long-term employment as developer at a large & dynamic company building 
 
 | Development Skills |   |
 | :--- | :--- |
-| • Complete .NET Web Application Development | • SQL Server & MySQL Database Design & Programming |
-| • Multi-tier Object Oriented Design | • Cross-device & Cross-browser Responsive Design |
-| • Traditional Desktop Application Solutions | • LAMP Development |
-| • Integrated Video Solutions | • Usability, Information Architecture, Standards Design |
+| Complete .NET Web Application Development | SQL Server & MySQL Database Design & Programming |
+| Multi-tier Object Oriented Design | Cross-device & Cross-browser Responsive Design |
+| Traditional Desktop Application Solutions | LAMP Development |
+| Integrated Video Solutions | Usability, Information Architecture, Standards Design |
 
 | Languages | Web & Database | Environments / IDEs | Stack Technologies     |
 | :-------- | :----------- | :---------      | :---
@@ -98,10 +99,10 @@ _Technologies Used:_ **Flex, ActionScript, PHP/MySQL, XML, HTML, CSS, Prototype,
 * **REZA Investment Group** ([rezacompanies.com](http://rezacompanies.com "Reza Companies homepage")) – Approached by REZA companies to build a custom SalesForce implementation and website frontend to automate the sales process of high-end real-estate listings. This involved extending SalesForce through custom programming and exchanging information through extensive use of web APIs.<br />
 _Technologies Used:_ **PHP/My SQL, Live Video Streaming, JavaScript APIs (Facebook, Twitter, Flickr). HTML, CSS, jQuery**
 
-* **J. Walter Thompson** ([Shell Pationate Experts](https://www.adforum.com/agency/4333/creative-work/34468969/kurt-bush/shell "Interactive site & marketing campaign is no longer active")) – Responsible for developing an interactive Flash site to promote Shell’s Passionate Experts campaign. The project incorporated use of various ActionScript 3 libraries, streaming video, keyed green screen footage and programmatic Flash animation as well as customized H.264 video encodings.<br />
+* **J. Walter Thompson** ([Shell Passionate Experts](https://www.adforum.com/agency/4333/creative-work/34468969/kurt-bush/shell "Interactive site & marketing campaign is no longer active")) – Responsible for developing an interactive Flash site to promote Shell’s Passionate Experts campaign. The project incorporated use of various ActionScript 3 libraries, streaming video, keyed green screen footage and programmatic Flash animation as well as customized H.264 video encodings.<br />
 _Technologies Used:_ **Flash, ActionScript, FMS streaming, AfterEffects, 3D Studio Max, Media Encoder, F4V H.264 encoding**
 
-* **ABC Studios Live Stream** - ABC Studios engaged Velodea to design and build a streaming media system that would allow executives and other stakeholders the ability to tap into camera feeds at each remote soundstage location to view filming of various shows in real-time. The system developed was a custom combination of hardware and software encoders that could transcode to both Windows Media and Flash Media video which could be accessed through a secured website.<br />
+* **ABC Studios Live Stream** - ABC Studios engaged Velodea to design and build a streaming media system that would allow executives and other stakeholders the ability to tap into camera feeds at each remote sound stage location to view filming of various shows in real-time. The system developed was a custom combination of hardware and software encoders that could transcode to both Windows Media and Flash Media video which could be accessed through a secured website.<br />
 _Technologies Used:_ **ASP.NET, C#, Flash, ActionScript, FMS & WMS streaming, Flash Live & Windows Media Encoders, F4V & WMV format encoding**
 
 **[⬆ table of contents](#james-priest "toc")**
@@ -148,11 +149,11 @@ This project provided web metrics before Google Analytics existed. This was done
 * **CodeSigning for Kareem** - 
 This project consisted of... -->
 
-* **VeloTrack (Site Management and Behavioral Analysis System)** – VeloTrack was a custom-built solution that integrated seamlessly with websites to offer behavioral tracking, email list management, registration, surveying, and demographic-based site usage reporting.  VeloTrack boasted the ability to capture millions of page views per day in a manner completely transparent to the end user.  The system was designed to be highly customizable as well as intuitive in order to allow non-technical clients the ability to generate reports as well as create surveys and construct email marketing campaigns.  All data was also available through HTTP as a Web API for integration into client applications.<br /> 
+* **VeloTrack (Site Management and Behavioral Analysis System)** – VeloTrack was a custom-built solution that integrated seamlessly with websites to offer behavioral tracking, email list management, registration, surveying, and demographic-based site usage reporting.  VeloTrack boasted the ability to capture millions of page views per day in a manner completely transparent to the end user.  The system was designed to be highly customizable as well as intuitive in order to allow non-technical clients the ability to generate reports as well as create surveys and construct email marketing campaigns.  All data was also available through HTTP as a Web API for integration into client applications.<br />
 **This was a modularized system developed over two years which consisted of equal parts Google Analytics, Constant Contact, Mail Chimp, WordPress & Salesforce before those systems came into being.**
 
 * **VeloTeam (Asset Management Extranet System)** – Velodea’s extranet system managed all documents and materials related to a project while facilitating communication and collaboration between project teams and clients.  Highly customizable document repositories organized and managed all project-based assets.  Additionally, the system managed user accounts, tracked incident resolutions and sent automated email notification to the team when new material was made available to the site.  Use of this system had reduced cost and dramatically increased productivity by shortening the development life cycle of Velodea’s projects.  Over 100 customized instances were rolled out for clients such as Sony, Miramax, Qualcomm, and Toshiba.
-**This was a system that provided the capabilites of Basecamp, DropBox, JIRA, and GitHub. It offered project management, document sharing, version control, bug tracking/issue resolution & client communications at a time when those services didn't exist out in the wild.**
+**This was a system that provided the capabilities of Basecamp, DropBox, JIRA, and GitHub. It offered project management, document sharing, version control, bug tracking/issue resolution & client communications at a time when those services didn't exist out in the wild.**
 
 _Technologies Used:_ **ASP, JavaScript, HTML, CSS, SQL, VB, COM, XML; DevOps for Windows Server, Exchange Server & SQL Server platforms & Active Directory Networks.**
 
@@ -347,10 +348,10 @@ Written as a timeline and narrative
     <dd style="text-align:left"><i>- Innocence Lost -</i></dd>
     <dd>Returned to Velodea which had re-branded itself and was under new management. Here I flourished for a time, focusing my efforts on helping lift the company out of a $200k deficit. The success of these endeavors seemed to assure the company's long-term future and had promised me an equity stake.</dd>
     <!--
-    <dd>As visibiity into company receivables, accounting duties, and signatory authority was consolidated to one role by the CPA/Managing Director, the company began to misplace large sums of money which resulted in employees not getting paid.</dd>
-    <dd>This began a long period of  struggle and frustration during which I was witness to greed, dishonesty and corporate shenanigans on a scale unimaginable. The company eventually disolved due to management's <span style="text-decoration:line-through">embezzlement of payroll, theft of company funds, and personal use of corporate assets</span> misuse of corporate funds.</dd>
+    <dd>As visibility into company receivables, accounting duties, and signatory authority was consolidated to one role by the CPA/Managing Director, the company began to misplace large sums of money which resulted in employees not getting paid.</dd>
+    <dd>This began a long period of  struggle and frustration during which I was witness to greed, dishonesty and corporate shenanigans on a scale unimaginable. The company eventually dissolved due to management's <span style="text-decoration:line-through">embezzlement of payroll, theft of company funds, and personal use of corporate assets</span> misuse of corporate funds.</dd>
     -->
-    <dd>A long period of hard work, unflagging commitment, and faith in the company's future concluded with the unthinkable. The company was dissolved due to management's <span style="text-decoration:line-through">theft of company money, embezzlement of payroll, wholesale deception of the employees and stockholders...</span> misuse of corporate funds. Well... At least I would be free to look for work with a company whose core values I shared and admired.</dd>
+    <dd>A long period of hard work, unflagging commitment, and faith in the company's future concluded with the unthinkable. The company was dissolved due to management's <!--<span style="text-decoration:line-through">theft of company money, embezzlement of payroll, wholesale deception of the employees and stockholders...</span>--> misuse of corporate funds. Well... At least I would be free to look for work with a company whose core values I shared and admired.</dd>
   <dt>2014 - 2016 • <i>Three-year Hiatus</i> • Los Angeles, CA</dt>
     <dd style="text-align:left"><i>- Being of Service -</i></dd>
     <dd>Needing a recharge, I took time off to re-evaluate what I wanted my focus and position to be in the the industry. <strong>I knew I wanted to work with a large company and that my passion for code meant I wanted to be part of a development team whose members are as excited about the work as I am. I had clarity.</strong></dd>
@@ -359,7 +360,7 @@ Written as a timeline and narrative
   <dt>2016 - 2017 • <i>Education, Certification & Training, Oh My!</i> • Los Angeles, CA</dt>
     <dd style="text-align:left"><i>- Full Circle -</i></dd>
     <dd>I re-engaged with the development community and have been coding, reading, learning, and absorbing with a passion. I didn't want to just throw myself into the job market without first thoroughly mastering some of today's current and most in-demand web dev technologies. I had many paths to choose from but decided to settle on technologies I knew and loved. <strong>I focused my efforts on full-stack development, .NET Core & Azure cloud-based services.</strong></dd>
-    <dd>So, I jumped into the world of MOOCs, bootcamps, and classes by training 8-12 hours a day, five to six days per week. I'm still in the middle of this process and am excited to make the transition to full-time employee where I'll be able to reengage with a team, contribute to the whole, and be one among many once again.</dd>
+    <dd>So, I jumped into the world of MOOCs, boot camps, and classes by training 8-12 hours a day, five to six days per week. I'm still in the middle of this process and am excited to make the transition to full-time employee where I'll be able to reengage with a team, contribute to the whole, and be one among many once again.</dd>
 </dl>
 
 **[⬆ table of contents](#james-priest "toc")**
