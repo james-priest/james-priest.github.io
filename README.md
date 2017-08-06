@@ -6,8 +6,8 @@
     <span class="icons"><a href="https://github.com/james-priest" title="GitHub Profile" target="_blank"><i class="fa fa-github fa-lg" aria-hidden="true"></i>&nbsp;GitHub</a></span> •
     <span class="icons"><a href="https://www.linkedin.com/in/jamespriestdeveloper/" title="LinkedIn Profile" target="_blank"><i class="fa fa-linkedin-square fa-lg" aria-hidden="true"></i>&nbsp;LinkedIn</a></span> •
     <span class="icons"><a href="https://codepen.io/james-priest" title="CodePen Profile" target="_blank"><i class="fa fa-codepen fa-lg" aria-hidden="true"></i>&nbsp;CodePen</a></span> •
-    <span class="icons"><a href="https://www.freecodecamp.com/james-priest" title="freeCodeCamp Profile" target="_blank"><i class="fa fa-free-code-camp fa-lg" aria-hidden="true"></i>&nbsp;freeCodeCamp</a></span> •
-    <span class="icons"><a href="#" title="Not yet, but soon.😊" target="_blank"><i class="fa fa-medium fa-lg" aria-hidden="true"></i>&nbsp;Medium</a></span>
+    <span class="icons"><a href="https://www.freecodecamp.com/james-priest" title="freeCodeCamp Profile" target="_blank"><i class="fa fa-free-code-camp fa-lg" aria-hidden="true"></i>&nbsp;freeCodeCamp</a></span>
+    <!--<span class="icons"><a href="#" title="Not yet, but soon.😊" target="_blank"><i class="fa fa-medium fa-lg" aria-hidden="true"></i>&nbsp;Medium</a></span>-->
 </p>
 
 ---
@@ -37,7 +37,7 @@
 
 ## Objective
 
-To find long-term employment as developer at a large & dynamic company building the next generation of apps and services.
+To find long-term employment at a large & dynamic company building the next generation of apps and services.
 
 ---
 
@@ -64,11 +64,11 @@ To find long-term employment as developer at a large & dynamic company building 
 | C#        | .NET Framework / ASP.NET Core     | VS 2017 / VS Code           |
 | JavaScript| jQuery / Bootstrap / Web APIs  | GitHub |
 | HTML5 / CSS3  | Git Bash / Git CLI / TDD (QUnit) | VS Team Services    |
-| VB        | SQL / Stored Procs / Triggers  | VMs (Win/Ubuntu) |
+| VB        | SQL / Stored Procs / Triggers  | Azure Cloud VMs (Win/Ubuntu) |
 
 | Stack Technologies |
 | :-- |
-| Front End Development | Back End Development  | Database Design | Azure Cloud Services |
+| Front End Development | Back End Development  | Database Design |
 
 | Additional Skills |
 | :-- |
