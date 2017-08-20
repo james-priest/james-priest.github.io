@@ -281,6 +281,7 @@ GPA 3.52/4.00
 | Front-end Formations (HTML5/CSS3 II) | August 2017 | Code School (Pluralsight) |
 | Front-end Foundations (HTML5/CSS3 I) | August 2017 | Code School (Pluralsight) |
 | Try Git | May 2017 | Code School (Pluralsight) |
+| Getting Started with Web Technologies | April 2017 | Microsoft Virtual Academy |
 | JavaScript Fundamentals | June 2014 | Microsoft Virtual Academy |
 | Developing in HTML5, JavaScript, and CSS | February 2014 | Microsoft Virtual Academy |
 | Developing ASP.NET MVC 4 Web Application | February 2014 | Microsoft Virtual Academy |
@@ -318,24 +319,19 @@ GPA 3.52/4.00
 
 ---
 
-## Social Media
+## Achievements
+Links to sites that provide verification of training and courses completed.
 
-* Twitter: [https://twitter.com/james_priest1](https://twitter.com/james_priest1)
-* GitHub: [https://github.com/james-priest](https://github.com/james-priest)
-* LinkedIn: [https://www.linkedin.com/in/jamespriestdeveloper/](https://www.linkedin.com/in/jamespriestdeveloper/)
-
-**[⬆ table of contents](#james-priest "toc")**
-
----
-
-## Additional Links
-
-* **Degreed:** [https://degreed.com/jamespriest](https://degreed.com/jamespriest)<br/>
-    A catalogued list of all formal schooling, online courses, and programming certifications I have completed.
-* **Free Code Camp:** [https://www.freecodecamp.com/james-priest](https://www.freecodecamp.com/james-priest)<br/>
-    Online program focused on Front End, Back End and Data Visualization training and certification.
 * **100 Days of Code Log** - [https://james-priest.github.io/100-days-of-code-log/](https://james-priest.github.io/100-days-of-code-log/)<br />
     This is my code log of tasks, challenges, and work samples related to web development.
+* **Code School:** [https://www.codeschool.com/users/james-priest](https://www.codeschool.com/users/james-priest)<br />
+    Report card, badges, and achievement status.
+* **Free Code Camp:** [https://www.freecodecamp.com/james-priest](https://www.freecodecamp.com/james-priest)<br />
+    Online program focused on Front End, Back End and Data Visualization training and certification.
+* **Microsoft Virtual Academy:** [Web Development Badge](https://mva.microsoft.com/RewardEvidence.aspx/?key=B--MLSyI6ouc3JiHZ6X1dg2)<br />
+    Verification of Web Development badge and related courses completed.
+* **Degreed:** [https://degreed.com/jamespriest](https://degreed.com/jamespriest)<br />
+    A catalogued list of all formal schooling, online courses, and programming certifications.
 
 **[⬆ table of contents](#james-priest "toc")**
 
@@ -344,6 +340,17 @@ GPA 3.52/4.00
 ## Sample Apps
 
 * JavaScript Array Methods: [http://javascript-array-methods.netlify.com/](http://javascript-array-methods.netlify.com/)
+
+**[⬆ table of contents](#james-priest "toc")**
+
+---
+
+## Social Media
+
+* Twitter: [https://twitter.com/james_priest1](https://twitter.com/james_priest1)
+* GitHub: [https://github.com/james-priest](https://github.com/james-priest)
+* CodePen: [https://codepen.io/james-priest](https://codepen.io/james-priest)
+* LinkedIn: [https://www.linkedin.com/in/jamespriestdeveloper/](https://www.linkedin.com/in/jamespriestdeveloper/)
 
 **[⬆ table of contents](#james-priest "toc")**
 
