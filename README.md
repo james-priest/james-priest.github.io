@@ -278,6 +278,9 @@ GPA 3.52/4.00
 
 | Course    | Completed   | Provider Credential  |
 | :---      | ---         | --:       |
+| Front-end Formations (HTML5/CSS3 II) | August 2017 | Code School (Pluralsight) |
+| Front-end Foundations (HTML5/CSS3 I) | August 2017 | Code School (Pluralsight) |
+| Try Git | May 2017 | Code School (Pluralsight) |
 | JavaScript Fundamentals | June 2014 | Microsoft Virtual Academy |
 | Developing in HTML5, JavaScript, and CSS | February 2014 | Microsoft Virtual Academy |
 | Developing ASP.NET MVC 4 Web Application | February 2014 | Microsoft Virtual Academy |
