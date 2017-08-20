@@ -26,6 +26,35 @@ section { width: 690px; }
   span.icons {
       white-space: nowrap;
   }
+  h3 {
+   display: inline-block;
+    font-size: 1.2em;
+    color: #333;
+    font-weight: bold;
+    margin: 0 10px 3px 10px;
+    position: absolute;
+    margin: 4px 10px;
+     width:50%;
+    vertical-align: bottom; 
+    margin-bottom: -30px;
+  }
+  // h3>span {
+  //   flex: 1;
+  //   text-align: right;
+  //   white-space: nowrap;
+  // }
+  // h3+table>thead {
+  //   border-collapse: collapse;
+  //   line-height: 0;
+  //   margin: 0;
+  //   padding: 0;
+  // }
+  // h3+table>thead>tr>th {
+  //   padding: 0;
+  // }
+  // h3+table>tbody>tr:first-child td {
+  //   border-top: 1px solid #e5e5e5;
+  // }
 
 @media print, screen and (max-width: 1060px) { 
   div.wrapper { width: auto; margin: 0; }
@@ -45,13 +74,19 @@ section { width: 690px; }
   #banner { top: 80px; }
   #banner .fork { float: left; display: inline-block; margin-left: 0px; position: fixed; left: 20px; }
   section { margin-top: 130px; margin-bottom: 0px; width: auto; }
-  header ul, header p.view { position: static; } }
+  header ul, header p.view { position: static; } 
+  h3 { position: relative; margin-bottom: -28px; width:50%;}
+}
 @media print, screen and (max-width: 480px) { 
   header { position: relative; padding: 5px 0px; min-height: 0px; }
   header h1 { font-size: 24px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; -o-text-overflow: ellipsis; -ms-text-overflow: ellipsis; }
   section { margin-top: 5px; }
   #banner { display: none; }
-  header ul { display: none; } }
-@media print, screen and (max-width: 480px) {
+  header ul { display: none; }
   td { padding: 5px 6px; }
+  h3 { position: relative; /*margin-bottom: -30px;*/ width:40%;}
+}
+@media print, screen and (max-width: 320px) {
+  td { padding: 5px 6px; }
+  h3 { position: relative; margin-bottom: -50px; width:40%;}
 }

@@ -20,7 +20,7 @@
     1. [Velodea](#career--velodea "toc")
     1. [devaware Technology Solutions](#career--devaware-technology-solutions "toc")
     1. [The Velodea Group](#career--the-velodea-group "toc")
-    1. [Microsoft](#career--microsoft-corporation "toc")
+    1. [Microsoft Corporation](#career--microsoft-corporation "toc")
     1. [Phillips Research Laboratory](#career--phillips-research-laboratory "toc")
     1. [Intel Corporation](#career--intel-corporation "toc")
     1. [Talbert Medical Management Corporation](#career--talbert-medical-management-corporation "toc")
@@ -37,7 +37,7 @@
 
 ## Objective
 
-To find long-term employment at a large & dynamic company building the next generation of apps and services.
+To find long-term employment at a large & dynamic company building next generation apps and services.
 
 ---
 
@@ -82,7 +82,9 @@ To find long-term employment at a large & dynamic company building the next gene
 
 <a name="career--velodea" id="career--velodea"></a>
 
-| Velodea | April 2006 - June 2014 |
+### Velodea
+
+|      | April 2006 - June 2014 |
 | :--- | ---: |
 | Technology Director & Development Lead | Pasadena, California |
 
@@ -115,7 +117,9 @@ _Technologies Used:_ **ASP.NET, C#, Flash, ActionScript, FMS & WMS streaming, Fl
 
 <a name="career--devaware-technology-solutions" id="career--devaware-technology-solutions"></a>
 
-| **devAware Technology Solutions** | July 2002 - March 2006 |
+### devAware Technology Solutions
+
+|      | July 2002 - March 2006 |
 | :--- | ---: |
 | Founder & Lead Developer | La Canada, California |
 
@@ -140,7 +144,9 @@ _Technologies Used:_ **ASP.NET, ADO.NET, VB.NET, Win32, VB COM objects, SQL Serv
 
 <a name="career--the-velodea-group" id="career--the-velodea-group"></a>
 
-| **The Velodea Group** | July 2000 - July 2002 |
+### The Velodea Group
+
+|      | July 2000 - July 2002 |
 | :--- | ---: |
 | Director of Corporate IT & Lead Developer | Milan, Italy / Los Angeles, California |
 
@@ -167,7 +173,9 @@ _Technologies Used:_ **ASP, JavaScript, HTML, CSS, SQL, VB, COM, XML; DevOps for
 
 <a name="career--microsoft-corporation" id="career--microsoft-corporation"></a>
 
-| **Microsoft Corporation** | November 1998 – June 2000 |
+### Microsoft Corporation
+
+|      | November 1998 – June 2000 |
 | :--- | ---: |
 | Release Program Manager | Redmond, Washington |
 
@@ -187,7 +195,9 @@ Each system was developed according to multi-tier design architecture standards 
 
 <a name="career--phillips-research-laboratory" id="career--phillips-research-laboratory"></a>
 
-| **Phillips Research Laboratory** | September 1997 – October 1998 |
+### Phillips Research Laboratory
+
+|      | September 1997 – October 1998 |
 | :--- | ---: |
 | Web Application Developer | Albuquerque, New Mexico |
 
@@ -199,7 +209,9 @@ Hired as Lead Intranet Developer for the U.S. Air Force’s Phillips Research La
 
 <a name="career--intel-corporation" id="career--intel-corporation"></a>
 
-| **Intel Corporation** | June 1997 – September 1997 |
+### Intel Corporation
+
+|      | June 1997 – September 1997 |
 | :--- | ---: |
 | Web Application Developer | Rio Rancho, New Mexico |
 
@@ -211,7 +223,9 @@ Contracted to design and develop a web-based reporting system responsible for ge
 
 <a name="career--talbert-medical-management-corporation" id="career--talbert-medical-management-corporation"></a>
 
-| **Talbert Medical Management Corporation** | January 1997 – June 1997 |
+### Talbert Medical Management Corporation
+
+|      | January 1997 – June 1997  |
 | :--- | ---: |
 | Systems Analyst / Programmer | Costa Mesa, California |
 
@@ -223,7 +237,9 @@ As a member of the IS department, responsibilities included systems analysis and
 
 <a name="career--friendly-computer-networks" id="career--friendly-computer-networks"></a>
 
-| **Friendly Computer Networks** | May 1996 – January 1997 |
+### Friendly Computer Networks
+
+|      | May 1996 – January 1997 |
 | :--- | ---: |
 | Systems Designer / Network Administrator | Rancho Cucamonga, California |
 
@@ -235,7 +251,9 @@ Designed, implemented, and maintained Microsoft and Novel networks for various b
 
 <a name="career--devry-institute" id="career--devry-institute"></a>
 
-| **DeVry Institute of Technology** | July 1995 - May 1996 |
+### DeVry Institute of Technology
+
+|      | July 1995 - May 1996 |
 | :--- | ---: |
 | Helpdesk, Network & Technical Support | Pomona, California |
 
