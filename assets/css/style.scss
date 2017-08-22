@@ -90,3 +90,7 @@ section { width: 690px; }
   td { padding: 5px 6px; }
   h3 { position: relative; margin-bottom: -50px; width:40%;}
 }
+
+#certifications--training+table tr:nth-child(2n+0) {
+  background-color: #F5F5F5;
+}

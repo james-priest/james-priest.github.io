@@ -278,8 +278,13 @@ GPA 3.52/4.00
 
 | Course    | Completed   | Provider Credential  |
 | :---      | ---         | --:       |
-| Front-end Formations (HTML5/CSS3 II) | August 2017 | Code School (Pluralsight) |
-| Front-end Foundations (HTML5/CSS3 I) | August 2017 | Code School (Pluralsight) |
+| Blasting Off with Bootstrap (CSS Frameworks) | August 2017 | Code School (Pluralsight) |
+| CSS Cross Country (Intermediate CSS) | August 2017 | Code School (Pluralsight) |
+| Front-end Formations (HTML5 & CSS II) | August 2017 | Code School (Pluralsight) |
+| Front-end Foundations (HTML5 & CSS I) | August 2017 | Code School (Pluralsight) |
+| jQuery module | July 2017 | freeCodeCamp |
+| Responsive Design with Bootstrap module | July 2017 | freeCodeCamp |
+| HTML5 and CSS module | June 2017 | freeCodeCamp |
 | Try Git | May 2017 | Code School (Pluralsight) |
 | Getting Started with Web Technologies | April 2017 | Microsoft Virtual Academy |
 | JavaScript Fundamentals | June 2014 | Microsoft Virtual Academy |
