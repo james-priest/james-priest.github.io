@@ -37,7 +37,7 @@
 
 ## Objective
 
-To find long-term employment at a large & dynamic company building next generation apps and services.
+Commit to a long-term relationship with a dynamic & forward-thinking company building next generation applications and services.
 
 ---
 
@@ -278,6 +278,19 @@ GPA 3.52/4.00
 
 | Course    | Completed   | Provider Credential  |
 | :---      | ---         | --:       |
+| Real-time Web with Node.js | October 2017 | Code School (Pluralsight) |
+| Try jQuery | October 2017 | Code School (Pluralsight) |
+| You, Me, & SVG | October 2017 | Code School (Pluralsight) |
+| JavaScript Best Practices | October 2017 | Code School (Pluralsight) |
+| JavaScript Road Trip Part 3 | September 2017 | Code School (Pluralsight) |
+| JavaScript Road Trip Part 2 | September 2017 | Code School (Pluralsight) |
+| JavaScript Road Trip Part 1 | September 2017 | Code School (Pluralsight) |
+| Intermediate Front End Development Projects | September 2017 | freeCodeCamp |
+| JSON APIs and Ajax module | September 2017 | freeCodeCamp |
+| Basic Algorithm Scripting | September 2017 | freeCodeCamp |
+| Object Oriented and Functional Programming | August 2017 | freeCodeCamp |
+| Basic JavaScript module | August 2017 | freeCodeCamp |
+| Basic Front End Development Projects | August 2017 | freeCodeCamp |
 | Blasting Off with Bootstrap (CSS Frameworks) | August 2017 | Code School (Pluralsight) |
 | CSS Cross Country (Intermediate CSS) | August 2017 | Code School (Pluralsight) |
 | Front-end Formations (HTML5 & CSS II) | August 2017 | Code School (Pluralsight) |
@@ -344,7 +357,11 @@ Links to sites that provide verification of training and courses completed.
 
 ## Sample Apps
 
-* JavaScript Array Methods: [http://javascript-array-methods.netlify.com/](http://javascript-array-methods.netlify.com/)
+* [Weather Forecast App](https://local-weather-app.netlify.com/)
+* [SpyCats Portfolio Site](https://spycats.netlify.com/)
+* [JavaScript Array Methods](http://javascript-array-methods.netlify.com/)
+* [Random Quote Generator](https://random-quote-generator.netlify.com/)
+* [Bootstrap Blast Off](https://bootstrap-blast-off.netlify.com/)
 
 **[⬆ table of contents](#james-priest "toc")**
 
