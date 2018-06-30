@@ -38,7 +38,7 @@
 
 ## Objective
 
-Full Stack Developer with 20 years of Front End, Database, and .NET experience seeking to build the next generation of web & mobile apps with a dynamic & forward-thinking company.
+Full Stack Developer with 20 years of Front End, Database, .NET, & Marketing experience seeking to join a dynamic & forward-thinking company in which to build the next generation of web & mobile apps.
 
 ---
 
