@@ -27,7 +27,8 @@
     1. [Friendly Computer Networks](#career--friendly-computer-networks "toc")
     1. [DeVry Institute of Technology](#career--devry-institute "toc")
 1. [Education](#education "toc")
-1. [Certifications & Training](#certifications--training "toc")
+1. [Training](#training "toc")
+1. [Certifications](#certifications "toc")
 1. [Social Media](#social-media "toc")
 1. [Additional Links](#additional-links "toc")
 1. [Sample Apps](#sample-apps "toc")
@@ -37,7 +38,7 @@
 
 ## Objective
 
-Commit to a long-term relationship with a dynamic & forward-thinking company building next generation applications and services.
+Full Stack Developer with 20 years of Front End, Database, and .NET experience seeking to build the next generation of web & mobile apps with a dynamic & forward-thinking company.
 
 ---
 
@@ -274,7 +275,7 @@ GPA 3.52/4.00
 
 ---
 
-## Certifications &amp; Training
+## Training
 
 | Course    | Completed   | Provider Credential  |
 | :---      | ---         | --:       |
@@ -337,11 +338,21 @@ GPA 3.52/4.00
 
 ---
 
+## Certifications
+* Microsoft HTML, CSS3, & JavaScript (2018) - **In process**
+* Google Mobile Web Specialist (2018) - **In process**
+* Java Programming Certification (1997)
+
+---
+
 ## Achievements
 Links to sites that provide verification of training and courses completed.
 
-* **100 Days of Code Log** - [https://james-priest.github.io/100-days-of-code-log/](https://james-priest.github.io/100-days-of-code-log/)<br />
-    This is my code log of tasks, challenges, and work samples related to web development.
+* **100 Days of Code Log**<br />
+    These are my code logs of tasks, challenges, and work samples related to web development.
+    * Log Round 1 - [https://james-priest.github.io/100-days-of-code-log/](https://james-priest.github.io/100-days-of-code-log/)
+    * Log Round 2 - [https://james-priest.github.io/100-days-of-code-log-2/](https://james-priest.github.io/100-days-of-code-log-r2/)
+    * Log Round 3 - [https://james-priest.github.io/100-days-of-code-log-3/](https://james-priest.github.io/100-days-of-code-log-r3/)
 * **Code School:** [https://www.codeschool.com/users/james-priest](https://www.codeschool.com/users/james-priest)<br />
     Report card, badges, and achievement status.
 * **Free Code Camp:** [https://www.freecodecamp.com/james-priest](https://www.freecodecamp.com/james-priest)<br />
