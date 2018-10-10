@@ -6,7 +6,8 @@
     <span class="icons"><a href="https://github.com/james-priest" title="GitHub Profile" target="_blank"><i class="fa fa-github fa-lg" aria-hidden="true"></i>&nbsp;GitHub</a></span> •
     <span class="icons"><a href="https://www.linkedin.com/in/jamespriestdeveloper/" title="LinkedIn Profile" target="_blank"><i class="fa fa-linkedin-square fa-lg" aria-hidden="true"></i>&nbsp;LinkedIn</a></span> •
     <span class="icons"><a href="https://codepen.io/james-priest" title="CodePen Profile" target="_blank"><i class="fa fa-codepen fa-lg" aria-hidden="true"></i>&nbsp;CodePen</a></span> •
-    <span class="icons"><a href="https://www.freecodecamp.com/james-priest" title="freeCodeCamp Profile" target="_blank"><i class="fa fa-free-code-camp fa-lg" aria-hidden="true"></i>&nbsp;freeCodeCamp</a></span>
+    <span class="icons"><a href="https://www.freecodecamp.com/james-priest" title="freeCodeCamp Profile" target="_blank"><i class="fa fa-free-code-camp fa-lg" aria-hidden="true"></i>&nbsp;freeCodeCamp</a></span> •
+    <span class="icons"><a href="https://www.instagram.com/jamespub" title="Instagram Account" target="_blank"><i class="fa fa-instagram" aria-hidden="true" style="font-size: 20px"></i>&nbsp;Instagram</a></span>
     <!--<span class="icons"><a href="#" title="Not yet, but soon.😊" target="_blank"><i class="fa fa-medium fa-lg" aria-hidden="true"></i>&nbsp;Medium</a></span>-->
 </p>
 
@@ -384,6 +385,7 @@ Links to sites that provide verification of training and courses completed.
 * GitHub: [https://github.com/james-priest](https://github.com/james-priest)
 * CodePen: [https://codepen.io/james-priest](https://codepen.io/james-priest)
 * LinkedIn: [https://www.linkedin.com/in/jamespriestdeveloper/](https://www.linkedin.com/in/jamespriestdeveloper/)
+* Instagram: [https://www.instagram.com/jamespub](https://www.instagram.com/jamespub)
 
 **[⬆ table of contents](#james-priest "toc")**
 
