@@ -11,6 +11,8 @@
     <!--<span class="icons"><a href="#" title="Not yet, but soon.😊" target="_blank"><i class="fa fa-medium fa-lg" aria-hidden="true"></i>&nbsp;Medium</a></span>-->
 </p>
 
+<!--
+
 ---
 
 ## Table of Contents
@@ -29,10 +31,13 @@
     1. [DeVry Institute of Technology](#career--devry-institute "toc")
 1. [Education](#education "toc")
 1. [Certifications](#certifications "toc")
+1. [Achievements](#achievements "toc")
 1. [Sample Apps](#sample-apps "toc")
 1. [Training](#training "toc")
-1. [Social Media](#social-media "toc")
+1. [Code Notes](#code-notes "toc")
 1. [My Story](#my-story "toc")
+1. [Social Media](#social-media "toc")
+-->
 
 ---
 
@@ -55,17 +60,24 @@ Full Stack Developer with 20 years of Front End, Database, .NET, & Marketing exp
 
 | Development Skills |   |
 | :--- | :--- |
-| Complete .NET Web Application Development | SQL Server & MySQL Database Design & Programming |
-| Multi-tier Object Oriented Design | Cross-device & Cross-browser Responsive Design |
-| Traditional Desktop Application Solutions | LAMP Development |
-| Integrated Video Solutions | Usability, Information Architecture, Standards Design |
+| Responsive Web Design | Offline Web Applications |
+| JAMStack Architecture | ARIA & Web Accessibility |
+| UI/UX, IA, & Standards Design | Web Automation & Build Systems |
+| .NET Web Application Development | RDBMS & NoSQL Design & Programming |
+
+<!-- 
+| Offline Web Applications | Web Automation & Build Systems |
+| .NET Web Application Development | SQL Server/MySQL DB Design & Programming |
+| Multi-tier Object Oriented Design | Responsive Web Design |
+| Web Accessibility & ARIA | UI/UX, Information Architecture, Standards Design |
+ -->
 
 | Languages | Web & Database | IDEs & Code Environments |
 | :-------- | :----------- | :---------      |
-| JavaScript ES5/ES6 | .NET Framework / ASP.NET Core     | VS 2017 / VS Code           |
+| JavaScript ES5/ES6 | .NET Framework / ASP.NET Core     | VS Code & Visual Studio |
 | HTML5 / CSS3 | Cache API / IndexedDB / Fetch API  | Git / GitHub |
-| C# | jQuery / FE Frameworks / Web APIs | VS Team Services    |
-| VB | SQL / Stored Procs / Triggers  | Azure Cloud VMs (Win/Ubuntu) |
+| C# | jQuery / FE Frameworks / Web APIs | Azure DevOps |
+| VB | SQL / Stored Procedures / Triggers  | Azure Cloud VMs (Win/Ubuntu) |
 
 | Stack Technologies |
 | :-- |
@@ -73,7 +85,7 @@ Full Stack Developer with 20 years of Front End, Database, .NET, & Marketing exp
 
 | Additional Skills |
 | :-- |
-| Nodejs, Npm, NuGet, DotNet, Jekyll, Scss, Emmet (Zen Coding), Linting (JSLint, JSHint, ESLint, Flow, StandardJS), JS Style Guides (StandardJS, Google, Idiomatic.js, AirBnB) |
+| Service Workers, IndexedDB, Cache API, Fetch API, Git, Gulp, Grunt, Node.js, Npm, Jekyll, MarkDown |
 
 **[⬆ table of contents](#james-priest "toc")**
 
@@ -163,7 +175,7 @@ This project consisted of... -->
 * **VeloTrack (Site Management and Behavioral Analysis System)** – VeloTrack was a custom-built solution that integrated seamlessly with websites to offer behavioral tracking, email list management, registration, surveying, and demographic-based site usage reporting.  VeloTrack boasted the ability to capture millions of page views per day in a manner completely transparent to the end user.  The system was designed to be highly customizable as well as intuitive in order to allow non-technical clients the ability to generate reports as well as create surveys and construct email marketing campaigns.  All data was also available through HTTP as a Web API for integration into client applications.<br />
 **This was a modularized system developed over two years which consisted of equal parts Google Analytics, Constant Contact, Mail Chimp, WordPress & Salesforce before those systems came into being.**
 
-* **VeloTeam (Asset Management Extranet System)** – Velodea’s extranet system managed all documents and materials related to a project while facilitating communication and collaboration between project teams and clients.  Highly customizable document repositories organized and managed all project-based assets.  Additionally, the system managed user accounts, tracked incident resolutions and sent automated email notification to the team when new material was made available to the site.  Use of this system had reduced cost and dramatically increased productivity by shortening the development life cycle of Velodea’s projects.  Over 100 customized instances were rolled out for clients such as Sony, Miramax, Qualcomm, and Toshiba.
+* **VeloTeam (Asset Management Extranet System)** – Velodea’s extranet system managed all documents and materials related to a project while facilitating communication and collaboration between project teams and clients.  Highly customizable document repositories organized and managed all project-based assets.  Additionally, the system managed user accounts, tracked incident resolutions and sent automated email notification to the team when new material was made available to the site.  Use of this system had reduced cost and dramatically increased productivity by shortening the development life cycle of Velodea’s projects.  Over 100 customized instances were rolled out for clients such as Sony, Miramax, Qualcomm, and Toshiba.<br>
 **This was a system that provided the capabilities of Basecamp, DropBox, JIRA, and GitHub. It offered project management, document sharing, version control, bug tracking/issue resolution & client communications at a time when those services didn't exist out in the wild.**
 
 _Technologies Used:_ **ASP, JavaScript, HTML, CSS, SQL, VB, COM, XML; DevOps for Windows Server, Exchange Server & SQL Server platforms & Active Directory Networks.**
@@ -266,21 +278,21 @@ Founding member of DeVry’s Helpdesk facility.  Lead six-member team responsibl
 
 ## Education
 
-Bachelor of Science in Computer Information Systems<br />
-DeVry Institute of Technology Pomona, California<br />
-Graduation with Honors<br />
-GPA 3.52/4.00
+- **Bachelor of Science in Computer Information Systems**<br />
+  DeVry Institute of Technology Pomona, California<br />
+  Graduation with Honors<br />
+  GPA 3.52/4.00
 
 **[⬆ table of contents](#james-priest "toc")**
 
 ---
 
 ## Certifications
-* Udacity Mobile Web Specialist Nanodegree - 6 month program (Oct 2018) - [View Certificate](https://confirm.udacity.com/3JM7SK4Q)
-* Grow With Google Scholarship Challenge for Mobile Web - 3 month program (Apr 2018)
-* Google Mobile Web Specialist (2018) - **In process**
-* Microsoft HTML, CSS3, & JavaScript (2018) - **In process**
-* Java Programming Certification (1997)
+* **Google Mobile Web Specialist** certification (In process)
+* **Microsoft Programming in HTML5 with JavaScript & CSS3** certification (In process)
+* **Mobile Web Specialist Nanodegree** by Udacity - 6 month program (Oct 2018) - [View Certificate](https://confirm.udacity.com/3JM7SK4Q)
+* **Grow With Google Scholarship Challenge** for Mobile Web - 3 month program (Apr 2018)
+* **Java 1.1 Programming** certification - The Waite Group (1998)
 
 **[⬆ table of contents](#james-priest "toc")**
 
@@ -306,24 +318,9 @@ Links to sites that provide verification of training and courses completed.
 
 ---
 
-## Code Logs & Notes
-
-* **100 Days of Code Log**<br>
-  These are my code logs of tasks, challenges, and work samples related to web development.
-  * Log Round 1 - [https://james-priest.github.io/100-days-of-code-log/](https://james-priest.github.io/100-days-of-code-log/)
-  * Log Round 2 - [https://james-priest.github.io/100-days-of-code-log-2/](https://james-priest.github.io/100-days-of-code-log-r2/)
-  * Log Round 3 - [https://james-priest.github.io/100-days-of-code-log-3/](https://james-priest.github.io/100-days-of-code-log-r3/)
-  * Log Round 4 - [https://james-priest.github.io/100-days-of-code-log-4/](https://james-priest.github.io/100-days-of-code-log-r4/)
-* 
-
-
-**[⬆ table of contents](#james-priest "toc")**
-
----
-
 ## Sample Apps
 
-* [CSS Grid Learning App](https://james-priest.github.io/grid-critters-code/)<br>
+* **CSS Grid Learning App** [[demo](https://css-grid.netlify.com/), [repo](https://github.com/james-priest/grid-critters-code), [code sample](https://github.com/james-priest/grid-critters-code/blob/master/script/mce_ta.js), [CodePen](https://codepen.io/james-priest/pen/MrdNPZ)]<br>
   This is JavaScript Single Page Application built as a proof-of-concept. It teaches CSS Grid as a series of lessons. It uses vanilla JavaScript, CSS transitions, & serious amounts of RegEx for the in-page code editor... all built from scratch.
 * [CSS Grid Learning App on CodePen](https://codepen.io/james-priest/pen/MrdNPZ)<br>
   The same SPA on CodePen so you can peruse the code.
@@ -404,19 +401,58 @@ Links to sites that provide verification of training and courses completed.
 | Advanced HTML Authoring | December 1998 | Microsoft Corp. |
 | Oracle Developer 2000 Reports 3.0 | May 1998 | Oracle Training |
 | VB & Internet Advisor DevCon 98 | February 1998 | Advisor Publications |
-| Java 1.1 Programming Certification | December 1997 | The Waite Group |
+| Java 1.1 Programming Certification | January 1998 | The Waite Group |
 
 **[⬆ table of contents](#james-priest "toc")**
 
 ---
 
-## Social Media
+## Code Notes
 
-* Twitter: [https://twitter.com/james_priest1](https://twitter.com/james_priest1)
-* GitHub: [https://github.com/james-priest](https://github.com/james-priest)
-* CodePen: [https://codepen.io/james-priest](https://codepen.io/james-priest)
-* LinkedIn: [https://www.linkedin.com/in/jamespriestdeveloper/](https://www.linkedin.com/in/jamespriestdeveloper/)
-* Instagram: [https://www.instagram.com/jamespub](https://www.instagram.com/jamespub)
+* **Mobile Web Nanodegree Code Notes**<br>
+  Step-by-step walk-through of code I wrote to meet the Restaruant App project requirements.
+  * Stage 1 - [Building a fully responsive & accessible web app](https://james-priest.github.io/mws-restaurant-stage-1/stage1.html)
+  * Stage 2 - [Offline capability with Service Worker, Cache API, & IndexedDB](https://james-priest.github.io/mws-restaurant-stage-1/stage2.html)
+  * Stage 3 - [Designing HTML5 forms, offline request queue, & performance tuning](https://james-priest.github.io/mws-restaurant-stage-1/stage3.html)
+* **100 Days of Code Log**<br>
+  Tasks, challenges, and work samples related to web development over the last 18 months.
+  * Log Round 1 - [June 2017 - January 2018](https://james-priest.github.io/100-days-of-code-log/)
+  * Log Round 2 - [January 2018 - May 2018](https://james-priest.github.io/100-days-of-code-log-r2/)
+  * Log Round 3 - [May 2018 - October 2018](https://james-priest.github.io/100-days-of-code-log-r3/)
+  * Log Round 4 - [October 2018 - present](https://james-priest.github.io/100-days-of-code-log-r4/)
+* **Microsoft Programming in HTML5 with JavaScript and CSS3 Study Notes**<br>
+  Notes related to my studies for the MS 70-480 certification exam.
+  * Chapter 10 - [WebSocket Communications](https://james-priest.github.io/100-days-of-code-log-r2/CH10-WebSocket.html)
+  * Chapter 11 - [HTML5 Media](https://james-priest.github.io/100-days-of-code-log-r2/CH11-HTML5-Media.html)
+  * Chapter 12 - [HTML5 Canvas](https://james-priest.github.io/100-days-of-code-log-r2/CH12-Canvas.html)
+  * Chapter 13 - [HTML5 Drag and Drop](https://james-priest.github.io/100-days-of-code-log-r2/CH13-Drag-Drop.html)
+  * Chapter 14 - [HTML5 Geolocation](https://james-priest.github.io/100-days-of-code-log-r2/CH14-Geolocation.html)
+  * Chapter 15 - [Web Storage](https://james-priest.github.io/100-days-of-code-log-r2/CH15-WebStorage.html)
+  * Chapter 16 - [Offline Web Applications](https://james-priest.github.io/100-days-of-code-log-r2/CH16-Offline.html)
+  * Chapter 16 - [WebSQL](https://james-priest.github.io/100-days-of-code-log-r2/CH16-Offline1-WebSQL.html)
+  * Chapter 16 - [IndexedDB](https://james-priest.github.io/100-days-of-code-log-r2/CH16-Offline2-IndexedDB.html)
+* **Grow With Google Scholarship Challenge Course Notes**<br>
+  Course notes from the Offline First & ES6 JavaScript Improved courses.
+  1. Offline First (1) - [Introducing the Service Worker](https://james-priest.github.io/100-days-of-code-log-r2/Introducing-the-Service-Worker.html)
+  2. Offline First (2) - [IndexedDB and Caching](https://james-priest.github.io/100-days-of-code-log-r2/IndexedDB-and-Caching.html)
+  3. ES6 JavaScript Improved (1) - [Syntax](https://james-priest.github.io/100-days-of-code-log-r2/ES6-Syntax.html)
+  4. ES6 JavaScript Improved (2) - [Functions](https://james-priest.github.io/100-days-of-code-log-r2/ES6-Functions.html)
+  5. ES6 JavaScript Improved (2.5) - [Classes](https://james-priest.github.io/100-days-of-code-log-r2/ES6-Classes.html)
+  6. ES6 JavaScript Improved (3) - [Built-ins](https://james-priest.github.io/100-days-of-code-log-r2/ES6-Built-ins.html)
+  7. ES6 JavaScript Improved (3.5) - [Built-ins-Pt2](https://james-priest.github.io/100-days-of-code-log-r2/ES6-Built-ins-Pt2.html)
+  8. ES6 JavaScript Improved (4) - [Professional Developer-fu](https://james-priest.github.io/100-days-of-code-log-r2/ES6-Professional-Developer-fu.html)
+* **Mobile Web Nanodegree Course Notes**<br>
+  Course Notes from the Nanodegree course list.
+  * Accessible & Responsive Web Apps - [Responsive Web Design Fundamentals](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-web-design-fundamentals.html)
+  * Accessible & Responsive Web Apps - [Responsive Images](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-images.html)
+  * Accessible & Responsive Web Apps - [Web Accessibility](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-accessibility.html)
+  * Dynamic & Offline Capable Web Apps - [Asynchronous JavaScript Requests](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/asynchronous-javascript-requests.html)
+  * Dynamic & Offline Capable Web Apps - [Web Tooling and Automation](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-tooling-and-automation.html)
+  * Performant Web Apps - [Client-Server Communications](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/client-server-communication.html)
+* **Other Course Notes**<br>
+  Notes from other key courses I've taken.
+  * Pragrim Technologies - [Object Oriented JavaScript](https://james-priest.github.io/100-days-of-code-log-r2/OO-JavaScript.html)
+  * Udacity - [JavaScript Promises](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/javascript-promises.html)
 
 **[⬆ table of contents](#james-priest "toc")**
 
@@ -463,6 +499,22 @@ Written as a timeline and narrative
 
 **[⬆ table of contents](#james-priest "toc")**
 
+<!--
+
+---
+
+## Social Media
+
+* Twitter: [https://twitter.com/james_priest1](https://twitter.com/james_priest1)
+* GitHub: [https://github.com/james-priest](https://github.com/james-priest)
+* CodePen: [https://codepen.io/james-priest](https://codepen.io/james-priest)
+* LinkedIn: [https://www.linkedin.com/in/jamespriestdeveloper/](https://www.linkedin.com/in/jamespriestdeveloper/)
+* Instagram: [https://www.instagram.com/jamespub](https://www.instagram.com/jamespub)
+
+**[⬆ table of contents](#james-priest "toc")**
+
+---
+ -->
 <!--
 /*
  * TODO:
