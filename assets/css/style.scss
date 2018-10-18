@@ -23,6 +23,8 @@ nav {
   }
 
 section { width: 690px; }
+  section a { border-bottom: 1px dotted; }
+  section a:hover { border-bottom: none; }
   span.icons {
       white-space: nowrap;
   }

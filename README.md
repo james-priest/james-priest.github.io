@@ -2,10 +2,10 @@
 # James Priest
 
 <p>
-    <span class="icons"><a href="https://twitter.com/james_priest1" title="Twitter Profile" target="_blank"><i class="fa fa-twitter-square" style="font-size: 20px"></i>&nbsp;Twitter</a></span> •
     <span class="icons"><a href="https://github.com/james-priest" title="GitHub Profile" target="_blank"><i class="fa fa-github" style="font-size: 20px"></i>&nbsp;GitHub</a></span> •
-    <span class="icons"><a href="https://www.linkedin.com/in/jamespriestdeveloper/" title="LinkedIn Profile" target="_blank"><i class="fa fa-linkedin-square" style="font-size: 20px"></i>&nbsp;LinkedIn</a></span> •
     <span class="icons"><a href="https://codepen.io/james-priest" title="CodePen Profile" target="_blank"><i class="fa fa-codepen" style="font-size: 20px"></i>&nbsp;CodePen</a></span> •
+    <span class="icons"><a href="https://www.linkedin.com/in/jamespriestdeveloper/" title="LinkedIn Profile" target="_blank"><i class="fa fa-linkedin-square" style="font-size: 20px"></i>&nbsp;LinkedIn</a></span> •
+    <span class="icons"><a href="https://twitter.com/james_priest1" title="Twitter Profile" target="_blank"><i class="fa fa-twitter-square" style="font-size: 20px"></i>&nbsp;Twitter</a></span> •
     <span class="icons"><a href="https://www.freecodecamp.com/james-priest" title="freeCodeCamp Profile" target="_blank"><i class="fa fa-free-code-camp" style="font-size: 20px"></i>&nbsp;freeCodeCamp</a></span> •
     <span class="icons"><a href="https://www.instagram.com/jamespub" title="Instagram Account" target="_blank"><i class="fa fa-instagram" style="font-size: 20px"></i>&nbsp;Instagram</a></span>
     <!--<span class="icons"><a href="#" title="Not yet, but soon.😊" target="_blank"><i class="fa fa-medium fa-lg" aria-hidden="true"></i>&nbsp;Medium</a></span>-->
@@ -60,10 +60,10 @@ Full Stack Developer with 20 years of Front End, Database, .NET, & Marketing exp
 
 | Development Skills |   |
 | :--- | :--- |
-| Responsive Web Design | Offline Web Applications |
-| JAMStack Architecture | ARIA & Web Accessibility |
+| Responsive Web Design | PWA & Offline First App Development |
+| JAMStack Architecture | WIA-ARIA & Web Accessibility Compliance |
 | UI/UX, IA, & Standards Design | Web Automation & Build Systems |
-| .NET Web Application Development | RDBMS & NoSQL Design & Programming |
+| .NET Web Application Development | RDBMS & NoSQL DB Design & Programming |
 
 <!-- 
 | Offline Web Applications | Web Automation & Build Systems |
@@ -87,13 +87,17 @@ Full Stack Developer with 20 years of Front End, Database, .NET, & Marketing exp
 | :-- |
 | Service Workers, IndexedDB, Cache API, Fetch API, Git, Gulp, Grunt, Node.js, Npm, Jekyll, MarkDown |
 
-**[⬆ table of contents](#james-priest "toc")**
+**[⬆ top](#james-priest "toc")**
 
 ---
 
 ## Career History
 
 <a name="career--velodea" id="career--velodea"></a>
+
+| [Velodea](#velodea "toc") | [Microsoft Corporation](#microsoft-corporation "toc") | [Talbert Medical](#talbert-medical-management-corporation "toc") |
+| [devAware Tech Solutions](#devaware-technology-solutions "toc") | [Phillips Research Laboratory](#phillips-research-laboratory "toc") | [Friendly Computer Networks](#friendly-computer-networks "toc") |
+| [The Velodea Group](#the-velodea-group "toc") | [Intel Corporation](#intel-corporation "toc") | [DeVry Institute of Technology](#devry-institute "toc") |
 
 ### Velodea
 
@@ -124,7 +128,7 @@ _Technologies Used:_ **Flash, ActionScript, FMS streaming, AfterEffects, 3D Stud
 * **ABC Studios Live Stream** - ABC Studios engaged Velodea to design and build a streaming media system that would allow executives and other stakeholders the ability to tap into camera feeds at each remote sound stage location to view filming of various shows in real-time. The system developed was a custom combination of hardware and software encoders that could transcode to both Windows Media and Flash Media video which could be accessed through a secured website.<br />
 _Technologies Used:_ **ASP.NET, C#, Flash, ActionScript, FMS & WMS streaming, Flash Live & Windows Media Encoders, F4V & WMV format encoding**
 
-**[⬆ table of contents](#james-priest "toc")**
+**[⬆ top](#james-priest "toc")**
 
 ---
 
@@ -151,7 +155,7 @@ _Technologies Used:_ **ASP.NET, ADO.NET, VB.NET, Win32, VB COM objects, SQL Serv
 
   _Technologies Used:_ **VB.NET, ADO.NET, VB COM objects, InstallShield scripting, IIS, SQL Server, testing lab methodologies**
 
-**[⬆ table of contents](#james-priest "toc")**
+**[⬆ top](#james-priest "toc")**
 
 ---
 
@@ -180,7 +184,7 @@ This project consisted of... -->
 
 _Technologies Used:_ **ASP, JavaScript, HTML, CSS, SQL, VB, COM, XML; DevOps for Windows Server, Exchange Server & SQL Server platforms & Active Directory Networks.**
 
-**[⬆ table of contents](#james-priest "toc")**
+**[⬆ top](#james-priest "toc")**
 
 ---
 
@@ -202,7 +206,7 @@ As a key member of Microsoft’s Product Release team, responsibilities included
 
 Each system was developed according to multi-tier design architecture standards and were built using **HTML, ASP, Visual Basic, JavaScript, VBScript, CSS, and SQL stored procedures**. Where possible, **MTS COM objects** were created for re-usability and programming practices followed a component-based object model.  Additional responsibilities as Release Program Manager ranged from systems analysis to solution implementation and included such things as **application prototyping, database implementation, user-interface design** and **technical, functional & user documentation**.
 
-**[⬆ table of contents](#james-priest "toc")**
+**[⬆ top](#james-priest "toc")**
 
 ---
 
@@ -216,7 +220,7 @@ Each system was developed according to multi-tier design architecture standards 
 
 Hired as Lead Intranet Developer for the U.S. Air Force’s Phillips Research Lab at Kirtland Air Force Base.  Job functions involved design and implementation of all **web-based client/server applications** as well as **systems analysis, database programming and graphic design**. Technologies used included **ASP, SQL, Java** and **ActiveX development**. Also responsible for **NT, IIS, and SQL Server administration and configuration**.
 
-**[⬆ table of contents](#james-priest "toc")**
+**[⬆ top](#james-priest "toc")**
 
 ---
 
@@ -230,7 +234,7 @@ Hired as Lead Intranet Developer for the U.S. Air Force’s Phillips Research La
 
 Contracted to design and develop a web-based reporting system responsible for generating statistical information for Intel University. Utilized **ASP, SQL, and custom developed ActiveX DLLs**. The system was implemented worldwide upon its completion.
 
-**[⬆ table of contents](#james-priest "toc")**
+**[⬆ top](#james-priest "toc")**
 
 ---
 
@@ -244,7 +248,7 @@ Contracted to design and develop a web-based reporting system responsible for ge
 
 As a member of the IS department, responsibilities included systems analysis and application development in the support of Talbert’s various management systems. Utilized **MS Access, VBA, Visio, and Word** to facilitate documentation.
 
-**[⬆ table of contents](#james-priest "toc")**
+**[⬆ top](#james-priest "toc")**
 
 ---
 
@@ -258,7 +262,7 @@ As a member of the IS department, responsibilities included systems analysis and
 
 Designed, implemented, and maintained Microsoft and Novel networks for various business clients.  Responsibilities included hardware, software and network services.  Provided cost-effective solutions, installations and support of Microsoft products.
 
-**[⬆ table of contents](#james-priest "toc")**
+**[⬆ top](#james-priest "toc")**
 
 ---
 
@@ -272,7 +276,7 @@ Designed, implemented, and maintained Microsoft and Novel networks for various b
 
 Founding member of DeVry’s Helpdesk facility.  Lead six-member team responsible for 300+ Novell workstations connected to 11 NetWare servers, 3 UNIX servers, and 2 NT servers.  Provided network administration, upgrade/repair and user support.
 
-**[⬆ table of contents](#james-priest "toc")**
+**[⬆ top](#james-priest "toc")**
 
 ---
 
@@ -283,18 +287,18 @@ Founding member of DeVry’s Helpdesk facility.  Lead six-member team responsibl
   Graduation with Honors<br />
   GPA 3.52/4.00
 
-**[⬆ table of contents](#james-priest "toc")**
+**[⬆ top](#james-priest "toc")**
 
 ---
 
 ## Certifications
-* **Google Mobile Web Specialist** certification (In process)
-* **Microsoft Programming in HTML5 with JavaScript & CSS3** certification (In process)
-* **Mobile Web Specialist Nanodegree** by Udacity - 6 month program (Oct 2018) - [View Certificate](https://confirm.udacity.com/3JM7SK4Q)
+<!-- * **Google Mobile Web Specialist** certification (In process) -->
+<!-- * **Microsoft Programming in HTML5 with JavaScript & CSS3** certification (In process) -->
+* **Mobile Web Specialist Nanodegree** by Udacity - 6 month program (Oct 2018) - [View](https://confirm.udacity.com/3JM7SK4Q)
 * **Grow With Google Scholarship Challenge** for Mobile Web - 3 month program (Apr 2018)
 * **Java 1.1 Programming** certification - The Waite Group (1998)
 
-**[⬆ table of contents](#james-priest "toc")**
+**[⬆ top](#james-priest "toc")**
 
 ---
 
@@ -314,7 +318,7 @@ Links to sites that provide verification of training and courses completed.
 * **Degreed:** [https://degreed.com/jamespriest](https://degreed.com/jamespriest)<br>
   A catalogued list of all formal schooling, online courses, and programming certifications.
 
-**[⬆ table of contents](#james-priest "toc")**
+**[⬆ top](#james-priest "toc")**
 
 ---
 
@@ -331,7 +335,7 @@ Links to sites that provide verification of training and courses completed.
 * [Random Quote Generator](https://random-quote-generator.netlify.com/)
 * [Bootstrap Blast Off](https://bootstrap-blast-off.netlify.com/)
 
-**[⬆ table of contents](#james-priest "toc")**
+**[⬆ top](#james-priest "toc")**
 
 ---
 
@@ -403,7 +407,7 @@ Links to sites that provide verification of training and courses completed.
 | VB & Internet Advisor DevCon 98 | February 1998 | Advisor Publications |
 | Java 1.1 Programming Certification | January 1998 | The Waite Group |
 
-**[⬆ table of contents](#james-priest "toc")**
+**[⬆ top](#james-priest "toc")**
 
 ---
 
@@ -454,7 +458,7 @@ Links to sites that provide verification of training and courses completed.
   * Pragrim Technologies - [Object Oriented JavaScript](https://james-priest.github.io/100-days-of-code-log-r2/OO-JavaScript.html)
   * Udacity - [JavaScript Promises](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/javascript-promises.html)
 
-**[⬆ table of contents](#james-priest "toc")**
+**[⬆ top](#james-priest "toc")**
 
 ---
 
@@ -497,7 +501,7 @@ Written as a timeline and narrative
     <dd>So, I jumped into the world of MOOCs, boot camps, and classes by training 8-12 hours a day, five to six days per week. I'm still in the middle of this process and am excited to make the transition to full-time employee where I'll be able to reengage with a team, contribute to the whole, and be one among many once again.</dd>
 </dl>
 
-**[⬆ table of contents](#james-priest "toc")**
+**[⬆ top](#james-priest "toc")**
 
 <!--
 
@@ -511,7 +515,7 @@ Written as a timeline and narrative
 * LinkedIn: [https://www.linkedin.com/in/jamespriestdeveloper/](https://www.linkedin.com/in/jamespriestdeveloper/)
 * Instagram: [https://www.instagram.com/jamespub](https://www.instagram.com/jamespub)
 
-**[⬆ table of contents](#james-priest "toc")**
+**[⬆ top](#james-priest "toc")**
 
 ---
  -->
