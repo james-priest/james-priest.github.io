@@ -2,12 +2,12 @@
 # James Priest
 
 <p>
-    <span class="icons"><a href="https://twitter.com/james_priest1" title="Twitter Profile" target="_blank"><i class="fa fa-twitter-square fa-lg" aria-hidden="true"></i>&nbsp;Twitter</a></span> •
-    <span class="icons"><a href="https://github.com/james-priest" title="GitHub Profile" target="_blank"><i class="fa fa-github fa-lg" aria-hidden="true"></i>&nbsp;GitHub</a></span> •
-    <span class="icons"><a href="https://www.linkedin.com/in/jamespriestdeveloper/" title="LinkedIn Profile" target="_blank"><i class="fa fa-linkedin-square fa-lg" aria-hidden="true"></i>&nbsp;LinkedIn</a></span> •
-    <span class="icons"><a href="https://codepen.io/james-priest" title="CodePen Profile" target="_blank"><i class="fa fa-codepen fa-lg" aria-hidden="true"></i>&nbsp;CodePen</a></span> •
-    <span class="icons"><a href="https://www.freecodecamp.com/james-priest" title="freeCodeCamp Profile" target="_blank"><i class="fa fa-free-code-camp fa-lg" aria-hidden="true"></i>&nbsp;freeCodeCamp</a></span> •
-    <span class="icons"><a href="https://www.instagram.com/jamespub" title="Instagram Account" target="_blank"><i class="fa fa-instagram" aria-hidden="true" style="font-size: 20px"></i>&nbsp;Instagram</a></span>
+    <span class="icons"><a href="https://twitter.com/james_priest1" title="Twitter Profile" target="_blank"><i class="fa fa-twitter-square" style="font-size: 20px"></i>&nbsp;Twitter</a></span> •
+    <span class="icons"><a href="https://github.com/james-priest" title="GitHub Profile" target="_blank"><i class="fa fa-github" style="font-size: 20px"></i>&nbsp;GitHub</a></span> •
+    <span class="icons"><a href="https://www.linkedin.com/in/jamespriestdeveloper/" title="LinkedIn Profile" target="_blank"><i class="fa fa-linkedin-square" style="font-size: 20px"></i>&nbsp;LinkedIn</a></span> •
+    <span class="icons"><a href="https://codepen.io/james-priest" title="CodePen Profile" target="_blank"><i class="fa fa-codepen" style="font-size: 20px"></i>&nbsp;CodePen</a></span> •
+    <span class="icons"><a href="https://www.freecodecamp.com/james-priest" title="freeCodeCamp Profile" target="_blank"><i class="fa fa-free-code-camp" style="font-size: 20px"></i>&nbsp;freeCodeCamp</a></span> •
+    <span class="icons"><a href="https://www.instagram.com/jamespub" title="Instagram Account" target="_blank"><i class="fa fa-instagram" style="font-size: 20px"></i>&nbsp;Instagram</a></span>
     <!--<span class="icons"><a href="#" title="Not yet, but soon.😊" target="_blank"><i class="fa fa-medium fa-lg" aria-hidden="true"></i>&nbsp;Medium</a></span>-->
 </p>
 
@@ -28,11 +28,10 @@
     1. [Friendly Computer Networks](#career--friendly-computer-networks "toc")
     1. [DeVry Institute of Technology](#career--devry-institute "toc")
 1. [Education](#education "toc")
-1. [Training](#training "toc")
 1. [Certifications](#certifications "toc")
-1. [Social Media](#social-media "toc")
-1. [Additional Links](#additional-links "toc")
 1. [Sample Apps](#sample-apps "toc")
+1. [Training](#training "toc")
+1. [Social Media](#social-media "toc")
 1. [My Story](#my-story "toc")
 
 ---
@@ -63,10 +62,10 @@ Full Stack Developer with 20 years of Front End, Database, .NET, & Marketing exp
 
 | Languages | Web & Database | IDEs & Code Environments |
 | :-------- | :----------- | :---------      |
-| C#        | .NET Framework / ASP.NET Core     | VS 2017 / VS Code           |
-| JavaScript| jQuery / Bootstrap / Web APIs  | GitHub |
-| HTML5 / CSS3  | Git Bash / Git CLI / TDD (QUnit) | VS Team Services    |
-| VB        | SQL / Stored Procs / Triggers  | Azure Cloud VMs (Win/Ubuntu) |
+| JavaScript ES5/ES6 | .NET Framework / ASP.NET Core     | VS 2017 / VS Code           |
+| HTML5 / CSS3 | Cache API / IndexedDB / Fetch API  | Git / GitHub |
+| C# | jQuery / FE Frameworks / Web APIs | VS Team Services    |
+| VB | SQL / Stored Procs / Triggers  | Azure Cloud VMs (Win/Ubuntu) |
 
 | Stack Technologies |
 | :-- |
@@ -276,10 +275,82 @@ GPA 3.52/4.00
 
 ---
 
+## Certifications
+* Udacity Mobile Web Specialist Nanodegree - 6 month program (Oct 2018) - [View Certificate](https://confirm.udacity.com/3JM7SK4Q)
+* Grow With Google Scholarship Challenge for Mobile Web - 3 month program (Apr 2018)
+* Google Mobile Web Specialist (2018) - **In process**
+* Microsoft HTML, CSS3, & JavaScript (2018) - **In process**
+* Java Programming Certification (1997)
+
+**[⬆ table of contents](#james-priest "toc")**
+
+---
+
+## Achievements
+Links to sites that provide verification of training and courses completed.
+
+* **100DaysOfCode Challenge** ([Code Log](https://james-priest.github.io/100-days-of-code-log/))<br>
+  I code and write about my progress with various tasks, challenges, and work samples related to web development. I've been doing the challenge since June of 2017 and tweet about  progress and lessons learned almost daily.
+* **Twitter** ([@james_priest1](https://twitter.com/james_priest1))<br>
+  I built up a following of 1200+ developers (my twitter fam) since opening my account in May of 2017. I tweet about web development, training, and personal achievements.
+* **Code School:** [https://www.codeschool.com/users/james-priest](https://www.codeschool.com/users/james-priest)<br>
+  Report card, badges, and achievement status.
+* **Free Code Camp:** [https://www.freecodecamp.com/james-priest](https://www.freecodecamp.com/james-priest)<br>
+  Online program focused on Front End, Back End and Data Visualization training and certification.
+* **Microsoft Virtual Academy:** [Web Development Badge](https://mva.microsoft.com/RewardEvidence.aspx/?key=B--MLSyI6ouc3JiHZ6X1dg2)<br>
+  Verification of Web Development badge and related courses completed.
+* **Degreed:** [https://degreed.com/jamespriest](https://degreed.com/jamespriest)<br>
+  A catalogued list of all formal schooling, online courses, and programming certifications.
+
+**[⬆ table of contents](#james-priest "toc")**
+
+---
+
+## Code Logs & Notes
+
+* **100 Days of Code Log**<br>
+  These are my code logs of tasks, challenges, and work samples related to web development.
+  * Log Round 1 - [https://james-priest.github.io/100-days-of-code-log/](https://james-priest.github.io/100-days-of-code-log/)
+  * Log Round 2 - [https://james-priest.github.io/100-days-of-code-log-2/](https://james-priest.github.io/100-days-of-code-log-r2/)
+  * Log Round 3 - [https://james-priest.github.io/100-days-of-code-log-3/](https://james-priest.github.io/100-days-of-code-log-r3/)
+  * Log Round 4 - [https://james-priest.github.io/100-days-of-code-log-4/](https://james-priest.github.io/100-days-of-code-log-r4/)
+* 
+
+
+**[⬆ table of contents](#james-priest "toc")**
+
+---
+
+## Sample Apps
+
+* [CSS Grid Learning App](https://james-priest.github.io/grid-critters-code/)<br>
+  This is JavaScript Single Page Application built as a proof-of-concept. It teaches CSS Grid as a series of lessons. It uses vanilla JavaScript, CSS transitions, & serious amounts of RegEx for the in-page code editor... all built from scratch.
+* [CSS Grid Learning App on CodePen](https://codepen.io/james-priest/pen/MrdNPZ)<br>
+  The same SPA on CodePen so you can peruse the code.
+* [DOM Range Notes & Tests](https://james-priest.github.io/my-code-editor/public/dom_range_tests/)
+* [Weather Forecast App](https://local-weather-app.netlify.com/)
+* [SpyCats Portfolio Site](https://spycats.netlify.com/)
+* [JavaScript Array Methods](http://javascript-array-methods.netlify.com/)
+* [Random Quote Generator](https://random-quote-generator.netlify.com/)
+* [Bootstrap Blast Off](https://bootstrap-blast-off.netlify.com/)
+
+**[⬆ table of contents](#james-priest "toc")**
+
+---
+
 ## Training
 
 | Course    | Completed   | Provider Credential  |
 | :---      | ---         | --:       |
+| Regular Expressions | December 2017 | Code School (Pluralsight) |
+| Mobile Web Design | December 2017 | Code School (Pluralsight) |
+| Flexbox Zombies | December 2017 | Dave Geddes |
+| Cracking FlexBox | Novmeber 2017 | Code School (Pluralsight) |
+| CSS Grid Garden | November 2017 | CodePip |
+| Flexbox Froggy | November 2017 | CodePip |
+| CSS Web Animations | November 2017 | Code School (Pluralsight) |
+| Advanced jQuery | November 2017 | Code School (Pluralsight) |
+| Git Real Advanced Intro to Git | November 2017 | Code School (Pluralsight) |
 | Real-time Web with Node.js | October 2017 | Code School (Pluralsight) |
 | Try jQuery | October 2017 | Code School (Pluralsight) |
 | You, Me, & SVG | October 2017 | Code School (Pluralsight) |
@@ -334,46 +405,6 @@ GPA 3.52/4.00
 | Oracle Developer 2000 Reports 3.0 | May 1998 | Oracle Training |
 | VB & Internet Advisor DevCon 98 | February 1998 | Advisor Publications |
 | Java 1.1 Programming Certification | December 1997 | The Waite Group |
-
-**[⬆ table of contents](#james-priest "toc")**
-
----
-
-## Certifications
-* Microsoft HTML, CSS3, & JavaScript (2018) - **In process**
-* Google Mobile Web Specialist (2018) - **In process**
-* Java Programming Certification (1997)
-
----
-
-## Achievements
-Links to sites that provide verification of training and courses completed.
-
-* **100 Days of Code Log**<br />
-    These are my code logs of tasks, challenges, and work samples related to web development.
-    * Log Round 1 - [https://james-priest.github.io/100-days-of-code-log/](https://james-priest.github.io/100-days-of-code-log/)
-    * Log Round 2 - [https://james-priest.github.io/100-days-of-code-log-2/](https://james-priest.github.io/100-days-of-code-log-r2/)
-    * Log Round 3 - [https://james-priest.github.io/100-days-of-code-log-3/](https://james-priest.github.io/100-days-of-code-log-r3/)
-* **Code School:** [https://www.codeschool.com/users/james-priest](https://www.codeschool.com/users/james-priest)<br />
-    Report card, badges, and achievement status.
-* **Free Code Camp:** [https://www.freecodecamp.com/james-priest](https://www.freecodecamp.com/james-priest)<br />
-    Online program focused on Front End, Back End and Data Visualization training and certification.
-* **Microsoft Virtual Academy:** [Web Development Badge](https://mva.microsoft.com/RewardEvidence.aspx/?key=B--MLSyI6ouc3JiHZ6X1dg2)<br />
-    Verification of Web Development badge and related courses completed.
-* **Degreed:** [https://degreed.com/jamespriest](https://degreed.com/jamespriest)<br />
-    A catalogued list of all formal schooling, online courses, and programming certifications.
-
-**[⬆ table of contents](#james-priest "toc")**
-
----
-
-## Sample Apps
-
-* [Weather Forecast App](https://local-weather-app.netlify.com/)
-* [SpyCats Portfolio Site](https://spycats.netlify.com/)
-* [JavaScript Array Methods](http://javascript-array-methods.netlify.com/)
-* [Random Quote Generator](https://random-quote-generator.netlify.com/)
-* [Bootstrap Blast Off](https://bootstrap-blast-off.netlify.com/)
 
 **[⬆ table of contents](#james-priest "toc")**
 
