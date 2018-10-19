@@ -324,16 +324,20 @@ Links to sites that provide verification of training and courses completed.
 
 ## Sample Apps
 
-* **CSS Grid Learning App** [[demo](https://css-grid.netlify.com/), [repo](https://github.com/james-priest/grid-critters-code), [code sample](https://github.com/james-priest/grid-critters-code/blob/master/script/mce_ta.js), [CodePen](https://codepen.io/james-priest/pen/MrdNPZ)]<br>
+* **CSS Grid Learning App** [[Demo](https://css-grid.netlify.com/?pg=12)], [[Code Sample](https://github.com/james-priest/grid-critters-code/blob/master/script/mce_ta.js)], [[GitHub Repo](https://github.com/james-priest/grid-critters-code)]<br>
   This is JavaScript Single Page Application built as a proof-of-concept. It teaches CSS Grid as a series of lessons. It uses vanilla JavaScript, CSS transitions, & serious amounts of RegEx for the in-page code editor... all built from scratch.
-* [CSS Grid Learning App on CodePen](https://codepen.io/james-priest/pen/MrdNPZ)<br>
+* **CSS Grid Learning App on CodePen** [[CodePen](https://codepen.io/james-priest/pen/MrdNPZ)]<br>
   The same SPA on CodePen so you can peruse the code.
-* [DOM Range Notes & Tests](https://james-priest.github.io/my-code-editor/public/dom_range_tests/)
-* [Weather Forecast App](https://local-weather-app.netlify.com/)
-* [SpyCats Portfolio Site](https://spycats.netlify.com/)
-* [JavaScript Array Methods](http://javascript-array-methods.netlify.com/)
-* [Random Quote Generator](https://random-quote-generator.netlify.com/)
-* [Bootstrap Blast Off](https://bootstrap-blast-off.netlify.com/)
+<!-- * [DOM Range Notes & Tests](https://james-priest.github.io/my-code-editor/public/dom_range_tests/) -->
+* **Weather Forecast App** - [[Demo](https://local-weather-app.netlify.com/)], [[Code Sample](https://github.com/james-priest/local-weather-app/blob/master/js/ajax.js)], [[GitHub Repo](https://github.com/james-priest/local-weather-app)]<br>
+  This app was written from the ground up to satisfy a FreeCodeCamp project requirement. It uses Ajax, CSS animations & transitions, SVG & HTML5 Geolocation. It is also fully responsive.
+* **SpyCats Portfolio Site** - [[Demo](https://spycats.netlify.com/)], [[Code Sample](https://github.com/james-priest/spy-cats/blob/master/js/fcc-portfolio.js)], [[GitHub Repo](https://github.com/james-priest/spy-cats)]<br>
+  This app was also written to satisfy a FreeCodeCamp requirement to build a portfolio website. It uses Bootstrap, jQuery, HTML5 Forms, & is fully responsive in it's design.
+* **JavaScript Array Methods** - [[Demo](http://javascript-array-methods.netlify.com/)], [[Sample Code](https://github.com/james-priest/javascript-array-methods)], [[GitHub Repo](https://github.com/james-priest/javascript-array-methods)]<br>
+  This app was built using QUnit and TDD (Test-Driven Development) methodology. It dynamically builds an interface that explains and shows the results of various JavaScript Array methods.
+* **Random Quote Generator** - [[Demo](https://random-quote-generator.netlify.com/)], [[Code Sample](https://github.com/james-priest/random-quote-generator/blob/master/js/script.js)], [[GitHub Repo](https://github.com/james-priest/random-quote-generator)]<br>
+  This app is another FreeCodeCamp project that uses basic JavaScript, Ajax, & CSS transitions to dynamically display famous quotes. It was created from scratch to satisfy a project requirement.
+<!-- * [Bootstrap Blast Off](https://bootstrap-blast-off.netlify.com/) -->
 
 **[⬆ top](#james-priest "toc")**
 
@@ -426,6 +430,7 @@ Links to sites that provide verification of training and courses completed.
   * Log Round 4 - [October 2018 - present](https://james-priest.github.io/100-days-of-code-log-r4/)
 * **Microsoft Programming in HTML5 with JavaScript and CSS3 Study Notes**<br>
   Notes related to my studies for the MS 70-480 certification exam.
+  * Chapter 6 - [JavaScript Objects](https://github.com/james-priest/javascript-objects)
   * Chapter 10 - [WebSocket Communications](https://james-priest.github.io/100-days-of-code-log-r2/CH10-WebSocket.html)
   * Chapter 11 - [HTML5 Media](https://james-priest.github.io/100-days-of-code-log-r2/CH11-HTML5-Media.html)
   * Chapter 12 - [HTML5 Canvas](https://james-priest.github.io/100-days-of-code-log-r2/CH12-Canvas.html)
@@ -483,22 +488,17 @@ Written as a timeline and narrative
     <dd style="text-align:left"><i>- Opportunities at Home -</i></dd>
     <dd>Wanting to settle down locally, I transitioned to work as an independent freelance developer under my own company umbrella. This was liberating, stressful, and intensely time consuming. It made me realize I love coding, development, and technology - I do not love corporate administration, legalities, deficit finance, negotiating project costs or collections. I did learn to wear many hats though. I had projects with Sony, Fox Studios and Xtreme Desktops during this time.</dd>
   <dt>2006 - 2014 • Velodea (v3) • Pasadena, CA</dt>
-    <dd style="text-align:left"><i>- Innocence Lost -</i></dd>
-    <dd>Returned to Velodea which had re-branded itself and was under new management. Here I flourished for a time, focusing my efforts on helping lift the company out of a $200k deficit. The success of these endeavors seemed to assure the company's long-term future and had promised me an equity stake.</dd>
-    <!--
-    <dd>As visibility into company receivables, accounting duties, and signatory authority was consolidated to one role by the CPA/Managing Director, the company began to misplace large sums of money which resulted in employees not getting paid.</dd>
-    <dd>This began a long period of  struggle and frustration during which I was witness to greed, dishonesty and corporate shenanigans on a scale unimaginable. The company eventually dissolved due to management's <span style="text-decoration:line-through">embezzlement of payroll, theft of company funds, and personal use of corporate assets</span> misuse of corporate funds.</dd>
-    -->
-    <dd>A long period of hard work, unflagging commitment, and faith in the company's future concluded with the unthinkable. The company was dissolved due to management's <!--<span style="text-decoration:line-through">theft of company money, embezzlement of payroll, wholesale deception of the employees and stockholders...</span>--> misuse of corporate funds. Well... At least I would be free to look for work with a company whose core values I shared and admired.</dd>
+    <dd style="text-align:left"><i>- Nose to the Grindstone -</i></dd>
+    <dd>Returned to Velodea which had re-branded itself and was under new management. Here the challenges were immediate & clear. The company was in financial straights. I rolled up my sleeves and worked to help lift the company out of a $200k deficit.</dd>
+    <dd>The success of these endeavors assured us eight great years of challenging and prosperous work before we decided to closes the doors for good on Velodea as a going concern.</dd>
   <dt>2014 - 2016 • <i>Three-year Hiatus</i> • Los Angeles, CA</dt>
     <dd style="text-align:left"><i>- Being of Service -</i></dd>
-    <dd>Needing a recharge, I took time off to re-evaluate what I wanted my focus and position to be in the the industry. <strong>I knew I wanted to work with a large company and that my passion for code meant I wanted to be part of a development team whose members are as excited about the work as I am. I had clarity.</strong></dd>
-    <dd>It was at this point I was called to move in a completely different direction. I was asked to care for a loved one who had been diagnosed with terminal cancer. I stepped into the role of caregiver and provided in-home care until her passing.</dd>
-    <dd><i>This experience showed me what it means to have strength and dignity in the face of the inevitable. I was honored to have been part of this labor of love and in the end, was moved to see that she was able to find meaning in her struggle. She passed away peacefully surrounded by friends, family, and loved-ones. She was thirty seven years old.</i></dd>
-  <dt>2016 - 2017 • <i>Education, Certification & Training, Oh My!</i> • Los Angeles, CA</dt>
-    <dd style="text-align:left"><i>- Full Circle -</i></dd>
-    <dd>I re-engaged with the development community and have been coding, reading, learning, and absorbing with a passion. I didn't want to just throw myself into the job market without first thoroughly mastering some of today's current and most in-demand web dev technologies. I had many paths to choose from but decided to settle on technologies I knew and loved. <strong>I focused my efforts on full-stack development, .NET Core & Azure cloud-based services.</strong></dd>
-    <dd>So, I jumped into the world of MOOCs, boot camps, and classes by training 8-12 hours a day, five to six days per week. I'm still in the middle of this process and am excited to make the transition to full-time employee where I'll be able to reengage with a team, contribute to the whole, and be one among many once again.</dd>
+    <dd>Needing a recharge, I took time off to re-evaluate what I wanted my focus and position to be in the the industry. At this point I was asked to care for a loved one who had been diagnosed with terminal cancer. I stepped into the role of caregiver and for the next few years provided in-home care until her passing.</dd>
+    <dd><i>That experience showed me what it means to have strength and dignity in the face of the inevitable.</i></dd>
+  <dt>2017 - 2018 • <i>Education, Certification & Training, Oh My!</i> • Los Angeles, CA</dt>
+    <dd style="text-align:left"><i>- Back to School -</i></dd>
+    <dd>I re-engaged with the development community and have been coding, reading, learning, and absorbing with a passion. I didn't want to just throw myself into the job market without first thoroughly mastering some of today's current and most in-demand web dev technologies. I had many paths to choose from but decided to settle on technologies I knew and loved. <strong>I focused my efforts on front-end web development including JavaScript, HTML5, & CSS.</strong></dd>
+    <dd>So, I jumped into the world of online training, nano-degrees, self-paced coursework by coding & studying 8 hours a day, five days per week. I just received my Mobile Web Specialist Nanodegree by Udacity and am set to take the Google certification test next.</dd>
 </dl>
 
 **[⬆ top](#james-priest "toc")**
