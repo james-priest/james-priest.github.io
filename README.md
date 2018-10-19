@@ -95,9 +95,9 @@ Full Stack Developer with 20 years of Front End, Database, .NET, & Marketing exp
 
 <a name="career--velodea" id="career--velodea"></a>
 
-| [Velodea](#velodea "toc") | [Microsoft Corporation](#microsoft-corporation "toc") | [Talbert Medical](#talbert-medical-management-corporation "toc") |
-| [devAware Tech Solutions](#devaware-technology-solutions "toc") | [Phillips Research Laboratory](#phillips-research-laboratory "toc") | [Friendly Computer Networks](#friendly-computer-networks "toc") |
-| [The Velodea Group](#the-velodea-group "toc") | [Intel Corporation](#intel-corporation "toc") | [DeVry Institute of Technology](#devry-institute "toc") |
+| 1. [Velodea](#velodea "toc") | 4. [Microsoft Corporation](#microsoft-corporation "toc") | 7. [Talbert Medical](#talbert-medical-management-corporation "toc") |
+| 2. [devAware Tech Solutions](#devaware-technology-solutions "toc") | 5. [Phillips Research Laboratory](#phillips-research-laboratory "toc") | 8. [Friendly Computer Networks](#friendly-computer-networks "toc") |
+| 3. [The Velodea Group](#the-velodea-group "toc") | 6. [Intel Corporation](#intel-corporation "toc") | 9. [DeVry Institute of Technology](#devry-institute "toc") |
 
 ### Velodea
 

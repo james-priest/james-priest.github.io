@@ -25,8 +25,12 @@ nav {
 section { width: 690px; }
   section a { border-bottom: 1px dotted; }
   section a:hover { border-bottom: none; }
+  section .icons a {border-bottom: none; }
   span.icons {
-      white-space: nowrap;
+    white-space: nowrap;
+  }
+  section tbody tr:first-child {
+    border-top: 1px solid #e5e5e5;
   }
   h3 {
    display: inline-block;
