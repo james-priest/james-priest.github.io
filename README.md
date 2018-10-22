@@ -43,7 +43,7 @@
 
 ## Objective
 
-Full Stack Developer with 20 years of Front End, Database, .NET, & Marketing experience seeking to join a dynamic & forward-thinking company in which to build the next generation of web & mobile apps.
+Full Stack Developer with 20 years experience in Front End, Back End, and Database, as well as Marketing, Project Mgmt, & Account Mgmt seeking to join a dynamic company whose focused on building next gen web and mobile apps to help generate sales, increase revenue, or provide services.
 
 ---
 
@@ -60,8 +60,8 @@ Full Stack Developer with 20 years of Front End, Database, .NET, & Marketing exp
 
 | Development Skills |   |
 | :--- | :--- |
-| Responsive Web Design | PWA & Offline First App Development |
-| JAMStack Architecture | WIA-ARIA & Web Accessibility Compliance |
+| Complete Responsive Web Design | PWAs & Offline First App Development |
+| JAMStack Architecture | Web Accessibility & ARIA Compliance |
 | UI/UX, IA, & Standards Design | Web Automation & Build Systems |
 | .NET Web Application Development | RDBMS & NoSQL DB Design & Programming |
 
@@ -72,20 +72,24 @@ Full Stack Developer with 20 years of Front End, Database, .NET, & Marketing exp
 | Web Accessibility & ARIA | UI/UX, Information Architecture, Standards Design |
  -->
 
-| Languages | Web & Database | IDEs & Code Environments |
+| Languages | Web & Database | IDEs & Environments |
 | :-------- | :----------- | :---------      |
 | JavaScript ES5/ES6 | .NET Framework / ASP.NET Core     | VS Code & Visual Studio |
 | HTML5 / CSS3 | Cache API / IndexedDB / Fetch API  | Git / GitHub |
-| C# | jQuery / FE Frameworks / Web APIs | Azure DevOps |
+| C# | jQuery / FE Frameworks / Web APIs | Azure DevOps, Netlify |
 | VB | SQL / Stored Procedures / Triggers  | Azure Cloud VMs (Win/Ubuntu) |
 
-| Stack Technologies |
+| Stack Capabilities |
 | :-- |
 | Front End Development | Back End Development  | Database Design |
 
+| Technical Skills |
+| :-- |
+| Service Workers, IndexedDB, Cache API, Fetch API, Git, Gulp, Grunt, Node.js, Npm, Jekyll, MarkDown, MS SQL Server, MySQL, SQLLite, PouchDB, CouchDB, MongoDB Query Syntax |
+
 | Additional Skills |
 | :-- |
-| Service Workers, IndexedDB, Cache API, Fetch API, Git, Gulp, Grunt, Node.js, Npm, Jekyll, MarkDown |
+| Marketing, Project Management, Account & Client Management, Documentation & Technical Writing |
 
 **[⬆ top](#james-priest "toc")**
 
