@@ -43,7 +43,7 @@
 
 ## Objective
 
-Full Stack Developer with 20 years experience in Front End, Back End, and Database, as well as Marketing, Project Mgmt, & Account Mgmt seeking to join a dynamic company whose focused on building next gen web and mobile apps to help generate sales, increase revenue, or provide services.
+Full Stack Developer with 20 years experience in Front End, Back End, and Database, as well as Marketing, Project Mgmt, & Account Mgmt seeking to join a dynamic team whose focused on building next gen line-of-business web and mobile apps to provide services, offer products, or generate sales.
 
 ---
 
@@ -72,12 +72,12 @@ Full Stack Developer with 20 years experience in Front End, Back End, and Databa
 | Web Accessibility & ARIA | UI/UX, Information Architecture, Standards Design |
  -->
 
-| Languages | Web & Database | IDEs & Environments |
+| Languages | Web & Database | IDEs & Cloud Environments |
 | :-------- | :----------- | :---------      |
 | JavaScript ES5/ES6 | .NET Framework / ASP.NET Core     | VS Code & Visual Studio |
 | HTML5 / CSS3 | Cache API / IndexedDB / Fetch API  | Git / GitHub |
-| C# | jQuery / FE Frameworks / Web APIs | Azure DevOps, Netlify |
-| VB | SQL / Stored Procedures / Triggers  | Azure Cloud VMs (Win/Ubuntu) |
+| C# | jQuery / FE Frameworks / Web APIs | Azure DevOps, Heroku, Netlify |
+| VB | SQL / Stored Procedures / Triggers  | Azure Cloud (Win & Linux VMs) |
 
 | Stack Capabilities |
 | :-- |
@@ -422,7 +422,7 @@ Links to sites that provide verification of training and courses completed.
 ## Code Notes
 
 * **Mobile Web Nanodegree Code Notes**<br>
-  Step-by-step walk-through of code I wrote to meet the Restaruant App project requirements.
+  Step-by-step walk-through of code I wrote as my final project. This is a fully responsive Restaurant Review PWA (Progressive Web App) with database, caching, & offline capabilities.
   * Stage 1 - [Building a fully responsive & accessible web app](https://james-priest.github.io/mws-restaurant-stage-1/stage1.html)
   * Stage 2 - [Offline capability with Service Worker, Cache API, & IndexedDB](https://james-priest.github.io/mws-restaurant-stage-1/stage2.html)
   * Stage 3 - [Designing HTML5 forms, offline request queue, & performance tuning](https://james-priest.github.io/mws-restaurant-stage-1/stage3.html)
@@ -473,7 +473,7 @@ Links to sites that provide verification of training and courses completed.
 
 ## My Story
 
-Written as a timeline and narrative
+A brief timeline of my development career written as a narrative.
 
 <dl>
   <dt>1994-1997 • DeVry University • Pomona, CA</dt>
@@ -484,25 +484,28 @@ Written as a timeline and narrative
     <dd>Worked at Kirtland Air Force Base in Albuquerque, NM - Underwent FBI background check and was granted secret clearance to work on web-based collaboration applications dealing with guidance systems and other technologies relevant to our armed forces.</dd>
   <dt>1998 - 2000 • ✨ Microsoft ✨ • Redmond, WA</dt>
     <dd style="text-align:left"><i>- The Promised Land -</i></dd>
-    <dd>Worked at Microsoft as a Release Program Manager writing web-based applications to manage the release, cataloging, scanning, QA, workflow and distribution of all corporate releases to microsoft.com's Download Center - <b>This was the most creative and engaging work experience of my life. The gold standard to which I measure all others and one I've committed myself to return to.</b></dd>
+    <dd>Worked at Microsoft as a Release Program Manager writing web-based applications to manage the cataloging, scanning, workflow, and distribution of all Microsoft's downloadable content to microsoft.com's Download Center. This was a wonderful example of the kind of dynamic, creative, and engaging company culture I thrived in and am looking to join once again.</dd>
   <dt>2000 - 2002 • Velodea • Milan, Italy</dt>
-    <dd style="text-align:left"><i>- International Man of Mystery -</i></dd>
-    <dd>Left Microsoft to join The Velodea Group - Became employee number seven of this dotcom startup. Here I experienced a new level of intensity and round-the-clock work that we justified as necessary "sweat equity". I traveled frequently between the Los Angeles and Milan offices and served as the head of technology and lead developer for many corporate projects, both internal and external.</dd>
+    <dd style="text-align:left"><i>- Going International -</i></dd>
+    <dd>Left Microsoft to join The Velodea Group - Became employee number seven of this dotcom startup. It was here I experienced a new level of intensity and self-determination. I traveled frequently between Los Angeles and Milan offices and served as the head of technology and lead developer for many corporate projects, both internal and external.</dd>
   <dt>2002 - 2006 • devAware Technology Solutions • Los Angeles, CA</dt>
     <dd style="text-align:left"><i>- Opportunities at Home -</i></dd>
-    <dd>Wanting to settle down locally, I transitioned to work as an independent freelance developer under my own company umbrella. This was liberating, stressful, and intensely time consuming. It made me realize I love coding, development, and technology - I do not love corporate administration, legalities, deficit finance, negotiating project costs or collections. I did learn to wear many hats though. I had projects with Sony, Fox Studios and Xtreme Desktops during this time.</dd>
+    <dd>Wanting to settle down locally, I transitioned to the role of independent contractor and freelance developer under my own company umbrella. This was liberating, stressful, and intensely time consuming. It helped me realize I love coding, development, and technology but am less excited with administration, payroll, and collections. I did learn to wear many hats while working with such companies as Sony, Fox Studios and Xtreme Desktops.</dd>
   <dt>2006 - 2014 • Velodea (v3) • Pasadena, CA</dt>
-    <dd style="text-align:left"><i>- Nose to the Grindstone -</i></dd>
-    <dd>Returned to Velodea which had re-branded itself and was under new management. Here the challenges were immediate & clear. The company was in financial straights. I rolled up my sleeves and worked to help lift the company out of a $200k deficit.</dd>
-    <dd>The success of these endeavors assured us eight great years of challenging and prosperous work before we decided to closes the doors for good on Velodea as a going concern.</dd>
+    <dd style="text-align:left"><i>- New Opportunities with Old Friends -</i></dd>
+    <dd>In 2006 I was asked to return to Velodea which was under new management after having suffered a series of financial setbacks. I agreed to help turn the business around by implementing a new set of procedures designed to streamline operations. It relied on a smaller dev team, tighter turn-arounds, and more effective project management.</dd>
+    <dd>With this new approach we managed to lift the company out a $200k deficit and turn a profit in under a year.</dd>
+    <dd>The success of these efforts assured another eight years of fulfilling and prosperous work before having to make the difficult decision to close Velodea's doors due to the unfortunate and untimely passing of our CEO and Managing Director, Michael Leong.</dd>
+    <dd>We successfully transitioned open projects to our partners and bid farewell to the company.</dd>
   <dt>2014 - 2016 • <i>Three-year Hiatus</i> • Los Angeles, CA</dt>
     <dd style="text-align:left"><i>- Being of Service -</i></dd>
-    <dd>Needing a recharge, I took time off to re-evaluate what I wanted my focus and position to be in the the industry. At this point I was asked to care for a loved one who had been diagnosed with terminal cancer. I stepped into the role of caregiver and for the next few years provided in-home care until her passing.</dd>
-    <dd><i>That experience showed me what it means to have strength and dignity in the face of the inevitable.</i></dd>
+    <dd>Needing a recharge, I took time off to re-evaluate what I wanted my focus and position to be in the industry. At this point I was called upon to care for a loved one who had fallen ill with a terminal form of cancer. I stepped into the role of caregiver and for the next two years provided in-home care until her passing.</dd>
+    <dd><i>That experience allowed me to witness what it means to have strength and dignity in the face of the inevitable.</i></dd>
   <dt>2017 - 2018 • <i>Education, Certification & Training, Oh My!</i> • Los Angeles, CA</dt>
     <dd style="text-align:left"><i>- Back to School -</i></dd>
-    <dd>I re-engaged with the development community and have been coding, reading, learning, and absorbing with a passion. I didn't want to just throw myself into the job market without first thoroughly mastering some of today's current and most in-demand web dev technologies. I had many paths to choose from but decided to settle on technologies I knew and loved. <strong>I focused my efforts on front-end web development including JavaScript, HTML5, & CSS.</strong></dd>
-    <dd>So, I jumped into the world of online training, nano-degrees, self-paced coursework by coding & studying 8 hours a day, five days per week. I just received my Mobile Web Specialist Nanodegree by Udacity and am set to take the Google certification test next.</dd>
+    <dd>Having been absent from the development landscape for two years I found technology had progressed at a breakneck pace. To close the gap I devoted the next
+    year and a half to self-paced study and online learning. Leveling up was my new full-time job.</dd>
+    <dd>During this time I re-engaged with the development community and have been coding, learning, and absorbing with a passion. I set out to master todays' most in-demand Front End technologies and have earned a Mobile Web Specialist Nanodegree in the process. I now have my sights on taking Google's Mobile Web Specialist certification exam next.</dd>
 </dl>
 
 **[⬆ top](#james-priest "toc")**
