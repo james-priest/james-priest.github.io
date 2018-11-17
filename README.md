@@ -33,8 +33,8 @@
 1. [Certifications](#certifications "toc")
 1. [Achievements](#achievements "toc")
 1. [Sample Apps](#sample-apps "toc")
-1. [Training](#training "toc")
 1. [Code Notes](#code-notes "toc")
+1. [Training](#training "toc")
 1. [My Story](#my-story "toc")
 1. [Social Media](#social-media "toc")
 -->
@@ -75,7 +75,7 @@ Full Stack Developer with 20 years experience in Front End, Back End, and Databa
 | Languages | Web & Database | IDEs & Cloud Environments |
 | :-------- | :----------- | :---------      |
 | JavaScript ES5/ES6 | .NET Framework / ASP.NET Core     | VS Code & Visual Studio |
-| HTML5 / CSS3 | Cache API / IndexedDB / Fetch API  | Git / GitHub |
+| HTML5 / CSS3 | Cache API / IndexedDB / Fetch API  | Git / GitHub / GitHub Pages |
 | C# | jQuery / FE Frameworks / Web APIs | Azure DevOps, Heroku, Netlify |
 | VB | SQL / Stored Procedures / Triggers  | Azure Cloud (Win & Linux VMs) |
 
@@ -347,6 +347,58 @@ Links to sites that provide verification of training and courses completed.
 
 ---
 
+## Code Notes
+
+* **Mobile Web Nanodegree Code Notes**<br>
+  Step-by-step walk-through of code I wrote as my final project. This is a fully responsive Restaurant Review PWA (Progressive Web App) with database, caching, & offline capabilities.
+  * Stage 1 - [Building a fully responsive & accessible web app](https://james-priest.github.io/mws-restaurant-stage-1/stage1.html)
+  * Stage 2 - [Offline capability with Service Worker, Cache API, & IndexedDB](https://james-priest.github.io/mws-restaurant-stage-1/stage2.html)
+  * Stage 3 - [Designing HTML5 forms, offline request queue, & performance tuning](https://james-priest.github.io/mws-restaurant-stage-1/stage3.html)
+* **100 Days of Code Log**<br>
+  Tasks, challenges, and work samples related to web development over the last 18 months.
+  * Log Round 1 - [June 2017 - January 2018](https://james-priest.github.io/100-days-of-code-log/)
+  * Log Round 2 - [January 2018 - May 2018](https://james-priest.github.io/100-days-of-code-log-r2/)
+  * Log Round 3 - [May 2018 - October 2018](https://james-priest.github.io/100-days-of-code-log-r3/)
+  * Log Round 4 - [October 2018 - present](https://james-priest.github.io/100-days-of-code-log-r4/)
+* **Microsoft Programming in HTML5 with JavaScript and CSS3 Study Notes**<br>
+  Notes related to my studies for the MS 70-480 certification exam.
+  * Chapter 6 - [JavaScript Objects](https://github.com/james-priest/javascript-objects)
+  * Chapter 10 - [WebSocket Communications](https://james-priest.github.io/100-days-of-code-log-r2/CH10-WebSocket.html)
+  * Chapter 11 - [HTML5 Media](https://james-priest.github.io/100-days-of-code-log-r2/CH11-HTML5-Media.html)
+  * Chapter 12 - [HTML5 Canvas](https://james-priest.github.io/100-days-of-code-log-r2/CH12-Canvas.html)
+  * Chapter 13 - [HTML5 Drag and Drop](https://james-priest.github.io/100-days-of-code-log-r2/CH13-Drag-Drop.html)
+  * Chapter 14 - [HTML5 Geolocation](https://james-priest.github.io/100-days-of-code-log-r2/CH14-Geolocation.html)
+  * Chapter 15 - [Web Storage](https://james-priest.github.io/100-days-of-code-log-r2/CH15-WebStorage.html)
+  * Chapter 16 - [Offline Web Applications](https://james-priest.github.io/100-days-of-code-log-r2/CH16-Offline.html)
+  * Chapter 16 - [WebSQL](https://james-priest.github.io/100-days-of-code-log-r2/CH16-Offline1-WebSQL.html)
+  * Chapter 16 - [IndexedDB](https://james-priest.github.io/100-days-of-code-log-r2/CH16-Offline2-IndexedDB.html)
+* **Grow With Google Scholarship Challenge Course Notes**<br>
+  Course notes from the Offline First & ES6 JavaScript Improved courses.
+  1. Offline First (1) - [Introducing the Service Worker](https://james-priest.github.io/100-days-of-code-log-r2/Introducing-the-Service-Worker.html)
+  2. Offline First (2) - [IndexedDB and Caching](https://james-priest.github.io/100-days-of-code-log-r2/IndexedDB-and-Caching.html)
+  3. ES6 JavaScript Improved (1) - [Syntax](https://james-priest.github.io/100-days-of-code-log-r2/ES6-Syntax.html)
+  4. ES6 JavaScript Improved (2) - [Functions](https://james-priest.github.io/100-days-of-code-log-r2/ES6-Functions.html)
+  5. ES6 JavaScript Improved (2.5) - [Classes](https://james-priest.github.io/100-days-of-code-log-r2/ES6-Classes.html)
+  6. ES6 JavaScript Improved (3) - [Built-ins](https://james-priest.github.io/100-days-of-code-log-r2/ES6-Built-ins.html)
+  7. ES6 JavaScript Improved (3.5) - [Built-ins-Pt2](https://james-priest.github.io/100-days-of-code-log-r2/ES6-Built-ins-Pt2.html)
+  8. ES6 JavaScript Improved (4) - [Professional Developer-fu](https://james-priest.github.io/100-days-of-code-log-r2/ES6-Professional-Developer-fu.html)
+* **Mobile Web Nanodegree Course Notes**<br>
+  Course Notes from the Nanodegree course list.
+  * Accessible & Responsive Web Apps - [Responsive Web Design Fundamentals](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-web-design-fundamentals.html)
+  * Accessible & Responsive Web Apps - [Responsive Images](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-images.html)
+  * Accessible & Responsive Web Apps - [Web Accessibility](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-accessibility.html)
+  * Dynamic & Offline Capable Web Apps - [Asynchronous JavaScript Requests](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/asynchronous-javascript-requests.html)
+  * Dynamic & Offline Capable Web Apps - [Web Tooling and Automation](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-tooling-and-automation.html)
+  * Performant Web Apps - [Client-Server Communications](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/client-server-communication.html)
+* **Other Course Notes**<br>
+  Notes from other key courses I've taken.
+  * Pragrim Technologies - [Object Oriented JavaScript](https://james-priest.github.io/100-days-of-code-log-r2/OO-JavaScript.html)
+  * Udacity - [JavaScript Promises](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/javascript-promises.html)
+
+**[⬆ top](#james-priest "toc")**
+
+---
+
 ## Training
 
 | Course    | Completed   | Provider Credential  |
@@ -414,58 +466,6 @@ Links to sites that provide verification of training and courses completed.
 | Oracle Developer 2000 Reports 3.0 | May 1998 | Oracle Training |
 | VB & Internet Advisor DevCon 98 | February 1998 | Advisor Publications |
 | Java 1.1 Programming Certification | January 1998 | The Waite Group |
-
-**[⬆ top](#james-priest "toc")**
-
----
-
-## Code Notes
-
-* **Mobile Web Nanodegree Code Notes**<br>
-  Step-by-step walk-through of code I wrote as my final project. This is a fully responsive Restaurant Review PWA (Progressive Web App) with database, caching, & offline capabilities.
-  * Stage 1 - [Building a fully responsive & accessible web app](https://james-priest.github.io/mws-restaurant-stage-1/stage1.html)
-  * Stage 2 - [Offline capability with Service Worker, Cache API, & IndexedDB](https://james-priest.github.io/mws-restaurant-stage-1/stage2.html)
-  * Stage 3 - [Designing HTML5 forms, offline request queue, & performance tuning](https://james-priest.github.io/mws-restaurant-stage-1/stage3.html)
-* **100 Days of Code Log**<br>
-  Tasks, challenges, and work samples related to web development over the last 18 months.
-  * Log Round 1 - [June 2017 - January 2018](https://james-priest.github.io/100-days-of-code-log/)
-  * Log Round 2 - [January 2018 - May 2018](https://james-priest.github.io/100-days-of-code-log-r2/)
-  * Log Round 3 - [May 2018 - October 2018](https://james-priest.github.io/100-days-of-code-log-r3/)
-  * Log Round 4 - [October 2018 - present](https://james-priest.github.io/100-days-of-code-log-r4/)
-* **Microsoft Programming in HTML5 with JavaScript and CSS3 Study Notes**<br>
-  Notes related to my studies for the MS 70-480 certification exam.
-  * Chapter 6 - [JavaScript Objects](https://github.com/james-priest/javascript-objects)
-  * Chapter 10 - [WebSocket Communications](https://james-priest.github.io/100-days-of-code-log-r2/CH10-WebSocket.html)
-  * Chapter 11 - [HTML5 Media](https://james-priest.github.io/100-days-of-code-log-r2/CH11-HTML5-Media.html)
-  * Chapter 12 - [HTML5 Canvas](https://james-priest.github.io/100-days-of-code-log-r2/CH12-Canvas.html)
-  * Chapter 13 - [HTML5 Drag and Drop](https://james-priest.github.io/100-days-of-code-log-r2/CH13-Drag-Drop.html)
-  * Chapter 14 - [HTML5 Geolocation](https://james-priest.github.io/100-days-of-code-log-r2/CH14-Geolocation.html)
-  * Chapter 15 - [Web Storage](https://james-priest.github.io/100-days-of-code-log-r2/CH15-WebStorage.html)
-  * Chapter 16 - [Offline Web Applications](https://james-priest.github.io/100-days-of-code-log-r2/CH16-Offline.html)
-  * Chapter 16 - [WebSQL](https://james-priest.github.io/100-days-of-code-log-r2/CH16-Offline1-WebSQL.html)
-  * Chapter 16 - [IndexedDB](https://james-priest.github.io/100-days-of-code-log-r2/CH16-Offline2-IndexedDB.html)
-* **Grow With Google Scholarship Challenge Course Notes**<br>
-  Course notes from the Offline First & ES6 JavaScript Improved courses.
-  1. Offline First (1) - [Introducing the Service Worker](https://james-priest.github.io/100-days-of-code-log-r2/Introducing-the-Service-Worker.html)
-  2. Offline First (2) - [IndexedDB and Caching](https://james-priest.github.io/100-days-of-code-log-r2/IndexedDB-and-Caching.html)
-  3. ES6 JavaScript Improved (1) - [Syntax](https://james-priest.github.io/100-days-of-code-log-r2/ES6-Syntax.html)
-  4. ES6 JavaScript Improved (2) - [Functions](https://james-priest.github.io/100-days-of-code-log-r2/ES6-Functions.html)
-  5. ES6 JavaScript Improved (2.5) - [Classes](https://james-priest.github.io/100-days-of-code-log-r2/ES6-Classes.html)
-  6. ES6 JavaScript Improved (3) - [Built-ins](https://james-priest.github.io/100-days-of-code-log-r2/ES6-Built-ins.html)
-  7. ES6 JavaScript Improved (3.5) - [Built-ins-Pt2](https://james-priest.github.io/100-days-of-code-log-r2/ES6-Built-ins-Pt2.html)
-  8. ES6 JavaScript Improved (4) - [Professional Developer-fu](https://james-priest.github.io/100-days-of-code-log-r2/ES6-Professional-Developer-fu.html)
-* **Mobile Web Nanodegree Course Notes**<br>
-  Course Notes from the Nanodegree course list.
-  * Accessible & Responsive Web Apps - [Responsive Web Design Fundamentals](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-web-design-fundamentals.html)
-  * Accessible & Responsive Web Apps - [Responsive Images](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-images.html)
-  * Accessible & Responsive Web Apps - [Web Accessibility](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-accessibility.html)
-  * Dynamic & Offline Capable Web Apps - [Asynchronous JavaScript Requests](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/asynchronous-javascript-requests.html)
-  * Dynamic & Offline Capable Web Apps - [Web Tooling and Automation](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-tooling-and-automation.html)
-  * Performant Web Apps - [Client-Server Communications](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/client-server-communication.html)
-* **Other Course Notes**<br>
-  Notes from other key courses I've taken.
-  * Pragrim Technologies - [Object Oriented JavaScript](https://james-priest.github.io/100-days-of-code-log-r2/OO-JavaScript.html)
-  * Udacity - [JavaScript Promises](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/javascript-promises.html)
 
 **[⬆ top](#james-priest "toc")**
 
