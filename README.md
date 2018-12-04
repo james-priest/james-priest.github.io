@@ -328,18 +328,22 @@ Links to sites that provide verification of training and courses completed.
 
 ## Sample Apps
 
-* **CSS Grid Learning App** [[Demo](https://css-grid.netlify.com/?pg=12)], [[Code Sample](https://github.com/james-priest/grid-critters-code/blob/master/script/mce_ta.js)], [[GitHub Repo](https://github.com/james-priest/grid-critters-code)]<br>
+| --- | --- | --- |
+| ![Restaurant Review App](./assets/images/portfolio_restaurant2.jpg)<br>**Restaurant Review App** | [![CSS Grid Learning App](./assets/images/portfolio_grid_app1.jpg)](https://css-grid.netlify.com/?pg=12)<br>**CSS Grid Learning App** | [![Weather Forecast App](./assets/images/portfolio_weather2.jpg)](https://local-weather-app.netlify.com/)<br>**Weather Forecast App** |
+| [![SpyCats Portfolio Site](./assets/images/portfolio_spycats.jpg)](https://spycats.netlify.com/)<br>**SpyCats Portfolio Site** | [![JavaScript Array Methods](./assets/images/portfolio_js_array.jpg)](http://javascript-array-methods.netlify.com/)<br>**JavaScript Array Methods** | [![Quote Generator](./assets/images/portfolio_quote.jpg)](https://random-quote-generator.netlify.com/)<br>**Quote Generator** |
+
+* **Restaurant Review App** - [Demo], [Code Sample], [GitHub Repo]<br>
+  This mobile-optimized Progressive Web App was built as a final project for my Mobile Web Specialist by Google program. It's fully responsive, ARIA compliant, and uses Service Workers, IndexedDB, & Cache API for a seamless offline experience. It synchronizes when a connection becomes available and notifies the user whether work is being done on or offline.
+* **CSS Grid Learning App** - [[Demo](https://css-grid.netlify.com/?pg=12)], [[CodePen](https://codepen.io/james-priest/pen/MrdNPZ)], [[Code Sample](https://github.com/james-priest/grid-critters-code/blob/master/script/mce_ta.js)], [[GitHub Repo](https://github.com/james-priest/grid-critters-code)]<br>
   This is JavaScript Single Page Application built as a proof-of-concept. It teaches CSS Grid as a series of lessons. It uses vanilla JavaScript, CSS transitions, & serious amounts of RegEx for the in-page code editor... all built from scratch.
-* **CSS Grid Learning App on CodePen** [[CodePen](https://codepen.io/james-priest/pen/MrdNPZ)]<br>
-  The same SPA on CodePen so you can peruse the code.
 <!-- * [DOM Range Notes & Tests](https://james-priest.github.io/my-code-editor/public/dom_range_tests/) -->
-* **Weather Forecast App** - [[Demo](https://local-weather-app.netlify.com/)], [[Code Sample](https://github.com/james-priest/local-weather-app/blob/master/js/ajax.js)], [[GitHub Repo](https://github.com/james-priest/local-weather-app)]<br>
+* **Weather Forecast App** - [[Demo](https://local-weather-app.netlify.com/)], [[CodePen](https://codepen.io/james-priest/pen/XaQQaO)], [[Code Sample](https://github.com/james-priest/local-weather-app/blob/master/js/ajax.js)], [[GitHub Repo](https://github.com/james-priest/local-weather-app)]<br>
   This app was written from the ground up to satisfy a FreeCodeCamp project requirement. It uses Ajax, CSS animations & transitions, SVG & HTML5 Geolocation. It is also fully responsive.
-* **SpyCats Portfolio Site** - [[Demo](https://spycats.netlify.com/)], [[Code Sample](https://github.com/james-priest/spy-cats/blob/master/js/fcc-portfolio.js)], [[GitHub Repo](https://github.com/james-priest/spy-cats)]<br>
+* **SpyCats Portfolio Site** - [[Demo](https://spycats.netlify.com/)], [[CodePen](https://codepen.io/james-priest/pen/prpjEK)], [[Code Sample](https://github.com/james-priest/spy-cats/blob/master/js/fcc-portfolio.js)], [[GitHub Repo](https://github.com/james-priest/spy-cats)]<br>
   This app was also written to satisfy a FreeCodeCamp requirement to build a portfolio website. It uses Bootstrap, jQuery, HTML5 Forms, & is fully responsive in it's design.
 * **JavaScript Array Methods** - [[Demo](http://javascript-array-methods.netlify.com/)], [[Sample Code](https://github.com/james-priest/javascript-array-methods)], [[GitHub Repo](https://github.com/james-priest/javascript-array-methods)]<br>
   This app was built using QUnit and TDD (Test-Driven Development) methodology. It dynamically builds an interface that explains and shows the results of various JavaScript Array methods.
-* **Random Quote Generator** - [[Demo](https://random-quote-generator.netlify.com/)], [[Code Sample](https://github.com/james-priest/random-quote-generator/blob/master/js/script.js)], [[GitHub Repo](https://github.com/james-priest/random-quote-generator)]<br>
+* **Random Quote Generator** - [[Demo](https://random-quote-generator.netlify.com/)], [[CodePen](https://codepen.io/james-priest/pen/RZdGNo)] [[Code Sample](https://github.com/james-priest/random-quote-generator/blob/master/js/script.js)], [[GitHub Repo](https://github.com/james-priest/random-quote-generator)]<br>
   This app is another FreeCodeCamp project that uses basic JavaScript, Ajax, & CSS transitions to dynamically display famous quotes. It was created from scratch to satisfy a project requirement.
 <!-- * [Bootstrap Blast Off](https://bootstrap-blast-off.netlify.com/) -->
 
