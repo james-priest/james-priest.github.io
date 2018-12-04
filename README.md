@@ -329,10 +329,10 @@ Links to sites that provide verification of training and courses completed.
 ## Sample Apps
 
 | --- | --- | --- |
-| ![Restaurant Review App](./assets/images/portfolio_restaurant2.jpg)<br>**Restaurant Review App** | [![CSS Grid Learning App](./assets/images/portfolio_grid_app1.jpg)](https://css-grid.netlify.com/?pg=12)<br>**CSS Grid Learning App** | [![Weather Forecast App](./assets/images/portfolio_weather2.jpg)](https://local-weather-app.netlify.com/)<br>**Weather Forecast App** |
+| [![Restaurant Review App](./assets/images/portfolio_restaurant2.jpg)](https://restaurant-review-app.netlify.com)<br>**Restaurant Review App** | [![CSS Grid Learning App](./assets/images/portfolio_grid_app1.jpg)](https://css-grid.netlify.com/?pg=12)<br>**CSS Grid Learning App** | [![Weather Forecast App](./assets/images/portfolio_weather2.jpg)](https://local-weather-app.netlify.com/)<br>**Weather Forecast App** |
 | [![SpyCats Portfolio Site](./assets/images/portfolio_spycats.jpg)](https://spycats.netlify.com/)<br>**SpyCats Portfolio Site** | [![JavaScript Array Methods](./assets/images/portfolio_js_array.jpg)](http://javascript-array-methods.netlify.com/)<br>**JavaScript Array Methods** | [![Quote Generator](./assets/images/portfolio_quote.jpg)](https://random-quote-generator.netlify.com/)<br>**Quote Generator** |
 
-* **Restaurant Review App** - [Demo], [Code Sample], [GitHub Repo]<br>
+* **Restaurant Review App** - [[Demo](https://restaurant-review-app.netlify.com)], [[Code Sample](https://github.com/james-priest/mws-restaurant-stage-1/blob/master/app/js/dbhelper.js)], [[GitHub Repo](https://github.com/james-priest/mws-restaurant-stage-1)]<br>
   This mobile-optimized Progressive Web App was built as a final project for my Mobile Web Specialist by Google program. It's fully responsive, ARIA compliant, and uses Service Workers, IndexedDB, & Cache API for a seamless offline experience. It synchronizes when a connection becomes available and notifies the user whether work is being done on or offline.
 * **CSS Grid Learning App** - [[Demo](https://css-grid.netlify.com/?pg=12)], [[CodePen](https://codepen.io/james-priest/pen/MrdNPZ)], [[Code Sample](https://github.com/james-priest/grid-critters-code/blob/master/script/mce_ta.js)], [[GitHub Repo](https://github.com/james-priest/grid-critters-code)]<br>
   This is JavaScript Single Page Application built as a proof-of-concept. It teaches CSS Grid as a series of lessons. It uses vanilla JavaScript, CSS transitions, & serious amounts of RegEx for the in-page code editor... all built from scratch.
