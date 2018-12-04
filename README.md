@@ -43,7 +43,7 @@
 
 ## Objective
 
-Full Stack Developer with 20 years experience in Front End, Back End, and Database, as well as Marketing, Project Mgmt, & Account Mgmt seeking to join a dynamic team whose focused on building next gen line-of-business web and mobile apps to provide services, offer products, or generate sales.
+Full Stack Developer with 20 years experience writing Front End, Back End, and Database code who's also well-versed in Marketing, Project Mgmt, & Account Mgmt, seeking to join a thriving and dynamic company whose focused on building the next generation line-of-business web and mobile apps.
 
 ---
 
