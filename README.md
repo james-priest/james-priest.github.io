@@ -1,7 +1,13 @@
 <!-- markdownlint-disable MD022 MD032 MD033 -->
-# James Priest
+<div class="content-header">
+<h1>James Priest</h1>
+<span>Los Angeles, CA</span>
+<span><a href="mailto:james-priest@outlook.com">james-priest@outlook.com</a></span>
+</div>
 
-<p>
+---
+
+<p class="content-header">
     <span class="icons"><a href="https://github.com/james-priest" title="GitHub Profile" target="_blank"><i class="fa fa-github" style="font-size: 20px"></i>&nbsp;GitHub</a></span> •
     <span class="icons"><a href="https://codepen.io/james-priest" title="CodePen Profile" target="_blank"><i class="fa fa-codepen" style="font-size: 20px"></i>&nbsp;CodePen</a></span> •
     <span class="icons"><a href="https://www.linkedin.com/in/jamespriestdeveloper/" title="LinkedIn Profile" target="_blank"><i class="fa fa-linkedin-square" style="font-size: 20px"></i>&nbsp;LinkedIn</a></span> •
@@ -43,7 +49,7 @@
 
 ## Objective
 
-Full Stack Developer with 20 years experience writing Front End, Back End, and Database code who's also well-versed in Marketing, Project Mgmt, & Account Mgmt, seeking to join a thriving and dynamic company whose focused on building the next generation line-of-business web and mobile apps.
+Full Stack Developer with 20 years experience writing Front End, Back End, and Database code who's also well-versed in Marketing, Project Mgmt, & Account Mgmt, seeking to join a thriving and dynamic company whose focused on building next generation line-of-business web and mobile applications.
 
 ---
 

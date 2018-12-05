@@ -61,6 +61,12 @@ section { width: 690px; }
   // h3+table>tbody>tr:first-child td {
   //   border-top: 1px solid #e5e5e5;
   // }
+  .content-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    flex-wrap: wrap;
+  }
 
 @media print, screen and (max-width: 1060px) { 
   div.wrapper { width: auto; margin: 0; }
@@ -70,7 +76,7 @@ section { width: 690px; }
   #banner { width: 100%; }
   #banner .downloads { margin-right: 60px; }
   #banner #logo { margin-right: 15px; }
-  section { border: 1px solid #e5e5e5; border-width: 1px 0; padding: 20px auto; margin: 190px auto 20px; max-width: 640px; }
+  section { border: 1px solid #e5e5e5; border-width: 1px 0; padding: 20px 10px; margin: 190px auto 20px; max-width: 640px; }
   footer { text-align: center; margin: 20px auto; position: relative; left: auto; bottom: auto; width: auto; } }
 @media print, screen and (max-width: 720px) { 
   body { word-wrap: break-word; }
