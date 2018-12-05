@@ -364,6 +364,7 @@ Links to sites that provide verification of training and courses completed.
   * Stage 1 - [Building a fully responsive & accessible web app](https://james-priest.github.io/mws-restaurant-stage-1/stage1.html)
   * Stage 2 - [Offline capability with Service Worker, Cache API, & IndexedDB](https://james-priest.github.io/mws-restaurant-stage-1/stage2.html)
   * Stage 3 - [Designing HTML5 forms, offline request queue, & performance tuning](https://james-priest.github.io/mws-restaurant-stage-1/stage3.html)
+  * Stage 4 - [Launching live site with back end data services & front end build process](https://james-priest.github.io/mws-restaurant-stage-1/stage4.html)
 * **100 Days of Code Log**<br>
   Tasks, challenges, and work samples related to web development over the last 18 months.
   * Log Round 1 - [June 2017 - January 2018](https://james-priest.github.io/100-days-of-code-log/)
@@ -413,6 +414,20 @@ Links to sites that provide verification of training and courses completed.
 
 | Course    | Completed   | Provider Credential  |
 | :---      | ---         | --:       |
+| High Conversion Web Forms by Google | November 2018 | Udacity |
+| Browser Rendering Optimizations by Google | November 2018 | Udacity |
+| HTTP & Web Servers by Google | October 2018 | Udacity |
+| HTTP Communications by Google | October 2018 | Udacity |
+| Web Tooling & Automation (Grunt & Gulp) | August 2018 | Udacity |
+| Asynchronous JavaScript Requests by Google | July 2018 | Udacity |
+| JavaScript Promises by Google | June 2018 | Udacity |
+| Web Accessibility by Google | June 2018 | Udacity |
+| Responsive Images by Google | May 2018 | Udacity |
+| Responsive Web Design Fundamentals by Google | May 2018 | Udacity |
+| React Bootcamp (4-days) | April 2018 | Tyler McGinnis |
+| Programming in HTML5 with JavaScript & CSS3 | April 2018 | Microsoft Press |
+| ES6 - JavaScript Improved by AT&T| March 2018 | Udacity |
+| Offline Web Applications by Google | February 2018 | Udacity |
 | Regular Expressions | December 2017 | Code School (Pluralsight) |
 | Mobile Web Design | December 2017 | Code School (Pluralsight) |
 | Flexbox Zombies | December 2017 | Dave Geddes |
@@ -444,6 +459,11 @@ Links to sites that provide verification of training and courses completed.
 | HTML5 and CSS module | June 2017 | freeCodeCamp |
 | Try Git | May 2017 | Code School (Pluralsight) |
 | Getting Started with Web Technologies | April 2017 | Microsoft Virtual Academy |
+
+<h3 style="width:initial; position: initial; margin-bottom: initial;">Prior to 2017</h3>
+
+| Course    | Completed   | Provider Credential  |
+| :---      | ---         | --:       |
 | JavaScript Fundamentals | June 2014 | Microsoft Virtual Academy |
 | Developing in HTML5, JavaScript, and CSS | February 2014 | Microsoft Virtual Academy |
 | Developing ASP.NET MVC 4 Web Application | February 2014 | Microsoft Virtual Academy |
@@ -465,14 +485,14 @@ Links to sites that provide verification of training and courses completed.
 | ASP.NET | July 2003 | App Dev Certification |
 | VB.NET | January 2003 | App Dev Certification |
 | E Commerce Apps through Advanced XML | April 2000 | Architag University |
-| Macromedia Flash 4.0 | March 2000 | Microsoft Corp. |
-| SQL Server 7.0 DB Implementation | January 2000 | Microsoft Corp. |
+| Macromedia Flash 4.0 | March 2000 | Microsoft (Redmond campus) |
+| SQL Server 7.0 DB Implementation | January 2000 | Microsoft (Redmond campus) |
 | Visual Basic 5.0 Certification | December 1999 | The Waite Group |
 | Building 3-tier XML Architectures | August 1999 | The Waite Group |
-| VB Data Access | May 1999 | Microsoft Corp. |
-| VB Programming | April 1999 | Microsoft Corp. |
+| VB Data Access | May 1999 | Microsoft (Redmond campus) |
+| VB Programming | April 1999 | Microsoft (Redmond campus) |
 | XML, An Overview | February 1999 | Architag University |
-| Advanced HTML Authoring | December 1998 | Microsoft Corp. |
+| Advanced HTML Authoring | December 1998 | Microsoft (Redmond Campus) |
 | Oracle Developer 2000 Reports 3.0 | May 1998 | Oracle Training |
 | VB & Internet Advisor DevCon 98 | February 1998 | Advisor Publications |
 | Java 1.1 Programming Certification | January 1998 | The Waite Group |
