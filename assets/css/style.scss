@@ -40,7 +40,7 @@ section { width: 690px; }
     margin: 0 10px 3px 10px;
     position: absolute;
     margin: 4px 10px;
-     width:50%;
+    // width:50%;
     vertical-align: bottom; 
     margin-bottom: -30px;
   }
@@ -87,7 +87,7 @@ section { width: 690px; }
   #banner .fork { float: left; display: inline-block; margin-left: 0px; position: fixed; left: 20px; }
   section { margin-top: 130px; margin-bottom: 0px; width: auto; }
   header ul, header p.view { position: static; } 
-  h3 { position: relative; margin-bottom: -28px; width:50%;}
+  // h3 { position: relative; margin-bottom: -28px; /*width:50%;*/}
 }
 @media print, screen and (max-width: 480px) { 
   header { position: relative; padding: 5px 0px; min-height: 0px; }
@@ -96,13 +96,22 @@ section { width: 690px; }
   #banner { display: none; }
   header ul { display: none; }
   td { padding: 5px 6px; }
-  h3 { position: relative; /*margin-bottom: -30px;*/ width:40%;}
+  // h3 { position: relative; /*margin-bottom: -30px;*/ width:50%; }
 }
 @media print, screen and (max-width: 320px) {
   td { padding: 5px 6px; }
-  h3 { position: relative; margin-bottom: -50px; width:40%;}
+  // h3 { position: relative; margin-bottom: -50px; }
 }
 
 #certifications--training+table tr:nth-child(2n+0) {
   background-color: #E8EEEE;
 }
+
+// @media print {
+//   [title*='toc'] {
+//     display: none;
+//   }
+//   h3 {
+
+//   }
+// }

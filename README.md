@@ -8,12 +8,13 @@
 ---
 
 <p class="content-header">
-    <span class="icons"><a href="https://github.com/james-priest" title="GitHub Profile" target="_blank"><i class="fa fa-github" style="font-size: 20px"></i>&nbsp;GitHub</a></span> •
-    <span class="icons"><a href="https://codepen.io/james-priest" title="CodePen Profile" target="_blank"><i class="fa fa-codepen" style="font-size: 20px"></i>&nbsp;CodePen</a></span> •
-    <span class="icons"><a href="https://www.linkedin.com/in/jamespriestdeveloper/" title="LinkedIn Profile" target="_blank"><i class="fa fa-linkedin-square" style="font-size: 20px"></i>&nbsp;LinkedIn</a></span> •
-    <span class="icons"><a href="https://twitter.com/james_priest1" title="Twitter Profile" target="_blank"><i class="fa fa-twitter-square" style="font-size: 20px"></i>&nbsp;Twitter</a></span> •
-    <span class="icons"><a href="https://www.freecodecamp.com/james-priest" title="freeCodeCamp Profile" target="_blank"><i class="fa fa-free-code-camp" style="font-size: 20px"></i>&nbsp;freeCodeCamp</a></span> •
+    <span class="icons"><a href="https://github.com/james-priest" title="GitHub Profile" target="_blank"><i class="fa fa-github" style="font-size: 20px"></i>&nbsp;GitHub</a></span>
+    <span class="icons"><a href="https://codepen.io/james-priest" title="CodePen Profile" target="_blank"><i class="fa fa-codepen" style="font-size: 20px"></i>&nbsp;CodePen</a></span>
+    <span class="icons"><a href="https://www.linkedin.com/in/jamespriestdeveloper/" title="LinkedIn Profile" target="_blank"><i class="fa fa-linkedin-square" style="font-size: 20px"></i>&nbsp;LinkedIn</a></span>
+    <span class="icons"><a href="https://twitter.com/james_priest1" title="Twitter Profile" target="_blank"><i class="fa fa-twitter-square" style="font-size: 20px"></i>&nbsp;Twitter</a></span>
+    <span class="icons"><a href="https://www.freecodecamp.com/james-priest" title="freeCodeCamp Profile" target="_blank"><i class="fa fa-free-code-camp" style="font-size: 20px"></i>&nbsp;freeCodeCamp</a></span>
     <span class="icons"><a href="https://www.instagram.com/jamespub" title="Instagram Account" target="_blank"><i class="fa fa-instagram" style="font-size: 20px"></i>&nbsp;Instagram</a></span>
+    <span class="icons"><a href="./assets/docs/JamesPriest_Resume_2018_v1.pdf" title="PDF Resume" target="_blank"><i class="fa fa-file-pdf-o" style="font-size: 20px"></i>&nbsp;Resume</a></span>
     <!--<span class="icons"><a href="#" title="Not yet, but soon.😊" target="_blank"><i class="fa fa-medium fa-lg" aria-hidden="true"></i>&nbsp;Medium</a></span>-->
 </p>
 
@@ -49,7 +50,7 @@
 
 ## Objective
 
-Full Stack Developer with 20 years experience writing Front End, Back End, and Database code who's well-versed in Marketing, Project Mgmt, & Account Mgmt, seeking to join a thriving and dynamic company that's focused on building next generation line-of-business web and mobile applications.
+Full Stack Developer with 20 years experience seeking to join a thriving and dynamic company that's focused on building next generation line-of-business web and mobile applications.
 
 ---
 
@@ -69,7 +70,7 @@ Full Stack Developer with 20 years experience writing Front End, Back End, and D
 | Complete Responsive Web Design | PWAs & Offline First App Development |
 | JAMStack Architecture | Web Accessibility & ARIA Compliance |
 | UI/UX, IA, & Standards Design | Web Automation & Build Systems |
-| .NET Web Application Development | RDBMS & NoSQL DB Design & Programming |
+| .NET Web Application Development | RDBMS & NoSQL DB Design & Development |
 
 <!-- 
 | Offline Web Applications | Web Automation & Build Systems |
@@ -82,8 +83,8 @@ Full Stack Developer with 20 years experience writing Front End, Back End, and D
 | :-------- | :----------- | :---------      |
 | JavaScript ES5/ES6 | IndexedDB / Cache API / Fetch API | VS Code / Visual Studio / DevTools |
 | HTML5 / CSS3 | Ajax / jQuery / Web APIs | Git / GitHub / GitHub Pages |
-| C# | ASP.NET / .NET Framework | Azure DevOps, Heroku, Netlify |
-| VB | SQL / Stored Procedures / Triggers  | Azure Cloud (Win & Linux VMs) |
+| C# | ASP.NET / .NET Framework | Azure DevOps / Heroku / Netlify |
+| VB.NET | SQL / Stored Procedures / Triggers  | Azure Cloud (Win & Linux VMs) |
 
 | Stack Capabilities |
 | :-- |
@@ -91,7 +92,7 @@ Full Stack Developer with 20 years experience writing Front End, Back End, and D
 
 | Additional Technical Skills |
 | :-- |
-| Service Workers, Web Workers, Node.js, Npm, Gulp, Grunt, Jekyll, MarkDown, MS SQL Server, MySQL, SQLLite, PouchDB, CouchDB, MongoDB Query Syntax |
+| Service Workers, Web Workers, Node.js, Npm, Gulp, Grunt, Jekyll, MarkDown, MS SQL Server, MySQL, SQLLite, PouchDB, CouchDB, MongoDB Query Syntax, Bootstrap, Semantic-UI |
 
 | Non-technical Skills |
 | :-- |
@@ -103,11 +104,56 @@ Full Stack Developer with 20 years experience writing Front End, Back End, and D
 
 ## Career History
 
-<a name="career--velodea" id="career--velodea"></a>
+| 1. [Full-time Student](#career--student "toc") | 4. [devAware Tech Solutions](#career--devaware-technology-solutions "toc") | 7. [Phillips Research Laboratory](#career--phillips-research-laboratory "toc") |
+| 2. [Personal Time Off](#career--personal) | 5. [The Velodea Group](#career--the-velodea-group "toc") | 8. [Intel Corporation](#career--intel-corporation "toc") |
+| 3. [Velodea](#career--velodea "toc") | 6. [Microsoft Corporation](#career--microsoft-corporation "toc") | 9. [Talbert Medical](#career--talbert-medical-management-corporation "toc") |
 
-| 1. [Velodea](#velodea "toc") | 4. [Microsoft Corporation](#microsoft-corporation "toc") | 7. [Talbert Medical](#talbert-medical-management-corporation "toc") |
-| 2. [devAware Tech Solutions](#devaware-technology-solutions "toc") | 5. [Phillips Research Laboratory](#phillips-research-laboratory "toc") | 8. [Friendly Computer Networks](#friendly-computer-networks "toc") |
-| 3. [The Velodea Group](#the-velodea-group "toc") | 6. [Intel Corporation](#intel-corporation "toc") | 9. [DeVry Institute of Technology](#devry-institute "toc") |
+<a name="career--student" id="career--student"></a>
+
+### Full-time Student
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">&nbsp;</th>
+      <th style="text-align: right">January 2017 - present</th>
+    </tr>
+  </thead>
+</table>
+
+Starting in 2017, I began a series of full-time, online courses related to web & mobile development. I completed [more than 30 in the first year](#training "toc") from such providers as Pluralsight, Code School, Microsoft Virtual Academy, & Free Code Camp.
+
+In the second year I was awarded two separate scholarships from Udacity. These were:
+
+- Grow with Google Scholarship Challenge for Mobile Web Development (3-month program)
+- Mobile Web Specialist by Google Nanodegree (6-month program)
+
+Upon completion I received my Udacity [Nanodegree as a Mobile Web Specialist](#certifications "toc") .
+
+**[⬆ top](#james-priest "toc")**
+
+---
+
+<a name="career--personal" id="career--personal"></a>
+
+### Personal Time Off
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">&nbsp;</th>
+      <th style="text-align: right">June 2014 - December 2016</th>
+    </tr>
+  </thead>
+</table>
+
+I took time to spend with family after shutting down the company I had worked for during the previous eight years. This closing was due to the untimely passing of our Managing Director.
+
+**[⬆ top](#james-priest "toc")**
+
+---
+
+<a name="career--velodea" id="career--velodea"></a>
 
 ### Velodea
 
@@ -115,7 +161,7 @@ Full Stack Developer with 20 years experience writing Front End, Back End, and D
 | :--- | ---: |
 | Technology Director & Development Lead | Pasadena, California |
 
-Serving as technology lead and .NET expert for a digital marketing agency, I’ve had the opportunity to work on hundreds of website solutions ranging from small digital marketing campaigns to large-scale web application systems utilizing a wide variety of platforms, technologies and languages. Notable projects include:
+Serving as technology lead and .NET expert for this digital marketing agency, I’ve had the opportunity to shape and develop hundreds of website solutions utilizing a wide variety of platforms, technologies, and programming languages. Notable projects include:
 
 * **Beechcraft Corporation** ([beechcraft.com](http://www.beechcraft.com/special_missions/ "Special Missions page")) – As a direct extension of Beechcraft IT, duties included web application development, database design and content management. Responsible for building and maintaining entire Beechcraft corporate website as well as many applications to support the Sales and Marketing process.<br />
 _Technologies Used:_ **ASP.NET, VB.NET, C#, database design, SQL Server, stored procs, Bootstrap, HTML, CSS, jQuery**
@@ -186,10 +232,10 @@ This project provided web metrics before Google Analytics existed. This was done
 * **CodeSigning for Kareem** - 
 This project consisted of... -->
 
-* **VeloTrack (Site Management and Behavioral Analysis System)** – VeloTrack was a custom-built solution that integrated seamlessly with websites to offer behavioral tracking, email list management, registration, surveying, and demographic-based site usage reporting.  VeloTrack boasted the ability to capture millions of page views per day in a manner completely transparent to the end user.  The system was designed to be highly customizable as well as intuitive in order to allow non-technical clients the ability to generate reports as well as create surveys and construct email marketing campaigns.  All data was also available through HTTP as a Web API for integration into client applications.<br />
+- **VeloTrack (Site Management and Behavioral Analysis System)** – VeloTrack was a custom-built solution that integrated seamlessly with websites to offer behavioral tracking, email list management, registration, surveying, and demographic-based site usage reporting.  VeloTrack boasted the ability to capture millions of page views per day in a manner completely transparent to the end user.  The system was designed to be highly customizable as well as intuitive in order to allow non-technical clients the ability to generate reports as well as create surveys and construct email marketing campaigns.  All data was also available through HTTP as a Web API for integration into client applications.<br />
 **This was a modularized system developed over two years which consisted of equal parts Google Analytics, Constant Contact, Mail Chimp, WordPress & Salesforce before those systems came into being.**
 
-* **VeloTeam (Asset Management Extranet System)** – Velodea’s extranet system managed all documents and materials related to a project while facilitating communication and collaboration between project teams and clients.  Highly customizable document repositories organized and managed all project-based assets.  Additionally, the system managed user accounts, tracked incident resolutions and sent automated email notification to the team when new material was made available to the site.  Use of this system had reduced cost and dramatically increased productivity by shortening the development life cycle of Velodea’s projects.  Over 100 customized instances were rolled out for clients such as Sony, Miramax, Qualcomm, and Toshiba.<br>
+- **VeloTeam (Asset Management Extranet System)** – Velodea’s extranet system managed all documents and materials related to a project while facilitating communication and collaboration between project teams and clients.  Highly customizable document repositories organized and managed all project-based assets.  Additionally, the system managed user accounts, tracked incident resolutions and sent automated email notification to the team when new material was made available to the site.  Use of this system had reduced cost and dramatically increased productivity by shortening the development life cycle of Velodea’s projects.  Over 100 customized instances were rolled out for clients such as Sony, Miramax, Qualcomm, and Toshiba.<br>
 **This was a system that provided the capabilities of Basecamp, DropBox, JIRA, and GitHub. It offered project management, document sharing, version control, bug tracking/issue resolution & client communications at a time when those services didn't exist out in the wild.**
 
 _Technologies Used:_ **ASP, JavaScript, HTML, CSS, SQL, VB, COM, XML; DevOps for Windows Server, Exchange Server & SQL Server platforms & Active Directory Networks.**
@@ -208,13 +254,13 @@ _Technologies Used:_ **ASP, JavaScript, HTML, CSS, SQL, VB, COM, XML; DevOps for
 
 As a key member of Microsoft’s Product Release team, responsibilities included application development, system design and project management for release of Microsoft product to the marketplace.  Projects driven and developed by myself included:
 
-* **Release To Web System (RTW)** - This suite of applications was the primary release mechanism for product delivery to Microsoft.com worldwide.  The system boasted an average of 1000 releases per month and tracked workflow, sign-off, QA, and virus scan. All released bits were vaulted to a centralized repository within the Software Release Labs.  The application was designed entirely from the ground up to fulfill Microsoft’s need to release product in less than 3 hours.
+- **Release To Web System (RTW)** - This suite of applications was the primary release mechanism for product delivery to Microsoft.com worldwide.  The system boasted an average of 1000 releases per month and tracked workflow, sign-off, QA, and virus scan. All released bits were vaulted to a centralized repository within the Software Release Labs.  The application was designed entirely from the ground up to fulfill Microsoft’s need to release product in less than 3 hours.
 
-* **PIRS University** - Product Information Release Services (PIRS) University was an online training center that provided company-wide services and computer-based training related to product release.  This site provided some of the following capabilities: automated content publication for non-technical business process owners, hierarchical management of heterogeneous data and online training registration for course offerings.  This site provided centralized management for what was previously a fragmented information base.
+- **PIRS University** - Product Information Release Services (PIRS) University was an online training center that provided company-wide services and computer-based training related to product release.  This site provided some of the following capabilities: automated content publication for non-technical business process owners, hierarchical management of heterogeneous data and online training registration for course offerings.  This site provided centralized management for what was previously a fragmented information base.
 
-* **Media Shipment Tracking System (ShipInfo)** - The ShipInfo system gathered and tracked all software media shipments made to Microsoft’s third-party manufacturers.  This allowed manufacturing facilities to plan production cycles as well as track the progress of any shipment.  The system consisted of multiple SQL Server databases in each of Microsoft’s regions of operation.  These databases received shipment information through a web-based front end from each of the release labs. The data was then warehoused three times daily to coincide with the close of business at Microsoft’s American, European and Asian operating centers.  The warehoused data was then made available through the corporate extranet to vendors and manufacturers.
+- **Media Shipment Tracking System (ShipInfo)** - The ShipInfo system gathered and tracked all software media shipments made to Microsoft’s third-party manufacturers.  This allowed manufacturing facilities to plan production cycles as well as track the progress of any shipment.  The system consisted of multiple SQL Server databases in each of Microsoft’s regions of operation.  These databases received shipment information through a web-based front end from each of the release labs. The data was then warehoused three times daily to coincide with the close of business at Microsoft’s American, European and Asian operating centers.  The warehoused data was then made available through the corporate extranet to vendors and manufacturers.
 
-Each system was developed according to multi-tier design architecture standards and were built using **HTML, ASP, Visual Basic, JavaScript, VBScript, CSS, and SQL stored procedures**. Where possible, **MTS COM objects** were created for re-usability and programming practices followed a component-based object model.  Additional responsibilities as Release Program Manager ranged from systems analysis to solution implementation and included such things as **application prototyping, database implementation, user-interface design** and **technical, functional & user documentation**.
+Each system was developed according to multi-tier design architecture standards and were built using **HTML, ASP, Visual Basic, JavaScript, VBScript, CSS, and SQL stored procedures**. Where possible, **MTS COM objects** were created for re-usability and programming practices followed a component-based object model.  Additional responsibilities ranged from systems analysis to solution implementation and included such things as **application prototyping, database design, user-interface design** and **technical, functional, and user documentation**.
 
 **[⬆ top](#james-priest "toc")**
 
@@ -262,34 +308,6 @@ As a member of the IS department, responsibilities included systems analysis and
 
 ---
 
-<a name="career--friendly-computer-networks" id="career--friendly-computer-networks"></a>
-
-### Friendly Computer Networks
-
-|      | May 1996 – January 1997 |
-| :--- | ---: |
-| Systems Designer / Network Administrator | Rancho Cucamonga, California |
-
-Designed, implemented, and maintained Microsoft and Novel networks for various business clients.  Responsibilities included hardware, software and network services.  Provided cost-effective solutions, installations and support of Microsoft products.
-
-**[⬆ top](#james-priest "toc")**
-
----
-
-<a name="career--devry-institute" id="career--devry-institute"></a>
-
-### DeVry Institute of Technology
-
-|      | July 1995 - May 1996 |
-| :--- | ---: |
-| Helpdesk, Network & Technical Support | Pomona, California |
-
-Founding member of DeVry’s Helpdesk facility.  Lead six-member team responsible for 300+ Novell workstations connected to 11 NetWare servers, 3 UNIX servers, and 2 NT servers.  Provided network administration, upgrade/repair and user support.
-
-**[⬆ top](#james-priest "toc")**
-
----
-
 ## Education
 
 - **Bachelor of Science in Computer Information Systems**<br />
@@ -304,9 +322,9 @@ Founding member of DeVry’s Helpdesk facility.  Lead six-member team responsibl
 ## Certifications
 <!-- * **Google Mobile Web Specialist** certification (In process) -->
 <!-- * **Microsoft Programming in HTML5 with JavaScript & CSS3** certification (In process) -->
-* **Mobile Web Specialist Nanodegree** by Udacity - 6 month program (Oct 2018) - [View](https://confirm.udacity.com/3JM7SK4Q)
-* **Grow With Google Scholarship Challenge** for Mobile Web - 3 month program (Apr 2018)
-* **Java 1.1 Programming** certification - The Waite Group (1998)
+- **Mobile Web Specialist Nanodegree** by Udacity - 6 month program (Oct 2018) - [View](https://confirm.udacity.com/3JM7SK4Q)
+- **Grow With Google Scholarship Challenge** for Mobile Web - 3 month program (Apr 2018)
+- **Java 1.1 Programming** certification - The Waite Group (1998)
 
 **[⬆ top](#james-priest "toc")**
 
@@ -315,17 +333,17 @@ Founding member of DeVry’s Helpdesk facility.  Lead six-member team responsibl
 ## Achievements
 Links to sites that provide verification of training and courses completed.
 
-* **100DaysOfCode Challenge** ([Code Log](https://james-priest.github.io/100-days-of-code-log/))<br>
-  I code and write about my progress with various tasks, challenges, and work samples related to web development. I've been doing the challenge since June of 2017 and tweet about  progress and lessons learned almost daily.
-* **Twitter** ([@james_priest1](https://twitter.com/james_priest1))<br>
-  I built up a following of 1200+ developers (my twitter fam) since opening my account in May of 2017. I tweet about web development, training, and personal achievements.
-* **Code School:** [https://www.codeschool.com/users/james-priest](https://www.codeschool.com/users/james-priest)<br>
+- **100DaysOfCode Challenge** ([Code Log](https://james-priest.github.io/100-days-of-code-log/))<br>
+  I code and write about my progress related to web development. I've been doing this since June of 2017 and tweet about my progress and lessons learned.
+- **Twitter** ([@james_priest1](https://twitter.com/james_priest1))<br>
+  I'm very active in the Front End & JavaScript development communities. I've built up a following of 1400 developers (my twitter fam) since opening my account in May of 2017. I tweet about web development, training, and personal achievements.
+- **Code School:** [https://www.codeschool.com/users/james-priest](https://www.codeschool.com/users/james-priest)<br>
   Report card, badges, and achievement status.
-* **Free Code Camp:** [https://www.freecodecamp.com/james-priest](https://www.freecodecamp.com/james-priest)<br>
+- **Free Code Camp:** [https://www.freecodecamp.com/james-priest](https://www.freecodecamp.com/james-priest)<br>
   Online program focused on Front End, Back End and Data Visualization training and certification.
-* **Microsoft Virtual Academy:** [Web Development Badge](https://mva.microsoft.com/RewardEvidence.aspx/?key=B--MLSyI6ouc3JiHZ6X1dg2)<br>
+- **Microsoft Virtual Academy:** [Web Development Badge](https://mva.microsoft.com/RewardEvidence.aspx/?key=B--MLSyI6ouc3JiHZ6X1dg2)<br>
   Verification of Web Development badge and related courses completed.
-* **Degreed:** [https://degreed.com/jamespriest](https://degreed.com/jamespriest)<br>
+- **Degreed:** [https://degreed.com/jamespriest](https://degreed.com/jamespriest)<br>
   A catalogued list of all formal schooling, online courses, and programming certifications.
 
 **[⬆ top](#james-priest "toc")**
@@ -344,7 +362,7 @@ Links to sites that provide verification of training and courses completed.
   This is JavaScript Single Page Application built as a proof-of-concept. It teaches CSS Grid as a series of lessons. It uses vanilla JavaScript, CSS transitions, & serious amounts of RegEx for the in-page code editor... all built from scratch.
 <!-- * [DOM Range Notes & Tests](https://james-priest.github.io/my-code-editor/public/dom_range_tests/) -->
 * **Weather Forecast App** - [[Demo](https://local-weather-app.netlify.com/)], [[CodePen](https://codepen.io/james-priest/pen/XaQQaO)], [[Code Sample](https://github.com/james-priest/local-weather-app/blob/master/js/ajax.js)], [[GitHub Repo](https://github.com/james-priest/local-weather-app)]<br>
-  This app was written from the ground up to satisfy a FreeCodeCamp project requirement. It uses Ajax, CSS animations & transitions, SVG & HTML5 Geolocation. It is also fully responsive.
+  This app was written from the ground up to satisfy a FreeCodeCamp project requirement. It uses Semantic-UI Framework, Ajax, CSS animations & transitions, SVG & HTML5 Geolocation. It is also fully responsive.
 * **SpyCats Portfolio Site** - [[Demo](https://spycats.netlify.com/)], [[CodePen](https://codepen.io/james-priest/pen/prpjEK)], [[Code Sample](https://github.com/james-priest/spy-cats/blob/master/js/fcc-portfolio.js)], [[GitHub Repo](https://github.com/james-priest/spy-cats)]<br>
   This app was also written to satisfy a FreeCodeCamp requirement to build a portfolio website. It uses Bootstrap, jQuery, HTML5 Forms, & is fully responsive in it's design.
 * **JavaScript Array Methods** - [[Demo](http://javascript-array-methods.netlify.com/)], [[Sample Code](https://github.com/james-priest/javascript-array-methods)], [[GitHub Repo](https://github.com/james-priest/javascript-array-methods)]<br>

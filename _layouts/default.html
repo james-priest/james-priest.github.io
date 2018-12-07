@@ -103,6 +103,7 @@
         
         $(document).ready(function() {
             $("[title*='toc']").on("click", null, function(event) {
+                console.log('$(this).attr("href"))', $(this).attr("href"));
                 var position = $($(this).attr("href")).offset().top - 190;
                 $("html, body").animate({scrollTop: position}, 400);
                 $("nav ul li.active").removeClass("active");
@@ -134,15 +135,15 @@
             //     event.preventDefault();
             // })
 
-            if(hash){
-                console.log("hash: " + hash);
-                $("nav ul li.active").removeClass("active");
-                $("nav ul li a[href='" + hash + "']").parent().addClass("active");
-                var pos = $(hash).offset().top - 190;
-                $("html, body").animate({scrollTop: pos}, 400);
-                //window.location.hash = hash;
-                //event.preventDefault();
-            }
+            // if(hash){
+            //     console.log("hash: " + hash);
+            //     $("nav ul li.active").removeClass("active");
+            //     $("nav ul li a[href='" + hash + "']").parent().addClass("active");
+            //     var pos = $(hash).offset().top - 190;
+            //     $("html, body").animate({scrollTop: pos}, 400);
+            //     //window.location.hash = hash;
+            //     //event.preventDefault();
+            // }
 
             //console.log($("h3").first().clone().children().remove().end().text());
 
