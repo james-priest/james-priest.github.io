@@ -14,7 +14,7 @@
     <span class="icons"><a href="https://twitter.com/james_priest1" title="Twitter Profile" target="_blank"><i class="fa fa-twitter-square" style="font-size: 20px"></i>&nbsp;Twitter</a></span>
     <span class="icons"><a href="https://www.freecodecamp.com/james-priest" title="freeCodeCamp Profile" target="_blank"><i class="fa fa-free-code-camp" style="font-size: 20px"></i>&nbsp;freeCodeCamp</a></span>
     <span class="icons"><a href="https://www.instagram.com/jamespub" title="Instagram Account" target="_blank"><i class="fa fa-instagram" style="font-size: 20px"></i>&nbsp;Instagram</a></span>
-    <span class="icons"><a href="./assets/docs/JamesPriest_Resume_2018_v1.pdf" title="PDF Resume" target="_blank"><i class="fa fa-file-pdf-o" style="font-size: 20px"></i>&nbsp;Resume</a></span>
+    <span class="icons"><a href="./assets/docs/JamesPriest_Resume.pdf" title="PDF Resume" target="_blank"><i class="fa fa-file-pdf-o" style="font-size: 20px"></i>&nbsp;Resume</a></span>
     <!--<span class="icons"><a href="#" title="Not yet, but soon.😊" target="_blank"><i class="fa fa-medium fa-lg" aria-hidden="true"></i>&nbsp;Medium</a></span>-->
 </p>
 
@@ -103,14 +103,20 @@ Full Stack Developer with 20 years experience seeking to join a thriving and dyn
 ---
 
 ## Career History
+In 2014 my last employer went out of business. Following that, I took time off to spend with family and in 2017 went back to school to re-educate myself on the latest mobile, web, and app technologies.
 
-| 1. [Full-time Student](#career--student "toc") | 4. [devAware Tech Solutions](#career--devaware-technology-solutions "toc") | 7. [Phillips Research Laboratory](#career--phillips-research-laboratory "toc") |
-| 2. [Personal Time Off](#career--personal) | 5. [The Velodea Group](#career--the-velodea-group "toc") | 8. [Intel Corporation](#career--intel-corporation "toc") |
-| 3. [Velodea](#career--velodea "toc") | 6. [Microsoft Corporation](#career--microsoft-corporation "toc") | 9. [Talbert Medical](#career--talbert-medical-management-corporation "toc") |
+I graduated in 2018 with a Nanodegree in Mobile Web Development and am excited to re-enter the workforce and apply my knowledge toward building cutting-edge technology solutions.
 
+| 1. [Velodea](#career--velodea "toc") | 4. [Microsoft Corporation](#career--microsoft-corporation "toc") |
+| 2. [devAware Tech Solutions](#career--devaware-technology-solutions "toc") | 5. [Phillips Research Laboratory](#career--phillips-research-laboratory "toc") |
+| 3. [The Velodea Group](#career--the-velodea-group "toc") | 6. [Intel Corporation](#career--intel-corporation "toc") |
+
+
+<!-- 
 <a name="career--student" id="career--student"></a>
 
 ### Full-time Student
+
 
 <table>
   <thead>
@@ -151,7 +157,9 @@ I took time to spend with family after shutting down the company I had worked fo
 
 **[⬆ top](#james-priest "toc")**
 
----
+--- -->
+
+
 
 <a name="career--velodea" id="career--velodea"></a>
 
@@ -163,25 +171,25 @@ I took time to spend with family after shutting down the company I had worked fo
 
 Serving as technology lead and .NET expert for this digital marketing agency, I’ve had the opportunity to shape and develop hundreds of website solutions utilizing a wide variety of platforms, technologies, and programming languages. Notable projects include:
 
-* **Beechcraft Corporation** ([beechcraft.com](http://www.beechcraft.com/special_missions/ "Special Missions page")) – As a direct extension of Beechcraft IT, duties included web application development, database design and content management. Responsible for building and maintaining entire Beechcraft corporate website as well as many applications to support the Sales and Marketing process.<br />
+- **Beechcraft Corporation** ([beechcraft.com](http://www.beechcraft.com/special_missions/ "Special Missions page")) – As a direct extension of Beechcraft IT, duties included web application development, database design and content management. Responsible for building and maintaining entire Beechcraft corporate website as well as many applications to support the Sales and Marketing process.<br />
 _Technologies Used:_ **ASP.NET, VB.NET, C#, database design, SQL Server, stored procs, Bootstrap, HTML, CSS, jQuery**
 
-* **Flex Ed** ([flexed.com](http://flexed.com/classes.php "Class Calendar page")) – Designed and developed a large-scale Learning Management System (LMS) to handle line-of-business functions including course creation, scheduling, enrollment, and reporting as well as many other work-flow automation tasks. The system currently tracks progress of 85,000 students, handles scheduling for over 100 hospitals, and employs modules for instructors and coordinators to manage rosters and certifications.<br />
+- **Flex Ed** ([flexed.com](http://flexed.com/classes.php "Class Calendar page")) – Designed and developed a large-scale Learning Management System (LMS) to handle line-of-business functions including course creation, scheduling, enrollment, and reporting as well as many other work-flow automation tasks. The system currently tracks progress of 85,000 students, handles scheduling for over 100 hospitals, and employs modules for instructors and coordinators to manage rosters and certifications.<br />
 _Technologies Used:_ **Linux/Apache, PHP/MySQL, HTML, CSS, jQuery, stored procedures, triggers, MySQL functions**
 
-* **Shell Eco-marathon Live Event** ([shell.com/eco-marathon](http://www.shell.com/energy-and-innovation/shell-ecomarathon/about.html "Eco-marathon about page")) – The project involved the creation of a social & streaming media website to serve as a hub for coverage of Shell’s multi-national Eco-marathon event. The site provided twitter feeds, event video, on-line polls, and contest standings. The event was streamed live through our CDN utilizing real-time encoding.<br />
+- **Shell Eco-marathon Live Event** ([shell.com/eco-marathon](http://www.shell.com/energy-and-innovation/shell-ecomarathon/about.html "Eco-marathon about page")) – The project involved the creation of a social & streaming media website to serve as a hub for coverage of Shell’s multi-national Eco-marathon event. The site provided twitter feeds, event video, on-line polls, and contest standings. The event was streamed live through our CDN utilizing real-time encoding.<br />
 _Technologies Used:_ **PHP/My SQL, Live Video Streaming, JavaScript APIs (Facebook, Twitter, Flickr). HTML, CSS, jQuery**
 
-* **Favorite Top 10** (retired) – This “proof-of-concept” Social Media application was built for use on Facebook as well as 70 other social media and blog sites. The widget was developed using Flex, PHP and MySQL.  XML over HTTP was used for the communication layer. The website also employs various JavaScript libraries for rich UI capability.<br />
+- **Favorite Top 10** (retired) – This “proof-of-concept” Social Media application was built for use on Facebook as well as 70 other social media and blog sites. The widget was developed using Flex, PHP and MySQL.  XML over HTTP was used for the communication layer. The website also employs various JavaScript libraries for rich UI capability.<br />
 _Technologies Used:_ **Flex, ActionScript, PHP/MySQL, XML, HTML, CSS, Prototype, Scriptaculous**
 
-* **REZA Investment Group** ([rezacompanies.com](http://rezacompanies.com "Reza Companies homepage")) – Approached by REZA companies to build a custom SalesForce implementation and website frontend to automate the sales process of high-end real-estate listings. This involved extending SalesForce through custom programming and exchanging information through extensive use of web APIs.<br />
+- **REZA Investment Group** ([rezacompanies.com](http://rezacompanies.com "Reza Companies homepage")) – Approached by REZA companies to build a custom SalesForce implementation and website frontend to automate the sales process of high-end real-estate listings. This involved extending SalesForce through custom programming and exchanging information through extensive use of web APIs.<br />
 _Technologies Used:_ **PHP/My SQL, Live Video Streaming, JavaScript APIs (Facebook, Twitter, Flickr). HTML, CSS, jQuery**
 
-* **J. Walter Thompson** ([Shell Passionate Experts](https://www.adforum.com/agency/4333/creative-work/34468969/kurt-bush/shell "Interactive site & marketing campaign is no longer active")) – Responsible for developing an interactive Flash site to promote Shell’s Passionate Experts campaign. The project incorporated use of various ActionScript 3 libraries, streaming video, keyed green screen footage and programmatic Flash animation as well as customized H.264 video encodings.<br />
+- **J. Walter Thompson** ([Shell Passionate Experts](https://www.adforum.com/agency/4333/creative-work/34468969/kurt-bush/shell "Interactive site & marketing campaign is no longer active")) – Responsible for developing an interactive Flash site to promote Shell’s Passionate Experts campaign. The project incorporated use of various ActionScript 3 libraries, streaming video, keyed green screen footage and programmatic Flash animation as well as customized H.264 video encodings.<br />
 _Technologies Used:_ **Flash, ActionScript, FMS streaming, AfterEffects, 3D Studio Max, Media Encoder, F4V H.264 encoding**
 
-* **ABC Studios Live Stream** - ABC Studios engaged Velodea to design and build a streaming media system that would allow executives and other stakeholders the ability to tap into camera feeds at each remote sound stage location to view filming of various shows in real-time. The system developed was a custom combination of hardware and software encoders that could transcode to both Windows Media and Flash Media video which could be accessed through a secured website.<br />
+- **ABC Studios Live Stream** - ABC Studios engaged Velodea to design and build a streaming media system that would allow executives and other stakeholders the ability to tap into camera feeds at each remote sound stage location to view filming of various shows in real-time. The system developed was a custom combination of hardware and software encoders that could transcode to both Windows Media and Flash Media video which could be accessed through a secured website.<br />
 _Technologies Used:_ **ASP.NET, C#, Flash, ActionScript, FMS & WMS streaming, Flash Live & Windows Media Encoders, F4V & WMV format encoding**
 
 **[⬆ top](#james-priest "toc")**
@@ -198,10 +206,10 @@ _Technologies Used:_ **ASP.NET, C#, Flash, ActionScript, FMS & WMS streaming, Fl
 
 devAware specialized in .NET & Windows DNA application development for the web and desktop. As founder and lead developer, my role was that of information architect, systems designer & application developer. Some notable projects include:
 
-* **Sony VIAO Kiosk** - Contracted to create a custom installation for all Sony VIAO display models at Best Buy, Circuit City, Good Guys and Fry’s Electronics stores. The system locked down the OS through registry and group policy modifications while still allowing customer interaction with the desktop and Sony apps. Usage statistics were logged, uploaded and accessed through secure login.<br />
+- **Sony VIAO Kiosk** - Contracted to create a custom installation for all Sony VIAO display models at Best Buy, Circuit City, Good Guys and Fry’s Electronics stores. The system locked down the OS through registry and group policy modifications while still allowing customer interaction with the desktop and Sony apps. Usage statistics were logged, uploaded and accessed through secure login.<br />
 _Technologies Used:_ **ASP.NET, ADO.NET, VB.NET, Win32, VB COM objects, SQL Server, IIS, Windows registry customization**
 
-* **Xtreme Desktops Applications** - Engaged to develop an application framework for a series of Flash-based desktop experiences. Components consisted of **.NET HTTP server** applications to gather usage statistics for upload to a centralized analytics server. Responsible for custom built Analytics system and test environment utilizing **IIS** with **ASP.NET** and **SQL Server**. Lab consisted of **Win 2000, ME, XP Home, XP Pro, Win 2000 server & 2003 server** for complete unit and regression testing of each version of the desktop application. Over 50 branded applications were created and posted for distribution. Each desktop application was part of a marketing campaign to promote the following major motion picture & television series:
+- **Xtreme Desktops Applications** - Engaged to develop an application framework for a series of Flash-based desktop experiences. Components consisted of **.NET HTTP server** applications to gather usage statistics for upload to a centralized analytics server. Responsible for custom built Analytics system and test environment utilizing **IIS** with **ASP.NET** and **SQL Server**. Lab consisted of **Win 2000, ME, XP Home, XP Pro, Win 2000 server & 2003 server** for complete unit and regression testing of each version of the desktop application. Over 50 branded applications were created and posted for distribution. Each desktop application was part of a marketing campaign to promote the following major motion picture & television series:
 
   |  |  |  |
   | :--- | :--- | :--- |
@@ -294,20 +302,6 @@ Contracted to design and develop a web-based reporting system responsible for ge
 
 ---
 
-<a name="career--talbert-medical-management-corporation" id="career--talbert-medical-management-corporation"></a>
-
-### Talbert Medical Management Corporation
-
-|      | January 1997 – June 1997  |
-| :--- | ---: |
-| Systems Analyst / Programmer | Costa Mesa, California |
-
-As a member of the IS department, responsibilities included systems analysis and application development in the support of Talbert’s various management systems. Utilized **MS Access, VBA, Visio, and Word** to facilitate documentation.
-
-**[⬆ top](#james-priest "toc")**
-
----
-
 ## Education
 
 - **Bachelor of Science in Computer Information Systems**<br />
@@ -320,11 +314,23 @@ As a member of the IS department, responsibilities included systems analysis and
 ---
 
 ## Certifications
+
+In 2018 I was awarded two separate scholarships from Udacity. The first was a three month program called Grow with Google Scholarship Challenge. The second was a full Mobile Web Specialist Nanodegree which was awarded to those who successfully completed the challenge with the highest marks.
+
+<!-- 
+- Grow with Google Scholarship Challenge for Mobile Web Development (3-month program)
+- Mobile Web Specialist by Google Nanodegree (6-month program) -->
+
+At the end of the nine months and upon successfully completing my final project I was awarded Udacity's [Mobile Web Specialist Nanodegree](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024).
+
 <!-- * **Google Mobile Web Specialist** certification (In process) -->
 <!-- * **Microsoft Programming in HTML5 with JavaScript & CSS3** certification (In process) -->
-- **Mobile Web Specialist Nanodegree** by Udacity - 6 month program (Oct 2018) - [View](https://confirm.udacity.com/3JM7SK4Q)
-- **Grow With Google Scholarship Challenge** for Mobile Web - 3 month program (Apr 2018)
-- **Java 1.1 Programming** certification - The Waite Group (1998)
+
+| Certification | Completed | Provider |
+| :---   | ---       | ---:     |
+| Mobile Web Specialist Nanodegree - 6 month Program [[View](https://confirm.udacity.com/3JM7SK4Q)] | Nov 2018 | Udacity |
+|Grow With Google Scholarship Challenge - 3 month program | Apr 2018 | Udacity |
+| Java 1.1 Programming - 3 month program | Nov 1998 | The Waite Group |
 
 **[⬆ top](#james-priest "toc")**
 
@@ -356,18 +362,18 @@ Links to sites that provide verification of training and courses completed.
 | [![Restaurant Review App](./assets/images/portfolio_restaurant2.jpg)](https://restaurant-review-app.netlify.com)<br>**Restaurant Review App** | [![CSS Grid Learning App](./assets/images/portfolio_grid_app1.jpg)](https://css-grid.netlify.com/?pg=12)<br>**CSS Grid Learning App** | [![Weather Forecast App](./assets/images/portfolio_weather2.jpg)](https://local-weather-app.netlify.com/)<br>**Weather Forecast App** |
 | [![SpyCats Portfolio Site](./assets/images/portfolio_spycats1.jpg)](https://spycats.netlify.com/)<br>**SpyCats Portfolio Site** | [![JavaScript Array Methods](./assets/images/portfolio_js_array.jpg)](http://javascript-array-methods.netlify.com/)<br>**JavaScript Array Methods** | [![Quote Generator](./assets/images/portfolio_quote.jpg)](https://random-quote-generator.netlify.com/)<br>**Quote Generator** |
 
-* **Restaurant Review App** - [[Demo](https://restaurant-review-app.netlify.com)], [[Code Sample](https://github.com/james-priest/mws-restaurant-stage-1/blob/master/app/js/dbhelper.js)], [[GitHub Repo](https://github.com/james-priest/mws-restaurant-stage-1)]<br>
+- **Restaurant Review App** - [[Demo](https://restaurant-review-app.netlify.com)], [[Code Notes](https://james-priest.github.io/mws-restaurant-stage-1/)], [[Code Sample](https://github.com/james-priest/mws-restaurant-stage-1/blob/master/app/js/dbhelper.js)], [[GitHub Repo](https://github.com/james-priest/mws-restaurant-stage-1)]<br>
   This mobile-optimized Progressive Web App was built as a final project for my Mobile Web Specialist by Google program. It's fully responsive, ARIA compliant, and uses Service Workers, IndexedDB, & Cache API for a seamless offline experience. It synchronizes when a connection becomes available and notifies the user whether work is being done on or offline.
-* **CSS Grid Learning App** - [[Demo](https://css-grid.netlify.com/?pg=12)], [[CodePen](https://codepen.io/james-priest/pen/MrdNPZ)], [[Code Sample](https://github.com/james-priest/grid-critters-code/blob/master/script/mce_ta.js)], [[GitHub Repo](https://github.com/james-priest/grid-critters-code)]<br>
+- **CSS Grid Learning App** - [[Demo](https://css-grid.netlify.com/?pg=12)], [[CodePen](https://codepen.io/james-priest/pen/MrdNPZ)], [[Code Sample](https://github.com/james-priest/grid-critters-code/blob/master/script/mce_ta.js)], [[GitHub Repo](https://github.com/james-priest/grid-critters-code)]<br>
   This is JavaScript Single Page Application built as a proof-of-concept. It teaches CSS Grid as a series of lessons. It uses vanilla JavaScript, CSS transitions, & serious amounts of RegEx for the in-page code editor... all built from scratch.
 <!-- * [DOM Range Notes & Tests](https://james-priest.github.io/my-code-editor/public/dom_range_tests/) -->
-* **Weather Forecast App** - [[Demo](https://local-weather-app.netlify.com/)], [[CodePen](https://codepen.io/james-priest/pen/XaQQaO)], [[Code Sample](https://github.com/james-priest/local-weather-app/blob/master/js/ajax.js)], [[GitHub Repo](https://github.com/james-priest/local-weather-app)]<br>
+- **Weather Forecast App** - [[Demo](https://local-weather-app.netlify.com/)], [[CodePen](https://codepen.io/james-priest/pen/XaQQaO)], [[Code Sample](https://github.com/james-priest/local-weather-app/blob/master/js/ajax.js)], [[GitHub Repo](https://github.com/james-priest/local-weather-app)]<br>
   This app was written from the ground up to satisfy a FreeCodeCamp project requirement. It uses Semantic-UI Framework, Ajax, CSS animations & transitions, SVG & HTML5 Geolocation. It is also fully responsive.
-* **SpyCats Portfolio Site** - [[Demo](https://spycats.netlify.com/)], [[CodePen](https://codepen.io/james-priest/pen/prpjEK)], [[Code Sample](https://github.com/james-priest/spy-cats/blob/master/js/fcc-portfolio.js)], [[GitHub Repo](https://github.com/james-priest/spy-cats)]<br>
+- **SpyCats Portfolio Site** - [[Demo](https://spycats.netlify.com/)], [[CodePen](https://codepen.io/james-priest/pen/prpjEK)], [[Code Sample](https://github.com/james-priest/spy-cats/blob/master/js/fcc-portfolio.js)], [[GitHub Repo](https://github.com/james-priest/spy-cats)]<br>
   This app was also written to satisfy a FreeCodeCamp requirement to build a portfolio website. It uses Bootstrap, jQuery, HTML5 Forms, & is fully responsive in it's design.
-* **JavaScript Array Methods** - [[Demo](http://javascript-array-methods.netlify.com/)], [[Sample Code](https://github.com/james-priest/javascript-array-methods)], [[GitHub Repo](https://github.com/james-priest/javascript-array-methods)]<br>
+- **JavaScript Array Methods** - [[Demo](http://javascript-array-methods.netlify.com/)], [[Sample Code](https://github.com/james-priest/javascript-array-methods)], [[GitHub Repo](https://github.com/james-priest/javascript-array-methods)]<br>
   This app was built using QUnit and TDD (Test-Driven Development) methodology. It dynamically builds an interface that explains and shows the results of various JavaScript Array methods.
-* **Random Quote Generator** - [[Demo](https://random-quote-generator.netlify.com/)], [[CodePen](https://codepen.io/james-priest/pen/RZdGNo)] [[Code Sample](https://github.com/james-priest/random-quote-generator/blob/master/js/script.js)], [[GitHub Repo](https://github.com/james-priest/random-quote-generator)]<br>
+- **Random Quote Generator** - [[Demo](https://random-quote-generator.netlify.com/)], [[CodePen](https://codepen.io/james-priest/pen/RZdGNo)] [[Code Sample](https://github.com/james-priest/random-quote-generator/blob/master/js/script.js)], [[GitHub Repo](https://github.com/james-priest/random-quote-generator)]<br>
   This app is another FreeCodeCamp project that uses basic JavaScript, Ajax, & CSS transitions to dynamically display famous quotes. It was created from scratch to satisfy a project requirement.
 <!-- * [Bootstrap Blast Off](https://bootstrap-blast-off.netlify.com/) -->
 
@@ -377,31 +383,32 @@ Links to sites that provide verification of training and courses completed.
 
 ## Code Notes
 
-* **Mobile Web Nanodegree Code Notes**<br>
-  Step-by-step walk-through of code I wrote as my final project. This is a fully responsive Restaurant Review PWA (Progressive Web App) with database, caching, & offline capabilities.
-  * Stage 1 - [Building a fully responsive & accessible web app](https://james-priest.github.io/mws-restaurant-stage-1/stage1.html)
-  * Stage 2 - [Offline capability with Service Worker, Cache API, & IndexedDB](https://james-priest.github.io/mws-restaurant-stage-1/stage2.html)
-  * Stage 3 - [Designing HTML5 forms, offline request queue, & performance tuning](https://james-priest.github.io/mws-restaurant-stage-1/stage3.html)
-  * Stage 4 - [Launching live site with back end data services & front end build process](https://james-priest.github.io/mws-restaurant-stage-1/stage4.html)
-* **100 Days of Code Log**<br>
+- **Mobile Web Nanodegree Code Notes**<br>
+  Step-by-step walk-through of how I coded my final project. This is a fully responsive Restaurant Review Progressive Web App (PWA) with database, caching, & offline capabilities.
+  - Table of Contents - [Restaurant Review App Code Notes](https://james-priest.github.io/mws-restaurant-stage-1/index.html)
+  - Stage 1 - [Building a fully responsive & accessible web app](https://james-priest.github.io/mws-restaurant-stage-1/stage1.html)
+  - Stage 2 - [Offline capability with Service Worker, Cache API, & IndexedDB](https://james-priest.github.io/mws-restaurant-stage-1/stage2.html)
+  - Stage 3 - [Designing HTML5 forms, offline request queue, & performance tuning](https://james-priest.github.io/mws-restaurant-stage-1/stage3.html)
+  - Stage 4 - [Launching live site with back end data services & front end build process](https://james-priest.github.io/mws-restaurant-stage-1/stage4.html)
+- **100 Days of Code Log**<br>
   Tasks, challenges, and work samples related to web development over the last 18 months.
-  * Log Round 1 - [June 2017 - January 2018](https://james-priest.github.io/100-days-of-code-log/)
-  * Log Round 2 - [January 2018 - May 2018](https://james-priest.github.io/100-days-of-code-log-r2/)
-  * Log Round 3 - [May 2018 - October 2018](https://james-priest.github.io/100-days-of-code-log-r3/)
-  * Log Round 4 - [October 2018 - present](https://james-priest.github.io/100-days-of-code-log-r4/)
-* **Microsoft Programming in HTML5 with JavaScript and CSS3 Study Notes**<br>
+  - Log Round 1 - [June 2017 - January 2018](https://james-priest.github.io/100-days-of-code-log/)
+  - Log Round 2 - [January 2018 - May 2018](https://james-priest.github.io/100-days-of-code-log-r2/)
+  - Log Round 3 - [May 2018 - October 2018](https://james-priest.github.io/100-days-of-code-log-r3/)
+  - Log Round 4 - [October 2018 - present](https://james-priest.github.io/100-days-of-code-log-r4/)
+- **Microsoft Programming in HTML5 with JavaScript and CSS3 Study Notes**<br>
   Notes related to my studies for the MS 70-480 certification exam.
-  * Chapter 6 - [JavaScript Objects](https://github.com/james-priest/javascript-objects)
-  * Chapter 10 - [WebSocket Communications](https://james-priest.github.io/100-days-of-code-log-r2/CH10-WebSocket.html)
-  * Chapter 11 - [HTML5 Media](https://james-priest.github.io/100-days-of-code-log-r2/CH11-HTML5-Media.html)
-  * Chapter 12 - [HTML5 Canvas](https://james-priest.github.io/100-days-of-code-log-r2/CH12-Canvas.html)
-  * Chapter 13 - [HTML5 Drag and Drop](https://james-priest.github.io/100-days-of-code-log-r2/CH13-Drag-Drop.html)
-  * Chapter 14 - [HTML5 Geolocation](https://james-priest.github.io/100-days-of-code-log-r2/CH14-Geolocation.html)
-  * Chapter 15 - [Web Storage](https://james-priest.github.io/100-days-of-code-log-r2/CH15-WebStorage.html)
-  * Chapter 16 - [Offline Web Applications](https://james-priest.github.io/100-days-of-code-log-r2/CH16-Offline.html)
-  * Chapter 16 - [WebSQL](https://james-priest.github.io/100-days-of-code-log-r2/CH16-Offline1-WebSQL.html)
-  * Chapter 16 - [IndexedDB](https://james-priest.github.io/100-days-of-code-log-r2/CH16-Offline2-IndexedDB.html)
-* **Grow With Google Scholarship Challenge Course Notes**<br>
+  - Chapter 6 - [JavaScript Objects](https://github.com/james-priest/javascript-objects)
+  - Chapter 10 - [WebSocket Communications](https://james-priest.github.io/100-days-of-code-log-r2/CH10-WebSocket.html)
+  - Chapter 11 - [HTML5 Media](https://james-priest.github.io/100-days-of-code-log-r2/CH11-HTML5-Media.html)
+  - Chapter 12 - [HTML5 Canvas](https://james-priest.github.io/100-days-of-code-log-r2/CH12-Canvas.html)
+  - Chapter 13 - [HTML5 Drag and Drop](https://james-priest.github.io/100-days-of-code-log-r2/CH13-Drag-Drop.html)
+  - Chapter 14 - [HTML5 Geolocation](https://james-priest.github.io/100-days-of-code-log-r2/CH14-Geolocation.html)
+  - Chapter 15 - [Web Storage](https://james-priest.github.io/100-days-of-code-log-r2/CH15-WebStorage.html)
+  - Chapter 16 - [Offline Web Applications](https://james-priest.github.io/100-days-of-code-log-r2/CH16-Offline.html)
+  - Chapter 16 - [WebSQL](https://james-priest.github.io/100-days-of-code-log-r2/CH16-Offline1-WebSQL.html)
+  - Chapter 16 - [IndexedDB](https://james-priest.github.io/100-days-of-code-log-r2/CH16-Offline2-IndexedDB.html)
+- **Grow With Google Scholarship Challenge Course Notes**<br>
   Course notes from the Offline First & ES6 JavaScript Improved courses.
   1. Offline First (1) - [Introducing the Service Worker](https://james-priest.github.io/100-days-of-code-log-r2/Introducing-the-Service-Worker.html)
   2. Offline First (2) - [IndexedDB and Caching](https://james-priest.github.io/100-days-of-code-log-r2/IndexedDB-and-Caching.html)
@@ -411,24 +418,25 @@ Links to sites that provide verification of training and courses completed.
   6. ES6 JavaScript Improved (3) - [Built-ins](https://james-priest.github.io/100-days-of-code-log-r2/ES6-Built-ins.html)
   7. ES6 JavaScript Improved (3.5) - [Built-ins-Pt2](https://james-priest.github.io/100-days-of-code-log-r2/ES6-Built-ins-Pt2.html)
   8. ES6 JavaScript Improved (4) - [Professional Developer-fu](https://james-priest.github.io/100-days-of-code-log-r2/ES6-Professional-Developer-fu.html)
-* **Mobile Web Nanodegree Course Notes**<br>
+- **Mobile Web Nanodegree Course Notes**<br>
   Course Notes from the Nanodegree course list.
-  * Accessible & Responsive Web Apps - [Responsive Web Design Fundamentals](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-web-design-fundamentals.html)
-  * Accessible & Responsive Web Apps - [Responsive Images](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-images.html)
-  * Accessible & Responsive Web Apps - [Web Accessibility](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-accessibility.html)
-  * Dynamic & Offline Capable Web Apps - [Asynchronous JavaScript Requests](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/asynchronous-javascript-requests.html)
-  * Dynamic & Offline Capable Web Apps - [Web Tooling and Automation](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-tooling-and-automation.html)
-  * Performant Web Apps - [Client-Server Communications](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/client-server-communication.html)
-* **Other Course Notes**<br>
+  - Accessible & Responsive Web Apps - [Responsive Web Design Fundamentals](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-web-design-fundamentals.html)
+  - Accessible & Responsive Web Apps - [Responsive Images](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-images.html)
+  - Accessible & Responsive Web Apps - [Web Accessibility](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-accessibility.html)
+  - Dynamic & Offline Capable Web Apps - [Asynchronous JavaScript Requests](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/asynchronous-javascript-requests.html)
+  - Dynamic & Offline Capable Web Apps - [Web Tooling and Automation](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-tooling-and-automation.html)
+  - Performant Web Apps - [Client-Server Communications](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/client-server-communication.html)
+- **Other Course Notes**<br>
   Notes from other key courses I've taken.
-  * Pragrim Technologies - [Object Oriented JavaScript](https://james-priest.github.io/100-days-of-code-log-r2/OO-JavaScript.html)
-  * Udacity - [JavaScript Promises](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/javascript-promises.html)
+  - Pragrim Technologies - [Object Oriented JavaScript](https://james-priest.github.io/100-days-of-code-log-r2/OO-JavaScript.html)
+  - Udacity - [JavaScript Promises](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/javascript-promises.html)
 
 **[⬆ top](#james-priest "toc")**
 
 ---
 
 ## Training
+Starting in 2017, I began a program of full-time, online study related to web & mobile development. I completed [more than 45 courses in two years](#training "toc") from such providers as Pluralsight, Code School, Microsoft Virtual Academy, Udacity, & Free Code Camp.
 
 | Course    | Completed   | Provider Credential  |
 | :---      | ---         | --:       |
@@ -478,7 +486,8 @@ Links to sites that provide verification of training and courses completed.
 | Try Git | May 2017 | Code School (Pluralsight) |
 | Getting Started with Web Technologies | April 2017 | Microsoft Virtual Academy |
 
-<h3 style="width:initial; position: initial; margin-bottom: initial;">Prior to 2017</h3>
+<h3 style="width:initial; position: initial; margin-bottom: initial;">Prior Training</h3>
+Following are some notable courses take prior to 2017
 
 | Course    | Completed   | Provider Credential  |
 | :---      | ---         | --:       |
