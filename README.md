@@ -363,19 +363,52 @@ Links to sites that provide verification of training and courses completed.
 | [![SpyCats Portfolio Site](./assets/images/portfolio_spycats1.jpg)](https://spycats.netlify.com/)<br>**SpyCats Portfolio Site** | [![JavaScript Array Methods](./assets/images/portfolio_js_array.jpg)](http://javascript-array-methods.netlify.com/)<br>**JavaScript Array Methods** | [![Quote Generator](./assets/images/portfolio_quote.jpg)](https://random-quote-generator.netlify.com/)<br>**Quote Generator** |
 
 - **Restaurant Review App** - [[Demo](https://restaurant-review-app.netlify.com)], [[Code Notes](https://james-priest.github.io/mws-restaurant-stage-1/)], [[Code Sample](https://github.com/james-priest/mws-restaurant-stage-1/blob/master/app/js/dbhelper.js)], [[GitHub Repo](https://github.com/james-priest/mws-restaurant-stage-1)]<br>
-  This mobile-optimized Progressive Web App was built as a final project for my Mobile Web Specialist by Google program. It's fully responsive, ARIA compliant, and uses Service Workers, IndexedDB, & Cache API for a seamless offline experience. It synchronizes when a connection becomes available and notifies the user whether work is being done on or offline.
+  This mobile-optimized Progressive Web App is
+  - Fully responsive and ARIA compliant
+  - Uses Service Worker, IndexedDB, & Cache API for a seamless offline experience
+  - Synchronizes when a connection is available and notifies the user when offline<br>
+  [![Restaurant Review App](./assets/images/portfolio_restaurant2.jpg)](https://restaurant-review-app.netlify.com)<br>
+  [[Demo](https://restaurant-review-app.netlify.com)], [[Code Notes](https://james-priest.github.io/mws-restaurant-stage-1/)], [[Code Sample](https://github.com/james-priest/mws-restaurant-stage-1/blob/master/app/js/dbhelper.js)], [[GitHub Repo](https://github.com/james-priest/mws-restaurant-stage-1)]<br><br>
+
 - **CSS Grid Learning App** - [[Demo](https://css-grid.netlify.com/?pg=12)], [[CodePen](https://codepen.io/james-priest/pen/MrdNPZ)], [[Code Sample](https://github.com/james-priest/grid-critters-code/blob/master/script/mce_ta.js)], [[GitHub Repo](https://github.com/james-priest/grid-critters-code)]<br>
-  This is JavaScript Single Page Application built as a proof-of-concept. It teaches CSS Grid as a series of lessons. It uses vanilla JavaScript, CSS transitions, & serious amounts of RegEx for the in-page code editor... all built from scratch.
-<!-- * [DOM Range Notes & Tests](https://james-priest.github.io/my-code-editor/public/dom_range_tests/) -->
+  This is JavaScript Single Page Application built as a proof-of-concept.
+  - It teaches CSS Grid as a series of lessons.
+  - It's built with vanilla JavaScript, CSS transitions, & extensive use of RegEx
+  - Includes an in-page code editor built from scratch<br>
+  [![CSS Grid Learning App](./assets/images/portfolio_grid_app1.jpg)](https://css-grid.netlify.com/?pg=12)<br>
+  [[Demo](https://css-grid.netlify.com/?pg=12)], [[CodePen](https://codepen.io/james-priest/pen/MrdNPZ)], [[Code Sample](https://github.com/james-priest/grid-critters-code/blob/master/script/mce_ta.js)], [[GitHub Repo](https://github.com/james-priest/grid-critters-code)]<br><br>
+
 - **Weather Forecast App** - [[Demo](https://local-weather-app.netlify.com/)], [[CodePen](https://codepen.io/james-priest/pen/XaQQaO)], [[Code Sample](https://github.com/james-priest/local-weather-app/blob/master/js/ajax.js)], [[GitHub Repo](https://github.com/james-priest/local-weather-app)]<br>
-  This app was written from the ground up to satisfy a FreeCodeCamp project requirement. It uses Semantic-UI Framework, Ajax, CSS animations & transitions, SVG & HTML5 Geolocation. It is also fully responsive.
+  This is a single page app written to demonstrate JAMStack architecture.
+  - It is written from scratch and is fully responsive
+  - Uses Ajax,  HTML5 Geo-location, & embedded SVG
+  - Uses Semantic-UI framework, Ajax, CSS animations, & transitions<br>
+  [![Weather Forecast App](./assets/images/portfolio_weather2.jpg)](https://local-weather-app.netlify.com/)<br>
+  [[Demo](https://local-weather-app.netlify.com/)], [[CodePen](https://codepen.io/james-priest/pen/XaQQaO)], [[Code Sample](https://github.com/james-priest/local-weather-app/blob/master/js/ajax.js)], [[GitHub Repo](https://github.com/james-priest/local-weather-app)]<br><br>
+
 - **SpyCats Portfolio Site** - [[Demo](https://spycats.netlify.com/)], [[CodePen](https://codepen.io/james-priest/pen/prpjEK)], [[Code Sample](https://github.com/james-priest/spy-cats/blob/master/js/fcc-portfolio.js)], [[GitHub Repo](https://github.com/james-priest/spy-cats)]<br>
-  This app was also written to satisfy a FreeCodeCamp requirement to build a portfolio website. It uses Bootstrap, jQuery, HTML5 Forms, & is fully responsive in it's design.
+  This app is a portfolio-style site. It was written to satisfy an FCC certification requirement.
+  - It uses Bootstrap, jQuery, HTML5 Forms
+  - It incorporates scroll navigation & semantic HTML
+  - Is fully responsive and scales across devices<br>
+  [![SpyCats Portfolio Site](./assets/images/portfolio_spycats1.jpg)](https://spycats.netlify.com/)<br>
+  [[Demo](https://spycats.netlify.com/)], [[CodePen](https://codepen.io/james-priest/pen/prpjEK)], [[Code Sample](https://github.com/james-priest/spy-cats/blob/master/js/fcc-portfolio.js)], [[GitHub Repo](https://github.com/james-priest/spy-cats)]<br><br>
+
 - **JavaScript Array Methods** - [[Demo](http://javascript-array-methods.netlify.com/)], [[Sample Code](https://github.com/james-priest/javascript-array-methods)], [[GitHub Repo](https://github.com/james-priest/javascript-array-methods)]<br>
-  This app was built using QUnit and TDD (Test-Driven Development) methodology. It dynamically builds an interface that explains and shows the results of various JavaScript Array methods.
+  This app was built as part of my Microsoft Developer Certification study.
+  - It uses Object Oriented ES5 JavaScript<br>
+  - It uses QUnit and TDD (Test-Driven Development) methodology
+  - It dynamically builds an interface that models various JavaScript Array methods
+  [![JavaScript Array Methods](./assets/images/portfolio_js_array.jpg)](http://javascript-array-methods.netlify.com/)<br>
+  [[Demo](http://javascript-array-methods.netlify.com/)], [[Sample Code](https://github.com/james-priest/javascript-array-methods)], [[GitHub Repo](https://github.com/james-priest/javascript-array-methods)]<br><br>
+
 - **Random Quote Generator** - [[Demo](https://random-quote-generator.netlify.com/)], [[CodePen](https://codepen.io/james-priest/pen/RZdGNo)] [[Code Sample](https://github.com/james-priest/random-quote-generator/blob/master/js/script.js)], [[GitHub Repo](https://github.com/james-priest/random-quote-generator)]<br>
-  This app is another FreeCodeCamp project that uses basic JavaScript, Ajax, & CSS transitions to dynamically display famous quotes. It was created from scratch to satisfy a project requirement.
-<!-- * [Bootstrap Blast Off](https://bootstrap-blast-off.netlify.com/) -->
+  This app is FCC project built to satisfy a certification requirement.
+  - It uses basic JavaScript & jQuery for API requests through Ajax
+  - CSS transitions to dynamically display famous quotes
+  - Embedded SVG & FontAwesome for icons and background<br>
+  [![Quote Generator](./assets/images/portfolio_quote.jpg)](https://random-quote-generator.netlify.com/)<br>
+  [[Demo](https://random-quote-generator.netlify.com/)], [[CodePen](https://codepen.io/james-priest/pen/RZdGNo)] [[Code Sample](https://github.com/james-priest/random-quote-generator/blob/master/js/script.js)], [[GitHub Repo](https://github.com/james-priest/random-quote-generator)]<br>
 
 **[⬆ top](#james-priest "toc")**
 
@@ -410,16 +443,18 @@ Links to sites that provide verification of training and courses completed.
   - Chapter 16 - [IndexedDB](https://james-priest.github.io/100-days-of-code-log-r2/CH16-Offline2-IndexedDB.html)
 - **Grow With Google Scholarship Challenge Course Notes**<br>
   Course notes from the Offline First & ES6 JavaScript Improved courses.
-  1. Offline First (1) - [Introducing the Service Worker](https://james-priest.github.io/100-days-of-code-log-r2/Introducing-the-Service-Worker.html)
-  2. Offline First (2) - [IndexedDB and Caching](https://james-priest.github.io/100-days-of-code-log-r2/IndexedDB-and-Caching.html)
-  3. ES6 JavaScript Improved (1) - [Syntax](https://james-priest.github.io/100-days-of-code-log-r2/ES6-Syntax.html)
-  4. ES6 JavaScript Improved (2) - [Functions](https://james-priest.github.io/100-days-of-code-log-r2/ES6-Functions.html)
-  5. ES6 JavaScript Improved (2.5) - [Classes](https://james-priest.github.io/100-days-of-code-log-r2/ES6-Classes.html)
-  6. ES6 JavaScript Improved (3) - [Built-ins](https://james-priest.github.io/100-days-of-code-log-r2/ES6-Built-ins.html)
-  7. ES6 JavaScript Improved (3.5) - [Built-ins-Pt2](https://james-priest.github.io/100-days-of-code-log-r2/ES6-Built-ins-Pt2.html)
-  8. ES6 JavaScript Improved (4) - [Professional Developer-fu](https://james-priest.github.io/100-days-of-code-log-r2/ES6-Professional-Developer-fu.html)
+  - Table of Contents - [Mobile Web Specialist Phase 1 Course Notes](https://james-priest.github.io/100-days-of-code-log-r2/MWS-TOC.html)
+  - Offline First (1) - [Introducing the Service Worker](https://james-priest.github.io/100-days-of-code-log-r2/Introducing-the-Service-Worker.html)
+  - Offline First (2) - [IndexedDB and Caching](https://james-priest.github.io/100-days-of-code-log-r2/IndexedDB-and-Caching.html)
+  - ES6 JavaScript Improved (1) - [Syntax](https://james-priest.github.io/100-days-of-code-log-r2/ES6-Syntax.html)
+  - ES6 JavaScript Improved (2) - [Functions](https://james-priest.github.io/100-days-of-code-log-r2/ES6-Functions.html)
+  - ES6 JavaScript Improved (2.5) - [Classes](https://james-priest.github.io/100-days-of-code-log-r2/ES6-Classes.html)
+  - ES6 JavaScript Improved (3) - [Built-ins](https://james-priest.github.io/100-days-of-code-log-r2/ES6-Built-ins.html)
+  - ES6 JavaScript Improved (3.5) - [Built-ins-Pt2](https://james-priest.github.io/100-days-of-code-log-r2/ES6-Built-ins-Pt2.html)
+  - ES6 JavaScript Improved (4) - [Professional Developer-fu](https://james-priest.github.io/100-days-of-code-log-r2/ES6-Professional-Developer-fu.html)
 - **Mobile Web Nanodegree Course Notes**<br>
   Course Notes from the Nanodegree course list.
+  - Table of Contents - [Mobile Web Specialist Phase 2 Course Notes](https://james-priest.github.io/udacity-nanodegree-mws/index.html)
   - Accessible & Responsive Web Apps - [Responsive Web Design Fundamentals](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-web-design-fundamentals.html)
   - Accessible & Responsive Web Apps - [Responsive Images](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/responsive-images.html)
   - Accessible & Responsive Web Apps - [Web Accessibility](https://james-priest.github.io/udacity-nanodegree-mws/course-notes/web-accessibility.html)
