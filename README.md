@@ -92,7 +92,7 @@ Full Stack Developer with 20 years experience seeking to join a thriving and dyn
 
 | Additional Technical Skills |
 | :-- |
-| Service Workers, Web Workers, Node.js, Npm, Gulp, Grunt, Jekyll, MarkDown, MS SQL Server, MySQL, SQLLite, PouchDB, CouchDB, MongoDB Query Syntax, Bootstrap, Semantic-UI |
+| Service Workers, Web Workers, Node.js, Npm, Gulp, Grunt, Jekyll, MarkDown, MS SQL Server, MySQL, SQLite, PouchDB, CouchDB, MongoDB Query Syntax, Bootstrap, Semantic-UI |
 
 | Non-technical Skills |
 | :-- |
@@ -103,9 +103,11 @@ Full Stack Developer with 20 years experience seeking to join a thriving and dyn
 ---
 
 ## Career History
-In 2014 my last employer went out of business. Following that, I took time off to spend with family and went back to school in 2017 to re-educate myself on the latest mobile, web, and app technologies.
+In 2014 my last employer went out of business. I took this opportunity to spend with family and went back to school in 2017 to re-educate myself on the latest mobile, web, and app technologies.
 
 I graduated in 2018 with a Nanodegree in Mobile Web Development and am excited to re-enter the workforce and apply my knowledge toward building cutting-edge technology solutions.
+
+Following is my career history up until this point.
 
 | 1. [Velodea](#career--velodea "toc") | 4. [Microsoft Corporation](#career--microsoft-corporation "toc") |
 | 2. [devAware Tech Solutions](#career--devaware-technology-solutions "toc") | 5. [Phillips Research Laboratory](#career--phillips-research-laboratory "toc") |
