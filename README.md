@@ -103,7 +103,7 @@ Full Stack Developer with 20 years experience seeking to join a thriving and dyn
 ---
 
 ## Career History
-In 2014 my last employer went out of business. Following that, I took time off to spend with family and in 2017 went back to school to re-educate myself on the latest mobile, web, and app technologies.
+In 2014 my last employer went out of business. Following that, I took time off to spend with family and went back to school in 2017 to re-educate myself on the latest mobile, web, and app technologies.
 
 I graduated in 2018 with a Nanodegree in Mobile Web Development and am excited to re-enter the workforce and apply my knowledge toward building cutting-edge technology solutions.
 
@@ -302,122 +302,85 @@ Contracted to design and develop a web-based reporting system responsible for ge
 
 ---
 
-## Education
-
-- **Bachelor of Science in Computer Information Systems**<br />
-  DeVry Institute of Technology Pomona, California<br />
-  Graduation with Honors<br />
-  GPA 3.52/4.00
-
-**[⬆ top](#james-priest "toc")**
-
----
-
-## Certifications
-
-In 2018 I was awarded two separate scholarships from Udacity. The first was a three month program called Grow with Google Scholarship Challenge. The second was a full Mobile Web Specialist Nanodegree which was awarded to those who successfully completed the challenge with the highest marks.
-
-<!-- 
-- Grow with Google Scholarship Challenge for Mobile Web Development (3-month program)
-- Mobile Web Specialist by Google Nanodegree (6-month program) -->
-
-At the end of the nine months and upon successfully completing my final project I was awarded Udacity's [Mobile Web Specialist Nanodegree](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024).
-
-<!-- * **Google Mobile Web Specialist** certification (In process) -->
-<!-- * **Microsoft Programming in HTML5 with JavaScript & CSS3** certification (In process) -->
-
-| Certification | Completed | Provider |
-| :---   | ---       | ---:     |
-| Mobile Web Specialist Nanodegree - 6 month Program [[View](https://confirm.udacity.com/3JM7SK4Q)] | Nov 2018 | Udacity |
-|Grow With Google Scholarship Challenge - 3 month program | Apr 2018 | Udacity |
-| Java 1.1 Programming - 3 month program | Nov 1998 | The Waite Group |
-
-**[⬆ top](#james-priest "toc")**
-
----
-
-## Achievements
-Links to sites that provide verification of training and courses completed.
-
-- **100DaysOfCode Challenge** ([Code Log](https://james-priest.github.io/100-days-of-code-log/))<br>
-  I code and write about my progress related to web development. I've been doing this since June of 2017 and tweet about my progress and lessons learned.
-- **Twitter** ([@james_priest1](https://twitter.com/james_priest1))<br>
-  I'm very active in the Front End & JavaScript development communities. I've built up a following of 1400 developers (my twitter fam) since opening my account in May of 2017. I tweet about web development, training, and personal achievements.
-- **Code School:** [https://www.codeschool.com/users/james-priest](https://www.codeschool.com/users/james-priest)<br>
-  Report card, badges, and achievement status.
-- **Free Code Camp:** [https://www.freecodecamp.com/james-priest](https://www.freecodecamp.com/james-priest)<br>
-  Online program focused on Front End, Back End and Data Visualization training and certification.
-- **Microsoft Virtual Academy:** [Web Development Badge](https://mva.microsoft.com/RewardEvidence.aspx/?key=B--MLSyI6ouc3JiHZ6X1dg2)<br>
-  Verification of Web Development badge and related courses completed.
-- **Degreed:** [https://degreed.com/jamespriest](https://degreed.com/jamespriest)<br>
-  A catalogued list of all formal schooling, online courses, and programming certifications.
-
-**[⬆ top](#james-priest "toc")**
-
----
-
-## Sample Apps
+## Portfolio
 
 | --- | --- | --- |
 | [![Restaurant Review App](./assets/images/portfolio_restaurant2.jpg)](https://restaurant-review-app.netlify.com)<br>**Restaurant Review App** | [![CSS Grid Learning App](./assets/images/portfolio_grid_app1.jpg)](https://css-grid.netlify.com/?pg=12)<br>**CSS Grid Learning App** | [![Weather Forecast App](./assets/images/portfolio_weather2.jpg)](https://local-weather-app.netlify.com/)<br>**Weather Forecast App** |
 | [![SpyCats Portfolio Site](./assets/images/portfolio_spycats1.jpg)](https://spycats.netlify.com/)<br>**SpyCats Portfolio Site** | [![JavaScript Array Methods](./assets/images/portfolio_js_array.jpg)](http://javascript-array-methods.netlify.com/)<br>**JavaScript Array Methods** | [![Quote Generator](./assets/images/portfolio_quote.jpg)](https://random-quote-generator.netlify.com/)<br>**Quote Generator** |
 
-- **Restaurant Review App** - [[Demo](https://restaurant-review-app.netlify.com)], [[Code Notes](https://james-priest.github.io/mws-restaurant-stage-1/)], [[Code Sample](https://github.com/james-priest/mws-restaurant-stage-1/blob/master/app/js/dbhelper.js)], [[GitHub Repo](https://github.com/james-priest/mws-restaurant-stage-1)]<br>
+- **Restaurant Review App**<br>
   This mobile-optimized Progressive Web App is
   - Fully responsive and ARIA compliant
   - Uses Service Worker, IndexedDB, & Cache API for a seamless offline experience
-  - Synchronizes when a connection is available and notifies the user when offline<br>
-  [![Restaurant Review App](./assets/images/portfolio_restaurant2.jpg)](https://restaurant-review-app.netlify.com)<br>
-  [[Demo](https://restaurant-review-app.netlify.com)], [[Code Notes](https://james-priest.github.io/mws-restaurant-stage-1/)], [[Code Sample](https://github.com/james-priest/mws-restaurant-stage-1/blob/master/app/js/dbhelper.js)], [[GitHub Repo](https://github.com/james-priest/mws-restaurant-stage-1)]<br><br>
+  - Synchronizes when a connection is available and notifies the user when offline
+  <br><br>
+  [![Restaurant Review App](./assets/images/portfolio_restaurant2.jpg)](https://restaurant-review-app.netlify.com)
+  <br><br>
+  [[Demo](https://restaurant-review-app.netlify.com)], [[Code Notes](https://james-priest.github.io/mws-restaurant-stage-1/)], [[Code Sample](https://github.com/james-priest/mws-restaurant-stage-1/blob/master/app/js/dbhelper.js)], [[GitHub Repo](https://github.com/james-priest/mws-restaurant-stage-1)]
+  <br><br>
 
-- **CSS Grid Learning App** - [[Demo](https://css-grid.netlify.com/?pg=12)], [[CodePen](https://codepen.io/james-priest/pen/MrdNPZ)], [[Code Sample](https://github.com/james-priest/grid-critters-code/blob/master/script/mce_ta.js)], [[GitHub Repo](https://github.com/james-priest/grid-critters-code)]<br>
+- **CSS Grid Learning App**<br>
   This is JavaScript Single Page Application built as a proof-of-concept.
   - It teaches CSS Grid as a series of lessons.
   - It's built with vanilla JavaScript, CSS transitions, & extensive use of RegEx
-  - Includes an in-page code editor built from scratch<br>
-  [![CSS Grid Learning App](./assets/images/portfolio_grid_app1.jpg)](https://css-grid.netlify.com/?pg=12)<br>
-  [[Demo](https://css-grid.netlify.com/?pg=12)], [[CodePen](https://codepen.io/james-priest/pen/MrdNPZ)], [[Code Sample](https://github.com/james-priest/grid-critters-code/blob/master/script/mce_ta.js)], [[GitHub Repo](https://github.com/james-priest/grid-critters-code)]<br><br>
+  - Includes an in-page code editor built from scratch
+  <br><br>
+  [![CSS Grid Learning App](./assets/images/portfolio_grid_app1.jpg)](https://css-grid.netlify.com/?pg=12)<br><br>
+  [[Demo](https://css-grid.netlify.com/?pg=12)], [[CodePen](https://codepen.io/james-priest/pen/MrdNPZ)], [[Code Sample](https://github.com/james-priest/grid-critters-code/blob/master/script/mce_ta.js)], [[GitHub Repo](https://github.com/james-priest/grid-critters-code)]
+  <br><br>
 
-- **Weather Forecast App** - [[Demo](https://local-weather-app.netlify.com/)], [[CodePen](https://codepen.io/james-priest/pen/XaQQaO)], [[Code Sample](https://github.com/james-priest/local-weather-app/blob/master/js/ajax.js)], [[GitHub Repo](https://github.com/james-priest/local-weather-app)]<br>
+- **Weather Forecast App**<br>
   This is a single page app written to demonstrate JAMStack architecture.
   - It is written from scratch and is fully responsive
   - Uses Ajax,  HTML5 Geo-location, & embedded SVG
-  - Uses Semantic-UI framework, Ajax, CSS animations, & transitions<br>
-  [![Weather Forecast App](./assets/images/portfolio_weather2.jpg)](https://local-weather-app.netlify.com/)<br>
-  [[Demo](https://local-weather-app.netlify.com/)], [[CodePen](https://codepen.io/james-priest/pen/XaQQaO)], [[Code Sample](https://github.com/james-priest/local-weather-app/blob/master/js/ajax.js)], [[GitHub Repo](https://github.com/james-priest/local-weather-app)]<br><br>
+  - Uses Semantic-UI framework, Ajax, CSS animations, & transitions
+  <br><br>
+  [![Weather Forecast App](./assets/images/portfolio_weather2.jpg)](https://local-weather-app.netlify.com/)
+  <br><br>
+  [[Demo](https://local-weather-app.netlify.com/)], [[CodePen](https://codepen.io/james-priest/pen/XaQQaO)], [[Code Sample](https://github.com/james-priest/local-weather-app/blob/master/js/ajax.js)], [[GitHub Repo](https://github.com/james-priest/local-weather-app)]
+  <br><br>
 
-- **SpyCats Portfolio Site** - [[Demo](https://spycats.netlify.com/)], [[CodePen](https://codepen.io/james-priest/pen/prpjEK)], [[Code Sample](https://github.com/james-priest/spy-cats/blob/master/js/fcc-portfolio.js)], [[GitHub Repo](https://github.com/james-priest/spy-cats)]<br>
+- **SpyCats Portfolio Site**<br>
   This app is a portfolio-style site. It was written to satisfy an FCC certification requirement.
   - It uses Bootstrap, jQuery, HTML5 Forms
   - It incorporates scroll navigation & semantic HTML
-  - Is fully responsive and scales across devices<br>
-  [![SpyCats Portfolio Site](./assets/images/portfolio_spycats1.jpg)](https://spycats.netlify.com/)<br>
-  [[Demo](https://spycats.netlify.com/)], [[CodePen](https://codepen.io/james-priest/pen/prpjEK)], [[Code Sample](https://github.com/james-priest/spy-cats/blob/master/js/fcc-portfolio.js)], [[GitHub Repo](https://github.com/james-priest/spy-cats)]<br><br>
+  - Is fully responsive and scales across devices
+  <br><br>
+  [![SpyCats Portfolio Site](./assets/images/portfolio_spycats1.jpg)](https://spycats.netlify.com/)
+  <br><br>
+  [[Demo](https://spycats.netlify.com/)], [[CodePen](https://codepen.io/james-priest/pen/prpjEK)], [[Code Sample](https://github.com/james-priest/spy-cats/blob/master/js/fcc-portfolio.js)], [[GitHub Repo](https://github.com/james-priest/spy-cats)]
+  <br><br>
 
-- **JavaScript Array Methods** - [[Demo](http://javascript-array-methods.netlify.com/)], [[Sample Code](https://github.com/james-priest/javascript-array-methods)], [[GitHub Repo](https://github.com/james-priest/javascript-array-methods)]<br>
+- **JavaScript Array Methods**<br>
   This app was built as part of my Microsoft Developer Certification study.
-  - It uses Object Oriented ES5 JavaScript<br>
+  - It uses Object Oriented ES5 JavaScript
   - It uses QUnit and TDD (Test-Driven Development) methodology
   - It dynamically builds an interface that models various JavaScript Array methods
-  [![JavaScript Array Methods](./assets/images/portfolio_js_array.jpg)](http://javascript-array-methods.netlify.com/)<br>
-  [[Demo](http://javascript-array-methods.netlify.com/)], [[Sample Code](https://github.com/james-priest/javascript-array-methods)], [[GitHub Repo](https://github.com/james-priest/javascript-array-methods)]<br><br>
+  <br><br>
+  [![JavaScript Array Methods](./assets/images/portfolio_js_array.jpg)](http://javascript-array-methods.netlify.com/)
+  <br><br>
+  [[Demo](http://javascript-array-methods.netlify.com/)], [[Sample Code](https://github.com/james-priest/javascript-array-methods)], [[GitHub Repo](https://github.com/james-priest/javascript-array-methods)]
+  <br><br>
 
-- **Random Quote Generator** - [[Demo](https://random-quote-generator.netlify.com/)], [[CodePen](https://codepen.io/james-priest/pen/RZdGNo)] [[Code Sample](https://github.com/james-priest/random-quote-generator/blob/master/js/script.js)], [[GitHub Repo](https://github.com/james-priest/random-quote-generator)]<br>
+- **Random Quote Generator**<br>
   This app is FCC project built to satisfy a certification requirement.
   - It uses basic JavaScript & jQuery for API requests through Ajax
   - CSS transitions to dynamically display famous quotes
-  - Embedded SVG & FontAwesome for icons and background<br>
-  [![Quote Generator](./assets/images/portfolio_quote.jpg)](https://random-quote-generator.netlify.com/)<br>
-  [[Demo](https://random-quote-generator.netlify.com/)], [[CodePen](https://codepen.io/james-priest/pen/RZdGNo)] [[Code Sample](https://github.com/james-priest/random-quote-generator/blob/master/js/script.js)], [[GitHub Repo](https://github.com/james-priest/random-quote-generator)]<br>
+  - Embedded SVG & FontAwesome for icons and background
+  <br><br>
+  [![Quote Generator](./assets/images/portfolio_quote.jpg)](https://random-quote-generator.netlify.com/)
+  <br><br>
+  [[Demo](https://random-quote-generator.netlify.com/)], [[CodePen](https://codepen.io/james-priest/pen/RZdGNo)] [[Code Sample](https://github.com/james-priest/random-quote-generator/blob/master/js/script.js)], [[GitHub Repo](https://github.com/james-priest/random-quote-generator)]
+  <br>
 
 **[⬆ top](#james-priest "toc")**
 
 ---
 
-## Code Notes
+## Documentation
 
 - **Mobile Web Nanodegree Code Notes**<br>
-  Step-by-step walk-through of how I coded my final project. This is a fully responsive Restaurant Review Progressive Web App (PWA) with database, caching, & offline capabilities.
+  Step-by-step walk-through of how I built my capstone project. This is a fully responsive Restaurant Review Progressive Web App (PWA) with database, caching, & offline capabilities.
   - Table of Contents - [Restaurant Review App Code Notes](https://james-priest.github.io/mws-restaurant-stage-1/index.html)
   - Stage 1 - [Building a fully responsive & accessible web app](https://james-priest.github.io/mws-restaurant-stage-1/stage1.html)
   - Stage 2 - [Offline capability with Service Worker, Cache API, & IndexedDB](https://james-priest.github.io/mws-restaurant-stage-1/stage2.html)
@@ -470,8 +433,51 @@ Links to sites that provide verification of training and courses completed.
 
 ---
 
+## Education
+
+- **DeVry University - California**<br>
+  *Bachelor of Science in Computer Information Systems*<br>
+  Graduation with Honors - GPA 3.52/4.00<br>
+  1994 - 1997
+
+- **freeCodeCamp**<br>
+  *Front End Web Development Certification*<br>
+  Jun 2017 - Jan 2018
+
+- **Udacity**<br>
+  *Mobile Web Specialist Nanodegree*<br>
+  Jan 2018 - Nov 2018
+
+
+**[⬆ top](#james-priest "toc")**
+
+---
+
+## Certifications
+
+In 2018 I was awarded two separate scholarships from Udacity. The first was a three month program called Grow with Google Scholarship Challenge. The second was a full Mobile Web Specialist Nanodegree scholarship.
+
+<!-- 
+- Grow with Google Scholarship Challenge for Mobile Web Development (3-month program)
+- Mobile Web Specialist by Google Nanodegree (6-month program) -->
+
+At the end of the nine months and upon successful evaluation of my capstone project, I was awarded Udacity's [Mobile Web Specialist Nanodegree](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024).
+
+<!-- * **Google Mobile Web Specialist** certification (In process) -->
+<!-- * **Microsoft Programming in HTML5 with JavaScript & CSS3** certification (In process) -->
+
+| Certification | Completed | Provider |
+| :---   | ---       | ---:     |
+| Mobile Web Specialist Nanodegree - 6 month Program [[View](https://confirm.udacity.com/3JM7SK4Q)] | Nov 2018 | Udacity |
+|Grow With Google Scholarship Challenge - 3 month program | Apr 2018 | Udacity |
+| Java 1.1 Programming - 3 month program | Nov 1998 | The Waite Group |
+
+**[⬆ top](#james-priest "toc")**
+
+---
+
 ## Training
-Starting in 2017, I began a program of full-time, online study related to web & mobile development. I completed [more than 45 courses in two years](#training "toc") from such providers as Pluralsight, Code School, Microsoft Virtual Academy, Udacity, & Free Code Camp.
+Starting in 2017, I began a program of full-time, online study related to web & mobile development. I completed [more than 45 courses in two years](#training "toc") from providers such as Pluralsight, Code School, Microsoft Virtual Academy, Udacity, & freeCodeCamp.
 
 | Course    | Completed   | Provider Credential  |
 | :---      | ---         | --:       |
@@ -558,6 +564,26 @@ Following are some notable courses take prior to 2017
 | Oracle Developer 2000 Reports 3.0 | May 1998 | Oracle Training |
 | VB & Internet Advisor DevCon 98 | February 1998 | Advisor Publications |
 | Java 1.1 Programming Certification | January 1998 | The Waite Group |
+
+**[⬆ top](#james-priest "toc")**
+
+---
+
+## Achievements
+Links to sites that provide verification of training and courses completed.
+
+- **100DaysOfCode Challenge** ([Code Log](https://james-priest.github.io/100-days-of-code-log/))<br>
+  I code and write about my progress related to web development. I've been doing this since June of 2017 and tweet about my progress and lessons learned.
+- **Twitter** ([@james_priest1](https://twitter.com/james_priest1))<br>
+  I'm very active in the Front End & JavaScript development communities. I've built up a following of 1400 developers (my twitter fam) since opening my account in May of 2017. I tweet about web development, training, and personal achievements.
+- **Code School:** [https://www.codeschool.com/users/james-priest](https://www.codeschool.com/users/james-priest)<br>
+  Report card, badges, and achievement status.
+- **Free Code Camp:** [https://www.freecodecamp.com/james-priest](https://www.freecodecamp.com/james-priest)<br>
+  Online program focused on Front End, Back End and Data Visualization training and certification.
+- **Microsoft Virtual Academy:** [Web Development Badge](https://mva.microsoft.com/RewardEvidence.aspx/?key=B--MLSyI6ouc3JiHZ6X1dg2)<br>
+  Verification of Web Development badge and related courses completed.
+- **Degreed:** [https://degreed.com/jamespriest](https://degreed.com/jamespriest)<br>
+  A catalogued list of all formal schooling, online courses, and programming certifications.
 
 **[⬆ top](#james-priest "toc")**
 
