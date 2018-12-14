@@ -481,6 +481,8 @@ Starting in 2017, I began a program of full-time, online study related to web & 
 
 | Course    | Completed   | Provider Credential  |
 | :---      | ---         | --:       |
+| Becoming a GitHub Pro | December 2018 | Udacity |
+| Writing READMEs (Bullet-proof Documentation) | December 2018 | Udacity |
 | High Conversion Web Forms by Google | November 2018 | Udacity |
 | Browser Rendering Optimizations by Google | November 2018 | Udacity |
 | HTTP & Web Servers by Google | October 2018 | Udacity |
