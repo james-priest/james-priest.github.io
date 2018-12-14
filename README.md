@@ -174,13 +174,13 @@ I took time to spend with family after shutting down the company I had worked fo
 Serving as technology lead and .NET expert for this digital marketing agency, I’ve had the opportunity to shape and develop hundreds of website solutions utilizing a wide variety of platforms, technologies, and programming languages. Notable projects include:
 
 - **Beechcraft Corporation** ([beechcraft.com](http://www.beechcraft.com/special_missions/ "Special Missions page")) – As a direct extension of Beechcraft IT, duties included web application development, database design and content management. Responsible for building and maintaining entire Beechcraft corporate website as well as many applications to support the Sales and Marketing process.<br />
-_Technologies Used:_ **ASP.NET, VB.NET, C#, database design, SQL Server, stored procs, Bootstrap, HTML, CSS, jQuery**
+_Technologies Used:_ **ASP.NET, VB.NET, C#, database design, SQL Server, stored procs, Bootstrap, HTML, CSS, JavaScript, jQuery**
 
 - **Flex Ed** ([flexed.com](http://flexed.com/classes.php "Class Calendar page")) – Designed and developed a large-scale Learning Management System (LMS) to handle line-of-business functions including course creation, scheduling, enrollment, and reporting as well as many other work-flow automation tasks. The system currently tracks progress of 85,000 students, handles scheduling for over 100 hospitals, and employs modules for instructors and coordinators to manage rosters and certifications.<br />
 _Technologies Used:_ **Linux/Apache, PHP/MySQL, HTML, CSS, jQuery, stored procedures, triggers, MySQL functions**
 
 - **Shell Eco-marathon Live Event** ([shell.com/eco-marathon](http://www.shell.com/energy-and-innovation/shell-ecomarathon/about.html "Eco-marathon about page")) – The project involved the creation of a social & streaming media website to serve as a hub for coverage of Shell’s multi-national Eco-marathon event. The site provided twitter feeds, event video, on-line polls, and contest standings. The event was streamed live through our CDN utilizing real-time encoding.<br />
-_Technologies Used:_ **PHP/My SQL, Live Video Streaming, JavaScript APIs (Facebook, Twitter, Flickr). HTML, CSS, jQuery**
+_Technologies Used:_ **PHP/My SQL, Live Video Streaming, JavaScript APIs (Facebook, Twitter, Flickr). HTML, CSS, JavaScript, jQuery**
 
 - **Favorite Top 10** (retired) – This “proof-of-concept” Social Media application was built for use on Facebook as well as 70 other social media and blog sites. The widget was developed using Flex, PHP and MySQL.  XML over HTTP was used for the communication layer. The website also employs various JavaScript libraries for rich UI capability.<br />
 _Technologies Used:_ **Flex, ActionScript, PHP/MySQL, XML, HTML, CSS, Prototype, Scriptaculous**
