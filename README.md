@@ -442,14 +442,13 @@ Contracted to design and develop a web-based reporting system responsible for ge
   Graduation with Honors - GPA 3.52/4.00<br>
   1994 - 1997
 
-- **freeCodeCamp**<br>
+<!-- - **freeCodeCamp**<br>
   *Front End Web Development Certification*<br>
   Jun 2017 - Jan 2018
 
 - **Udacity**<br>
   *Mobile Web Specialist Nanodegree*<br>
-  Jan 2018 - Nov 2018
-
+  May 2018 - Nov 2018 -->
 
 **[⬆ top](#james-priest "toc")**
 
@@ -457,22 +456,25 @@ Contracted to design and develop a web-based reporting system responsible for ge
 
 ## Certifications
 
-In 2018 I was awarded two separate scholarships from Udacity. The first was a three month program called Grow with Google Scholarship Challenge. The second was a full Mobile Web Specialist Nanodegree scholarship.
+In 2018 I applied for and received two separate scholarships for Intermediate and Advanced web development studies from Udacity.
+
+The first was a three month program called _Grow with Google Scholarship Challenge_. The second was a _Mobile Web Specialist Nanodegree_ scholarship.
 
 <!-- 
 - Grow with Google Scholarship Challenge for Mobile Web Development (3-month program)
 - Mobile Web Specialist by Google Nanodegree (6-month program) -->
 
-At the end of the nine months and upon successful evaluation of my capstone project, I was awarded Udacity's [Mobile Web Specialist Nanodegree](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024).
+<!-- At the end of the nine months and upon successful evaluation of my capstone project, I was awarded Udacity's [Mobile Web Specialist Nanodegree](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024). -->
 
 <!-- * **Google Mobile Web Specialist** certification (In process) -->
 <!-- * **Microsoft Programming in HTML5 with JavaScript & CSS3** certification (In process) -->
 
-| Certification | Completed | Provider |
-| :---   | ---       | ---:     |
-| Mobile Web Specialist Nanodegree - 6 month Program [[View](https://confirm.udacity.com/3JM7SK4Q)] | Nov 2018 | Udacity |
-|Grow With Google Scholarship Challenge - 3 month program | Apr 2018 | Udacity |
-| Java 1.1 Programming - 3 month program | Nov 1998 | The Waite Group |
+|  Provider | Certification | Completed |
+| :---   | :---       | ---:     |
+| Udacity | [Mobile Web Specialist Nanodegree](https://confirm.udacity.com/3JM7SK4Q) - 6 month Program | Nov 2018 |
+| Udacity | Grow With Google Scholarship Challenge - 3 month program | Apr 2018 |
+| freeCodeCamp | [Responsive Web Design Developer Certification](https://www.freecodecamp.org/certification/james-priest/responsive-web-design) - 300 hours | Dec 2017 |
+| The Waite Group | Java 1.1 Programming - 3 month program | Nov 1998 |
 
 **[⬆ top](#james-priest "toc")**
 
