@@ -103,9 +103,9 @@ Full Stack Developer with 20 years experience seeking to join a thriving and dyn
 ---
 
 ## Career History
-In 2014 my last employer went out of business. I took this opportunity to spend with family and went back to school in 2017 to re-educate myself on the latest mobile, web, and app technologies.
+Begining in 2014 I took some time away from the industry in order to spend it with family after my last employer went out of business. I went back to school in 2017 and graduated in 2018 with a [Nanodegree in Mobile Web Development](https://confirm.udacity.com/3JM7SK4Q) along with a host of [additional certifications](#certifications "#toc").
 
-I graduated in 2018 with a Nanodegree in Mobile Web Development and am excited to re-enter the workforce and apply my knowledge toward building cutting-edge technology solutions.
+I am excited to re-enter the workforce and apply my knowledge toward building cutting-edge technology solutions.
 
 Following is my career history up until this point.
 
@@ -456,7 +456,7 @@ Contracted to design and develop a web-based reporting system responsible for ge
 
 ## Certifications
 
-In 2018 I applied for and received two separate scholarships for Intermediate and Advanced web development studies from Udacity.
+In 2018 I applied for and received two separate scholarships for Intermediate and Advanced web development studies from [Udacity](https://www.udacity.com/).
 
 The first was a three month program called _Grow with Google Scholarship Challenge_. The second was a _Mobile Web Specialist Nanodegree_ scholarship.
 
@@ -471,9 +471,10 @@ The first was a three month program called _Grow with Google Scholarship Challen
 
 |  Provider | Certification | Completed |
 | :---   | :---       | ---:     |
-| Udacity | [Mobile Web Specialist Nanodegree](https://confirm.udacity.com/3JM7SK4Q) - 6 month Program | Nov 2018 |
+| freeCodeCamp | [JavaScript Algorithms & Data Structures Certification](https://www.freecodecamp.org/certification/james-priest/javascript-algorithms-and-data-structures) - 300 hours | Dec 2018 |
+| freeCodeCamp | [Responsive Web Design Developer Certification](https://www.freecodecamp.org/certification/james-priest/responsive-web-design) - 300 hours | Dec 2018 |
+| Udacity | [Mobile Web Specialist Nanodegree](https://confirm.udacity.com/3JM7SK4Q) - 6 month Program | Oct 2018 |
 | Udacity | Grow With Google Scholarship Challenge - 3 month program | Apr 2018 |
-| freeCodeCamp | [Responsive Web Design Developer Certification](https://www.freecodecamp.org/certification/james-priest/responsive-web-design) - 300 hours | Dec 2017 |
 | The Waite Group | Java 1.1 Programming - 3 month program | Nov 1998 |
 
 **[⬆ top](#james-priest "toc")**
@@ -483,7 +484,7 @@ The first was a three month program called _Grow with Google Scholarship Challen
 ## Training
 Starting in 2017, I began a program of full-time, online study related to web & mobile development. I completed [more than 45 courses in two years](#training "toc") from providers such as Pluralsight, Code School, Microsoft Virtual Academy, Udacity, & freeCodeCamp.
 
-| Course    | Completed   | Provider Credential  |
+| Course    | Completed   | Provider |
 | :---      | ---         | --:       |
 | Becoming a GitHub Pro | December 2018 | Udacity |
 | Writing READMEs (Bullet-proof Documentation) | December 2018 | Udacity |
@@ -581,7 +582,7 @@ Links to sites that provide verification of training and courses completed.
 - **100DaysOfCode Challenge** ([Code Log](https://james-priest.github.io/100-days-of-code-log/))<br>
   I code and write about my progress related to web development. I've been doing this since June of 2017 and tweet about my progress and lessons learned.
 - **Twitter** ([@james_priest1](https://twitter.com/james_priest1))<br>
-  I'm very active in the Front End & JavaScript development communities. I've built up a following of 1400 developers (my twitter fam) since opening my account in May of 2017. I tweet about web development, training, and personal achievements.
+  I'm very active in the Front End & JavaScript development communities. I've built up a following of 1500 developers (my twitter fam) since opening my account in May of 2017. I tweet about web development, training, and personal achievements.
 - **Code School:** [https://www.codeschool.com/users/james-priest](https://www.codeschool.com/users/james-priest)<br>
   Report card, badges, and achievement status.
 - **Free Code Camp:** [https://www.freecodecamp.com/james-priest](https://www.freecodecamp.com/james-priest)<br>
@@ -617,20 +618,17 @@ A brief timeline of my development career written as a narrative.
     <dd>Wanting to settle down locally, I transitioned to the role of independent contractor and freelance developer under my own company umbrella. This was liberating, stressful, and intensely time consuming. It helped me realize I love coding, development, and technology but am less excited with administration, payroll, and collections. I did learn to wear many hats while working with such companies as Sony, Fox Studios and Xtreme Desktops.</dd>
   <dt>2006 - 2014 • Velodea (v3) • Pasadena, CA</dt>
     <dd style="text-align:left"><i>- New Opportunities with Old Friends -</i></dd>
-    <dd>In 2006 I was invited to return to Velodea to help lift the company out of a significant financial deficit in exchange for equity stake. I agreed and together with the new Managing Director we streamlined operations by implementing smaller dev teams, tighter turn-arounds, and more effective project management.</dd>
-    <!-- <dd>In 2006 I was asked to return to Velodea which was under new management after having suffered a series of financial setbacks. I agreed to help turn the business around by implementing a new set of procedures designed to streamline operations. It relied on a smaller dev team, tighter turn-arounds, and more effective project management.</dd> -->
-    <dd>With this new approach we managed to lift the company out a $200k deficit and turn a profit in under a year.</dd>
+    <dd>In 2006 I was invited to return to Velodea to help lift the company out of a financial deficit. Together with the Managing Director we streamlined operations with smaller dev teams, tighter turn-arounds, and more effective project management.</dd>
+    <dd>Within a year the company was able to pay off $200k worth of debt and begin to turn a profit once again.</dd>
     <dd>The success of these efforts assured another eight years of fulfilling and prosperous work before having to make the difficult decision to close Velodea's doors due to the unfortunate and untimely passing of our CEO and Managing Director, Michael Leong.</dd>
     <dd>We successfully transitioned open projects to our partners and bid farewell to the company.</dd>
   <dt>2014 - 2016 • <i>Three-year Hiatus</i> • Los Angeles, CA</dt>
     <dd style="text-align:left"><i>- Being of Service -</i></dd>
-    <dd>Needing a recharge, I took some time off and was called upon to care for a loved one who had fallen ill with a terminal form of cancer. I stepped into the role of caregiver and for the next two years provided in-home care until her passing.</dd>
-    <dd>This was a difficult but fulfilling labor of love that served to give me a deep sense of gratitude and perspective on what our ultimate purpose towards our fellow human beings should be.</dd>
-    <!-- <dd><i>That experience allowed me to witness what it means to have strength and dignity in the face of the inevitable.</i></dd> -->
-  <dt>2017 - 2018 • <i>Education, Certification & Training, Oh My!</i> • Los Angeles, CA</dt>
+    <dd>Needing a recharge, I took some time off and was called upon to care for a loved one who had fallen ill. I stepped into the role of caregiver and for the next two years provided in-home care until her passing.</dd>
+  <dt>2017 - 2018 • <i>Education, Certification & Training</i> • Los Angeles, CA</dt>
     <dd style="text-align:left"><i>- Back to School -</i></dd>
-    <dd>Having been absent from the development landscape for a few years I found technology had progressed at a breakneck pace. To close the gap I began an intense and full-time program of online courses and self-study.</dd>
-    <dd>During this time I re-engaged with the development community and have been coding, learning, and absorbing with a passion. I set out to master today's most in-demand Front End technologies and have earned a Mobile Web Specialist Nanodegree in the process. I'm now continuing my journey with Front End frameworks such as React and Vue.</dd>
+    <dd>Having been absent from the development landscape for a time, I found technology had progressed at a breakneck pace. To close the gap I began an intensive and full-time program of online courses and self-study.</dd>
+    <dd>I re-engaged with the development community and have been coding, learning, and absorbing with a passion. I set out to master today's most in-demand Front End technologies and have earned a Mobile Web Specialist Nanodegree in the process. I'm now continuing my journey with Front End frameworks such as React, Redux, ReactNative, and Vue.</dd>
 </dl>
 
 **[⬆ top](#james-priest "toc")**
