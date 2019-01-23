@@ -486,6 +486,7 @@ Starting in 2017, I began a program of full-time, online study related to web & 
 
 | Course    | Completed   | Provider |
 | :---      | ---         | --:       |
+| React Fundamentals | January 2019 | Udacity |
 | Becoming a GitHub Pro | December 2018 | Udacity |
 | Writing READMEs (Bullet-proof Documentation) | December 2018 | Udacity |
 | High Conversion Web Forms by Google | November 2018 | Udacity |
@@ -619,16 +620,15 @@ A brief timeline of my development career written as a narrative.
   <dt>2006 - 2014 • Velodea (v3) • Pasadena, CA</dt>
     <dd style="text-align:left"><i>- New Opportunities with Old Friends -</i></dd>
     <dd>In 2006 I was invited to return to Velodea to help lift the company out of a financial deficit. Together with the Managing Director we streamlined operations with smaller dev teams, tighter turn-arounds, and more effective project management.</dd>
-    <dd>Within a year the company was able to pay off $200k worth of debt and begin to turn a profit once again.</dd>
-    <dd>The success of these efforts assured another eight years of fulfilling and prosperous work before having to make the difficult decision to close Velodea's doors due to the unfortunate and untimely passing of our CEO and Managing Director, Michael Leong.</dd>
-    <dd>We successfully transitioned open projects to our partners and bid farewell to the company.</dd>
+    <dd>Within a year the company was able to pay off $200k worth of corporate debt and begin to turn a profit once again.</dd>
+    <dd>The success of these efforts assured another eight years of fulfilling and prosperous work before the untimely passing of our CEO and Managing Director, Michael Leong.</dd>
   <dt>2014 - 2016 • <i>Three-year Hiatus</i> • Los Angeles, CA</dt>
     <dd style="text-align:left"><i>- Being of Service -</i></dd>
     <dd>Needing a recharge, I took some time off and was called upon to care for a loved one who had fallen ill. I stepped into the role of caregiver and for the next two years provided in-home care until her passing.</dd>
   <dt>2017 - 2018 • <i>Education, Certification & Training</i> • Los Angeles, CA</dt>
     <dd style="text-align:left"><i>- Back to School -</i></dd>
-    <dd>Having been absent from the development landscape for a time, I found technology had progressed at a breakneck pace. To close the gap I began an intensive and full-time program of online courses and self-study.</dd>
-    <dd>I re-engaged with the development community and have been coding, learning, and absorbing with a passion. I set out to master today's most in-demand Front End technologies and have earned a Mobile Web Specialist Nanodegree in the process. I'm now continuing my journey with Front End frameworks such as React, Redux, ReactNative, and Vue.</dd>
+    <dd>Having been absent from the development landscape for a time, I found technology had progressed at a breakneck pace. To close the gap I began a full-time program of online courses and self-study.</dd>
+    <dd>I re-engaged with the development community and have been coding, learning, and absorbing with a passion. I set out to master today's most in-demand technologies and have earned a Mobile Web Specialist Nanodegree in the process. I'm now continuing my journey with Front End frameworks such as React, Redux, ReactNative, and Vue.</dd>
 </dl>
 
 **[⬆ top](#james-priest "toc")**
