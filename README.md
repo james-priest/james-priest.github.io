@@ -471,6 +471,7 @@ The first was a three month program called _Grow with Google Scholarship Challen
 
 |  Provider | Certification | Completed |
 | :---   | :---       | ---:     |
+| Udacity | React Nanodegree - 4 month Program | In Process |
 | freeCodeCamp | [JavaScript Algorithms & Data Structures Certification](https://www.freecodecamp.org/certification/james-priest/javascript-algorithms-and-data-structures) - 300 hours | Dec 2018 |
 | freeCodeCamp | [Responsive Web Design Developer Certification](https://www.freecodecamp.org/certification/james-priest/responsive-web-design) - 300 hours | Dec 2018 |
 | Udacity | [Mobile Web Specialist Nanodegree](https://confirm.udacity.com/3JM7SK4Q) - 6 month Program | Oct 2018 |
@@ -482,7 +483,9 @@ The first was a three month program called _Grow with Google Scholarship Challen
 ---
 
 ## Training
-Starting in 2017, I began a program of full-time, online study related to web & mobile development. I completed [more than 45 courses in two years](#training "toc") from providers such as Pluralsight, Code School, Microsoft Virtual Academy, Udacity, & freeCodeCamp.
+Starting in April 2017, I began a full-time program of online study related to web & mobile development.
+
+I've completed more than 45 courses from providers such as [Udacity](https://www.udacity.com/), [Pluralsight](pluralsight.com/training/), [Code School](https://www.pluralsight.com/codeschool), [Microsoft Virtual Academy](https://mva.microsoft.com/), & [freeCodeCamp](https://www.freecodecamp.org/).
 
 | Course    | Completed   | Provider |
 | :---      | ---         | --:       |
