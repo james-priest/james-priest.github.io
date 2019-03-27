@@ -50,7 +50,7 @@
 
 ## Objective
 
-Full Stack Developer with 20 years experience seeking to join a thriving and dynamic company that's focused on building next generation line-of-business web and mobile applications.
+Full Stack Developer with 20 years experience seeking to join a thriving and dynamic company who's focused on building next generation, line-of-business web and mobile applications.
 
 ---
 
@@ -182,8 +182,8 @@ _Technologies Used:_ **Linux/Apache, PHP/MySQL, HTML, CSS, jQuery, stored proced
 - **Shell Eco-marathon Live Event** ([shell.com/eco-marathon](http://www.shell.com/energy-and-innovation/shell-ecomarathon/about.html "Eco-marathon about page")) – The project involved the creation of a social & streaming media website to serve as a hub for coverage of Shell’s multi-national Eco-marathon event. The site provided twitter feeds, event video, on-line polls, and contest standings. The event was streamed live through our CDN utilizing real-time encoding.<br />
 _Technologies Used:_ **PHP/My SQL, Live Video Streaming, JavaScript APIs (Facebook, Twitter, Flickr). HTML, CSS, JavaScript, jQuery**
 
-- **Favorite Top 10** (retired) – This “proof-of-concept” Social Media application was built for use on Facebook as well as 70 other social media and blog sites. The widget was developed using Flex, PHP and MySQL.  XML over HTTP was used for the communication layer. The website also employs various JavaScript libraries for rich UI capability.<br />
-_Technologies Used:_ **Flex, ActionScript, PHP/MySQL, XML, HTML, CSS, Prototype, Scriptaculous**
+<!-- - **Favorite Top 10** (retired) – This “proof-of-concept” Social Media application was built for use on Facebook as well as 70 other social media and blog sites. The widget was developed using Flex, PHP and MySQL.  XML over HTTP was used for the communication layer. The website also employs various JavaScript libraries for rich UI capability.<br />
+_Technologies Used:_ **Flex, ActionScript, PHP/MySQL, XML, HTML, CSS, Prototype, Scriptaculous** -->
 
 - **REZA Investment Group** ([rezacompanies.com](http://rezacompanies.com "Reza Companies homepage")) – Approached by REZA companies to build a custom SalesForce implementation and website frontend to automate the sales process of high-end real-estate listings. This involved extending SalesForce through custom programming and exchanging information through extensive use of web APIs.<br />
 _Technologies Used:_ **PHP/My SQL, Live Video Streaming, JavaScript APIs (Facebook, Twitter, Flickr). HTML, CSS, jQuery**
