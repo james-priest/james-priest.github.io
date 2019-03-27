@@ -24,26 +24,26 @@
 
 ## Table of Contents
 
-1. [Objective](#objective "toc")
-1. [Skills](#skills "toc")
-1. [Career History](#career-history "toc")
-    1. [Velodea](#career--velodea "toc")
-    1. [devaware Technology Solutions](#career--devaware-technology-solutions "toc")
-    1. [The Velodea Group](#career--the-velodea-group "toc")
-    1. [Microsoft Corporation](#career--microsoft-corporation "toc")
-    1. [Phillips Research Laboratory](#career--phillips-research-laboratory "toc")
-    1. [Intel Corporation](#career--intel-corporation "toc")
-    1. [Talbert Medical Management Corporation](#career--talbert-medical-management-corporation "toc")
-    1. [Friendly Computer Networks](#career--friendly-computer-networks "toc")
-    1. [DeVry Institute of Technology](#career--devry-institute "toc")
-1. [Education](#education "toc")
-1. [Certifications](#certifications "toc")
-1. [Achievements](#achievements "toc")
-1. [Sample Apps](#sample-apps "toc")
-1. [Code Notes](#code-notes "toc")
-1. [Training](#training "toc")
-1. [My Story](#my-story "toc")
-1. [Social Media](#social-media "toc")
+- [Table of Contents](#table-of-contents)
+- [Objective](#objective)
+- [Skills](#skills)
+- [Career History](#career-history)
+  - [Full-time Student](#full-time-student)
+  - [Personal Time Off](#personal-time-off)
+  - [Velodea](#velodea)
+  - [devAware Technology Solutions](#devaware-technology-solutions)
+  - [The Velodea Group](#the-velodea-group)
+  - [Microsoft Corporation](#microsoft-corporation)
+  - [Phillips Research Laboratory](#phillips-research-laboratory)
+  - [Intel Corporation](#intel-corporation)
+- [Portfolio](#portfolio)
+- [Documentation](#documentation)
+- [Education](#education)
+- [Certifications](#certifications)
+- [Training](#training)
+- [Achievements](#achievements)
+- [My Story](#my-story)
+- [Social Media](#social-media)
 -->
 
 ---
@@ -79,12 +79,12 @@ Full Stack Developer with 20 years experience seeking to join a thriving and dyn
 | Web Accessibility & ARIA | UI/UX, Information Architecture, Standards Design |
  -->
 
-| Languages | Web & Database | IDEs & Cloud Environments |
+| Languages |  Web, Frameworks, & Database | IDEs & Cloud Environments |
 | :-------- | :----------- | :---------      |
-| JavaScript ES5/ES6 | IndexedDB / Cache API / Fetch API | VS Code / Visual Studio / DevTools |
-| HTML5 / CSS3 | Ajax / jQuery / Web APIs | Git / GitHub / GitHub Pages |
+| JavaScript ES5/ES6 | React / Redux / React Native | VS Code / Visual Studio / DevTools |
+| HTML5 / CSS3 | IndexedDB / Cache API / Fetch API | Git / GitHub / GitHub Pages |
 | C# | ASP.NET / .NET Framework | Azure DevOps / Heroku / Netlify |
-| VB.NET | SQL / Stored Procedures / Triggers  | Azure Cloud (Win & Linux VMs) |
+| VB.NET | SQL / Stored Procedures / Transactions  | Azure Cloud (Win & Linux VMs) |
 
 | Stack Capabilities |
 | :-- |
@@ -92,7 +92,7 @@ Full Stack Developer with 20 years experience seeking to join a thriving and dyn
 
 | Additional Technical Skills |
 | :-- |
-| Service Workers, Web Workers, Node.js, Npm, Gulp, Grunt, Jekyll, MarkDown, MS SQL Server, MySQL, SQLite, PouchDB, CouchDB, MongoDB Query Syntax, Bootstrap, Semantic-UI |
+| Service Workers, Web Workers, Node.js, Npm, Gulp, Grunt, Jekyll, MarkDown, MS SQL Server, MySQL, SQLite, MongoDB Query Syntax, Bootstrap, jQuery, Semantic-UI |
 
 | Non-technical Skills |
 | :-- |
@@ -393,7 +393,8 @@ Contracted to design and develop a web-based reporting system responsible for ge
   - Log Round 1 - [June 2017 - January 2018](https://james-priest.github.io/100-days-of-code-log/)
   - Log Round 2 - [January 2018 - May 2018](https://james-priest.github.io/100-days-of-code-log-r2/)
   - Log Round 3 - [May 2018 - October 2018](https://james-priest.github.io/100-days-of-code-log-r3/)
-  - Log Round 4 - [October 2018 - present](https://james-priest.github.io/100-days-of-code-log-r4/)
+  - Log Round 4 - [October 2018 - February 2019](https://james-priest.github.io/100-days-of-code-log-r4/)
+  - Log Round 5 - [February 2019 - present](https://james-priest.github.io/100-days-log/log5.html)
 - **Microsoft Programming in HTML5 with JavaScript and CSS3 Study Notes**<br>
   Notes related to my studies for the MS 70-480 certification exam.
   - Chapter 6 - [JavaScript Objects](https://github.com/james-priest/javascript-objects)
@@ -489,9 +490,9 @@ I've completed more than 45 courses from providers such as [Udacity](https://www
 
 | Course    | Completed   | Provider |
 | :---      | ---         | --:       |
+| React & Redux | March 2019 | Udacity |
 | React Fundamentals | January 2019 | Udacity |
 | Becoming a GitHub Pro | December 2018 | Udacity |
-| Writing READMEs (Bullet-proof Documentation) | December 2018 | Udacity |
 | High Conversion Web Forms by Google | November 2018 | Udacity |
 | Browser Rendering Optimizations by Google | November 2018 | Udacity |
 | HTTP & Web Servers by Google | October 2018 | Udacity |
