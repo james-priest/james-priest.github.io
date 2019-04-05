@@ -92,7 +92,7 @@ Full Stack Developer with 20 years experience seeking to join a thriving and dyn
 
 | Additional Technical Skills |
 | :-- |
-| Service Workers, Web Workers, Node.js, Npm, Gulp, Grunt, Jekyll, MarkDown, MS SQL Server, MySQL, SQLite, MongoDB Query Syntax, Bootstrap, jQuery, Semantic-UI |
+| Service Workers, Web Workers, Node.js, Npm, Gulp, Grunt, Jekyll, MarkDown, MS SQL Server, MySQL, SQLite, MongoDB Query Syntax, Bootstrap, jQuery, Semantic-UI, Sematic UI React |
 
 | Non-technical Skills |
 | :-- |
@@ -103,7 +103,9 @@ Full Stack Developer with 20 years experience seeking to join a thriving and dyn
 ---
 
 ## Career History
-Begining in 2014 I took some time away from the industry in order to spend it with family after my last employer went out of business. I went back to school in 2017 and graduated in 2018 with a [Nanodegree in Mobile Web Development](https://confirm.udacity.com/3JM7SK4Q) along with a host of [additional certifications](#certifications "#toc").
+In 2014 my last employer went out of business. I took that opportunity to spend with family and went back to school in 2017 to re-educate myself on the latest mobile, web, and app technologies.
+
+I graduated in 2018 with a [Nanodegree in Mobile Web Development](https://confirm.udacity.com/3JM7SK4Q) from Udacity and will be receiving a second [Nanodegree in React, Redux, & React Native Frameworks](https://www.udacity.com/course/react-nanodegree--nd019) in May of 2019.
 
 I am excited to re-enter the workforce and apply my knowledge toward building cutting-edge technology solutions.
 
