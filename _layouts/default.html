@@ -81,7 +81,7 @@
     <div class="wrapper">
         <nav>
             <!-- <img id="profile-img" src="/assets/images/icons/android-icon-96x96.png"> -->
-            <img id="profile-img" src="/assets/images/profile1.jpg">
+            <img id="profile-img" src="/assets/images/profile3.jpg">
             <ul></ul>
         </nav>
         <section>
@@ -103,7 +103,7 @@
         
         $(document).ready(function() {
             $("[title*='toc']").on("click", null, function(event) {
-                console.log('$(this).attr("href"))', $(this).attr("href"));
+                // console.log('$(this).attr("href"))', $(this).attr("href"));
                 var position = $($(this).attr("href")).offset().top - 190;
                 $("html, body").animate({scrollTop: position}, 400);
                 $("nav ul li.active").removeClass("active");
@@ -114,41 +114,9 @@
                 } else {
                     $("nav ul li a[href='" + $(this).attr("href") + "']").parent().addClass("active");
                 }
-                
-                //window.location.hash = $(this).attr("href");
-                console.log($(this).attr("href"));
                 event.preventDefault();
             });
-            // for testing
-            //$("[title*='toc']").css("color", "green");
 
-            //window.location.hash = "#my-story";
-            //window.location.hash = "#objective";
-            // if a hash exists then assign to this var
-            var hash = window.location.hash.substr(0);
-            
-            // $(window).on("hashchange",function(event){
-            //     // TODO: update here
-            //     //window.location.hash =  "abc";
-            //     var h = window.location.hash.substr(0);
-            //     console.log("h: " + h);
-            //     event.preventDefault();
-            // })
-
-            // if(hash){
-            //     console.log("hash: " + hash);
-            //     $("nav ul li.active").removeClass("active");
-            //     $("nav ul li a[href='" + hash + "']").parent().addClass("active");
-            //     var pos = $(hash).offset().top - 190;
-            //     $("html, body").animate({scrollTop: pos}, 400);
-            //     //window.location.hash = hash;
-            //     //event.preventDefault();
-            // }
-
-            //console.log($("h3").first().clone().children().remove().end().text());
-
-            //var pos = $("#james-priest").offset().top - 190;
-            //$("html, body").animate({scrollTop: pos}, 400);
         });
     </script>
 </body>

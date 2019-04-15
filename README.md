@@ -383,7 +383,18 @@ Contracted to design and develop a web-based reporting system responsible for ge
 
 ## Documentation
 
-- **Mobile Web Nanodegree Code Notes**<br>
+- **React Nanodegree Project Notes**<br>
+  Step-by-step walk-through of how I built each of my React Nanodegree capstone projects.
+  - Project 1 - [MyReads](https://james-priest.github.io/reactnd-project-myreads/)<br>
+    MyReads App allows users to search from a catalog of books and save choices to various books shelves. It's built with React & React Router.
+  - Project 2 - [Would You Rather](https://james-priest.github.io/reactnd-project-would-you-rather/)<br>
+    Would You Rather is a polling game that presents the user with a series of questions that can be answered one of two ways. It's built with React, Redux, React Router, & Redux Thunk.
+- **React Nanodegree Course Notes**<br>
+  Course Notes from the React Nanodegree course list.
+  - React Nanodegree Notes - [Table of Contents](https://james-priest.github.io/udacity-nanodegree-react/index.html)
+  - Section 1 - [React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
+  - Section 2 - [React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html)
+- **Mobile Web Nanodegree Project Notes**<br>
   Step-by-step walk-through of how I built my capstone project. This is a fully responsive Restaurant Review Progressive Web App (PWA) with database, caching, & offline capabilities.
   - Table of Contents - [Restaurant Review App Code Notes](https://james-priest.github.io/mws-restaurant-stage-1/index.html)
   - Stage 1 - [Building a fully responsive & accessible web app](https://james-priest.github.io/mws-restaurant-stage-1/stage1.html)
