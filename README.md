@@ -67,8 +67,8 @@ Full Stack Developer with 20 years experience seeking to join a thriving and dyn
 
 | Development Skills |   |
 | :--- | :--- |
-| Complete Responsive Web Design | PWAs & Offline First App Development |
-| JAMStack Architecture | Web Accessibility & ARIA Compliance |
+| React, Redux, & JAMStack Architecture | Complete Responsive Web Design |
+| Progressive Web App & Offline Development | Web Accessibility & ARIA Compliance |
 | UI/UX, IA, & Standards Design | Web Automation & Build Systems |
 | .NET Web Application Development | RDBMS & NoSQL DB Design & Development |
 
@@ -92,7 +92,7 @@ Full Stack Developer with 20 years experience seeking to join a thriving and dyn
 
 | Additional Technical Skills |
 | :-- |
-| Service Workers, Web Workers, Node.js, Npm, Gulp, Grunt, Jekyll, MarkDown, MS SQL Server, MySQL, SQLite, MongoDB Query Syntax, Bootstrap, jQuery, Semantic-UI, Sematic UI React |
+| Node.js, Npm, Gulp, Grunt, Jekyll, MarkDown, MS SQL Server, MySQL, SQLite, MongoDB Query Syntax, Bootstrap, jQuery, Semantic-UI, Sematic UI React, Service Workers, Web Workers |
 
 | Non-technical Skills |
 | :-- |
