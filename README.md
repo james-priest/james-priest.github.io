@@ -28,8 +28,7 @@
 - [Objective](#objective)
 - [Skills](#skills)
 - [Career History](#career-history)
-  - [Full-time Student](#full-time-student)
-  - [Personal Time Off](#personal-time-off)
+  - [Self-Employed / Student](#self-employed--student)
   - [Velodea](#velodea)
   - [devAware Technology Solutions](#devaware-technology-solutions)
   - [The Velodea Group](#the-velodea-group)
@@ -50,7 +49,7 @@
 
 ## Objective
 
-Full Stack Developer with 20 years experience seeking to join a thriving and dynamic company who's focused on building next generation, line-of-business web and mobile applications.
+Full Stack Developer with 20 years experience seeking to join a thriving and dynamic company that's focused on building next generation, line-of-business web and mobile applications.
 
 ---
 
@@ -70,7 +69,7 @@ Full Stack Developer with 20 years experience seeking to join a thriving and dyn
 | React, Redux, & JAMStack Architecture | Complete Responsive Web Design |
 | Progressive Web App & Offline Development | Web Accessibility & ARIA Compliance |
 | UI/UX, IA, & Standards Design | Web Automation & Build Systems |
-| .NET Web Application Development | RDBMS & NoSQL DB Design & Development |
+| .NET Web Application Development |  Database Development (RDBMS & NoSQL) |
 
 <!-- 
 | Offline Web Applications | Web Automation & Build Systems |
@@ -86,9 +85,9 @@ Full Stack Developer with 20 years experience seeking to join a thriving and dyn
 | C# | ASP.NET / .NET Framework | Azure DevOps / Heroku / Netlify |
 | VB.NET | SQL / Stored Procedures / Transactions  | Azure Cloud (Win & Linux VMs) |
 
-| Stack Capabilities |
+<!-- | Stack Capabilities |
 | :-- |
-| Front End Development | Back End Development  | Database Design |
+| Front End Development | Back End Development  | Database Design | -->
 
 | Additional Technical Skills |
 | :-- |
@@ -103,77 +102,38 @@ Full Stack Developer with 20 years experience seeking to join a thriving and dyn
 ---
 
 ## Career History
-In 2014 my last employer went out of business. I took that opportunity to spend with family and went back to school in 2017 to re-educate myself on the latest mobile, web, and app technologies.
 
-I graduated in 2018 with a [Nanodegree in Mobile Web Development](https://confirm.udacity.com/3JM7SK4Q) from Udacity and will be receiving a second [Nanodegree in React, Redux, & React Native Frameworks](https://www.udacity.com/course/react-nanodegree--nd019) in May of 2019.
+| 1. [Self-Employed / Student](#career--self-employed--student "toc") | 4. [The Velodea Group](#career--the-velodea-group "toc") |
+| 2. [Velodea](#career--velodea "toc") | 5. [Microsoft Corporation](#career--microsoft-corporation "toc") |
+| 3. [devAware Tech Solutions](#career--devaware-technology-solutions "toc") | 6. [Phillips Research Laboratory](#career--phillips-research-laboratory "toc") |
 
-I am excited to re-enter the workforce and apply my knowledge toward building cutting-edge technology solutions.
+<a name="career--self-employed--student" id="career--self-employed--student"></a>
 
-Following is my career history up until this point.
+### Self-Employed / Student
 
-| 1. [Velodea](#career--velodea "toc") | 4. [Microsoft Corporation](#career--microsoft-corporation "toc") |
-| 2. [devAware Tech Solutions](#career--devaware-technology-solutions "toc") | 5. [Phillips Research Laboratory](#career--phillips-research-laboratory "toc") |
-| 3. [The Velodea Group](#career--the-velodea-group "toc") | 6. [Intel Corporation](#career--intel-corporation "toc") |
+|      | April 2017 - Present |
+| :--- | ---: |
+| Senior Web Developer | La Canada, California |
 
+Complete a series of full-time courses related to web, mobile, and app development. This was primarily done through Udacity, an industry leading technology educator that offers programs created by Google, IBM, Amazon, AT&T, and Facebook.
 
-<!-- 
-<a name="career--student" id="career--student"></a>
-
-### Full-time Student
-
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align: left">&nbsp;</th>
-      <th style="text-align: right">January 2017 - present</th>
-    </tr>
-  </thead>
-</table>
-
-Starting in 2017, I began a series of full-time, online courses related to web & mobile development. I completed [more than 30 in the first year](#training "toc") from such providers as Pluralsight, Code School, Microsoft Virtual Academy, & Free Code Camp.
-
-In the second year I was awarded two separate scholarships from Udacity. These were:
-
-- Grow with Google Scholarship Challenge for Mobile Web Development (3-month program)
-- Mobile Web Specialist by Google Nanodegree (6-month program)
-
-Upon completion I received my Udacity [Nanodegree as a Mobile Web Specialist](#certifications "toc") .
-
-**[⬆ top](#james-priest "toc")**
-
----
-
-<a name="career--personal" id="career--personal"></a>
-
-### Personal Time Off
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align: left">&nbsp;</th>
-      <th style="text-align: right">June 2014 - December 2016</th>
-    </tr>
-  </thead>
-</table>
-
-I took time to spend with family after shutting down the company I had worked for during the previous eight years. This closing was due to the untimely passing of our Managing Director.
-
-**[⬆ top](#james-priest "toc")**
-
---- -->
-
-
+| Program | Duration | Completion |
+| --- | --- |
+| [React Nanodegree](https://www.udacity.com/course/react-nanodegree--nd019) (React, Redux, & React Native) | 6 months | May 2019 |
+| [Mobile Web Specialist Nanodegree](https://confirm.udacity.com/3JM7SK4Q) (Responsive & offline PWAs) | 6 months | Oct 2018 |
+| [Grow with Google Scholarship in Mobile Web Development](https://www.udacity.com/grow-with-google) | 3 months | Apr 2018 |
+| [JavaScript Algorithms & Data Structures Certification](https://www.freecodecamp.org/certification/james-priest/javascript-algorithms-and-data-structures) | 300 hours | Dec 2017 |
+| [Responsive Web Design Developer Certification](https://www.freecodecamp.org/certification/james-priest/responsive-web-design) | 300 hours | Jul 2017 |
 
 <a name="career--velodea" id="career--velodea"></a>
 
 ### Velodea
 
-|      | April 2006 - June 2014 |
+|      | April 2006 - March 2017 |
 | :--- | ---: |
 | Technology Director & Development Lead | Pasadena, California |
 
-Serving as technology lead and .NET expert for this digital marketing agency, I’ve had the opportunity to shape and develop hundreds of website solutions utilizing a wide variety of platforms, technologies, and programming languages. Notable projects include:
+Served as technology lead and .NET expert for a digital marketing agency. Had the opportunity to contribute to hundreds of website solutions across a wide variety of platforms, technologies, and programming languages. Notable projects include:
 
 - **Beechcraft Corporation** ([beechcraft.com](http://www.beechcraft.com/special_missions/ "Special Missions page")) – As a direct extension of Beechcraft IT, duties included web application development, database design and content management. Responsible for building and maintaining entire Beechcraft corporate website as well as many applications to support the Sales and Marketing process.<br />
 _Technologies Used:_ **ASP.NET, VB.NET, C#, database design, SQL Server, stored procs, Bootstrap, HTML, CSS, JavaScript, jQuery**
@@ -183,9 +143,6 @@ _Technologies Used:_ **Linux/Apache, PHP/MySQL, HTML, CSS, jQuery, stored proced
 
 - **Shell Eco-marathon Live Event** ([shell.com/eco-marathon](http://www.shell.com/energy-and-innovation/shell-ecomarathon/about.html "Eco-marathon about page")) – The project involved the creation of a social & streaming media website to serve as a hub for coverage of Shell’s multi-national Eco-marathon event. The site provided twitter feeds, event video, on-line polls, and contest standings. The event was streamed live through our CDN utilizing real-time encoding.<br />
 _Technologies Used:_ **PHP/My SQL, Live Video Streaming, JavaScript APIs (Facebook, Twitter, Flickr). HTML, CSS, JavaScript, jQuery**
-
-<!-- - **Favorite Top 10** (retired) – This “proof-of-concept” Social Media application was built for use on Facebook as well as 70 other social media and blog sites. The widget was developed using Flex, PHP and MySQL.  XML over HTTP was used for the communication layer. The website also employs various JavaScript libraries for rich UI capability.<br />
-_Technologies Used:_ **Flex, ActionScript, PHP/MySQL, XML, HTML, CSS, Prototype, Scriptaculous** -->
 
 - **REZA Investment Group** ([rezacompanies.com](http://rezacompanies.com "Reza Companies homepage")) – Approached by REZA companies to build a custom SalesForce implementation and website frontend to automate the sales process of high-end real-estate listings. This involved extending SalesForce through custom programming and exchanging information through extensive use of web APIs.<br />
 _Technologies Used:_ **PHP/My SQL, Live Video Streaming, JavaScript APIs (Facebook, Twitter, Flickr). HTML, CSS, jQuery**
@@ -213,7 +170,7 @@ devAware specialized in .NET & Windows DNA application development for the web a
 - **Sony VIAO Kiosk** - Contracted to create a custom installation for all Sony VIAO display models at Best Buy, Circuit City, Good Guys and Fry’s Electronics stores. The system locked down the OS through registry and group policy modifications while still allowing customer interaction with the desktop and Sony apps. Usage statistics were logged, uploaded and accessed through secure login.<br />
 _Technologies Used:_ **ASP.NET, ADO.NET, VB.NET, Win32, VB COM objects, SQL Server, IIS, Windows registry customization**
 
-- **Xtreme Desktops Applications** - Engaged to develop an application framework for a series of Flash-based desktop experiences. Components consisted of **.NET HTTP server** applications to gather usage statistics for upload to a centralized analytics server. Responsible for custom built Analytics system and test environment utilizing **IIS** with **ASP.NET** and **SQL Server**. Lab consisted of **Win 2000, ME, XP Home, XP Pro, Win 2000 server & 2003 server** for complete unit and regression testing of each version of the desktop application. Over 50 branded applications were created and posted for distribution. Each desktop application was part of a marketing campaign to promote the following major motion picture & television series:
+- **Xtreme Desktops Applications** - Engaged to develop an application framework for a series of Flash-based desktop experiences. Components consisted of **.NET HTTP server** applications to gather usage statistics for upload to a centralized analytics server. Responsible for custom built analytics system and test lab with **IIS**, **ASP.NET**, and **SQL Server**. Over 50 applications were created to promote the following major motion picture & television brands:
 
   |  |  |  |
   | :--- | :--- | :--- |
@@ -485,7 +442,7 @@ The first was a three month program called _Grow with Google Scholarship Challen
 
 |  Provider | Certification | Completed |
 | :---   | :---       | ---:     |
-| Udacity | React Nanodegree - 4 month Program | In Process |
+| Udacity | React Nanodegree - 6 month Program | In Process |
 | freeCodeCamp | [JavaScript Algorithms & Data Structures Certification](https://www.freecodecamp.org/certification/james-priest/javascript-algorithms-and-data-structures) - 300 hours | Dec 2018 |
 | freeCodeCamp | [Responsive Web Design Developer Certification](https://www.freecodecamp.org/certification/james-priest/responsive-web-design) - 300 hours | Dec 2018 |
 | Udacity | [Mobile Web Specialist Nanodegree](https://confirm.udacity.com/3JM7SK4Q) - 6 month Program | Oct 2018 |
@@ -600,7 +557,7 @@ Links to sites that provide verification of training and courses completed.
 - **100DaysOfCode Challenge** ([Code Log](https://james-priest.github.io/100-days-of-code-log/))<br>
   I code and write about my progress related to web development. I've been doing this since June of 2017 and tweet about my progress and lessons learned.
 - **Twitter** ([@james_priest1](https://twitter.com/james_priest1))<br>
-  I'm very active in the Front End & JavaScript development communities. I've built up a following of 1500 developers (my twitter fam) since opening my account in May of 2017. I tweet about web development, training, and personal achievements.
+  I'm very active in the Front End & JavaScript development communities. I've built up a following of 2,000 developers since opening my account in May of 2017. I tweet about web development, training, and personal achievements.
 - **Code School:** [https://www.codeschool.com/users/james-priest](https://www.codeschool.com/users/james-priest)<br>
   Report card, badges, and achievement status.
 - **Free Code Camp:** [https://www.freecodecamp.com/james-priest](https://www.freecodecamp.com/james-priest)<br>
@@ -634,18 +591,14 @@ A brief timeline of my development career written as a narrative.
   <dt>2002 - 2006 • devAware Technology Solutions • Los Angeles, CA</dt>
     <dd style="text-align:left"><i>- Opportunities at Home -</i></dd>
     <dd>Wanting to settle down locally, I transitioned to the role of independent contractor and freelance developer under my own company umbrella. This was liberating, stressful, and intensely time consuming. It helped me realize I love coding, development, and technology but am less excited with administration, payroll, and collections. I did learn to wear many hats while working with such companies as Sony, Fox Studios and Xtreme Desktops.</dd>
-  <dt>2006 - 2014 • Velodea (v3) • Pasadena, CA</dt>
+  <dt>2006 - 2017 • Velodea • Pasadena, CA</dt>
     <dd style="text-align:left"><i>- New Opportunities with Old Friends -</i></dd>
     <dd>In 2006 I was invited to return to Velodea to help lift the company out of a financial deficit. Together with the Managing Director we streamlined operations with smaller dev teams, tighter turn-arounds, and more effective project management.</dd>
     <dd>Within a year the company was able to pay off $200k worth of corporate debt and begin to turn a profit once again.</dd>
-    <dd>The success of these efforts assured another eight years of fulfilling and prosperous work before the untimely passing of our CEO and Managing Director, Michael Leong.</dd>
-  <dt>2014 - 2016 • <i>Three-year Hiatus</i> • Los Angeles, CA</dt>
-    <dd style="text-align:left"><i>- Being of Service -</i></dd>
-    <dd>Needing a recharge, I took some time off and was called upon to care for a loved one who had fallen ill. I stepped into the role of caregiver and for the next two years provided in-home care until her passing.</dd>
-  <dt>2017 - 2018 • <i>Education, Certification & Training</i> • Los Angeles, CA</dt>
+    <dd>The success of these efforts assured another eight years of fulfilling and prosperous work before the untimely passing of our CEO and Managing Director.</dd>
+  <dt>2017 - 2019 • <i>Education, Certification & Training</i> • Los Angeles, CA</dt>
     <dd style="text-align:left"><i>- Back to School -</i></dd>
-    <dd>Having been absent from the development landscape for a time, I found technology had progressed at a breakneck pace. To close the gap I began a full-time program of online courses and self-study.</dd>
-    <dd>I re-engaged with the development community and have been coding, learning, and absorbing with a passion. I set out to master today's most in-demand technologies and have earned a Mobile Web Specialist Nanodegree in the process. I'm now continuing my journey with Front End frameworks such as React, Redux, ReactNative, and Vue.</dd>
+    <dd>I set out to master today's most in-demand technologies and have earned a Mobile Web Specialist Nanodegree & React Nanodegree in the process.</dd>
 </dl>
 
 **[⬆ top](#james-priest "toc")**
