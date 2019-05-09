@@ -133,7 +133,36 @@ Complete a series of full-time courses related to web, mobile, and app developme
 | :--- | ---: |
 | Technology Director & Development Lead | Pasadena, California |
 
-Served as technology lead and .NET expert for a digital marketing agency. Had the opportunity to contribute to hundreds of website solutions across a wide variety of platforms, technologies, and programming languages. Notable projects include:
+Served as technology lead and .NET expert for a digital marketing agency. Had the opportunity to contribute to hundreds of website solutions across a wide variety of platforms, technologies, and programming languages for such clients as:
+
+<div style="margin: 0 20px 20px 30px;">
+<table>
+  <tbody>
+  <tr>
+    <td>Qualcomm</td>
+    <td>J. Walter Thompson</td>
+    <td>Edelman</td>
+  </tr>
+  <tr>
+    <td>Shell</td>
+    <td>Sony</td>
+    <td>Beechcraft</td>
+  </tr>
+  <tr>
+    <td>Maserati</td>
+    <td>ABC Studios</td>
+    <td>Sprint Telecomm</td>
+  </tr>
+  <tr>
+    <td>Miramax</td>
+    <td>20th Century Fox</td>
+    <td>Adobe</td>
+  </tr>
+  </tbody>
+</table>
+</div>
+
+Notable projects include:
 
 - **Beechcraft Corporation** ([beechcraft.com](http://www.beechcraft.com/special_missions/ "Special Missions page")) – As a direct extension of Beechcraft IT, duties included web application development, database design and content management. Responsible for building and maintaining entire Beechcraft corporate website as well as many applications to support the Sales and Marketing process.<br />
 _Technologies Used:_ **ASP.NET, VB.NET, C#, database design, SQL Server, stored procs, Bootstrap, HTML, CSS, JavaScript, jQuery**
@@ -172,11 +201,27 @@ _Technologies Used:_ **ASP.NET, ADO.NET, VB.NET, Win32, VB COM objects, SQL Serv
 
 - **Xtreme Desktops Applications** - Engaged to develop an application framework for a series of Flash-based desktop experiences. Components consisted of **.NET HTTP server** applications to gather usage statistics for upload to a centralized analytics server. Responsible for custom built analytics system and test lab with **IIS**, **ASP.NET**, and **SQL Server**. Over 50 applications were created to promote the following major motion picture & television brands:
 
-  |  |  |  |
-  | :--- | :--- | :--- |
-  | • X-Men – The Last Stand | • The Fast and the Furious | • Fantastic 4 |
-  | • The Family Guy | • Alien: Director Cut | • National Treasure |
-  | • Alexander | • 24 _Season 1-3_ | • X2 – _X-Men United_ |
+<div style="margin: 0 20px 20px 30px;">
+<table>
+  <tbody>
+  <tr>
+    <td>X-Men – The Last Stand</td>
+    <td>The Fast and the Furious</td>
+    <td>Fantastic 4</td>
+  </tr>
+  <tr>
+    <td>The Family Guy</td>
+    <td>Alien: Director Cut</td>
+    <td>National Treasure</td>
+  </tr>
+  <tr>
+    <td>Alexander</td>
+    <td>24 <em>Season 1-3</em></td>
+    <td>X2 – <em>X-Men United</em></td>
+  </tr>
+  </tbody>
+</table>
+</div>
 
   _Technologies Used:_ **VB.NET, ADO.NET, VB COM objects, InstallShield scripting, IIS, SQL Server, testing lab methodologies**
 
