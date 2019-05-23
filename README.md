@@ -66,8 +66,8 @@ Full Stack Developer with 20 years experience seeking to join a thriving and dyn
 
 | Development Skills |   |
 | :--- | :--- |
-| React, Redux, & JAMStack Architecture | Complete Responsive Web Design |
-| Progressive Web App & Offline Development | Web Accessibility & ARIA Compliance |
+| Mobile iOS & Android App Development | Complete Responsive Web Design |
+| Progressive Web App & Offline-first Development | Web Accessibility & ARIA Compliance |
 | UI/UX, IA, & Standards Design | Web Automation & Build Systems |
 | .NET Web Application Development |  Database Development (RDBMS & NoSQL) |
 
@@ -78,7 +78,7 @@ Full Stack Developer with 20 years experience seeking to join a thriving and dyn
 | Web Accessibility & ARIA | UI/UX, Information Architecture, Standards Design |
  -->
 
-| Languages |  Web, Frameworks, & Database | IDEs & Cloud Environments |
+| Languages |  Web, Frameworks, & Database | IDEs, Cloud, & Version Control |
 | :-------- | :----------- | :---------      |
 | JavaScript ES5/ES6 | React / Redux / React Native | VS Code / Visual Studio / DevTools |
 | HTML5 / CSS3 | IndexedDB / Cache API / Fetch API | Git / GitHub / GitHub Pages |
@@ -91,7 +91,7 @@ Full Stack Developer with 20 years experience seeking to join a thriving and dyn
 
 | Additional Technical Skills |
 | :-- |
-| Node.js, Npm, Gulp, Grunt, Jekyll, MarkDown, MS SQL Server, MySQL, SQLite, MongoDB Query Syntax, Bootstrap, jQuery, Semantic-UI, Sematic UI React, Service Workers, Web Workers |
+| Node.js, Npm, Yarn, Gulp, Grunt, Jekyll, MarkDown, MS SQL Server, MySQL, SQLite, MongoDB Query Syntax, Bootstrap, jQuery, Semantic-UI, Sematic UI React, Service Workers, Web Workers |
 
 | Non-technical Skills |
 | :-- |
