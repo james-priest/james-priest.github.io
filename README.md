@@ -249,7 +249,7 @@ This project consisted of... -->
 - **VeloTrack (Site Management and Behavioral Analysis System)** – VeloTrack was a custom-built solution that integrated seamlessly with websites to offer behavioral tracking, email list management, registration, surveying, and demographic-based site usage reporting.  VeloTrack boasted the ability to capture millions of page views per day in a manner completely transparent to the end user.  The system was designed to be highly customizable as well as intuitive in order to allow non-technical clients the ability to generate reports as well as create surveys and construct email marketing campaigns.  All data was also available through HTTP as a Web API for integration into client applications.<br />
 **This was a modularized system developed over two years which consisted of equal parts Google Analytics, Constant Contact, Mail Chimp, WordPress & Salesforce before those systems came into being.**
 
-- **VeloTeam (Asset Management Extranet System)** – Velodea’s extranet system managed all documents and materials related to a project while facilitating communication and collaboration between project teams and clients.  Highly customizable document repositories organized and managed all project-based assets.  Additionally, the system managed user accounts, tracked incident resolutions and sent automated email notification to the team when new material was made available to the site.  Use of this system had reduced cost and dramatically increased productivity by shortening the development life cycle of Velodea’s projects.  Over 100 customized instances were rolled out for clients such as Sony, Miramax, Qualcomm, and Toshiba.<br>
+- **VeloTeam (Asset Management Extranet System)** – Velodea's extranet system managed all documents and materials related to a project while facilitating communication and collaboration between project teams and clients.  Highly customizable document repositories organized and managed all project-based assets.  Additionally, the system managed user accounts, tracked incident resolutions and sent automated email notification to the team when new material was made available to the site.  Use of this system had reduced cost and dramatically increased productivity by shortening the development life cycle of Velodea's projects.  Over 100 customized instances were rolled out for clients such as Sony, Miramax, Qualcomm, and Toshiba.<br>
 **This was a system that provided the capabilities of Basecamp, DropBox, JIRA, and GitHub. It offered project management, document sharing, version control, bug tracking/issue resolution & client communications at a time when those services didn't exist out in the wild.**
 
 _Technologies Used:_ **ASP, JavaScript, HTML, CSS, SQL, VB, COM, XML; DevOps for Windows Server, Exchange Server & SQL Server platforms & Active Directory Networks.**
@@ -525,7 +525,7 @@ I've completed more than 45 courses from providers such as [Udacity](https://www
 | Regular Expressions | December 2017 | Code School (Pluralsight) |
 | Mobile Web Design | December 2017 | Code School (Pluralsight) |
 | Flexbox Zombies | December 2017 | Dave Geddes |
-| Cracking FlexBox | Novmeber 2017 | Code School (Pluralsight) |
+| Cracking FlexBox | November 2017 | Code School (Pluralsight) |
 | CSS Grid Garden | November 2017 | CodePip |
 | Flexbox Froggy | November 2017 | CodePip |
 | CSS Web Animations | November 2017 | Code School (Pluralsight) |

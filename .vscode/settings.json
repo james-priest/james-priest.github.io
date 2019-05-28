@@ -3,5 +3,42 @@
     // Specify paths/files to ignore.
     "cSpell.ignorePaths": [
         "_site"
+    ],
+    "cSpell.words": [
+        "Architag",
+        "Basecamp",
+        "Beechcraft",
+        "Bootcamp",
+        "Edelman",
+        "Extranet",
+        "Flickr",
+        "Geddes",
+        "JIRA",
+        "Kirtland",
+        "Macromedia",
+        "Miramax",
+        "PIRS",
+        "PWAs",
+        "Pluralsight",
+        "Pragrim",
+        "RDBMS",
+        "REZA",
+        "Telecomm",
+        "VIAO",
+        "Velo",
+        "Velodea",
+        "Velodea's",
+        "Velotek",
+        "Velotek’s",
+        "Xtreme",
+        "arounds",
+        "codepen",
+        "com's",
+        "devaware",
+        "linkedin",
+        "procs",
+        "rezacompanies",
+        "spycats",
+        "transcode"
     ]
 }
