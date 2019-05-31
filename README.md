@@ -66,7 +66,7 @@ Full Stack Developer with 20 years experience seeking to join a thriving and dyn
 
 | Development Skills |   |
 | :--- | :--- |
-| Mobile iOS & Android App Development | Complete Responsive Web Design |
+| Complete Responsive Web Design | Mobile iOS & Android App Development |
 | Progressive Web App & Offline-first Development | Web Accessibility & ARIA Compliance |
 | UI/UX, IA, & Standards Design | Web Automation & Build Systems |
 | .NET Web Application Development |  Database Development (RDBMS & NoSQL) |
@@ -176,7 +176,7 @@ _Technologies Used:_ **PHP/My SQL, Live Video Streaming, JavaScript APIs (Facebo
 - **REZA Investment Group** ([rezacompanies.com](http://rezacompanies.com "Reza Companies homepage")) – Approached by REZA companies to build a custom SalesForce implementation and website frontend to automate the sales process of high-end real-estate listings. This involved extending SalesForce through custom programming and exchanging information through extensive use of web APIs.<br />
 _Technologies Used:_ **PHP/My SQL, Live Video Streaming, JavaScript APIs (Facebook, Twitter, Flickr). HTML, CSS, jQuery**
 
-- **J. Walter Thompson** ([Shell Passionate Experts](https://www.adforum.com/agency/4333/creative-work/34468969/kurt-bush/shell "Interactive site & marketing campaign is no longer active")) – Responsible for developing an interactive Flash site to promote Shell’s Passionate Experts campaign. The project incorporated use of various ActionScript 3 libraries, streaming video, keyed green screen footage and programmatic Flash animation as well as customized H.264 video encodings.<br />
+- **J. Walter Thompson** – Responsible for developing an interactive Flash site to promote Shell’s Passionate Experts campaign. The project incorporated use of various ActionScript 3 libraries, streaming video, keyed green screen footage and programmatic Flash animation as well as customized H.264 video encodings.<br />
 _Technologies Used:_ **Flash, ActionScript, FMS streaming, AfterEffects, 3D Studio Max, Media Encoder, F4V H.264 encoding**
 
 - **ABC Studios Live Stream** - ABC Studios engaged Velodea to design and build a streaming media system that would allow executives and other stakeholders the ability to tap into camera feeds at each remote sound stage location to view filming of various shows in real-time. The system developed was a custom combination of hardware and software encoders that could transcode to both Windows Media and Flash Media video which could be accessed through a secured website.<br />
