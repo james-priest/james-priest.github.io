@@ -49,7 +49,7 @@
 
 ## Objective
 
-Full Stack Developer with 20 years experience seeking to join a thriving and dynamic company that's focused on building next generation, line-of-business web and mobile applications.
+Full Stack Developer with 20 years experience whose passion is building next generation, line-of-business web and mobile applications.
 
 ---
 
