@@ -1,4 +1,4 @@
-<!-- markdownlint-disable MD022 MD032 MD033 -->
+<!-- markdownlint-disable MD022 MD032 MD033 MD041 -->
 <div class="content-header">
 <h1>James Priest</h1>
 <span>Los Angeles, CA</span>
@@ -8,14 +8,13 @@
 ---
 
 <p class="content-header">
-    <span class="icons"><a href="https://github.com/james-priest" title="GitHub Profile" target="_blank"><i class="fa fa-github" style="font-size: 20px"></i>&nbsp;GitHub</a></span>
-    <span class="icons"><a href="https://codepen.io/james-priest" title="CodePen Profile" target="_blank"><i class="fa fa-codepen" style="font-size: 20px"></i>&nbsp;CodePen</a></span>
-    <span class="icons"><a href="https://www.linkedin.com/in/jamespriestdeveloper/" title="LinkedIn Profile" target="_blank"><i class="fa fa-linkedin-square" style="font-size: 20px"></i>&nbsp;LinkedIn</a></span>
-    <span class="icons"><a href="https://twitter.com/james_priest1" title="Twitter Profile" target="_blank"><i class="fa fa-twitter-square" style="font-size: 20px"></i>&nbsp;Twitter</a></span>
-    <span class="icons"><a href="https://www.freecodecamp.com/james-priest" title="freeCodeCamp Profile" target="_blank"><i class="fa fa-free-code-camp" style="font-size: 20px"></i>&nbsp;freeCodeCamp</a></span>
-    <span class="icons"><a href="https://www.instagram.com/jamespub" title="Instagram Account" target="_blank"><i class="fa fa-instagram" style="font-size: 20px"></i>&nbsp;Instagram</a></span>
-    <span class="icons"><a href="./assets/docs/JamesPriest_Resume.pdf" title="PDF Resume" target="_blank"><i class="fa fa-file-pdf-o" style="font-size: 20px"></i>&nbsp;Resume</a></span>
-    <!--<span class="icons"><a href="#" title="Not yet, but soon.😊" target="_blank"><i class="fa fa-medium fa-lg" aria-hidden="true"></i>&nbsp;Medium</a></span>-->
+  <span class="icons"><a href="https://github.com/james-priest" title="GitHub Profile" target="_blank"><i class="fa fa-github" style="font-size: 20px"></i>&nbsp;GitHub</a></span>
+  <span class="icons"><a href="https://twitter.com/james_priest1" title="Twitter Profile" target="_blank"><i class="fa fa-twitter-square" style="font-size: 20px"></i>&nbsp;Twitter</a></span>
+  <span class="icons"><a href="https://www.linkedin.com/in/jamespriestdeveloper/" title="LinkedIn Profile" target="_blank"><i class="fa fa-linkedin-square" style="font-size: 20px"></i>&nbsp;LinkedIn</a></span>
+  <span class="icons"><a href="https://codepen.io/james-priest" title="CodePen Profile" target="_blank"><i class="fa fa-codepen" style="font-size: 20px"></i>&nbsp;CodePen</a></span>
+  <span class="icons"><a href="https://www.freecodecamp.com/james-priest" title="freeCodeCamp Profile" target="_blank"><i class="fa fa-free-code-camp" style="font-size: 20px"></i>&nbsp;freeCodeCamp</a></span>
+  <span class="icons"><a href="https://www.instagram.com/jamespub" title="Instagram Account" target="_blank"><i class="fa fa-instagram" style="font-size: 20px"></i>&nbsp;Instagram</a></span>
+  <span class="icons"><a href="./assets/docs/JamesPriest_Resume.pdf" title="PDF Resume" target="_blank"><i class="fa fa-file-pdf-o" style="font-size: 20px"></i>&nbsp;Resume</a></span>
 </p>
 
 <!--
@@ -24,32 +23,32 @@
 
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
-- [Objective](#objective)
-- [Skills](#skills)
-- [Career History](#career-history)
-  - [Self-Employed / Student](#self-employed--student)
-  - [Velodea](#velodea)
-  - [devAware Technology Solutions](#devaware-technology-solutions)
-  - [The Velodea Group](#the-velodea-group)
-  - [Microsoft Corporation](#microsoft-corporation)
-  - [Phillips Research Laboratory](#phillips-research-laboratory)
-  - [Intel Corporation](#intel-corporation)
-- [Portfolio](#portfolio)
-- [Documentation](#documentation)
-- [Education](#education)
-- [Certifications](#certifications)
-- [Training](#training)
-- [Achievements](#achievements)
-- [My Story](#my-story)
-- [Social Media](#social-media)
+- [Table of Contents](#Table-of-Contents)
+- [Objective](#Objective)
+- [Skills](#Skills)
+- [Career History](#Career-History)
+  - [Self-Employed / Student](#Self-Employed--Student)
+  - [Velodea](#Velodea)
+  - [devAware Technology Solutions](#devAware-Technology-Solutions)
+  - [The Velodea Group](#The-Velodea-Group)
+  - [Microsoft Corporation](#Microsoft-Corporation)
+  - [Phillips Research Laboratory](#Phillips-Research-Laboratory)
+  - [Intel Corporation](#Intel-Corporation)
+- [Portfolio](#Portfolio)
+- [Documentation](#Documentation)
+- [Education](#Education)
+- [Certifications](#Certifications)
+- [Training](#Training)
+- [Achievements](#Achievements)
+- [My Story](#My-Story)
+- [Social Media](#Social-Media)
 -->
 
 ---
 
 ## Objective
 
-Full Stack Developer with 20 years experience whose passion is building next generation, line-of-business web and mobile applications.
+Full Stack React / .NET Developer with 20 years of experience building large-scale web and mobile applications.
 
 ---
 
