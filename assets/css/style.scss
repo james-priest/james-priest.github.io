@@ -33,14 +33,13 @@ section { width: 690px; }
     border-top: 1px solid #e5e5e5;
   }
   h3 {
-   display: inline-block;
+    display: inline-block;
     font-size: 1.2em;
     color: #333;
     font-weight: bold;
     margin: 0 10px 3px 10px;
     position: absolute;
     margin: 4px 0;
-    // width:50%;
     vertical-align: bottom; 
     margin-bottom: -30px;
   }
@@ -75,6 +74,18 @@ section { width: 690px; }
   }
   li > p {
     margin-left: 6px;
+  }
+  .portfolio-table .center {
+    text-align: center;
+  }
+  .portfolio-table .right {
+    text-align: right;
+  }
+  .portfolio-table td {
+    padding: 20px;
+  }
+  .portfolio-table td.hero-cell {
+    width: 37%;
   }
 
 @media print, screen and (max-width: 1060px) { 

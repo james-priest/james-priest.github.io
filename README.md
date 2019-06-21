@@ -17,38 +17,11 @@
   <span class="icons"><a href="./assets/docs/JamesPriest_Resume.pdf" title="PDF Resume" target="_blank"><i class="fa fa-file-pdf-o" style="font-size: 20px"></i>&nbsp;Resume</a></span>
 </p>
 
-<!--
-
 ---
 
-## Table of Contents
+## Summary
 
-- [Table of Contents](#Table-of-Contents)
-- [Objective](#Objective)
-- [Skills](#Skills)
-- [Career History](#Career-History)
-  - [Self-Employed / Student](#Self-Employed--Student)
-  - [Velodea](#Velodea)
-  - [devAware Technology Solutions](#devAware-Technology-Solutions)
-  - [The Velodea Group](#The-Velodea-Group)
-  - [Microsoft Corporation](#Microsoft-Corporation)
-  - [Phillips Research Laboratory](#Phillips-Research-Laboratory)
-  - [Intel Corporation](#Intel-Corporation)
-- [Portfolio](#Portfolio)
-- [Documentation](#Documentation)
-- [Education](#Education)
-- [Certifications](#Certifications)
-- [Training](#Training)
-- [Achievements](#Achievements)
-- [My Story](#My-Story)
-- [Social Media](#Social-Media)
--->
-
----
-
-## Objective
-
-Full Stack React / .NET Developer with 20 years of experience building large-scale web and mobile applications.
+Full Stack React, .NET, Node.js, DB Developer with 20 years of experience building for web and mobile
 
 ---
 
@@ -118,11 +91,11 @@ Complete a series of full-time courses related to web, mobile, and app developme
 
 | Program | Duration | Completion |
 | --- | --- |
-| [React Nanodegree](https://www.udacity.com/course/react-nanodegree--nd019) (React, Redux, & React Native) | 6 months | May 2019 |
-| [Mobile Web Specialist Nanodegree](https://confirm.udacity.com/3JM7SK4Q) (Responsive & offline PWAs) | 6 months | Oct 2018 |
-| [Grow with Google Scholarship in Mobile Web Development](https://www.udacity.com/grow-with-google) | 3 months | Apr 2018 |
-| [JavaScript Algorithms & Data Structures Certification](https://www.freecodecamp.org/certification/james-priest/javascript-algorithms-and-data-structures) | 300 hours | Dec 2017 |
-| [Responsive Web Design Developer Certification](https://www.freecodecamp.org/certification/james-priest/responsive-web-design) | 300 hours | Jul 2017 |
+| [React Nanodegree (React, Redux, & React Native)](https://www.udacity.com/course/react-nanodegree--nd019) , Udacity | 6 months | May 2019 |
+| [Google Mobile Web Specialist Nanodegree](https://confirm.udacity.com/3JM7SK4Q), Udacity | 6 months | Oct 2018 |
+| [Grow with Google Scholarship, Mobile Web Development](https://www.udacity.com/grow-with-google), Udacity | 3 months | Apr 2018 |
+| [JavaScript Algorithms & Data Structures Certification](https://www.freecodecamp.org/certification/james-priest/javascript-algorithms-and-data-structures), freeCodeCamp | 300 hours | Dec 2017 |
+| [Responsive Web Design Developer Certification](https://www.freecodecamp.org/certification/james-priest/responsive-web-design), freeCodeCamp | 300 hours | Jul 2017 |
 
 <a name="career--velodea" id="career--velodea"></a>
 
@@ -137,26 +110,26 @@ Served as technology lead and .NET expert for a digital marketing agency. Had th
 <div style="margin: 0 20px 20px 30px;">
 <table>
   <tbody>
-  <tr>
-    <td>Qualcomm</td>
-    <td>J. Walter Thompson</td>
-    <td>Edelman</td>
-  </tr>
-  <tr>
-    <td>Shell</td>
-    <td>Sony</td>
-    <td>Beechcraft</td>
-  </tr>
-  <tr>
-    <td>Maserati</td>
-    <td>ABC Studios</td>
-    <td>Sprint Telecomm</td>
-  </tr>
-  <tr>
-    <td>Miramax</td>
-    <td>20th Century Fox</td>
-    <td>Adobe</td>
-  </tr>
+    <tr>
+      <td>Qualcomm</td>
+      <td>J. Walter Thompson</td>
+      <td>Edelman</td>
+    </tr>
+    <tr>
+      <td>Shell</td>
+      <td>Sony</td>
+      <td>Beechcraft</td>
+    </tr>
+    <tr>
+      <td>Maserati</td>
+      <td>ABC Studios</td>
+      <td>Sprint Telecomm</td>
+    </tr>
+    <tr>
+      <td>Miramax</td>
+      <td>20th Century Fox</td>
+      <td>Adobe</td>
+    </tr>
   </tbody>
 </table>
 </div>
@@ -309,74 +282,254 @@ Contracted to design and develop a web-based reporting system responsible for ge
 
 ## Portfolio
 
-| --- | --- | --- |
-| [![Restaurant Review App](./assets/images/portfolio_restaurant2.jpg)](https://restaurant-review-app.netlify.com)<br>**Restaurant Review App** | [![CSS Grid Learning App](./assets/images/portfolio_grid_app1.jpg)](https://css-grid.netlify.com/?pg=12)<br>**CSS Grid Learning App** | [![Weather Forecast App](./assets/images/portfolio_weather2.jpg)](https://local-weather-app.netlify.com/)<br>**Weather Forecast App** |
-| [![SpyCats Portfolio Site](./assets/images/portfolio_spycats1.jpg)](https://spycats.netlify.com/)<br>**SpyCats Portfolio Site** | [![JavaScript Array Methods](./assets/images/portfolio_js_array.jpg)](http://javascript-array-methods.netlify.com/)<br>**JavaScript Array Methods** | [![Quote Generator](./assets/images/portfolio_quote.jpg)](https://random-quote-generator.netlify.com/)<br>**Quote Generator** |
+|  |  |  |
+| :----: | :----: | :----: |
+| [![Mobile Flashcards App](./assets/images/portfolio_flashcards.jpg)](#mobile-flashcards-app "toc")<br>**Mobile Flashcards App**<br>June 2019 | [![Triathlon Fitness App](./assets/images/portfolio_udacifitness.jpg)](#triathlon-fitness-tracker "toc")<br>**Triathlon Fitness Tracker**<br>May 2019 | [![Would You Rather Game](./assets/images/would-you-rather1.jpg)](#would-you-rather-game "toc")<br>**Would You Rather Game**<br>April 2019 |
+| [![Restaurant Review App](./assets/images/portfolio_restaurant2.jpg)](#restaurant-review-app "toc")<br>**Restaurant Review App**<br>December 2018 | [![CSS Grid Learning App](./assets/images/portfolio_grid_app1.jpg)](#css-grid-learning-app "toc")<br>**CSS Grid Learning App**<br>June 2018 | [![Weather Forecast App](./assets/images/portfolio_weather2.jpg)](#weather-forecast-app "toc")<br>**Weather Forecast App**<br>March 2018 |
+| [![Random Quote Generator](./assets/images/portfolio_quote.jpg)](#random-quote-generator "toc")<br>**Random Quote Generator**<br>September 2017 | [![SpyCats Portfolio Site](./assets/images/portfolio_spycats1.jpg)](#spycats-portfolio-site "toc")<br>**SpyCats Portfolio Site**<br>August 2017 | [![JavaScript Array Methods](./assets/images/portfolio_js_array.jpg)](#javascript-array-methods "toc")<br>**JavaScript Array Methods**<br>July 2017 |
 
-- **Restaurant Review App**<br>
-  This mobile-optimized Progressive Web App is
-  - Fully responsive and ARIA compliant
-  - Uses Service Worker, IndexedDB, & Cache API for a seamless offline experience
-  - Synchronizes when a connection is available and notifies the user when offline
-  <br><br>
-  [![Restaurant Review App](./assets/images/portfolio_restaurant2.jpg)](https://restaurant-review-app.netlify.com)
-  <br><br>
-  [[Demo](https://restaurant-review-app.netlify.com)], [[Code Notes](https://james-priest.github.io/mws-restaurant-stage-1/)], [[Code Sample](https://github.com/james-priest/mws-restaurant-stage-1/blob/master/app/js/dbhelper.js)], [[GitHub Repo](https://github.com/james-priest/mws-restaurant-stage-1)]
-  <br><br>
+### Mobile Flashcards App
+<table class="portfolio-table">
+  <thead>
+    <tr>
+      <th></th>
+      <th class="right">June 2019</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="hero-cell center">
+        <a href="https://james-priest.github.io/mobile-flashcards/assets/images/mfc38.jpg"><img src="assets/images/portfolio_flashcards.jpg" alt="Mobile Flashcards App"></a>
+        <br><br>
+        <a href="https://github.com/james-priest/mobile-flashcards">GitHub</a> | <a href="https://expo.io/@james-priest/mobile-flashcards">Live Demo</a><br><a href="https://james-priest.github.io/mobile-flashcards/">Code Notes</a> | <a href="https://github.com/james-priest/mobile-flashcards/blob/master/components/DeckList.js">Code Sample</a>
+      </td>
+      <td>
+        Mobile Flashcards is an iOS and Android app was built with React Native & Redux.
+        <ul>
+          <li>Users can create decks & add cards</li>
+          <li>Uses AsyncStorage to persist user data</li>
+          <li>Quizzes can be taken and a score is given at the end</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-- **CSS Grid Learning App**<br>
-  This is JavaScript Single Page Application built as a proof-of-concept.
-  - It teaches CSS Grid as a series of lessons.
-  - It's built with vanilla JavaScript, CSS transitions, & extensive use of RegEx
-  - Includes an in-page code editor built from scratch
-  <br><br>
-  [![CSS Grid Learning App](./assets/images/portfolio_grid_app1.jpg)](https://css-grid.netlify.com/?pg=12)<br><br>
-  [[Demo](https://css-grid.netlify.com/?pg=12)], [[CodePen](https://codepen.io/james-priest/pen/MrdNPZ)], [[Code Sample](https://github.com/james-priest/grid-critters-code/blob/master/script/mce_ta.js)], [[GitHub Repo](https://github.com/james-priest/grid-critters-code)]
-  <br><br>
+### Triathlon Fitness Tracker
+<table class="portfolio-table">
+  <thead>
+    <tr>
+      <th></th>
+      <th class="right">May 2019</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="hero-cell center">
+        <a href="https://james-priest.github.io/udacity-nanodegree-react/assets/images/rn_screenshot.jpg"><img src="assets/images/portfolio_udacifitness.jpg" alt="Triathlon Fitness Tracker"></a>
+        <br><br>
+        <a href="https://github.com/james-priest/reactnd-udacifitness">GitHub</a> | <a href="https://expo.io/@james-priest/reactnd-udacifitness">Live Demo</a><br><a href="https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html">Code Notes</a> | <a href="https://github.com/james-priest/reactnd-udacifitness/blob/master/components/Live.js">Code Sample</a>
+      </td>
+      <td>
+        The Triathlon Fitness Tracker was built for iOS and Android using React Native.
+        <ul>
+          <li>Allows users to track Run, Bike, Swim, Sleep, & Eat categories on a daily basis</li>
+          <li>Provides activity history and notification reminders</li>
+          <li>Uses Geolocation to track direction, speed, & altitude</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-- **Weather Forecast App**<br>
-  This is a single page app written to demonstrate JAMStack architecture.
-  - It is written from scratch and is fully responsive
-  - Uses Ajax,  HTML5 Geo-location, & embedded SVG
-  - Uses Semantic-UI framework, Ajax, CSS animations, & transitions
-  <br><br>
-  [![Weather Forecast App](./assets/images/portfolio_weather2.jpg)](https://local-weather-app.netlify.com/)
-  <br><br>
-  [[Demo](https://local-weather-app.netlify.com/)], [[CodePen](https://codepen.io/james-priest/pen/XaQQaO)], [[Code Sample](https://github.com/james-priest/local-weather-app/blob/master/js/ajax.js)], [[GitHub Repo](https://github.com/james-priest/local-weather-app)]
-  <br><br>
+### Would You Rather Game
+<table class="portfolio-table">
+  <thead>
+    <tr>
+      <th></th>
+      <th class="right">April 2019</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="hero-cell center">
+        <a href="https://james-priest.github.io/reactnd-project-would-you-rather/assets/images/wyr77.jpg"><img src="assets/images/would-you-rather1.jpg" alt="Would You Rather Game"></a>
+        <br><br>
+        <a href="https://github.com/james-priest/reactnd-project-would-you-rather">GitHub</a> | <a href="https://reactnd-would-you-rather.netlify.com/">Live Demo</a><br><a href="https://james-priest.github.io/reactnd-project-would-you-rather/">Code Notes</a> | <a href="https://github.com/james-priest/reactnd-project-would-you-rather/blob/master/src/components/App.js">Code Sample</a>
+      </td>
+      <td>
+        Would You Rather is a polling game that presents users a series of questions to answer.
+        <ul>
+          <li>It is built with React/Redux & is fully responsive</li>
+          <li>Allows users to create and answer questions</li>
+          <li>Utilizes account login, tracks answered/unanswered questions, & provides leaderboard scores</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-- **SpyCats Portfolio Site**<br>
-  This app is a portfolio-style site. It was written to satisfy an FCC certification requirement.
-  - It uses Bootstrap, jQuery, HTML5 Forms
-  - It incorporates scroll navigation & semantic HTML
-  - Is fully responsive and scales across devices
-  <br><br>
-  [![SpyCats Portfolio Site](./assets/images/portfolio_spycats1.jpg)](https://spycats.netlify.com/)
-  <br><br>
-  [[Demo](https://spycats.netlify.com/)], [[CodePen](https://codepen.io/james-priest/pen/prpjEK)], [[Code Sample](https://github.com/james-priest/spy-cats/blob/master/js/fcc-portfolio.js)], [[GitHub Repo](https://github.com/james-priest/spy-cats)]
-  <br><br>
+### Restaurant Review App
+<table class="portfolio-table">
+  <thead>
+    <tr>
+      <th></th>
+      <th class="right">December 2018</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="hero-cell center">
+        <a href="https://github.com/james-priest/mws-restaurant-stage-1/raw/master/docs/assets/images/hero.jpg"><img src="assets/images/portfolio_restaurant2.jpg" alt="Restaurant Review App"></a>
+        <br><br>
+        <a href="https://github.com/james-priest/mws-restaurant-stage-1">GitHub</a> | <a href="https://restaurant-review-app.netlify.com">Live Demo</a><br><a href="https://james-priest.github.io/mws-restaurant-stage-1/">Code Notes</a> | <a href="https://github.com/james-priest/mws-restaurant-stage-1/blob/master/app/js/dbhelper.js">Code Sample</a>
+      </td>
+      <td>
+        This mobile-optimized Progressive Web App is
+        <ul>
+          <li>Fully responsive and ARIA compliant</li>
+          <li>Uses Service Worker, IndexedDB, &amp; Cache API for a seamless offline experience</li>
+          <li>Synchronizes when a connection is available and notifies the user when offline</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-- **JavaScript Array Methods**<br>
-  This app was built as part of my Microsoft Developer Certification study.
-  - It uses Object Oriented ES5 JavaScript
-  - It uses QUnit and TDD (Test-Driven Development) methodology
-  - It dynamically builds an interface that models various JavaScript Array methods
-  <br><br>
-  [![JavaScript Array Methods](./assets/images/portfolio_js_array.jpg)](http://javascript-array-methods.netlify.com/)
-  <br><br>
-  [[Demo](http://javascript-array-methods.netlify.com/)], [[Sample Code](https://github.com/james-priest/javascript-array-methods)], [[GitHub Repo](https://github.com/james-priest/javascript-array-methods)]
-  <br><br>
+### CSS Grid Learning App
+<table class="portfolio-table">
+  <thead>
+    <tr>
+      <th></th>
+      <th class="right">June 2018</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="hero-cell center">
+        <a href="https://james-priest.github.io/grid-critters-code/images/css-grid-app1.png"><img src="assets/images/portfolio_grid_app1.jpg" alt="CSS Grid Learning App"></a>
+        <br><br>
+        <a href="https://github.com/james-priest/grid-critters-code">GitHub</a> | <a href="https://james-priest.github.io/grid-critters-code/">Live Demo</a><br><a href="https://codepen.io/james-priest/pen/MrdNPZ">CodePen</a> | <a href="https://github.com/james-priest/grid-critters-code/blob/master/script/mce_ta.js">Code Sample</a>
+      </td>
+      <td>
+        This JavaScript SPA was built as a proof-of-concept.
+        <ul>
+          <li>It teaches CSS Grid as a series of lessons</li>
+          <li>Is built with vanilla JavaScript, CSS transitions, &amp; extensive use of RegEx</li>
+          <li>Includes an in-page code editor built from scratch</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-- **Random Quote Generator**<br>
-  This app is FCC project built to satisfy a certification requirement.
-  - It uses basic JavaScript & jQuery for API requests through Ajax
-  - CSS transitions to dynamically display famous quotes
-  - Embedded SVG & FontAwesome for icons and background
-  <br><br>
-  [![Quote Generator](./assets/images/portfolio_quote.jpg)](https://random-quote-generator.netlify.com/)
-  <br><br>
-  [[Demo](https://random-quote-generator.netlify.com/)], [[CodePen](https://codepen.io/james-priest/pen/RZdGNo)] [[Code Sample](https://github.com/james-priest/random-quote-generator/blob/master/js/script.js)], [[GitHub Repo](https://github.com/james-priest/random-quote-generator)]
-  <br>
+### Weather Forecast App
+<table class="portfolio-table">
+  <thead>
+    <tr>
+      <th></th>
+      <th class="right">March 2018</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="hero-cell center">
+        <a href="https://james-priest.github.io/local-weather-app/images/fcc-semantic-ui-4.png"><img src="assets/images/portfolio_weather2.jpg" alt="Weather Forecast App"></a>
+        <br><br>
+        <a href="https://github.com/james-priest/local-weather-app">GitHub</a> | <a href="http://local-weather-app.netlify.com/">Live Demo</a><br><a href="https://codepen.io/james-priest/pen/XaQQaO">CodePen</a> | <a href="https://github.com/james-priest/local-weather-app/blob/master/js/ajax.js">Code Sample</a>
+      </td>
+      <td>
+        This SPA was written to demonstrate JAMStack architecture.
+        <ul>
+          <li>It is written from scratch and is fully responsive</li>
+          <li>Uses Ajax, JSON, Geolocation, &amp; embedded SVG</li>
+          <li>Semantic-UI framework, CSS animations, &amp; transitions</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Random Quote Generator
+<table class="portfolio-table">
+  <thead>
+    <tr>
+      <th></th>
+      <th class="right">September 2017</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="hero-cell center">
+        <a href="https://random-quote-generator.netlify.com/images/netlify-random-quote-generator.png"><img src="assets/images/portfolio_quote.jpg" alt="Random Quote Generator"></a>
+        <br><br>
+        <a href="https://github.com/james-priest/random-quote-generator">GitHub</a> | <a href="https://random-quote-generator.netlify.com/">Live Demo</a><br><a href="https://codepen.io/james-priest/pen/RZdGNo">CodePen</a> | <a href="https://github.com/james-priest/random-quote-generator/blob/master/js/script.js">Code Sample</a>
+      </td>
+      <td>
+        This app was built to satisfy a Front End certification requirement.
+        <ul>
+          <li>It uses JavaScript, jQuery, &amp; Ajax for API requests</li>
+          <li>CSS transitions to dynamically display famous quotes</li>
+          <li>Embedded SVG &amp; FontAwesome for icons and background</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### SpyCats Portfolio Site
+<table class="portfolio-table">
+  <thead>
+    <tr>
+      <th></th>
+      <th class="right">August 2017</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="hero-cell center">
+        <a href="http://spycats.netlify.com/images/netlify-spycats-wide1.png"><img src="assets/images/portfolio_spycats1.jpg" alt="SpyCats Portfolio Site"></a>
+        <br><br>
+        <a href="https://github.com/james-priest/spy-cats">GitHub</a> | <a href="http://spycats.netlify.com/">Live Demo</a><br><a href="https://codepen.io/james-priest/pen/prpjEK">CodePen</a> | <a href="https://github.com/james-priest/spy-cats/blob/master/js/fcc-portfolio.js">Code Sample</a>
+      </td>
+      <td>
+        This site was written to satisfy a Front End certification requirement.
+        <ul>
+          <li>It uses Bootstrap, jQuery, HTML5 Forms</li>
+          <li>It incorporates scroll navigation &amp; semantic HTML</li>
+          <li>Is fully responsive and scales across devices</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### JavaScript Array Methods
+<table class="portfolio-table">
+  <thead>
+    <tr>
+      <th></th>
+      <th class="right">July 2017</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="hero-cell center">
+        <a href="https://javascript-array-methods.netlify.com/images/javascript-array-methods.png"><img src="assets/images/portfolio_js_array.jpg" alt="JavaScript Array Methods"></a>
+        <br><br>
+        <a href="https://github.com/james-priest/javascript-array-methods">GitHub</a> | <a href="https://javascript-array-methods.netlify.com/">Live Demo</a><br><a href="https://github.com/james-priest/javascript-array-methods/blob/master/javascript-array-methods/Scripts/qunit.js">Code Sample</a>
+      </td>
+      <td>
+        This app was built as part of my Microsoft Developer Certification study.
+        <ul>
+          <li>It uses Object Oriented ES5 JavaScript</li>
+          <li>QUnit and TDD (Test-Driven Development) methodology</li>
+          <li>It dynamically builds an interface that models various JavaScript Array methods</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 **[⬆ top](#james-priest "toc")**
 
@@ -475,23 +628,13 @@ In 2018 I applied for and received two separate scholarships for Intermediate an
 
 The first was a three month program called _Grow with Google Scholarship Challenge_. The second was a _Mobile Web Specialist Nanodegree_ scholarship.
 
-<!-- 
-- Grow with Google Scholarship Challenge for Mobile Web Development (3-month program)
-- Mobile Web Specialist by Google Nanodegree (6-month program) -->
-
-<!-- At the end of the nine months and upon successful evaluation of my capstone project, I was awarded Udacity's [Mobile Web Specialist Nanodegree](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024). -->
-
-<!-- * **Google Mobile Web Specialist** certification (In process) -->
-<!-- * **Microsoft Programming in HTML5 with JavaScript & CSS3** certification (In process) -->
-
-|  Provider | Certification | Completed |
-| :---   | :---       | ---:     |
-| Udacity | React Nanodegree - 6 month Program | In Process |
-| freeCodeCamp | [JavaScript Algorithms & Data Structures Certification](https://www.freecodecamp.org/certification/james-priest/javascript-algorithms-and-data-structures) - 300 hours | Dec 2018 |
-| freeCodeCamp | [Responsive Web Design Developer Certification](https://www.freecodecamp.org/certification/james-priest/responsive-web-design) - 300 hours | Dec 2018 |
-| Udacity | [Mobile Web Specialist Nanodegree](https://confirm.udacity.com/3JM7SK4Q) - 6 month Program | Oct 2018 |
-| Udacity | Grow With Google Scholarship Challenge - 3 month program | Apr 2018 |
-| The Waite Group | Java 1.1 Programming - 3 month program | Nov 1998 |
+| Program | Duration | Completion |
+| --- | --- |
+| [React Nanodegree (React, Redux, & React Native)](https://www.udacity.com/course/react-nanodegree--nd019) , Udacity | 6 months | May 2019 |
+| [Google Mobile Web Specialist Nanodegree](https://confirm.udacity.com/3JM7SK4Q), Udacity | 6 months | Oct 2018 |
+| [Grow with Google Scholarship, Mobile Web Development](https://www.udacity.com/grow-with-google), Udacity | 3 months | Apr 2018 |
+| [JavaScript Algorithms & Data Structures Certification](https://www.freecodecamp.org/certification/james-priest/javascript-algorithms-and-data-structures), freeCodeCamp | 300 hours | Dec 2017 |
+| [Responsive Web Design Developer Certification](https://www.freecodecamp.org/certification/james-priest/responsive-web-design), freeCodeCamp | 300 hours | Jul 2017 |
 
 **[⬆ top](#james-priest "toc")**
 
