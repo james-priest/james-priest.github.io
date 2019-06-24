@@ -325,11 +325,6 @@ Contracted to design and develop a web-based reporting system responsible for ge
   </thead>
   <tbody>
     <tr>
-      <td class="hero-cell center">
-        <a href="https://james-priest.github.io/udacity-nanodegree-react/assets/images/rn_screenshot.jpg"><img src="assets/images/portfolio_udacifitness.jpg" alt="Triathlon Fitness Tracker"></a>
-        <br><br>
-        <a href="https://github.com/james-priest/reactnd-udacifitness">GitHub</a> | <a href="https://expo.io/@james-priest/reactnd-udacifitness">Live Demo</a><br><a href="https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html">Code Notes</a> | <a href="https://github.com/james-priest/reactnd-udacifitness/blob/master/components/Live.js">Code Sample</a>
-      </td>
       <td>
         The Triathlon Fitness Tracker was built for iOS and Android using React Native.
         <ul>
@@ -337,6 +332,11 @@ Contracted to design and develop a web-based reporting system responsible for ge
           <li>Provides activity history and notification reminders</li>
           <li>Uses Geolocation to track direction, speed, & altitude</li>
         </ul>
+      </td>
+      <td class="hero-cell center">
+        <a href="https://james-priest.github.io/udacity-nanodegree-react/assets/images/rn_screenshot.jpg"><img src="assets/images/portfolio_udacifitness.jpg" alt="Triathlon Fitness Tracker"></a>
+        <br><br>
+        <a href="https://github.com/james-priest/reactnd-udacifitness">GitHub</a> | <a href="https://expo.io/@james-priest/reactnd-udacifitness">Live Demo</a><br><a href="https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html">Code Notes</a> | <a href="https://github.com/james-priest/reactnd-udacifitness/blob/master/components/Live.js">Code Sample</a>
       </td>
     </tr>
   </tbody>
@@ -379,11 +379,6 @@ Contracted to design and develop a web-based reporting system responsible for ge
   </thead>
   <tbody>
     <tr>
-      <td class="hero-cell center">
-        <a href="https://github.com/james-priest/mws-restaurant-stage-1/raw/master/docs/assets/images/hero.jpg"><img src="assets/images/portfolio_restaurant2.jpg" alt="Restaurant Review App"></a>
-        <br><br>
-        <a href="https://github.com/james-priest/mws-restaurant-stage-1">GitHub</a> | <a href="https://restaurant-review-app.netlify.com">Live Demo</a><br><a href="https://james-priest.github.io/mws-restaurant-stage-1/">Code Notes</a> | <a href="https://github.com/james-priest/mws-restaurant-stage-1/blob/master/app/js/dbhelper.js">Code Sample</a>
-      </td>
       <td>
         This mobile-optimized Progressive Web App is
         <ul>
@@ -391,6 +386,11 @@ Contracted to design and develop a web-based reporting system responsible for ge
           <li>Uses Service Worker, IndexedDB, &amp; Cache API for a seamless offline experience</li>
           <li>Synchronizes when a connection is available and notifies the user when offline</li>
         </ul>
+      </td>
+      <td class="hero-cell center">
+        <a href="https://github.com/james-priest/mws-restaurant-stage-1/raw/master/docs/assets/images/hero.jpg"><img src="assets/images/portfolio_restaurant2.jpg" alt="Restaurant Review App"></a>
+        <br><br>
+        <a href="https://github.com/james-priest/mws-restaurant-stage-1">GitHub</a> | <a href="https://restaurant-review-app.netlify.com">Live Demo</a><br><a href="https://james-priest.github.io/mws-restaurant-stage-1/">Code Notes</a> | <a href="https://github.com/james-priest/mws-restaurant-stage-1/blob/master/app/js/dbhelper.js">Code Sample</a>
       </td>
     </tr>
   </tbody>
@@ -433,11 +433,6 @@ Contracted to design and develop a web-based reporting system responsible for ge
   </thead>
   <tbody>
     <tr>
-      <td class="hero-cell center">
-        <a href="https://james-priest.github.io/local-weather-app/images/fcc-semantic-ui-4.png"><img src="assets/images/portfolio_weather2.jpg" alt="Weather Forecast App"></a>
-        <br><br>
-        <a href="https://github.com/james-priest/local-weather-app">GitHub</a> | <a href="http://local-weather-app.netlify.com/">Live Demo</a><br><a href="https://codepen.io/james-priest/pen/XaQQaO">CodePen</a> | <a href="https://github.com/james-priest/local-weather-app/blob/master/js/ajax.js">Code Sample</a>
-      </td>
       <td>
         This SPA was written to demonstrate JAMStack architecture.
         <ul>
@@ -445,6 +440,11 @@ Contracted to design and develop a web-based reporting system responsible for ge
           <li>Uses Ajax, JSON, Geolocation, &amp; embedded SVG</li>
           <li>Semantic-UI framework, CSS animations, &amp; transitions</li>
         </ul>
+      </td>
+      <td class="hero-cell center">
+        <a href="https://james-priest.github.io/local-weather-app/images/fcc-semantic-ui-4.png"><img src="assets/images/portfolio_weather2.jpg" alt="Weather Forecast App"></a>
+        <br><br>
+        <a href="https://github.com/james-priest/local-weather-app">GitHub</a> | <a href="http://local-weather-app.netlify.com/">Live Demo</a><br><a href="https://codepen.io/james-priest/pen/XaQQaO">CodePen</a> | <a href="https://github.com/james-priest/local-weather-app/blob/master/js/ajax.js">Code Sample</a>
       </td>
     </tr>
   </tbody>
@@ -487,11 +487,6 @@ Contracted to design and develop a web-based reporting system responsible for ge
   </thead>
   <tbody>
     <tr>
-      <td class="hero-cell center">
-        <a href="http://spycats.netlify.com/images/netlify-spycats-wide1.png"><img src="assets/images/portfolio_spycats1.jpg" alt="SpyCats Portfolio Site"></a>
-        <br><br>
-        <a href="https://github.com/james-priest/spy-cats">GitHub</a> | <a href="http://spycats.netlify.com/">Live Demo</a><br><a href="https://codepen.io/james-priest/pen/prpjEK">CodePen</a> | <a href="https://github.com/james-priest/spy-cats/blob/master/js/fcc-portfolio.js">Code Sample</a>
-      </td>
       <td>
         This site was written to satisfy a Front End certification requirement.
         <ul>
@@ -499,6 +494,11 @@ Contracted to design and develop a web-based reporting system responsible for ge
           <li>It incorporates scroll navigation &amp; semantic HTML</li>
           <li>Is fully responsive and scales across devices</li>
         </ul>
+      </td>
+      <td class="hero-cell center">
+        <a href="http://spycats.netlify.com/images/netlify-spycats-wide1.png"><img src="assets/images/portfolio_spycats1.jpg" alt="SpyCats Portfolio Site"></a>
+        <br><br>
+        <a href="https://github.com/james-priest/spy-cats">GitHub</a> | <a href="http://spycats.netlify.com/">Live Demo</a><br><a href="https://codepen.io/james-priest/pen/prpjEK">CodePen</a> | <a href="https://github.com/james-priest/spy-cats/blob/master/js/fcc-portfolio.js">Code Sample</a>
       </td>
     </tr>
   </tbody>
@@ -539,15 +539,18 @@ Contracted to design and develop a web-based reporting system responsible for ge
 
 - **React Nanodegree Project Notes**<br>
   Step-by-step walk-through of how I built each of my React Nanodegree capstone projects.
-  - Project 1 - [MyReads](https://james-priest.github.io/reactnd-project-myreads/)<br>
-    MyReads App allows users to search from a catalog of books and save choices to various books shelves. It's built with React & React Router.
-  - Project 2 - [Would You Rather](https://james-priest.github.io/reactnd-project-would-you-rather/)<br>
+  - Project 3 - [Mobile Flashcards App](https://james-priest.github.io/mobile-flashcards/)<br>
+    Mobile Flashcards is a React Native app for iOS and Android that allows users to create decks, add cards, and quiz themselves. It uses React Native, Expo, Redux, & React Navigation.
+  - Project 2 - [Would You Rather App](https://james-priest.github.io/reactnd-project-would-you-rather/)<br>
     Would You Rather is a polling game that presents the user with a series of questions that can be answered one of two ways. It's built with React, Redux, React Router, & Redux Thunk.
+  - Project 1 - [MyReads App](https://james-priest.github.io/reactnd-project-myreads/)<br>
+    MyReads App allows users to search from a catalog of books and save choices to various books shelves. It's built with React & React Router.
 - **React Nanodegree Course Notes**<br>
   Course Notes from the React Nanodegree course list.
   - React Nanodegree Notes - [Table of Contents](https://james-priest.github.io/udacity-nanodegree-react/index.html)
   - Section 1 - [React Fundamentals](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-fundamentals.html)
   - Section 2 - [React & Redux](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-redux.html)
+  - Section 3 - [React Native](https://james-priest.github.io/udacity-nanodegree-react/course-notes/react-native.html)
 - **Mobile Web Nanodegree Project Notes**<br>
   Step-by-step walk-through of how I built my capstone project. This is a fully responsive Restaurant Review Progressive Web App (PWA) with database, caching, & offline capabilities.
   - Table of Contents - [Restaurant Review App Code Notes](https://james-priest.github.io/mws-restaurant-stage-1/index.html)
@@ -604,19 +607,37 @@ Contracted to design and develop a web-based reporting system responsible for ge
 ---
 
 ## Education
-
+<!-- 
 - **DeVry University - California**<br>
-  *Bachelor of Science in Computer Information Systems*<br>
+  *Bachelor of Science in Computer Information Systems (BSc CIS)*<br>
   Graduation with Honors - GPA 3.52/4.00<br>
-  1994 - 1997
+  1994 - 1997 -->
 
-<!-- - **freeCodeCamp**<br>
-  *Front End Web Development Certification*<br>
-  Jun 2017 - Jan 2018
+| DeVry University California | 1994 - 1997 |
+| --- | --: |
+| *Bachelor of Computer Information Systems (BSc CIS)* | Graduation with Honors - GPA 3.52/4.00 |
 
-- **Udacity**<br>
-  *Mobile Web Specialist Nanodegree*<br>
-  May 2018 - Nov 2018 -->
+This computer Science degree covers software engineering, web application development, and database management . It covers languages such as C++, Java, and C#.
+
+| Udacity | 2019 |
+| --- | --: |
+| React Nanodegree |  Web Application Development |
+
+This 6-month program prepares developers to build declarative user interfaces for the web as well as iOS and Android devices. It covers developing:
+
+- JavaScript ES6
+- React/Redux
+- React Native
+
+| Udacity | 2018 |
+| --- | --: |
+| Google Mobile Web Specialist Nanodegree |  Web Application Development |
+
+This 6-month program prepares developers to be job-ready for Mobile Web Development roles. It covers developing:
+
+- Accessible and Responsive Web Apps
+- Offline capable Web Apps
+- Optimized and Perfomant Web Apps
 
 **[⬆ top](#james-priest "toc")**
 
@@ -647,6 +668,7 @@ I've completed more than 45 courses from providers such as [Udacity](https://www
 
 | Course    | Completed   | Provider |
 | :---      | ---         | --:       |
+| React Native | May 2019 | Udacity |
 | React & Redux | March 2019 | Udacity |
 | React Fundamentals | January 2019 | Udacity |
 | Becoming a GitHub Pro | December 2018 | Udacity |
