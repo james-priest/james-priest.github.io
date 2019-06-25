@@ -644,10 +644,10 @@ This 6-month program prepares developers to be job-ready for Mobile Web Developm
 ---
 
 ## Certifications
-
+<!-- 
 In 2018 I applied for and received two separate scholarships for Intermediate and Advanced web development studies from [Udacity](https://www.udacity.com/).
 
-The first was a three month program called _Grow with Google Scholarship Challenge_. The second was a _Mobile Web Specialist Nanodegree_ scholarship.
+The first was a three month program called _Grow with Google Scholarship Challenge_. The second was a _Mobile Web Specialist Nanodegree_ scholarship. -->
 
 | Program | Duration | Completion |
 | --- | --- |
