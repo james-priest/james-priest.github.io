@@ -612,7 +612,13 @@ Contracted to design and develop a web-based reporting system responsible for ge
 | --- | --: |
 | *Bachelor of Computer Information Systems (BSc CIS)* | Graduation with Honors - GPA 3.52/4.00 |
 
-This computer Science degree covers software engineering, web application development, and database management . It covers languages such as C++, Java, and C#.
+Computer Science degree with a focus on the following.
+
+- Software Engineering
+- Web Application Development
+- Database Management.
+
+Core languages taught are Java, C#, and JavaScript.
 
 | Udacity | 2019 |
 | --- | --: |
@@ -632,7 +638,25 @@ This 6-month program prepares developers to be job-ready for Mobile Web Developm
 
 - Accessible and Responsive Web Apps
 - Offline capable Web Apps
-- Optimized and Perfomant Web Apps
+- Optimized and Performant Web Apps
+
+| Udacity | 2018 |
+| --- | --: |
+| Grow with Google Mobile Web Scholarship Challenge |  Web Application Development |
+
+This 3-month intensive program served as a precursor to the formal Mobile Web Specialist Nanodegree by Google program offered by Udacity. It focuses on Responsive Design, Web Accessibility & Offline-first Architecture.
+
+| freeCodeCamp | 2017-2018 |
+| --- | --: |
+| JavaScript Algorithms and Data Structures |  Web Application Development |
+
+This represents roughly 300 hours of course work. It covers JavaScript, ES6, Regular Expressions, Debugging, Data Structure, Algorithm Scripting, Object Oriented Programming, & Functional Programming.
+
+| freeCodeCamp | 2017-2018 |
+| --- | --: |
+| Responsive Web Design |  Web Application Development |
+
+This represents roughly 300 hours of course work. It covers all aspects of modern web design including HTML, CSS, Visual Design, Accessibility, Responsive Web Design Principles, Flexbox, & CSS Grid.
 
 **[⬆ top](#james-priest "toc")**
 
