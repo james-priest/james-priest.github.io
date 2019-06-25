@@ -39,21 +39,20 @@ Full Stack React, .NET, Node.js, DB Developer with 20 years of experience buildi
 | Development Skills |   |
 | :--- | :--- |
 | Complete Responsive Web Design | Mobile iOS & Android App Development |
-| Progressive Web App & Offline-first Development | Web Accessibility & ARIA Compliance |
-| UI/UX, IA, & Standards Design | Web Automation & Build Systems |
+| PWA & Offline-first Web Applications | Web Accessibility & ARIA Compliance |
+| UI/UX, Information Architecture, Standards Design | Web Automation & Build Systems |
 | .NET Web Application Development |  Database Development (RDBMS & NoSQL) |
 
 <!-- 
 | Offline Web Applications | Web Automation & Build Systems |
 | .NET Web Application Development | SQL Server/MySQL DB Design & Programming |
 | Multi-tier Object Oriented Design | Responsive Web Design |
-| Web Accessibility & ARIA | UI/UX, Information Architecture, Standards Design |
- -->
+| Web Accessibility & ARIA | UI/UX, Information Architecture, Standards Design | -->
 
-| Languages |  Web, Frameworks, & Database | IDEs, Cloud, & Version Control |
+| Languages |  UI, Frameworks, & Database | IDEs, Cloud, & Version Control |
 | :-------- | :----------- | :---------      |
-| JavaScript ES5/ES6 | React / Redux / React Native | VS Code / Visual Studio / DevTools |
-| HTML5 / CSS3 | IndexedDB / Cache API / Fetch API | Git / GitHub / GitHub Pages |
+| JavaScript | React / Redux / React Native | VS Code / Visual Studio / DevTools |
+| HTML5 / CSS3 | Node.js / Express / Socket.io | Git / GitHub / GitHub Pages |
 | C# | ASP.NET / .NET Framework | Azure DevOps / Heroku / Netlify |
 | VB.NET | SQL / Stored Procedures / Transactions  | Azure Cloud (Win & Linux VMs) |
 
@@ -61,13 +60,9 @@ Full Stack React, .NET, Node.js, DB Developer with 20 years of experience buildi
 | :-- |
 | Front End Development | Back End Development  | Database Design | -->
 
-| Additional Technical Skills |
+| Technical Skills |
 | :-- |
-| Node.js, Npm, Yarn, Gulp, Grunt, Jekyll, MarkDown, MS SQL Server, MySQL, SQLite, MongoDB Query Syntax, Bootstrap, jQuery, Semantic-UI, Sematic UI React, Service Workers, Web Workers |
-
-| Non-technical Skills |
-| :-- |
-| Marketing, Project Management, Account & Client Management, Documentation & Technical Writing |
+| **Web:** Bootstrap, jQuery, Semantic-UI, Sematic-UI-React<br>**HTML5 APIs:** Service Worker, Web Worker, IndexedDB, Cache API, Fetch API, Promise API<br>**Build:** Npm, Yarn, Gulp, Grunt, Jekyll, MarkDown<br>**Database:** MS SQL Server, MySQL, SQLite, MongoDB Query Syntax, NoSQL, Redis<br>**Industry Knowledge:** Digital Marketing, Project Management, Documentation & Technical Writing |
 
 **[⬆ top](#james-priest "toc")**
 
@@ -81,17 +76,17 @@ Full Stack React, .NET, Node.js, DB Developer with 20 years of experience buildi
 
 <a name="career--self-employed--student" id="career--self-employed--student"></a>
 
-### Self-Employed / Student
+### Self-Employed / Technical Training
 
 |      | April 2017 - Present |
 | :--- | ---: |
-| Senior Web Developer | La Canada, California |
+| Senior Software Engineer | La Canada, California |
 
-Complete a series of full-time courses related to web, mobile, and app development. This was primarily done through Udacity, an industry leading technology educator that offers programs created by Google, IBM, Amazon, AT&T, and Facebook.
+Complete two years of full-time technical training related to web, mobile, and app development. This was done through Udacity, an industry leading technology educator that offers programs created by Google, IBM, Amazon, AT&T, and Facebook.
 
 | Program | Duration | Completion |
 | --- | --- |
-| [React Nanodegree (React, Redux, & React Native)](https://www.udacity.com/course/react-nanodegree--nd019) , Udacity | 6 months | May 2019 |
+| [React Nanodegree (React, Redux, & React Native)](https://www.udacity.com/course/react-nanodegree--nd019) , Udacity | 6 months | June 2019 |
 | [Google Mobile Web Specialist Nanodegree](https://confirm.udacity.com/3JM7SK4Q), Udacity | 6 months | Oct 2018 |
 | [Grow with Google Scholarship, Mobile Web Development](https://www.udacity.com/grow-with-google), Udacity | 3 months | Apr 2018 |
 | [JavaScript Algorithms & Data Structures Certification](https://www.freecodecamp.org/certification/james-priest/javascript-algorithms-and-data-structures), freeCodeCamp | 300 hours | Dec 2017 |
