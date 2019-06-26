@@ -8,9 +8,9 @@
 ---
 
 <p class="content-header">
+  <span class="icons"><a href="https://www.linkedin.com/in/jamespriestdeveloper/" title="LinkedIn Profile" target="_blank"><i class="fa fa-linkedin-square" style="font-size: 20px"></i>&nbsp;LinkedIn</a></span>
   <span class="icons"><a href="https://github.com/james-priest" title="GitHub Profile" target="_blank"><i class="fa fa-github" style="font-size: 20px"></i>&nbsp;GitHub</a></span>
   <span class="icons"><a href="https://twitter.com/james_priest1" title="Twitter Profile" target="_blank"><i class="fa fa-twitter-square" style="font-size: 20px"></i>&nbsp;Twitter</a></span>
-  <span class="icons"><a href="https://www.linkedin.com/in/jamespriestdeveloper/" title="LinkedIn Profile" target="_blank"><i class="fa fa-linkedin-square" style="font-size: 20px"></i>&nbsp;LinkedIn</a></span>
   <span class="icons"><a href="https://codepen.io/james-priest" title="CodePen Profile" target="_blank"><i class="fa fa-codepen" style="font-size: 20px"></i>&nbsp;CodePen</a></span>
   <span class="icons"><a href="https://www.freecodecamp.com/james-priest" title="freeCodeCamp Profile" target="_blank"><i class="fa fa-free-code-camp" style="font-size: 20px"></i>&nbsp;freeCodeCamp</a></span>
   <span class="icons"><a href="https://www.instagram.com/jamespub" title="Instagram Account" target="_blank"><i class="fa fa-instagram" style="font-size: 20px"></i>&nbsp;Instagram</a></span>
@@ -21,7 +21,7 @@
 
 ## Summary
 
-Full Stack React, .NET, Node.js, DB Developer with 20 years of experience building for web and mobile
+Senior Front End / Full Stack Web Developer with 20 years of experience building for web & mobile.
 
 ---
 
@@ -38,8 +38,8 @@ Full Stack React, .NET, Node.js, DB Developer with 20 years of experience buildi
 
 | Development Skills |   |
 | :--- | :--- |
-| Complete Responsive Web Design | Mobile iOS & Android App Development |
-| PWA & Offline-first Web Applications | Web Accessibility & ARIA Compliance |
+| Complete Responsive Web Design | Web Accessibility & ARIA Compliance |
+| PWA & Offline Web Applications | Mobile iOS & Android App Development |
 | UI/UX, Information Architecture, Standards Design | Web Automation & Build Systems |
 | .NET Web Application Development |  Database Development (RDBMS & NoSQL) |
 
