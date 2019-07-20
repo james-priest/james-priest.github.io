@@ -14,7 +14,7 @@
   <span class="icons"><a href="https://codepen.io/james-priest" title="CodePen Profile" target="_blank"><i class="fa fa-codepen" style="font-size: 20px"></i>&nbsp;CodePen</a></span>
   <span class="icons"><a href="https://www.freecodecamp.com/james-priest" title="freeCodeCamp Profile" target="_blank"><i class="fa fa-free-code-camp" style="font-size: 20px"></i>&nbsp;freeCodeCamp</a></span>
   <span class="icons"><a href="https://www.instagram.com/jamespub" title="Instagram Account" target="_blank"><i class="fa fa-instagram" style="font-size: 20px"></i>&nbsp;Instagram</a></span>
-  <span class="icons"><a href="./assets/docs/JamesPriest_Resume.pdf" title="PDF Resume" target="_blank"><i class="fa fa-file-pdf-o" style="font-size: 20px"></i>&nbsp;Resume</a></span>
+  <span class="icons"><a href="./assets/docs/JamesPriest_Resume_7-15-2019.pdf" title="PDF Resume" target="_blank"><i class="fa fa-file-pdf-o" style="font-size: 20px"></i>&nbsp;Resume</a></span>
 </p>
 
 ---
