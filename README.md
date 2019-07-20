@@ -21,7 +21,7 @@
 
 ## Summary
 
-Senior Front End / Full Stack Web Developer with 20 years of experience building for web & mobile.
+Senior Front End / Full Stack Web Developer with 20 years of experience building web applications.
 
 ---
 
@@ -82,7 +82,7 @@ Senior Front End / Full Stack Web Developer with 20 years of experience building
 | :--- | ---: |
 | Senior Software Engineer | La Canada, California |
 
-Complete two years of full-time technical training related to web, mobile, and app development. This was done through Udacity, an industry leading technology educator that offers programs created by Google, IBM, Amazon, AT&T, and Facebook.
+Completed two years of full-time technical training related to web and mobile development. This was done through Udacity, an industry leading technology educator that offers programs created by Google, IBM, Amazon, AT&T, and Facebook.
 
 | Program | Duration | Completion |
 | --- | --- |
@@ -780,20 +780,14 @@ Following are some notable courses take prior to 2017
 ---
 
 ## Achievements
-Links to sites that provide verification of training and courses completed.
+These are links to various postings and online communities I take part in.
 
-- **100DaysOfCode Challenge** ([Code Log](https://james-priest.github.io/100-days-of-code-log/))<br>
-  I code and write about my progress related to web development. I've been doing this since June of 2017 and tweet about my progress and lessons learned.
 - **Twitter** ([@james_priest1](https://twitter.com/james_priest1))<br>
-  I'm very active in the Front End & JavaScript development communities. I've built up a following of 2,000 developers since opening my account in May of 2017. I tweet about web development, training, and personal achievements.
-- **Code School:** [https://www.codeschool.com/users/james-priest](https://www.codeschool.com/users/james-priest)<br>
-  Report card, badges, and achievement status.
+  I'm very active in the Front End & JavaScript development communities on Twitter. I've built up a following of 2,000+ developers and coding enthusiasts since opening my account in May of 2017. I tweet about web development, training, and personal achievements specifically around the [#100DaysOfCode](https://twitter.com/search?q=%23100DaysOfCode&src=typeahead_click) hashtag.
+- **100DaysOfCode Challenge** ([Code Log](https://james-priest.github.io/100-days-log/log6.html))<br>
+  I code and write about my progress related to web development. I've been doing this since June of 2017 and tweet about my progress and lessons learned.
 - **Free Code Camp:** [https://www.freecodecamp.com/james-priest](https://www.freecodecamp.com/james-priest)<br>
   Online program focused on Front End, Back End and Data Visualization training and certification.
-- **Microsoft Virtual Academy:** [Web Development Badge](https://mva.microsoft.com/RewardEvidence.aspx/?key=B--MLSyI6ouc3JiHZ6X1dg2)<br>
-  Verification of Web Development badge and related courses completed.
-- **Degreed:** [https://degreed.com/jamespriest](https://degreed.com/jamespriest)<br>
-  A catalogued list of all formal schooling, online courses, and programming certifications.
 
 **[⬆ top](#james-priest "toc")**
 
@@ -823,10 +817,10 @@ A brief timeline of my development career written as a narrative.
     <dd style="text-align:left"><i>- New Opportunities with Old Friends -</i></dd>
     <dd>In 2006 I was invited to return to Velodea to help lift the company out of a financial deficit. Together with the Managing Director we streamlined operations with smaller dev teams, tighter turn-arounds, and more effective project management.</dd>
     <dd>Within a year the company was able to pay off $200k worth of corporate debt and begin to turn a profit once again.</dd>
-    <dd>The success of these efforts assured another eight years of fulfilling and prosperous work before the untimely passing of our CEO and Managing Director.</dd>
+    <dd>The success of these efforts assured another ten years of fulfilling and prosperous work before the untimely passing of our CEO and Managing Director.</dd>
   <dt>2017 - 2019 • <i>Education, Certification & Training</i> • Los Angeles, CA</dt>
     <dd style="text-align:left"><i>- Back to School -</i></dd>
-    <dd>I set out to master today's most in-demand technologies and have earned a Mobile Web Specialist Nanodegree & React Nanodegree in the process.</dd>
+    <dd>Not wanting to rest on my laurels, I set out to master today's most in-demand technologies and front end frameworks. In that process I earned multiple certifications including a Mobile Web Specialist Nanodegree & React Nanodegree.</dd>
 </dl>
 
 **[⬆ top](#james-priest "toc")**
