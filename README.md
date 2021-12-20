@@ -14,34 +14,34 @@
   <span class="icons"><a href="https://codepen.io/james-priest" title="CodePen Profile" target="_blank"><i class="fa fa-codepen" style="font-size: 20px"></i>&nbsp;CodePen</a></span>
   <span class="icons"><a href="https://www.freecodecamp.com/james-priest" title="freeCodeCamp Profile" target="_blank"><i class="fa fa-free-code-camp" style="font-size: 20px"></i>&nbsp;freeCodeCamp</a></span>
   <span class="icons"><a href="https://www.instagram.com/jamespub" title="Instagram Account" target="_blank"><i class="fa fa-instagram" style="font-size: 20px"></i>&nbsp;Instagram</a></span>
-  <span class="icons"><a href="./assets/docs/JamesPriest_Resume_7-15-2019.pdf" title="PDF Resume" target="_blank"><i class="fa fa-file-pdf-o" style="font-size: 20px"></i>&nbsp;Resume</a></span>
+  <span class="icons"><a href="./assets/docs/JamesPriest_Resume_12-19-2021.pdf" title="PDF Resume" target="_blank"><i class="fa fa-file-pdf-o" style="font-size: 20px"></i>&nbsp;Resume</a></span>
 </p>
 
 ---
 
 ## Summary
 
-Senior Front End / Full Stack Web Developer with 20 years of experience building web applications.
+Senior Front End / Full Stack React Developer with 20 years' experience building web applications. I'm passionate about User Experience, Responsive Design, and Accessibility.
 
 ---
 
 ## Skills
 
 <!--
-| Languages | Technologies | Servers |
-| --- | --- | --- |
-| * HTML5 | * ASP.NET | * IIS |
-| * CSS3 | * .NET Core | * Azure |
-| * JavaScript | * something | * GitHub |
-| * Git CLI | * C# | * Visual Studio (2017 & Code) |
+| Languages    | Technologies | Servers                       |
+| ------------ | ------------ | ----------------------------- |
+| * HTML5      | * ASP.NET    | * IIS                         |
+| * CSS3       | * .NET Core  | * Azure                       |
+| * JavaScript | * something  | * GitHub                      |
+| * Git CLI    | * C#         | * Visual Studio (2017 & Code) |
 -->
 
-| Development Skills |   |
-| :--- | :--- |
-| Complete Responsive Web Design | Web Accessibility & ARIA Compliance |
-| PWA & Offline Web Applications | Mobile iOS & Android App Development |
-| UI/UX, Information Architecture, Standards Design | Web Automation & Build Systems |
-| .NET Web Application Development |  Database Development (RDBMS & NoSQL) |
+| Development Skills                                |                                      |
+| :------------------------------------------------ | :----------------------------------- |
+| Complete Responsive Web Design                    | Web Accessibility & ARIA Compliance  |
+| PWA & Offline Web Applications                    | Mobile iOS & Android App Development |
+| UI/UX, Information Architecture, Standards Design | Web Automation & Build Systems       |
+| .NET Web Application Development                  | Database Development (RDBMS & NoSQL) |
 
 <!-- 
 | Offline Web Applications | Web Automation & Build Systems |
@@ -49,19 +49,19 @@ Senior Front End / Full Stack Web Developer with 20 years of experience building
 | Multi-tier Object Oriented Design | Responsive Web Design |
 | Web Accessibility & ARIA | UI/UX, Information Architecture, Standards Design | -->
 
-| Languages |  UI, Frameworks, & Database | IDEs, Cloud, & Version Control |
-| :-------- | :----------- | :---------      |
-| JavaScript | React / Redux / React Native | VS Code / Visual Studio / DevTools |
-| HTML5 / CSS3 | Node.js / Express / Socket.io | Git / GitHub / GitHub Pages |
-| C# | ASP.NET / .NET Framework | Azure DevOps / Heroku / Netlify |
-| VB.NET | SQL / Stored Procedures / Transactions  | Azure Cloud (Win & Linux VMs) |
+| Languages    | UI, Frameworks, & Database             | IDEs, Cloud, & Version Control     |
+| :----------- | :------------------------------------- | :--------------------------------- |
+| JavaScript   | React / Redux / React Native           | VS Code / Visual Studio / DevTools |
+| HTML5 / CSS3 | Node.js / Express / Socket.io          | Git / GitHub / GitHub Pages        |
+| C#           | ASP.NET / .NET Framework               | Azure DevOps / Heroku / Netlify    |
+| VB.NET       | SQL / Stored Procedures / Transactions | Azure Cloud (Win & Linux VMs)      |
 
-<!-- | Stack Capabilities |
-| :-- |
-| Front End Development | Back End Development  | Database Design | -->
+| <!--                  | Stack Capabilities   |
+| :-------------------- |
+| Front End Development | Back End Development | Database Design | --> |
 
-| Technical Skills |
-| :-- |
+| Technical Skills                                                                                                                                                                                                                                                                                                                                                                                   |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Web:** Bootstrap, jQuery, Semantic-UI, Sematic-UI-React<br>**HTML5 APIs:** Service Worker, Web Worker, IndexedDB, Cache API, Fetch API, Promise API<br>**Build:** Npm, Yarn, Gulp, Grunt, Jekyll, MarkDown<br>**Database:** MS SQL Server, MySQL, SQLite, MongoDB Query Syntax, NoSQL, Redis<br>**Industry Knowledge:** Digital Marketing, Project Management, Documentation & Technical Writing |
 
 **[⬆ top](#james-priest "toc")**
@@ -70,35 +70,47 @@ Senior Front End / Full Stack Web Developer with 20 years of experience building
 
 ## Career History
 
-| 1. [Self-Employed / Student](#career--self-employed--student "toc") | 4. [The Velodea Group](#career--the-velodea-group "toc") |
+<!-- | 1. [Self-Employed / Student](#career--self-employed--student "toc") | 4. [The Velodea Group](#career--the-velodea-group "toc") |
 | 2. [Velodea](#career--velodea "toc") | 5. [Microsoft Corporation](#career--microsoft-corporation "toc") |
-| 3. [devAware Tech Solutions](#career--devaware-technology-solutions "toc") | 6. [Phillips Research Laboratory](#career--phillips-research-laboratory "toc") |
+| 3. [devAware Tech Solutions](#career--devaware-technology-solutions "toc") | 6. [Phillips Research Laboratory](#career--phillips-research-laboratory "toc") | -->
 
 <a name="career--self-employed--student" id="career--self-employed--student"></a>
 
+### Everbridge
+
+|                          | September 2019 - present |
+| :----------------------- | -----------------------: |
+| Senior Software Engineer |     Pasadena, California |
+
+Chief Front-End Engineer for the Business Process Intelligence and Usage Reporting teams.
+* Work with Finance and Marketing to develop client-facing digital dashboards.
+* Architect various APIs for delivering analytics data to Frontend components.
+* Technologies include Typescript, React, React Hooks, Recharts, AWS, and MongoDB.
+
+
 ### Self-Employed / Technical Training
 
-|      | April 2017 - Present |
-| :--- | ---: |
-| Senior Software Engineer | La Canada, California |
+|                          | April 2017 - August 2019 |
+| :----------------------- | -----------------------: |
+| Senior Software Engineer |    La Canada, California |
 
 Completed two years of full-time technical training related to web and mobile development. This was done through Udacity, an industry leading technology educator that offers programs created by Google, IBM, Amazon, AT&T, and Facebook.
 
-| Program | Duration | Completion |
-| --- | --- |
-| [React Nanodegree (React, Redux, & React Native)](https://www.udacity.com/course/react-nanodegree--nd019) , Udacity | 6 months | June 2019 |
-| [Google Mobile Web Specialist Nanodegree](https://confirm.udacity.com/3JM7SK4Q), Udacity | 6 months | Oct 2018 |
-| [Grow with Google Scholarship, Mobile Web Development](https://www.udacity.com/grow-with-google), Udacity | 3 months | Apr 2018 |
-| [JavaScript Algorithms & Data Structures Certification](https://www.freecodecamp.org/certification/james-priest/javascript-algorithms-and-data-structures), freeCodeCamp | 300 hours | Dec 2017 |
-| [Responsive Web Design Developer Certification](https://www.freecodecamp.org/certification/james-priest/responsive-web-design), freeCodeCamp | 300 hours | Jul 2017 |
+| Program                                                                                                                                                                  | Duration  | Completion |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- |
+| [React Nanodegree (React, Redux, & React Native)](https://www.udacity.com/course/react-nanodegree--nd019) , Udacity                                                      | 6 months  | June 2019  |
+| [Google Mobile Web Specialist Nanodegree](https://confirm.udacity.com/3JM7SK4Q), Udacity                                                                                 | 6 months  | Oct 2018   |
+| [Grow with Google Scholarship, Mobile Web Development](https://www.udacity.com/grow-with-google), Udacity                                                                | 3 months  | Apr 2018   |
+| [JavaScript Algorithms & Data Structures Certification](https://www.freecodecamp.org/certification/james-priest/javascript-algorithms-and-data-structures), freeCodeCamp | 300 hours | Dec 2017   |
+| [Responsive Web Design Developer Certification](https://www.freecodecamp.org/certification/james-priest/responsive-web-design), freeCodeCamp                             | 300 hours | Jul 2017   |
 
 <a name="career--velodea" id="career--velodea"></a>
 
 ### Velodea
 
-|      | April 2006 - March 2017 |
-| :--- | ---: |
-| Technology Director & Development Lead | Pasadena, California |
+|                                        | April 2006 - March 2017 |
+| :------------------------------------- | ----------------------: |
+| Technology Director & Development Lead |    Pasadena, California |
 
 Served as technology lead and .NET expert for a digital marketing agency. Had the opportunity to contribute to hundreds of website solutions across a wide variety of platforms, technologies, and programming languages for such clients as:
 
@@ -157,9 +169,9 @@ _Technologies Used:_ **ASP.NET, C#, Flash, ActionScript, FMS & WMS streaming, Fl
 
 ### devAware Technology Solutions
 
-|      | July 2002 - March 2006 |
-| :--- | ---: |
-| Founder & Lead Developer | La Canada, California |
+|                          | July 2002 - March 2006 |
+| :----------------------- | ---------------------: |
+| Founder & Lead Developer |  La Canada, California |
 
 devAware specialized in .NET & Windows DNA application development for the web and desktop. As founder and lead developer, my role was that of information architect, systems designer & application developer. Some notable projects include:
 
@@ -200,8 +212,8 @@ _Technologies Used:_ **ASP.NET, ADO.NET, VB.NET, Win32, VB COM objects, SQL Serv
 
 ### The Velodea Group
 
-|      | July 2000 - July 2002 |
-| :--- | ---: |
+|                                           |                  July 2000 - July 2002 |
+| :---------------------------------------- | -------------------------------------: |
 | Director of Corporate IT & Lead Developer | Milan, Italy / Los Angeles, California |
 
 As lead developer and director of The Velodea Group’s Velotek division, job responsibilities spanned an array of IT related areas including web application development, systems architecture and network infrastructure. Velotek’s primary role consisted of developing web-based product offerings and creating technical solutions for clients.
@@ -229,9 +241,9 @@ _Technologies Used:_ **ASP, JavaScript, HTML, CSS, SQL, VB, COM, XML; DevOps for
 
 ### Microsoft Corporation
 
-|      | November 1998 – June 2000 |
-| :--- | ---: |
-| Release Program Manager | Redmond, Washington |
+|                         | November 1998 – June 2000 |
+| :---------------------- | ------------------------: |
+| Release Program Manager |       Redmond, Washington |
 
 As a key member of Microsoft’s Product Release team, responsibilities included application development, system design and project management for release of Microsoft product to the marketplace.  Projects driven and developed by myself included:
 
@@ -251,9 +263,9 @@ Each system was developed according to multi-tier design architecture standards 
 
 ### Phillips Research Laboratory
 
-|      | September 1997 – October 1998 |
-| :--- | ---: |
-| Web Application Developer | Albuquerque, New Mexico |
+|                           | September 1997 – October 1998 |
+| :------------------------ | ----------------------------: |
+| Web Application Developer |       Albuquerque, New Mexico |
 
 Hired as Lead Intranet Developer for the U.S. Air Force’s Phillips Research Lab at Kirtland Air Force Base.  Job functions involved design and implementation of all **web-based client/server applications** as well as **systems analysis, database programming and graphic design**. Technologies used included **ASP, SQL, Java** and **ActiveX development**. Also responsible for **NT, IIS, and SQL Server administration and configuration**.
 
@@ -265,9 +277,9 @@ Hired as Lead Intranet Developer for the U.S. Air Force’s Phillips Research La
 
 ### Intel Corporation
 
-|      | June 1997 – September 1997 |
-| :--- | ---: |
-| Web Application Developer | Rio Rancho, New Mexico |
+|                           | June 1997 – September 1997 |
+| :------------------------ | -------------------------: |
+| Web Application Developer |     Rio Rancho, New Mexico |
 
 Contracted to design and develop a web-based reporting system responsible for generating statistical information for Intel University. Utilized **ASP, SQL, and custom developed ActiveX DLLs**. The system was implemented worldwide upon its completion.
 
@@ -277,11 +289,11 @@ Contracted to design and develop a web-based reporting system responsible for ge
 
 ## Portfolio
 
-|  |  |  |
-| :----: | :----: | :----: |
-| [![Mobile Flashcards App](./assets/images/portfolio_flashcards.jpg)](#mobile-flashcards-app "toc")<br>**Mobile Flashcards App**<br>June 2019 | [![Triathlon Fitness App](./assets/images/portfolio_udacifitness.jpg)](#triathlon-fitness-tracker "toc")<br>**Triathlon Fitness Tracker**<br>May 2019 | [![Would You Rather Game](./assets/images/would-you-rather1.jpg)](#would-you-rather-game "toc")<br>**Would You Rather Game**<br>April 2019 |
-| [![Restaurant Review App](./assets/images/portfolio_restaurant2.jpg)](#restaurant-review-app "toc")<br>**Restaurant Review App**<br>December 2018 | [![CSS Grid Learning App](./assets/images/portfolio_grid_app1.jpg)](#css-grid-learning-app "toc")<br>**CSS Grid Learning App**<br>June 2018 | [![Weather Forecast App](./assets/images/portfolio_weather2.jpg)](#weather-forecast-app "toc")<br>**Weather Forecast App**<br>March 2018 |
-| [![Random Quote Generator](./assets/images/portfolio_quote.jpg)](#random-quote-generator "toc")<br>**Random Quote Generator**<br>September 2017 | [![SpyCats Portfolio Site](./assets/images/portfolio_spycats1.jpg)](#spycats-portfolio-site "toc")<br>**SpyCats Portfolio Site**<br>August 2017 | [![JavaScript Array Methods](./assets/images/portfolio_js_array.jpg)](#javascript-array-methods "toc")<br>**JavaScript Array Methods**<br>July 2017 |
+|                                                                                                                                                   |                                                                                                                                                       |                                                                                                                                                     |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
+|   [![Mobile Flashcards App](./assets/images/portfolio_flashcards.jpg)](#mobile-flashcards-app "toc")<br>**Mobile Flashcards App**<br>June 2019    | [![Triathlon Fitness App](./assets/images/portfolio_udacifitness.jpg)](#triathlon-fitness-tracker "toc")<br>**Triathlon Fitness Tracker**<br>May 2019 |     [![Would You Rather Game](./assets/images/would-you-rather1.jpg)](#would-you-rather-game "toc")<br>**Would You Rather Game**<br>April 2019      |
+| [![Restaurant Review App](./assets/images/portfolio_restaurant2.jpg)](#restaurant-review-app "toc")<br>**Restaurant Review App**<br>December 2018 |      [![CSS Grid Learning App](./assets/images/portfolio_grid_app1.jpg)](#css-grid-learning-app "toc")<br>**CSS Grid Learning App**<br>June 2018      |      [![Weather Forecast App](./assets/images/portfolio_weather2.jpg)](#weather-forecast-app "toc")<br>**Weather Forecast App**<br>March 2018       |
+|  [![Random Quote Generator](./assets/images/portfolio_quote.jpg)](#random-quote-generator "toc")<br>**Random Quote Generator**<br>September 2017  |    [![SpyCats Portfolio Site](./assets/images/portfolio_spycats1.jpg)](#spycats-portfolio-site "toc")<br>**SpyCats Portfolio Site**<br>August 2017    | [![JavaScript Array Methods](./assets/images/portfolio_js_array.jpg)](#javascript-array-methods "toc")<br>**JavaScript Array Methods**<br>July 2017 |
 
 ### Mobile Flashcards App
 <table class="portfolio-table">
@@ -608,8 +620,8 @@ Contracted to design and develop a web-based reporting system responsible for ge
   Graduation with Honors - GPA 3.52/4.00<br>
   1994 - 1997 -->
 
-| DeVry University California | 1994 - 1997 |
-| --- | --: |
+| DeVry University California                          |                            1994 - 1997 |
+| ---------------------------------------------------- | -------------------------------------: |
 | *Bachelor of Computer Information Systems (BSc CIS)* | Graduation with Honors - GPA 3.52/4.00 |
 
 Computer Science degree with a focus on the following.
@@ -620,9 +632,9 @@ Computer Science degree with a focus on the following.
 
 Core languages taught are Java, C#, and JavaScript.
 
-| Udacity | 2019 |
-| --- | --: |
-| React Nanodegree |  Web Application Development |
+| Udacity          |                        2019 |
+| ---------------- | --------------------------: |
+| React Nanodegree | Web Application Development |
 
 This 6-month program prepares developers to build declarative user interfaces for the web as well as iOS and Android devices. It covers developing:
 
@@ -630,9 +642,9 @@ This 6-month program prepares developers to build declarative user interfaces fo
 - React/Redux
 - React Native
 
-| Udacity | 2018 |
-| --- | --: |
-| Google Mobile Web Specialist Nanodegree |  Web Application Development |
+| Udacity                                 |                        2018 |
+| --------------------------------------- | --------------------------: |
+| Google Mobile Web Specialist Nanodegree | Web Application Development |
 
 This 6-month program prepares developers to be job-ready for Mobile Web Development roles. It covers developing:
 
@@ -640,21 +652,21 @@ This 6-month program prepares developers to be job-ready for Mobile Web Developm
 - Offline capable Web Apps
 - Optimized and Performant Web Apps
 
-| Udacity | 2018 |
-| --- | --: |
-| Grow with Google Mobile Web Scholarship Challenge |  Web Application Development |
+| Udacity                                           |                        2018 |
+| ------------------------------------------------- | --------------------------: |
+| Grow with Google Mobile Web Scholarship Challenge | Web Application Development |
 
 This 3-month intensive program served as a precursor to the formal Mobile Web Specialist Nanodegree by Google program offered by Udacity. It focuses on Responsive Design, Web Accessibility & Offline-first Architecture.
 
-| freeCodeCamp | 2017-2018 |
-| --- | --: |
-| JavaScript Algorithms and Data Structures |  Web Application Development |
+| freeCodeCamp                              |                   2017-2018 |
+| ----------------------------------------- | --------------------------: |
+| JavaScript Algorithms and Data Structures | Web Application Development |
 
 This represents roughly 300 hours of course work. It covers JavaScript, ES6, Regular Expressions, Debugging, Data Structure, Algorithm Scripting, Object Oriented Programming, & Functional Programming.
 
-| freeCodeCamp | 2017-2018 |
-| --- | --: |
-| Responsive Web Design |  Web Application Development |
+| freeCodeCamp          |                   2017-2018 |
+| --------------------- | --------------------------: |
+| Responsive Web Design | Web Application Development |
 
 This represents roughly 300 hours of course work. It covers all aspects of modern web design including HTML, CSS, Visual Design, Accessibility, Responsive Web Design Principles, Flexbox, & CSS Grid.
 
@@ -668,13 +680,13 @@ In 2018 I applied for and received two separate scholarships for Intermediate an
 
 The first was a three month program called _Grow with Google Scholarship Challenge_. The second was a _Mobile Web Specialist Nanodegree_ scholarship. -->
 
-| Program | Duration | Completion |
-| --- | --- |
-| [React Nanodegree (React, Redux, & React Native)](https://www.udacity.com/course/react-nanodegree--nd019) , Udacity | 6 months | May 2019 |
-| [Google Mobile Web Specialist Nanodegree](https://confirm.udacity.com/3JM7SK4Q), Udacity | 6 months | Oct 2018 |
-| [Grow with Google Scholarship, Mobile Web Development](https://www.udacity.com/grow-with-google), Udacity | 3 months | Apr 2018 |
-| [JavaScript Algorithms & Data Structures Certification](https://www.freecodecamp.org/certification/james-priest/javascript-algorithms-and-data-structures), freeCodeCamp | 300 hours | Dec 2017 |
-| [Responsive Web Design Developer Certification](https://www.freecodecamp.org/certification/james-priest/responsive-web-design), freeCodeCamp | 300 hours | Jul 2017 |
+| Program                                                                                                                                                                  | Duration  | Completion |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- |
+| [React Nanodegree (React, Redux, & React Native)](https://www.udacity.com/course/react-nanodegree--nd019) , Udacity                                                      | 6 months  | May 2019   |
+| [Google Mobile Web Specialist Nanodegree](https://confirm.udacity.com/3JM7SK4Q), Udacity                                                                                 | 6 months  | Oct 2018   |
+| [Grow with Google Scholarship, Mobile Web Development](https://www.udacity.com/grow-with-google), Udacity                                                                | 3 months  | Apr 2018   |
+| [JavaScript Algorithms & Data Structures Certification](https://www.freecodecamp.org/certification/james-priest/javascript-algorithms-and-data-structures), freeCodeCamp | 300 hours | Dec 2017   |
+| [Responsive Web Design Developer Certification](https://www.freecodecamp.org/certification/james-priest/responsive-web-design), freeCodeCamp                             | 300 hours | Jul 2017   |
 
 **[⬆ top](#james-priest "toc")**
 
@@ -685,95 +697,95 @@ Starting in April 2017, I began a full-time program of online study related to w
 
 I've completed more than 45 courses from providers such as [Udacity](https://www.udacity.com/), [Pluralsight](pluralsight.com/training/), [Code School](https://www.pluralsight.com/codeschool), [Microsoft Virtual Academy](https://mva.microsoft.com/), & [freeCodeCamp](https://www.freecodecamp.org/).
 
-| Course    | Completed   | Provider |
-| :---      | ---         | --:       |
-| React Native | May 2019 | Udacity |
-| React & Redux | March 2019 | Udacity |
-| React Fundamentals | January 2019 | Udacity |
-| Becoming a GitHub Pro | December 2018 | Udacity |
-| High Conversion Web Forms by Google | November 2018 | Udacity |
-| Browser Rendering Optimizations by Google | November 2018 | Udacity |
-| HTTP & Web Servers by Google | October 2018 | Udacity |
-| HTTP Communications by Google | October 2018 | Udacity |
-| Web Tooling & Automation (Grunt & Gulp) | August 2018 | Udacity |
-| Asynchronous JavaScript Requests by Google | July 2018 | Udacity |
-| JavaScript Promises by Google | June 2018 | Udacity |
-| Web Accessibility by Google | June 2018 | Udacity |
-| Responsive Images by Google | May 2018 | Udacity |
-| Responsive Web Design Fundamentals by Google | May 2018 | Udacity |
-| React Bootcamp (4-days) | April 2018 | Tyler McGinnis |
-| Programming in HTML5 with JavaScript & CSS3 | April 2018 | Microsoft Press |
-| ES6 - JavaScript Improved by AT&T| March 2018 | Udacity |
-| Offline Web Applications by Google | February 2018 | Udacity |
-| Regular Expressions | December 2017 | Code School (Pluralsight) |
-| Mobile Web Design | December 2017 | Code School (Pluralsight) |
-| Flexbox Zombies | December 2017 | Dave Geddes |
-| Cracking FlexBox | November 2017 | Code School (Pluralsight) |
-| CSS Grid Garden | November 2017 | CodePip |
-| Flexbox Froggy | November 2017 | CodePip |
-| CSS Web Animations | November 2017 | Code School (Pluralsight) |
-| Advanced jQuery | November 2017 | Code School (Pluralsight) |
-| Git Real Advanced Intro to Git | November 2017 | Code School (Pluralsight) |
-| Real-time Web with Node.js | October 2017 | Code School (Pluralsight) |
-| Try jQuery | October 2017 | Code School (Pluralsight) |
-| You, Me, & SVG | October 2017 | Code School (Pluralsight) |
-| JavaScript Best Practices | October 2017 | Code School (Pluralsight) |
-| JavaScript Road Trip Part 3 | September 2017 | Code School (Pluralsight) |
-| JavaScript Road Trip Part 2 | September 2017 | Code School (Pluralsight) |
-| JavaScript Road Trip Part 1 | September 2017 | Code School (Pluralsight) |
-| Intermediate Front End Development Projects | September 2017 | freeCodeCamp |
-| JSON APIs and Ajax module | September 2017 | freeCodeCamp |
-| Basic Algorithm Scripting | September 2017 | freeCodeCamp |
-| Object Oriented and Functional Programming | August 2017 | freeCodeCamp |
-| Basic JavaScript module | August 2017 | freeCodeCamp |
-| Basic Front End Development Projects | August 2017 | freeCodeCamp |
-| Blasting Off with Bootstrap (CSS Frameworks) | August 2017 | Code School (Pluralsight) |
-| CSS Cross Country (Intermediate CSS) | August 2017 | Code School (Pluralsight) |
-| Front-end Formations (HTML5 & CSS II) | August 2017 | Code School (Pluralsight) |
-| Front-end Foundations (HTML5 & CSS I) | August 2017 | Code School (Pluralsight) |
-| jQuery module | July 2017 | freeCodeCamp |
-| Responsive Design with Bootstrap module | July 2017 | freeCodeCamp |
-| HTML5 and CSS module | June 2017 | freeCodeCamp |
-| Try Git | May 2017 | Code School (Pluralsight) |
-| Getting Started with Web Technologies | April 2017 | Microsoft Virtual Academy |
+| Course                                       | Completed      |                  Provider |
+| :------------------------------------------- | -------------- | ------------------------: |
+| React Native                                 | May 2019       |                   Udacity |
+| React & Redux                                | March 2019     |                   Udacity |
+| React Fundamentals                           | January 2019   |                   Udacity |
+| Becoming a GitHub Pro                        | December 2018  |                   Udacity |
+| High Conversion Web Forms by Google          | November 2018  |                   Udacity |
+| Browser Rendering Optimizations by Google    | November 2018  |                   Udacity |
+| HTTP & Web Servers by Google                 | October 2018   |                   Udacity |
+| HTTP Communications by Google                | October 2018   |                   Udacity |
+| Web Tooling & Automation (Grunt & Gulp)      | August 2018    |                   Udacity |
+| Asynchronous JavaScript Requests by Google   | July 2018      |                   Udacity |
+| JavaScript Promises by Google                | June 2018      |                   Udacity |
+| Web Accessibility by Google                  | June 2018      |                   Udacity |
+| Responsive Images by Google                  | May 2018       |                   Udacity |
+| Responsive Web Design Fundamentals by Google | May 2018       |                   Udacity |
+| React Bootcamp (4-days)                      | April 2018     |            Tyler McGinnis |
+| Programming in HTML5 with JavaScript & CSS3  | April 2018     |           Microsoft Press |
+| ES6 - JavaScript Improved by AT&T            | March 2018     |                   Udacity |
+| Offline Web Applications by Google           | February 2018  |                   Udacity |
+| Regular Expressions                          | December 2017  | Code School (Pluralsight) |
+| Mobile Web Design                            | December 2017  | Code School (Pluralsight) |
+| Flexbox Zombies                              | December 2017  |               Dave Geddes |
+| Cracking FlexBox                             | November 2017  | Code School (Pluralsight) |
+| CSS Grid Garden                              | November 2017  |                   CodePip |
+| Flexbox Froggy                               | November 2017  |                   CodePip |
+| CSS Web Animations                           | November 2017  | Code School (Pluralsight) |
+| Advanced jQuery                              | November 2017  | Code School (Pluralsight) |
+| Git Real Advanced Intro to Git               | November 2017  | Code School (Pluralsight) |
+| Real-time Web with Node.js                   | October 2017   | Code School (Pluralsight) |
+| Try jQuery                                   | October 2017   | Code School (Pluralsight) |
+| You, Me, & SVG                               | October 2017   | Code School (Pluralsight) |
+| JavaScript Best Practices                    | October 2017   | Code School (Pluralsight) |
+| JavaScript Road Trip Part 3                  | September 2017 | Code School (Pluralsight) |
+| JavaScript Road Trip Part 2                  | September 2017 | Code School (Pluralsight) |
+| JavaScript Road Trip Part 1                  | September 2017 | Code School (Pluralsight) |
+| Intermediate Front End Development Projects  | September 2017 |              freeCodeCamp |
+| JSON APIs and Ajax module                    | September 2017 |              freeCodeCamp |
+| Basic Algorithm Scripting                    | September 2017 |              freeCodeCamp |
+| Object Oriented and Functional Programming   | August 2017    |              freeCodeCamp |
+| Basic JavaScript module                      | August 2017    |              freeCodeCamp |
+| Basic Front End Development Projects         | August 2017    |              freeCodeCamp |
+| Blasting Off with Bootstrap (CSS Frameworks) | August 2017    | Code School (Pluralsight) |
+| CSS Cross Country (Intermediate CSS)         | August 2017    | Code School (Pluralsight) |
+| Front-end Formations (HTML5 & CSS II)        | August 2017    | Code School (Pluralsight) |
+| Front-end Foundations (HTML5 & CSS I)        | August 2017    | Code School (Pluralsight) |
+| jQuery module                                | July 2017      |              freeCodeCamp |
+| Responsive Design with Bootstrap module      | July 2017      |              freeCodeCamp |
+| HTML5 and CSS module                         | June 2017      |              freeCodeCamp |
+| Try Git                                      | May 2017       | Code School (Pluralsight) |
+| Getting Started with Web Technologies        | April 2017     | Microsoft Virtual Academy |
 
 <h3 style="width:initial; position: initial; margin-bottom: initial;">Prior Training</h3>
 Following are some notable courses take prior to 2017
 
-| Course    | Completed   | Provider Credential  |
-| :---      | ---         | --:       |
-| JavaScript Fundamentals | June 2014 | Microsoft Virtual Academy |
-| Developing in HTML5, JavaScript, and CSS | February 2014 | Microsoft Virtual Academy |
-| Developing ASP.NET MVC 4 Web Application | February 2014 | Microsoft Virtual Academy |
-| Programming in C# Jump Start | January 2014 | Microsoft Virtual Academy |
-| C# Fundamentals | January 2014 | Microsoft Virtual Academy |
-| Database Fundamentals | January 2014 | Microsoft Virtual Academy |
-| Visual Studio 2010 Essential Training | January 2014 | Lynda.com |
-| C# Essential Training | January 2014 | Lynda.com |
-| Software Development Fundamentals | January 2014 | Microsoft Virtual Academy |
-| What's New In Windows 8.1 for IT Pro's | December 2013 | Microsoft Virtual Academy |
-| HTML5 & CSS3 Fundamentals | December 2013 | Microsoft Virtual Academy |
-| Flash CS4 Professional Essential Training | October 2009 | Lynda.com |
-| ActionScript 3 in Flash CS3 Essential Training | September 2008 | Lynda.com |
-| Flex 3 Essential Training | May 2008 | Lynda.com |
-| ActionScript 3 in Flex Builder Essential Training | January 2008 | Lynda.com |
-| Flex 2 Essential Training | November 2007 | Lynda.com |
-| CSS Website Design | July 2007 | Lynda.com |
-| HTML Essential Training | July 2007 | Lynda.com |
-| ASP.NET | July 2003 | App Dev Certification |
-| VB.NET | January 2003 | App Dev Certification |
-| E Commerce Apps through Advanced XML | April 2000 | Architag University |
-| Macromedia Flash 4.0 | March 2000 | Microsoft (Redmond campus) |
-| SQL Server 7.0 DB Implementation | January 2000 | Microsoft (Redmond campus) |
-| Visual Basic 5.0 Certification | December 1999 | The Waite Group |
-| Building 3-tier XML Architectures | August 1999 | The Waite Group |
-| VB Data Access | May 1999 | Microsoft (Redmond campus) |
-| VB Programming | April 1999 | Microsoft (Redmond campus) |
-| XML, An Overview | February 1999 | Architag University |
-| Advanced HTML Authoring | December 1998 | Microsoft (Redmond Campus) |
-| Oracle Developer 2000 Reports 3.0 | May 1998 | Oracle Training |
-| VB & Internet Advisor DevCon 98 | February 1998 | Advisor Publications |
-| Java 1.1 Programming Certification | January 1998 | The Waite Group |
+| Course                                            | Completed      |        Provider Credential |
+| :------------------------------------------------ | -------------- | -------------------------: |
+| JavaScript Fundamentals                           | June 2014      |  Microsoft Virtual Academy |
+| Developing in HTML5, JavaScript, and CSS          | February 2014  |  Microsoft Virtual Academy |
+| Developing ASP.NET MVC 4 Web Application          | February 2014  |  Microsoft Virtual Academy |
+| Programming in C# Jump Start                      | January 2014   |  Microsoft Virtual Academy |
+| C# Fundamentals                                   | January 2014   |  Microsoft Virtual Academy |
+| Database Fundamentals                             | January 2014   |  Microsoft Virtual Academy |
+| Visual Studio 2010 Essential Training             | January 2014   |                  Lynda.com |
+| C# Essential Training                             | January 2014   |                  Lynda.com |
+| Software Development Fundamentals                 | January 2014   |  Microsoft Virtual Academy |
+| What's New In Windows 8.1 for IT Pro's            | December 2013  |  Microsoft Virtual Academy |
+| HTML5 & CSS3 Fundamentals                         | December 2013  |  Microsoft Virtual Academy |
+| Flash CS4 Professional Essential Training         | October 2009   |                  Lynda.com |
+| ActionScript 3 in Flash CS3 Essential Training    | September 2008 |                  Lynda.com |
+| Flex 3 Essential Training                         | May 2008       |                  Lynda.com |
+| ActionScript 3 in Flex Builder Essential Training | January 2008   |                  Lynda.com |
+| Flex 2 Essential Training                         | November 2007  |                  Lynda.com |
+| CSS Website Design                                | July 2007      |                  Lynda.com |
+| HTML Essential Training                           | July 2007      |                  Lynda.com |
+| ASP.NET                                           | July 2003      |      App Dev Certification |
+| VB.NET                                            | January 2003   |      App Dev Certification |
+| E Commerce Apps through Advanced XML              | April 2000     |        Architag University |
+| Macromedia Flash 4.0                              | March 2000     | Microsoft (Redmond campus) |
+| SQL Server 7.0 DB Implementation                  | January 2000   | Microsoft (Redmond campus) |
+| Visual Basic 5.0 Certification                    | December 1999  |            The Waite Group |
+| Building 3-tier XML Architectures                 | August 1999    |            The Waite Group |
+| VB Data Access                                    | May 1999       | Microsoft (Redmond campus) |
+| VB Programming                                    | April 1999     | Microsoft (Redmond campus) |
+| XML, An Overview                                  | February 1999  |        Architag University |
+| Advanced HTML Authoring                           | December 1998  | Microsoft (Redmond Campus) |
+| Oracle Developer 2000 Reports 3.0                 | May 1998       |            Oracle Training |
+| VB & Internet Advisor DevCon 98                   | February 1998  |       Advisor Publications |
+| Java 1.1 Programming Certification                | January 1998   |            The Waite Group |
 
 **[⬆ top](#james-priest "toc")**
 
