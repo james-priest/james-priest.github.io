@@ -13,15 +13,14 @@
   <span class="icons"><a href="https://twitter.com/james_priest1" title="Twitter Profile" target="_blank"><i class="fa fa-twitter-square" style="font-size: 20px"></i>&nbsp;Twitter</a></span>
   <span class="icons"><a href="https://codepen.io/james-priest" title="CodePen Profile" target="_blank"><i class="fa fa-codepen" style="font-size: 20px"></i>&nbsp;CodePen</a></span>
   <span class="icons"><a href="https://www.freecodecamp.com/james-priest" title="freeCodeCamp Profile" target="_blank"><i class="fa fa-free-code-camp" style="font-size: 20px"></i>&nbsp;freeCodeCamp</a></span>
-  <span class="icons"><a href="https://www.instagram.com/jamespub" title="Instagram Account" target="_blank"><i class="fa fa-instagram" style="font-size: 20px"></i>&nbsp;Instagram</a></span>
-  <span class="icons"><a href="./assets/docs/JamesPriest_Resume_12-19-2021.pdf" title="PDF Resume" target="_blank"><i class="fa fa-file-pdf-o" style="font-size: 20px"></i>&nbsp;Resume</a></span>
+  <span class="icons"><a href="./assets/docs/JamesPriest-resume-2024-07-12.pdf" title="PDF Resume" target="_blank"><i class="fa fa-file-pdf-o" style="font-size: 20px"></i>&nbsp;Resume</a></span>
 </p>
 
 ---
 
 ## Summary
 
-Senior Front End / Full Stack React Developer with 20 years' experience building web applications. I'm passionate about User Experience, Responsive Design, and Accessibility.
+Senior Frontend TypeScript React, REST API, and Database Developer with 20 years’ experience building web applications. I'm passionate about User Experience, Responsive Design, and Accessibility.
 
 ---
 
@@ -56,9 +55,9 @@ Senior Front End / Full Stack React Developer with 20 years' experience building
 | C#           | ASP.NET / .NET Framework               | Azure DevOps / Heroku / Netlify    |
 | VB.NET       | SQL / Stored Procedures / Transactions | Azure Cloud (Win & Linux VMs)      |
 
-| <!--                  | Stack Capabilities   |
+|                       | Stack Capabilities   |
 | :-------------------- |
-| Front End Development | Back End Development | Database Design | --> |
+| Front End Development | Back End Development | Database Design |
 
 | Technical Skills                                                                                                                                                                                                                                                                                                                                                                                   |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -78,7 +77,7 @@ Senior Front End / Full Stack React Developer with 20 years' experience building
 
 ### Everbridge
 
-|                          | September 2019 - present |
+|                          | September 2019 - July 2024 |
 | :----------------------- | -----------------------: |
 | Senior Software Engineer |     Pasadena, California |
 
