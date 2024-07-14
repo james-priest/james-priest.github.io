@@ -20,7 +20,7 @@
 
 ## Summary
 
-Senior Frontend TypeScript React, REST API, and Database Developer with 20 years’ experience building web applications. I'm passionate about User Experience, Responsive Design, and Accessibility.
+Senior TypeScript React, REST API, and Database Developer with 20 years’ experience building web applications. I'm passionate about User Experience, Responsive Design, and Web Accessibility.
 
 ---
 
@@ -42,7 +42,7 @@ Senior Frontend TypeScript React, REST API, and Database Developer with 20 years
 | UI/UX, Information Architecture, Standards Design | Web Automation & Build Systems       |
 | .NET Web Application Development                  | Database Development (RDBMS & NoSQL) |
 
-<!-- 
+<!--
 | Offline Web Applications | Web Automation & Build Systems |
 | .NET Web Application Development | SQL Server/MySQL DB Design & Programming |
 | Multi-tier Object Oriented Design | Responsive Web Design |
@@ -56,7 +56,7 @@ Senior Frontend TypeScript React, REST API, and Database Developer with 20 years
 | VB.NET       | SQL / Stored Procedures / Transactions | Azure Cloud (Win & Linux VMs)      |
 
 |                       | Stack Capabilities   |
-| :-------------------- |
+| :-------------------- | -------------------- | --------------- |
 | Front End Development | Back End Development | Database Design |
 
 | Technical Skills                                                                                                                                                                                                                                                                                                                                                                                   |
@@ -78,14 +78,14 @@ Senior Frontend TypeScript React, REST API, and Database Developer with 20 years
 ### Everbridge
 
 |                          | September 2019 - July 2024 |
-| :----------------------- | -----------------------: |
-| Senior Software Engineer |     Pasadena, California |
+| :----------------------- | -------------------------: |
+| Senior Software Engineer |       Pasadena, California |
 
 Chief Front-End Engineer for the Business Process Intelligence and Usage Reporting teams.
-* Work with Finance and Marketing to develop client-facing digital dashboards.
-* Architect various APIs for delivering analytics data to Frontend components.
-* Technologies include Typescript, React, React Hooks, Recharts, AWS, and MongoDB.
 
+- Work with Finance and Marketing to develop client-facing digital dashboards.
+- Architect various APIs for delivering analytics data to Frontend components.
+- Technologies include Typescript, React, React Hooks, Recharts, AWS, and MongoDB.
 
 ### Self-Employed / Technical Training
 
@@ -96,7 +96,7 @@ Chief Front-End Engineer for the Business Process Intelligence and Usage Reporti
 Completed two years of full-time technical training related to web and mobile development. This was done through Udacity, an industry leading technology educator that offers programs created by Google, IBM, Amazon, AT&T, and Facebook.
 
 | Program                                                                                                                                                                  | Duration  | Completion |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | ---------- |
 | [React Nanodegree (React, Redux, & React Native)](https://www.udacity.com/course/react-nanodegree--nd019) , Udacity                                                      | 6 months  | June 2019  |
 | [Google Mobile Web Specialist Nanodegree](https://confirm.udacity.com/3JM7SK4Q), Udacity                                                                                 | 6 months  | Oct 2018   |
 | [Grow with Google Scholarship, Mobile Web Development](https://www.udacity.com/grow-with-google), Udacity                                                                | 3 months  | Apr 2018   |
@@ -143,22 +143,22 @@ Served as technology lead and .NET expert for a digital marketing agency. Had th
 Notable projects include:
 
 - **Beechcraft Corporation** ([beechcraft.com](http://www.beechcraft.com/special_missions/ "Special Missions page")) – As a direct extension of Beechcraft IT, duties included web application development, database design and content management. Responsible for building and maintaining entire Beechcraft corporate website as well as many applications to support the Sales and Marketing process.<br />
-_Technologies Used:_ **ASP.NET, VB.NET, C#, database design, SQL Server, stored procs, Bootstrap, HTML, CSS, JavaScript, jQuery**
+  _Technologies Used:_ **ASP.NET, VB.NET, C#, database design, SQL Server, stored procs, Bootstrap, HTML, CSS, JavaScript, jQuery**
 
 - **Flex Ed** ([flexed.com](http://flexed.com/classes.php "Class Calendar page")) – Designed and developed a large-scale Learning Management System (LMS) to handle line-of-business functions including course creation, scheduling, enrollment, and reporting as well as many other work-flow automation tasks. The system currently tracks progress of 85,000 students, handles scheduling for over 100 hospitals, and employs modules for instructors and coordinators to manage rosters and certifications.<br />
-_Technologies Used:_ **Linux/Apache, PHP/MySQL, HTML, CSS, jQuery, stored procedures, triggers, MySQL functions**
+  _Technologies Used:_ **Linux/Apache, PHP/MySQL, HTML, CSS, jQuery, stored procedures, triggers, MySQL functions**
 
 - **Shell Eco-marathon Live Event** ([shell.com/eco-marathon](http://www.shell.com/energy-and-innovation/shell-ecomarathon/about.html "Eco-marathon about page")) – The project involved the creation of a social & streaming media website to serve as a hub for coverage of Shell’s multi-national Eco-marathon event. The site provided twitter feeds, event video, on-line polls, and contest standings. The event was streamed live through our CDN utilizing real-time encoding.<br />
-_Technologies Used:_ **PHP/My SQL, Live Video Streaming, JavaScript APIs (Facebook, Twitter, Flickr). HTML, CSS, JavaScript, jQuery**
+  _Technologies Used:_ **PHP/My SQL, Live Video Streaming, JavaScript APIs (Facebook, Twitter, Flickr). HTML, CSS, JavaScript, jQuery**
 
 - **REZA Investment Group** ([rezacompanies.com](http://rezacompanies.com "Reza Companies homepage")) – Approached by REZA companies to build a custom SalesForce implementation and website frontend to automate the sales process of high-end real-estate listings. This involved extending SalesForce through custom programming and exchanging information through extensive use of web APIs.<br />
-_Technologies Used:_ **PHP/My SQL, Live Video Streaming, JavaScript APIs (Facebook, Twitter, Flickr). HTML, CSS, jQuery**
+  _Technologies Used:_ **PHP/My SQL, Live Video Streaming, JavaScript APIs (Facebook, Twitter, Flickr). HTML, CSS, jQuery**
 
 - **J. Walter Thompson** – Responsible for developing an interactive Flash site to promote Shell’s Passionate Experts campaign. The project incorporated use of various ActionScript 3 libraries, streaming video, keyed green screen footage and programmatic Flash animation as well as customized H.264 video encodings.<br />
-_Technologies Used:_ **Flash, ActionScript, FMS streaming, AfterEffects, 3D Studio Max, Media Encoder, F4V H.264 encoding**
+  _Technologies Used:_ **Flash, ActionScript, FMS streaming, AfterEffects, 3D Studio Max, Media Encoder, F4V H.264 encoding**
 
 - **ABC Studios Live Stream** - ABC Studios engaged Velodea to design and build a streaming media system that would allow executives and other stakeholders the ability to tap into camera feeds at each remote sound stage location to view filming of various shows in real-time. The system developed was a custom combination of hardware and software encoders that could transcode to both Windows Media and Flash Media video which could be accessed through a secured website.<br />
-_Technologies Used:_ **ASP.NET, C#, Flash, ActionScript, FMS & WMS streaming, Flash Live & Windows Media Encoders, F4V & WMV format encoding**
+  _Technologies Used:_ **ASP.NET, C#, Flash, ActionScript, FMS & WMS streaming, Flash Live & Windows Media Encoders, F4V & WMV format encoding**
 
 **[⬆ top](#james-priest "toc")**
 
@@ -175,7 +175,7 @@ _Technologies Used:_ **ASP.NET, C#, Flash, ActionScript, FMS & WMS streaming, Fl
 devAware specialized in .NET & Windows DNA application development for the web and desktop. As founder and lead developer, my role was that of information architect, systems designer & application developer. Some notable projects include:
 
 - **Sony VIAO Kiosk** - Contracted to create a custom installation for all Sony VIAO display models at Best Buy, Circuit City, Good Guys and Fry’s Electronics stores. The system locked down the OS through registry and group policy modifications while still allowing customer interaction with the desktop and Sony apps. Usage statistics were logged, uploaded and accessed through secure login.<br />
-_Technologies Used:_ **ASP.NET, ADO.NET, VB.NET, Win32, VB COM objects, SQL Server, IIS, Windows registry customization**
+  _Technologies Used:_ **ASP.NET, ADO.NET, VB.NET, Win32, VB COM objects, SQL Server, IIS, Windows registry customization**
 
 - **Xtreme Desktops Applications** - Engaged to develop an application framework for a series of Flash-based desktop experiences. Components consisted of **.NET HTTP server** applications to gather usage statistics for upload to a centralized analytics server. Responsible for custom built analytics system and test lab with **IIS**, **ASP.NET**, and **SQL Server**. Over 50 applications were created to promote the following major motion picture & television brands:
 
@@ -201,7 +201,7 @@ _Technologies Used:_ **ASP.NET, ADO.NET, VB.NET, Win32, VB COM objects, SQL Serv
 </table>
 </div>
 
-  _Technologies Used:_ **VB.NET, ADO.NET, VB COM objects, InstallShield scripting, IIS, SQL Server, testing lab methodologies**
+_Technologies Used:_ **VB.NET, ADO.NET, VB COM objects, InstallShield scripting, IIS, SQL Server, testing lab methodologies**
 
 **[⬆ top](#james-priest "toc")**
 
@@ -221,14 +221,14 @@ As lead developer and director of The Velodea Group’s Velotek division, job re
 <!-- * **VeloTrack Web Analytics** -
 This project provided web metrics before Google Analytics existed. This was done by collecting traffic, browser & usage data through the inclusion of an invisible gif on each email and web page to be tracked. All reports were custom built and allowed advanced customization.
 
-* **CodeSigning for Kareem** - 
+* **CodeSigning for Kareem** -
 This project consisted of... -->
 
-- **VeloTrack (Site Management and Behavioral Analysis System)** – VeloTrack was a custom-built solution that integrated seamlessly with websites to offer behavioral tracking, email list management, registration, surveying, and demographic-based site usage reporting.  VeloTrack boasted the ability to capture millions of page views per day in a manner completely transparent to the end user.  The system was designed to be highly customizable as well as intuitive in order to allow non-technical clients the ability to generate reports as well as create surveys and construct email marketing campaigns.  All data was also available through HTTP as a Web API for integration into client applications.<br />
-**This was a modularized system developed over two years which consisted of equal parts Google Analytics, Constant Contact, Mail Chimp, WordPress & Salesforce before those systems came into being.**
+- **VeloTrack (Site Management and Behavioral Analysis System)** – VeloTrack was a custom-built solution that integrated seamlessly with websites to offer behavioral tracking, email list management, registration, surveying, and demographic-based site usage reporting. VeloTrack boasted the ability to capture millions of page views per day in a manner completely transparent to the end user. The system was designed to be highly customizable as well as intuitive in order to allow non-technical clients the ability to generate reports as well as create surveys and construct email marketing campaigns. All data was also available through HTTP as a Web API for integration into client applications.<br />
+  **This was a modularized system developed over two years which consisted of equal parts Google Analytics, Constant Contact, Mail Chimp, WordPress & Salesforce before those systems came into being.**
 
-- **VeloTeam (Asset Management Extranet System)** – Velodea's extranet system managed all documents and materials related to a project while facilitating communication and collaboration between project teams and clients.  Highly customizable document repositories organized and managed all project-based assets.  Additionally, the system managed user accounts, tracked incident resolutions and sent automated email notification to the team when new material was made available to the site.  Use of this system had reduced cost and dramatically increased productivity by shortening the development life cycle of Velodea's projects.  Over 100 customized instances were rolled out for clients such as Sony, Miramax, Qualcomm, and Toshiba.<br>
-**This was a system that provided the capabilities of Basecamp, DropBox, JIRA, and GitHub. It offered project management, document sharing, version control, bug tracking/issue resolution & client communications at a time when those services didn't exist out in the wild.**
+- **VeloTeam (Asset Management Extranet System)** – Velodea's extranet system managed all documents and materials related to a project while facilitating communication and collaboration between project teams and clients. Highly customizable document repositories organized and managed all project-based assets. Additionally, the system managed user accounts, tracked incident resolutions and sent automated email notification to the team when new material was made available to the site. Use of this system had reduced cost and dramatically increased productivity by shortening the development life cycle of Velodea's projects. Over 100 customized instances were rolled out for clients such as Sony, Miramax, Qualcomm, and Toshiba.<br>
+  **This was a system that provided the capabilities of Basecamp, DropBox, JIRA, and GitHub. It offered project management, document sharing, version control, bug tracking/issue resolution & client communications at a time when those services didn't exist out in the wild.**
 
 _Technologies Used:_ **ASP, JavaScript, HTML, CSS, SQL, VB, COM, XML; DevOps for Windows Server, Exchange Server & SQL Server platforms & Active Directory Networks.**
 
@@ -244,15 +244,15 @@ _Technologies Used:_ **ASP, JavaScript, HTML, CSS, SQL, VB, COM, XML; DevOps for
 | :---------------------- | ------------------------: |
 | Release Program Manager |       Redmond, Washington |
 
-As a key member of Microsoft’s Product Release team, responsibilities included application development, system design and project management for release of Microsoft product to the marketplace.  Projects driven and developed by myself included:
+As a key member of Microsoft’s Product Release team, responsibilities included application development, system design and project management for release of Microsoft product to the marketplace. Projects driven and developed by myself included:
 
-- **Release To Web System (RTW)** - This suite of applications was the primary release mechanism for product delivery to Microsoft.com worldwide.  The system boasted an average of 1000 releases per month and tracked workflow, sign-off, QA, and virus scan. All released bits were vaulted to a centralized repository within the Software Release Labs.  The application was designed entirely from the ground up to fulfill Microsoft’s need to release product in less than 3 hours.
+- **Release To Web System (RTW)** - This suite of applications was the primary release mechanism for product delivery to Microsoft.com worldwide. The system boasted an average of 1000 releases per month and tracked workflow, sign-off, QA, and virus scan. All released bits were vaulted to a centralized repository within the Software Release Labs. The application was designed entirely from the ground up to fulfill Microsoft’s need to release product in less than 3 hours.
 
-- **PIRS University** - Product Information Release Services (PIRS) University was an online training center that provided company-wide services and computer-based training related to product release.  This site provided some of the following capabilities: automated content publication for non-technical business process owners, hierarchical management of heterogeneous data and online training registration for course offerings.  This site provided centralized management for what was previously a fragmented information base.
+- **PIRS University** - Product Information Release Services (PIRS) University was an online training center that provided company-wide services and computer-based training related to product release. This site provided some of the following capabilities: automated content publication for non-technical business process owners, hierarchical management of heterogeneous data and online training registration for course offerings. This site provided centralized management for what was previously a fragmented information base.
 
-- **Media Shipment Tracking System (ShipInfo)** - The ShipInfo system gathered and tracked all software media shipments made to Microsoft’s third-party manufacturers.  This allowed manufacturing facilities to plan production cycles as well as track the progress of any shipment.  The system consisted of multiple SQL Server databases in each of Microsoft’s regions of operation.  These databases received shipment information through a web-based front end from each of the release labs. The data was then warehoused three times daily to coincide with the close of business at Microsoft’s American, European and Asian operating centers.  The warehoused data was then made available through the corporate extranet to vendors and manufacturers.
+- **Media Shipment Tracking System (ShipInfo)** - The ShipInfo system gathered and tracked all software media shipments made to Microsoft’s third-party manufacturers. This allowed manufacturing facilities to plan production cycles as well as track the progress of any shipment. The system consisted of multiple SQL Server databases in each of Microsoft’s regions of operation. These databases received shipment information through a web-based front end from each of the release labs. The data was then warehoused three times daily to coincide with the close of business at Microsoft’s American, European and Asian operating centers. The warehoused data was then made available through the corporate extranet to vendors and manufacturers.
 
-Each system was developed according to multi-tier design architecture standards and were built using **HTML, ASP, Visual Basic, JavaScript, VBScript, CSS, and SQL stored procedures**. Where possible, **MTS COM objects** were created for re-usability and programming practices followed a component-based object model.  Additional responsibilities ranged from systems analysis to solution implementation and included such things as **application prototyping, database design, user-interface design** and **technical, functional, and user documentation**.
+Each system was developed according to multi-tier design architecture standards and were built using **HTML, ASP, Visual Basic, JavaScript, VBScript, CSS, and SQL stored procedures**. Where possible, **MTS COM objects** were created for re-usability and programming practices followed a component-based object model. Additional responsibilities ranged from systems analysis to solution implementation and included such things as **application prototyping, database design, user-interface design** and **technical, functional, and user documentation**.
 
 **[⬆ top](#james-priest "toc")**
 
@@ -266,7 +266,7 @@ Each system was developed according to multi-tier design architecture standards 
 | :------------------------ | ----------------------------: |
 | Web Application Developer |       Albuquerque, New Mexico |
 
-Hired as Lead Intranet Developer for the U.S. Air Force’s Phillips Research Lab at Kirtland Air Force Base.  Job functions involved design and implementation of all **web-based client/server applications** as well as **systems analysis, database programming and graphic design**. Technologies used included **ASP, SQL, Java** and **ActiveX development**. Also responsible for **NT, IIS, and SQL Server administration and configuration**.
+Hired as Lead Intranet Developer for the U.S. Air Force’s Phillips Research Lab at Kirtland Air Force Base. Job functions involved design and implementation of all **web-based client/server applications** as well as **systems analysis, database programming and graphic design**. Technologies used included **ASP, SQL, Java** and **ActiveX development**. Also responsible for **NT, IIS, and SQL Server administration and configuration**.
 
 **[⬆ top](#james-priest "toc")**
 
@@ -295,6 +295,7 @@ Contracted to design and develop a web-based reporting system responsible for ge
 |  [![Random Quote Generator](./assets/images/portfolio_quote.jpg)](#random-quote-generator "toc")<br>**Random Quote Generator**<br>September 2017  |    [![SpyCats Portfolio Site](./assets/images/portfolio_spycats1.jpg)](#spycats-portfolio-site "toc")<br>**SpyCats Portfolio Site**<br>August 2017    | [![JavaScript Array Methods](./assets/images/portfolio_js_array.jpg)](#javascript-array-methods "toc")<br>**JavaScript Array Methods**<br>July 2017 |
 
 ### Mobile Flashcards App
+
 <table class="portfolio-table">
   <thead>
     <tr>
@@ -322,6 +323,7 @@ Contracted to design and develop a web-based reporting system responsible for ge
 </table>
 
 ### Triathlon Fitness Tracker
+
 <table class="portfolio-table">
   <thead>
     <tr>
@@ -349,6 +351,7 @@ Contracted to design and develop a web-based reporting system responsible for ge
 </table>
 
 ### Would You Rather Game
+
 <table class="portfolio-table">
   <thead>
     <tr>
@@ -376,6 +379,7 @@ Contracted to design and develop a web-based reporting system responsible for ge
 </table>
 
 ### Restaurant Review App
+
 <table class="portfolio-table">
   <thead>
     <tr>
@@ -403,6 +407,7 @@ Contracted to design and develop a web-based reporting system responsible for ge
 </table>
 
 ### CSS Grid Learning App
+
 <table class="portfolio-table">
   <thead>
     <tr>
@@ -430,6 +435,7 @@ Contracted to design and develop a web-based reporting system responsible for ge
 </table>
 
 ### Weather Forecast App
+
 <table class="portfolio-table">
   <thead>
     <tr>
@@ -457,6 +463,7 @@ Contracted to design and develop a web-based reporting system responsible for ge
 </table>
 
 ### Random Quote Generator
+
 <table class="portfolio-table">
   <thead>
     <tr>
@@ -484,6 +491,7 @@ Contracted to design and develop a web-based reporting system responsible for ge
 </table>
 
 ### SpyCats Portfolio Site
+
 <table class="portfolio-table">
   <thead>
     <tr>
@@ -511,6 +519,7 @@ Contracted to design and develop a web-based reporting system responsible for ge
 </table>
 
 ### JavaScript Array Methods
+
 <table class="portfolio-table">
   <thead>
     <tr>
@@ -613,7 +622,8 @@ Contracted to design and develop a web-based reporting system responsible for ge
 ---
 
 ## Education
-<!-- 
+
+<!--
 - **DeVry University - California**<br>
   *Bachelor of Science in Computer Information Systems (BSc CIS)*<br>
   Graduation with Honors - GPA 3.52/4.00<br>
@@ -621,7 +631,7 @@ Contracted to design and develop a web-based reporting system responsible for ge
 
 | DeVry University California                          |                            1994 - 1997 |
 | ---------------------------------------------------- | -------------------------------------: |
-| *Bachelor of Computer Information Systems (BSc CIS)* | Graduation with Honors - GPA 3.52/4.00 |
+| _Bachelor of Computer Information Systems (BSc CIS)_ | Graduation with Honors - GPA 3.52/4.00 |
 
 Computer Science degree with a focus on the following.
 
@@ -674,13 +684,14 @@ This represents roughly 300 hours of course work. It covers all aspects of moder
 ---
 
 ## Certifications
-<!-- 
+
+<!--
 In 2018 I applied for and received two separate scholarships for Intermediate and Advanced web development studies from [Udacity](https://www.udacity.com/).
 
 The first was a three month program called _Grow with Google Scholarship Challenge_. The second was a _Mobile Web Specialist Nanodegree_ scholarship. -->
 
 | Program                                                                                                                                                                  | Duration  | Completion |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | ---------- |
 | [React Nanodegree (React, Redux, & React Native)](https://www.udacity.com/course/react-nanodegree--nd019) , Udacity                                                      | 6 months  | May 2019   |
 | [Google Mobile Web Specialist Nanodegree](https://confirm.udacity.com/3JM7SK4Q), Udacity                                                                                 | 6 months  | Oct 2018   |
 | [Grow with Google Scholarship, Mobile Web Development](https://www.udacity.com/grow-with-google), Udacity                                                                | 3 months  | Apr 2018   |
@@ -692,6 +703,7 @@ The first was a three month program called _Grow with Google Scholarship Challen
 ---
 
 ## Training
+
 Starting in April 2017, I began a full-time program of online study related to web & mobile development.
 
 I've completed more than 45 courses from providers such as [Udacity](https://www.udacity.com/), [Pluralsight](pluralsight.com/training/), [Code School](https://www.pluralsight.com/codeschool), [Microsoft Virtual Academy](https://mva.microsoft.com/), & [freeCodeCamp](https://www.freecodecamp.org/).
@@ -791,6 +803,7 @@ Following are some notable courses take prior to 2017
 ---
 
 ## Achievements
+
 These are links to various postings and online communities I take part in.
 
 - **Twitter** ([@james_priest1](https://twitter.com/james_priest1))<br>
