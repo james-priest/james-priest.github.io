@@ -13,27 +13,18 @@
   <span class="icons"><a href="https://twitter.com/james_priest1" title="Twitter Profile" target="_blank"><i class="fa fa-twitter-square" style="font-size: 20px"></i>&nbsp;Twitter</a></span>
   <span class="icons"><a href="https://codepen.io/james-priest" title="CodePen Profile" target="_blank"><i class="fa fa-codepen" style="font-size: 20px"></i>&nbsp;CodePen</a></span>
   <span class="icons"><a href="https://www.freecodecamp.com/james-priest" title="freeCodeCamp Profile" target="_blank"><i class="fa fa-free-code-camp" style="font-size: 20px"></i>&nbsp;freeCodeCamp</a></span>
-  <span class="icons"><a href="./assets/docs/JamesPriest-resume-2024-07-12.pdf" title="PDF Resume" target="_blank"><i class="fa fa-file-pdf-o" style="font-size: 20px"></i>&nbsp;Resume</a></span>
+  <span class="icons"><a href="./assets/docs/JamesPriest-resume-2024-07-31.pdf" title="PDF Resume" target="_blank"><i class="fa fa-file-pdf-o" style="font-size: 20px"></i>&nbsp;Resume</a></span>
 </p>
 
 ---
 
-## Summary
+## Professional Profile
 
-Senior TypeScript React, REST API, and Database Developer with 20 years’ experience building web applications. I'm passionate about User Experience, Responsive Design, and Web Accessibility.
+Senior TypeScript, React, REST API, and Database Developer with 25 years’ experience building web applications. I'm passionate about User Experience, Responsive Design, and Web Accessibility.
 
 ---
 
-## Skills
-
-<!--
-| Languages    | Technologies | Servers                       |
-| ------------ | ------------ | ----------------------------- |
-| * HTML5      | * ASP.NET    | * IIS                         |
-| * CSS3       | * .NET Core  | * Azure                       |
-| * JavaScript | * something  | * GitHub                      |
-| * Git CLI    | * C#         | * Visual Studio (2017 & Code) |
--->
+## Technical Skills
 
 | Development Skills                                |                                      |
 | :------------------------------------------------ | :----------------------------------- |
@@ -42,18 +33,12 @@ Senior TypeScript React, REST API, and Database Developer with 20 years’ exper
 | UI/UX, Information Architecture, Standards Design | Web Automation & Build Systems       |
 | .NET Web Application Development                  | Database Development (RDBMS & NoSQL) |
 
-<!--
-| Offline Web Applications | Web Automation & Build Systems |
-| .NET Web Application Development | SQL Server/MySQL DB Design & Programming |
-| Multi-tier Object Oriented Design | Responsive Web Design |
-| Web Accessibility & ARIA | UI/UX, Information Architecture, Standards Design | -->
-
 | Languages    | UI, Frameworks, & Database             | IDEs, Cloud, & Version Control     |
 | :----------- | :------------------------------------- | :--------------------------------- |
 | JavaScript   | React / Redux / React Native           | VS Code / Visual Studio / DevTools |
 | HTML5 / CSS3 | Node.js / Express / Socket.io          | Git / GitHub / GitHub Pages        |
 | C#           | ASP.NET / .NET Framework               | Azure DevOps / Heroku / Netlify    |
-| VB.NET       | SQL / Stored Procedures / Transactions | Azure Cloud (Win & Linux VMs)      |
+| Python       | SQL / Stored Procedures / Transactions | Azure Cloud (Win & Linux VMs)      |
 
 |                       | Stack Capabilities   |
 | :-------------------- | -------------------- | --------------- |
@@ -69,10 +54,6 @@ Senior TypeScript React, REST API, and Database Developer with 20 years’ exper
 
 ## Career History
 
-<!-- | 1. [Self-Employed / Student](#career--self-employed--student "toc") | 4. [The Velodea Group](#career--the-velodea-group "toc") |
-| 2. [Velodea](#career--velodea "toc") | 5. [Microsoft Corporation](#career--microsoft-corporation "toc") |
-| 3. [devAware Tech Solutions](#career--devaware-technology-solutions "toc") | 6. [Phillips Research Laboratory](#career--phillips-research-laboratory "toc") | -->
-
 <a name="career--self-employed--student" id="career--self-employed--student"></a>
 
 ### Everbridge
@@ -81,11 +62,16 @@ Senior TypeScript React, REST API, and Database Developer with 20 years’ exper
 | :----------------------- | -------------------------: |
 | Senior Software Engineer |       Pasadena, California |
 
-Chief Front-End Engineer for the Business Process Intelligence and Usage Reporting teams.
+Responsible for developing both internal and client-facing SaaS applications, dashboards, and visualizations for business-critical decision making. Reported to Director of Data Analytics in the role of Chief Frontend Engineer for the Analytics, Usage Reporting, and Business Process Intelligence teams.
 
-- Work with Finance and Marketing to develop client-facing digital dashboards.
-- Architect various APIs for delivering analytics data to Frontend components.
-- Technologies include Typescript, React, React Hooks, Recharts, AWS, and MongoDB.
+- **Usage Dashboards** – Increased profitability by creating internal BI analytics web application to measure company costs and set product pricing.<br />
+  Built using **React, TypeScript, Ant Design, Vite, Looker, Python for REST API**
+- **Resilience Insights** – Collaborated on development of SaaS application to provide real-time Risk Analysis resulting in new revenue stream.<br />
+  Built using **React, TypeScript, Styled Components, Google Maps, Zustand, Webpack.**
+- **Location Risk Analytics** – Developed interactive mapping solution to visualize location-based risk events and assist in critical decision-making allowing customers to maximize business operations security.<br />
+  Built using **React, TypeScript, Redux, Google Maps, Bing Maps, Java.**
+- **EB Suite Usage Reporting** – Created visualization and reporting system to provide customer usage and consumption forecasting resulting in faster contract renewal rates.<br />
+  Built using **React, TypeScript, Bootstrap, Recharts, Styled Components, Webpack, module federation for micro-frontend design.**
 
 ### Self-Employed / Technical Training
 
@@ -107,9 +93,9 @@ Completed two years of full-time technical training related to web and mobile de
 
 ### Velodea
 
-|                                        | April 2006 - March 2017 |
-| :------------------------------------- | ----------------------: |
-| Technology Director & Development Lead |    Pasadena, California |
+|                                  | April 2006 - March 2017 |
+| :------------------------------- | ----------------------: |
+| Senior Web Application Developer |    Pasadena, California |
 
 Served as technology lead and .NET expert for a digital marketing agency. Had the opportunity to contribute to hundreds of website solutions across a wide variety of platforms, technologies, and programming languages for such clients as:
 
@@ -209,11 +195,11 @@ _Technologies Used:_ **VB.NET, ADO.NET, VB COM objects, InstallShield scripting,
 
 <a name="career--the-velodea-group" id="career--the-velodea-group"></a>
 
-### The Velodea Group
+### The Velodea Group / Bleu22 Studios
 
-|                                           |                  July 2000 - July 2002 |
-| :---------------------------------------- | -------------------------------------: |
-| Director of Corporate IT & Lead Developer | Milan, Italy / Los Angeles, California |
+|                         |                  July 2000 - July 2002 |
+| :---------------------- | -------------------------------------: |
+| Lead Software Developer | Milan, Italy / Los Angeles, California |
 
 As lead developer and director of The Velodea Group’s Velotek division, job responsibilities spanned an array of IT related areas including web application development, systems architecture and network infrastructure. Velotek’s primary role consisted of developing web-based product offerings and creating technical solutions for clients.
 
@@ -845,6 +831,9 @@ A brief timeline of my development career written as a narrative.
   <dt>2017 - 2019 • <i>Education, Certification & Training</i> • Los Angeles, CA</dt>
     <dd style="text-align:left"><i>- Back to School -</i></dd>
     <dd>Not wanting to rest on my laurels, I set out to master today's most in-demand technologies and front end frameworks. In that process I earned multiple certifications including a Mobile Web Specialist Nanodegree & React Nanodegree.</dd>
+  <dt>2019 - 2024 • Everbridge • Pasadena, CA</dt>
+    <dd style="text-align:left"><i>- Analytics, Dashboard, and Data, Oh my! -</i></dd>
+    <dd>Hired as Chief Frontend Engineer for the Data Analytics division, I set to work on delivering data-based visualization, dashboards, and mapping solutions. In this role I helped develop a new SaaS product for the Everbridge Suite, increased revenue, and provided tools to assist in mission-critical decision making.</dd>
 </dl>
 
 **[⬆ top](#james-priest "toc")**
