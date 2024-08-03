@@ -13,7 +13,7 @@
   <span class="icons"><a href="https://twitter.com/james_priest1" title="Twitter Profile" target="_blank"><i class="fa fa-twitter-square" style="font-size: 20px"></i>&nbsp;Twitter</a></span>
   <span class="icons"><a href="https://codepen.io/james-priest" title="CodePen Profile" target="_blank"><i class="fa fa-codepen" style="font-size: 20px"></i>&nbsp;CodePen</a></span>
   <span class="icons"><a href="https://www.freecodecamp.com/james-priest" title="freeCodeCamp Profile" target="_blank"><i class="fa fa-free-code-camp" style="font-size: 20px"></i>&nbsp;freeCodeCamp</a></span>
-  <span class="icons"><a href="./assets/docs/JamesPriest-resume-2024-07-31.pdf" title="PDF Resume" target="_blank"><i class="fa fa-file-pdf-o" style="font-size: 20px"></i>&nbsp;Resume</a></span>
+  <span class="icons"><a href="./assets/docs/JamesPriest-Resume-2024.pdf" title="PDF Resume" target="_blank"><i class="fa fa-file-pdf-o" style="font-size: 20px"></i>&nbsp;Resume</a></span>
 </p>
 
 ---
@@ -33,12 +33,12 @@ Senior TypeScript, React, REST API, and Database Developer with 25 years’ expe
 | UI/UX, Information Architecture, Standards Design | Web Automation & Build Systems       |
 | .NET Web Application Development                  | Database Development (RDBMS & NoSQL) |
 
-| Languages    | UI, Frameworks, & Database             | IDEs, Cloud, & Version Control     |
-| :----------- | :------------------------------------- | :--------------------------------- |
-| JavaScript   | React / Redux / React Native           | VS Code / Visual Studio / DevTools |
-| HTML5 / CSS3 | Node.js / Express / Socket.io          | Git / GitHub / GitHub Pages        |
-| C#           | ASP.NET / .NET Framework               | Azure DevOps / Heroku / Netlify    |
-| Python       | SQL / Stored Procedures / Transactions | Azure Cloud (Win & Linux VMs)      |
+| Languages  | UI, Frameworks, & Database             | IDEs, Cloud, & Version Control     |
+| :--------- | :------------------------------------- | :--------------------------------- |
+| TypeScript | React / Redux / React Native           | VS Code / Visual Studio / DevTools |
+| JavaScript | Node.js / Express / Socket.io          | Git / GitHub / GitHub Pages        |
+| C#         | ASP.NET / .NET Framework               | Azure DevOps / Heroku / Netlify    |
+| Python     | SQL / Stored Procedures / Transactions | Azure Cloud (Win & Linux VMs)      |
 
 |                       | Stack Capabilities   |
 | :-------------------- | -------------------- | --------------- |
@@ -58,9 +58,9 @@ Senior TypeScript, React, REST API, and Database Developer with 25 years’ expe
 
 ### Everbridge
 
-|                          | September 2019 - July 2024 |
-| :----------------------- | -------------------------: |
-| Senior Software Engineer |       Pasadena, California |
+|                             | September 2019 - July 2024 |
+| :-------------------------- | -------------------------: |
+| Senior Software Engineer II |       Pasadena, California |
 
 Responsible for developing both internal and client-facing SaaS applications, dashboards, and visualizations for business-critical decision making. Reported to Director of Data Analytics in the role of Chief Frontend Engineer for the Analytics, Usage Reporting, and Business Process Intelligence teams.
 
@@ -93,9 +93,9 @@ Completed two years of full-time technical training related to web and mobile de
 
 ### Velodea
 
-|                                  | April 2006 - March 2017 |
-| :------------------------------- | ----------------------: |
-| Senior Web Application Developer |    Pasadena, California |
+|                                     | April 2006 - March 2017 |
+| :---------------------------------- | ----------------------: |
+| Principal Web Application Developer |    Pasadena, California |
 
 Served as technology lead and .NET expert for a digital marketing agency. Had the opportunity to contribute to hundreds of website solutions across a wide variety of platforms, technologies, and programming languages for such clients as:
 
@@ -154,9 +154,9 @@ Notable projects include:
 
 ### devAware Technology Solutions
 
-|                          | July 2002 - March 2006 |
-| :----------------------- | ---------------------: |
-| Founder & Lead Developer |  La Canada, California |
+|                         | July 2002 - March 2006 |
+| :---------------------- | ---------------------: |
+| Founder, Lead Developer |  La Canada, California |
 
 devAware specialized in .NET & Windows DNA application development for the web and desktop. As founder and lead developer, my role was that of information architect, systems designer & application developer. Some notable projects include:
 
@@ -195,11 +195,11 @@ _Technologies Used:_ **VB.NET, ADO.NET, VB COM objects, InstallShield scripting,
 
 <a name="career--the-velodea-group" id="career--the-velodea-group"></a>
 
-### The Velodea Group / Bleu22 Studios
+### The Velodea Group and Bleu22 Studios
 
-|                         |                  July 2000 - July 2002 |
-| :---------------------- | -------------------------------------: |
-| Lead Software Developer | Milan, Italy / Los Angeles, California |
+|                             |                  July 2000 - July 2002 |
+| :-------------------------- | -------------------------------------: |
+| Principal Software Engineer | Milan, Italy / Los Angeles, California |
 
 As lead developer and director of The Velodea Group’s Velotek division, job responsibilities spanned an array of IT related areas including web application development, systems architecture and network infrastructure. Velotek’s primary role consisted of developing web-based product offerings and creating technical solutions for clients.
 
